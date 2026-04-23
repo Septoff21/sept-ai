@@ -1,15 +1,111 @@
 [
   {
-    "id": "837d359fb638",
-    "title": "You’re about to feel the AI money squeeze",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+    "id": "878578bdc973",
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’",
+    "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T18:29:29",
+    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+    "collected_at": "2026-04-23T19:17:04.770199"
+  },
+  {
+    "id": "b9e12d990a83",
+    "title": "Anthropic&#8217;s Mythos breach was humiliating",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-23T13:45:00",
-    "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its s",
-    "collected_at": "2026-04-23T13:52:29.788105"
+    "published": "2026-04-23T18:24:56",
+    "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of",
+    "collected_at": "2026-04-23T19:17:04.879302"
+  },
+  {
+    "id": "67eef0dd333b",
+    "title": "GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-23T18:01:39",
+    "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 448 # Comments: 159",
+    "collected_at": "2026-04-23T19:17:10.188300"
+  },
+  {
+    "id": "f8291224eee8",
+    "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T18:00:00",
+    "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and de",
+    "collected_at": "2026-04-23T19:17:04.879352"
+  },
+  {
+    "id": "ef50ca256f28",
+    "title": "Era raises $11M to build a software platform for AI gadgets",
+    "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T16:00:00",
+    "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+    "collected_at": "2026-04-23T19:17:04.770239"
+  },
+  {
+    "id": "8ffe72fbcc8a",
+    "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+    "url": "https://www.qbitai.com/2026/04/406020.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-23T14:28:57",
+    "summary": "百万Token要降到1分钱",
+    "collected_at": "2026-04-23T19:14:47.984042"
+  },
+  {
+    "id": "5c1601703b1d",
+    "title": "美国百年太妃糖易手，Roca乐家被全资收购",
+    "url": "https://36kr.com/p/3779468716938499?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-23T14:01:47",
+    "summary": "作者 | 钟艺璇 编辑 | 乔芊 36氪获悉，BHM集团已完成对美国百年糖巧制造商Brown & Haley公司的全资收购，Brown & Haley是一家总部位于美国，成立于1912年的百年糖巧制造商，旗下拥有Almond ROCA、Mountain等糖巧品牌。交易于2026年4月17日正式完成交割。本次收购不会对Brown & Haley位于塔科马的总部生产基地造成影响，其原有生产运营将保持稳定。 据悉，孟一烽（Sam Meng）将会出任Brown & Haley全球CEO，他同时也是Brown & Haley旗下核心品牌Almond ROCA（下称“ROCA乐家”）过去十余年大中华区独家",
+    "collected_at": "2026-04-23T19:17:19.602055"
+  },
+  {
+    "id": "8fd90b168446",
+    "title": "Another customer of troubled startup Delve suffered a big security incident",
+    "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T14:00:00",
+    "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
+    "collected_at": "2026-04-23T19:17:04.770356"
+  },
+  {
+    "id": "8ff7a956079c",
+    "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+    "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T14:00:00",
+    "summary": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calling it software brain, and it&#8217;s a particular way of seeing the world that fits everything into",
+    "collected_at": "2026-04-23T19:17:04.879395"
   },
   {
     "id": "6cfdf10c9086",
@@ -22,6 +118,18 @@
     "published": "2026-04-23T13:00:00",
     "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
     "collected_at": "2026-04-23T13:52:29.665923"
+  },
+  {
+    "id": "837d359fb638",
+    "title": "You’re about to feel the AI money squeeze",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T13:45:00",
+    "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its s",
+    "collected_at": "2026-04-23T13:52:29.788105"
   },
   {
     "id": "fd1f09174e8f",
@@ -96,6 +204,18 @@
     "collected_at": "2026-04-23T13:24:07.034545"
   },
   {
+    "id": "3aa1538062af",
+    "title": "Introducing GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T11:00:00",
+    "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "collected_at": "2026-04-23T19:17:13.925660"
+  },
+  {
     "id": "8f5d43426afd",
     "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较��主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
     "url": "https://36kr.com/p/3774776226923272?f=rss",
@@ -106,6 +226,18 @@
     "published": "2026-04-23T10:28:15",
     "summary": "大公司： 三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限 三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达成协议，劳方将从下月21日至6月7日进行全面罢工。截至目前，“跨企业工会”成员数量为7.4万多人，成为三星电子成立以来首个超过半数员工加入的工会，并经雇佣劳动部确认，正式获得“过半工会”地位，可单独行使集体谈判权等权利。（财联社） 闪送开源CLI，为同城即时速递行业首家 36氪获悉，近日，一对一急送平台闪送宣布正式开源",
     "collected_at": "2026-04-23T13:52:44.390164"
+  },
+  {
+    "id": "915b6ff115f0",
+    "title": "GPT-5.5 System Card",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T11:00:00",
+    "summary": "GPT-5.5 System Card",
+    "collected_at": "2026-04-23T19:17:13.925696"
   },
   {
     "id": "dba35587a36b",
@@ -168,16 +300,16 @@
     "collected_at": "2026-04-23T13:50:12.849464"
   },
   {
-    "id": "d4f0b8ed91f6",
-    "title": "字节跳动发布3D生成大模型Seed3D 2.0",
-    "url": "https://36kr.com/newsflashes/3778928879129865?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-23T04:45:14",
-    "summary": "36氪获悉，字节跳动正式发布更高精度的新一代3D生成大模型——Seed3D 2.0。据介绍，该模型采用MoE架构，通过稀疏专家路由，在扩大模型参数量和分辨率的同时控制推理计算量，使模型能生成更丰富的纹理细节和更精确的金属-粗糙度边界。目前Seed3D 2.0技术报告已公开，API也已上线火山引擎。",
-    "collected_at": "2026-04-23T13:24:05.086114"
+    "id": "488a1c0ec2e3",
+    "title": "Our newsroom AI policy",
+    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-23T05:14:05",
+    "summary": "Article URL: https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/ Comments URL: https://news.ycombinator.com/item?id=47872452 Points: 166 # Comments: 113",
+    "collected_at": "2026-04-23T19:17:10.188340"
   },
   {
     "id": "2c526eba988b",
@@ -192,16 +324,16 @@
     "collected_at": "2026-04-23T13:50:12.849496"
   },
   {
-    "id": "7f8c010fc429",
-    "title": "India’s app market is booming — but global platforms are capturing most of the gains",
-    "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T04:38:45",
-    "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
-    "collected_at": "2026-04-23T13:23:54.707316"
+    "id": "d4f0b8ed91f6",
+    "title": "字节跳动发布3D生成大模型Seed3D 2.0",
+    "url": "https://36kr.com/newsflashes/3778928879129865?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-23T04:45:14",
+    "summary": "36氪获悉，字节跳动正式发布更高精度的新一代3D生成大模型——Seed3D 2.0。据介绍，该模型采用MoE架构，通过稀疏专家路由，在扩大模型参数量和分辨率的同时控制推理计算量，使模型能生成更丰富的纹理细节和更精确的金属-粗糙度边界。目前Seed3D 2.0技术报告已公开，API也已上线火山引擎。",
+    "collected_at": "2026-04-23T13:24:05.086114"
   },
   {
     "id": "820ed80a088d",
@@ -214,6 +346,18 @@
     "published": "2026-04-23T05:13:10",
     "summary": "面向全球创作者的AI视频作品征集同步开启",
     "collected_at": "2026-04-23T13:50:12.849528"
+  },
+  {
+    "id": "7f8c010fc429",
+    "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+    "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T04:38:45",
+    "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+    "collected_at": "2026-04-23T13:23:54.707316"
   },
   {
     "id": "5ce8c48fc0d5",
@@ -780,6 +924,18 @@
     "collected_at": "2026-04-23T13:24:05.083371"
   },
   {
+    "id": "1e29a367c6ea",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T00:00:00",
+    "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+    "collected_at": "2026-04-23T19:17:13.925729"
+  },
+  {
     "id": "e4062796e839",
     "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
     "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
@@ -1200,15 +1356,16 @@
     "collected_at": "2026-04-22T13:10:12.144186"
   },
   {
-    "id": "e48afa0ae309",
-    "title": "AI needs a strong data fabric to deliver business value",
-    "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-    "source": "MIT Tech Review",
+    "id": "2447fb670a86",
+    "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "url": "https://deepmind.google/blog/decoupled-diloco/",
+    "source": "Google DeepMind",
     "lang": "en",
-    "priority": 2,
-    "published": "2026-04-22T10:05:06",
-    "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t",
-    "collected_at": "2026-04-22T13:10:12.289254"
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T10:20:03",
+    "summary": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "collected_at": "2026-04-23T19:17:14.429139"
   },
   {
     "id": "14717484ef98",
@@ -1220,6 +1377,17 @@
     "published": "2026-04-22T12:00:00",
     "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
     "collected_at": "2026-04-22T13:10:12.144211"
+  },
+  {
+    "id": "e48afa0ae309",
+    "title": "AI needs a strong data fabric to deliver business value",
+    "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-04-22T10:05:06",
+    "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t",
+    "collected_at": "2026-04-22T13:10:12.289254"
   },
   {
     "id": "867781edbf71",
