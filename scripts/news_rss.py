@@ -41,9 +41,36 @@ RSS_SOURCES = [
     {"name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "lang": "en", "priority": 2, "ai_only": True},
     {"name": "Hacker News AI", "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+%22artificial+intelligence%22+OR+%22machine+learning%22&points=100", "lang": "en", "priority": 2, "ai_only": True},
     
-    # 中文综合源 (Priority 3, 需 AI 关键词过滤)
-    {"name": "36氪", "url": "https://36kr.com/feed", "lang": "zh", "priority": 4, "ai_only": False},
-    {"name": "InfoQ AI", "url": "https://www.infoq.cn/feed", "lang": "zh", "priority": 3, "ai_only": True},
+    # ── New EN sources (Phase 6) ──────────────────────────────
+    # Anthropic / labs blogs
+    {"name": "Anthropic News", "url": "https://www.anthropic.com/news/rss.xml", "lang": "en", "priority": 1, "ai_only": True},
+    {"name": "OpenAI Blog",    "url": "https://openai.com/news/rss.xml",         "lang": "en", "priority": 1, "ai_only": True},
+    {"name": "Google DeepMind","url": "https://deepmind.google/blog/rss.xml",    "lang": "en", "priority": 1, "ai_only": True},
+    {"name": "Meta AI Blog",   "url": "https://ai.meta.com/blog/rss/",           "lang": "en", "priority": 1, "ai_only": True},
+    {"name": "Mistral AI",     "url": "https://mistral.ai/news/rss.xml",         "lang": "en", "priority": 2, "ai_only": True},
+
+    # Research
+    {"name": "ArXiv CS.AI",   "url": "https://rss.arxiv.org/rss/cs.AI",          "lang": "en", "priority": 2, "ai_only": True},
+    {"name": "ArXiv CS.LG",   "url": "https://rss.arxiv.org/rss/cs.LG",          "lang": "en", "priority": 2, "ai_only": True},
+    {"name": "Papers With Code","url": "https://paperswithcode.com/rss",          "lang": "en", "priority": 2, "ai_only": True},
+    {"name": "HuggingFace Blog","url": "https://huggingface.co/blog/feed.xml",   "lang": "en", "priority": 1, "ai_only": True},
+
+    # Communities & newsletters
+    {"name": "Simon Willison",  "url": "https://simonwillison.net/atom/everything/","lang": "en", "priority": 2, "ai_only": False},
+    {"name": "Latent Space",    "url": "https://www.latent.space/feed",            "lang": "en", "priority": 1, "ai_only": True},
+    {"name": "Import AI",       "url": "https://jack-clark.net/feed/",             "lang": "en", "priority": 2, "ai_only": True},
+    {"name": "AI Alignment Forum","url": "https://www.alignmentforum.org/feed.xml","lang": "en", "priority": 3, "ai_only": True},
+
+    # Developer / product
+    {"name": "Cursor Blog",     "url": "https://cursor.sh/blog/rss.xml",           "lang": "en", "priority": 2, "ai_only": True},
+    {"name": "a16z AI",         "url": "https://a16z.com/category/ai-ml/feed/",    "lang": "en", "priority": 2, "ai_only": True},
+
+    # ── New CN sources (Phase 6) ──────────────────────────────
+    {"name": "36氪",    "url": "https://36kr.com/feed",          "lang": "zh", "priority": 4, "ai_only": False},
+    {"name": "InfoQ AI","url": "https://www.infoq.cn/feed",      "lang": "zh", "priority": 3, "ai_only": True},
+    {"name": "虎嗅AI",  "url": "https://www.huxiu.com/rss/cha/296.xml","lang": "zh", "priority": 3, "ai_only": True},
+    {"name": "极客公园", "url": "https://www.geekpark.net/feed",  "lang": "zh", "priority": 3, "ai_only": False},
+    {"name": "少数派",   "url": "https://sspai.com/feed",         "lang": "zh", "priority": 4, "ai_only": False},
 ]
 
 # AI 关键词白名单（用于过滤非 AI 专用源）
@@ -86,11 +113,20 @@ AI_KEYWORDS_ZH = [
 
 AI_KEYWORDS_EN = [
     "AI", "artificial intelligence", "machine learning", "deep learning", "LLM",
-    "GPT", "ChatGPT", "Claude", "Gemini", "Llama", "transformer", "diffusion",
+    "GPT", "ChatGPT", "Claude", "Gemini", "Llama", "Codex", "Copilot", "transformer", "diffusion",
     "generative", "AIGC", "AGI", "agent", "neural network", "NLP",
-    "OpenAI", "Anthropic", "Google AI", "Meta AI", "Microsoft AI",
+    "OpenAI", "Anthropic", "Google AI", "Meta AI", "Microsoft AI", "DeepMind",
     "NVIDIA", "GPU", "inference", "training", "fine-tuning", "RLHF",
-    "Stable Diffusion", "Midjourney", "DALL-E", "Sora", "Whisper",
+    "Stable Diffusion", "Midjourney", "DALL-E", "Sora", "Whisper", "FLUX",
+    # Dev tools focus
+    "Cursor", "Windsurf", "Aider", "MCP", "Model Context Protocol",
+    "Claude Code", "GitHub Copilot", "Codeium", "Replit",
+    # Research
+    "ArXiv", "benchmark", "reasoning model", "multimodal",
+    "RAG", "retrieval augmented", "fine-tune", "LoRA", "quantization",
+    "HuggingFace", "Hugging Face", "embeddings", "vector database",
+    # Products
+    "Perplexity", "Grok", "Mistral", "Cohere", "AI startup",
 ]
 
 def is_ai_related(title, summary, source_config):

@@ -1,0 +1,49 @@
+name: 6h AI Data Aggregation
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:          # manual trigger
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run aggregator (news + tools + models)
+        env:
+          PYTHONIOENCODING: utf-8
+          PYTHONUTF8: "1"
+        run: python scripts/aggregate.py
+
+      - name: Sync claude-learning vault
+        env:
+          PYTHONIOENCODING: utf-8
+          PYTHONUTF8: "1"
+        run: python scripts/sync_claude_learning.py
+        continue-on-error: true   # don't block if github.com is slow
+
+      - name: Commit & push updated data + vault
+        run: |
+          git config user.name "sept-ai-bot"
+          git config user.email "septoff21@gmail.com"
+          git add data/ my-content/
+          if git diff --staged --quiet; then
+            echo "No changes — skipping commit."
+          else
+            git commit -m "chore(auto): data refresh $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi

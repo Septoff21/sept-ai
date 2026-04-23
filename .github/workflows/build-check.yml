@@ -1,0 +1,42 @@
+name: Hugo Build Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'site/**'
+      - 'data/**'
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Hugo (extended)
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.160.1'
+          extended: true
+
+      - name: Sync data → site/data/
+        run: |
+          mkdir -p site/data
+          [ "$(ls -A data/)" ] && cp -r data/* site/data/ || echo "data/ is empty — OK for check"
+
+      - name: Build
+        working-directory: site
+        run: hugo --minify
+        env:
+          HUGO_ENV: production
+          TZ: Asia/Singapore
+
+      - name: Report
+        run: |
+          echo "✅ Build succeeded"
+          echo "Pages: $(find site/public -name '*.html' | wc -l)"
+          echo "Size:  $(du -sh site/public | cut -f1)"

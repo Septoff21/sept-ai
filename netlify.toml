@@ -1,0 +1,46 @@
+[build]
+  base    = "site"
+  publish = "public"
+  command = "hugo --minify"
+
+[build.environment]
+  HUGO_VERSION         = "0.160.1"
+  HUGO_ENV             = "production"
+  HUGO_ENABLEGITINFO   = "true"
+
+[[redirects]]
+  from   = "/hot/"
+  to     = "/"
+  status = 301
+
+[[redirects]]
+  from   = "/index.html"
+  to     = "/"
+  status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options        = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy        = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/**.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/**.json"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/**.png"
+  [headers.values]
+    Cache-Control = "public, max-age=604800, immutable"
+
+[[headers]]
+  for = "/**.jpg"
+  [headers.values]
+    Cache-Control = "public, max-age=604800, immutable"

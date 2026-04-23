@@ -49,7 +49,7 @@ def collect_hn():
 
 def collect_reddit():
     items = []
-    subreddits = ["MachineLearning", "LocalLLaMA", "artificial"]
+    subreddits = ["MachineLearning", "LocalLLaMA", "artificial", "ClaudeAI", "OpenAI", "singularity", "ChatGPT"]
     headers = {"User-Agent": "AI-Hot-Bot/1.0"}
     for sub in subreddits:
         try:
