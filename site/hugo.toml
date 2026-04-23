@@ -3,7 +3,8 @@ languageCode = "en"
 title = "Sept-AI — Your AI Navigator & Knowledge Hub"
 defaultContentLanguage = "en"
 hasCJKLanguage = true
-paginate = 20
+[pagination]
+  pagerSize = 20
 
 [params]
   description = "Sept-AI is a curated, auto-updating navigator for AI tools, models, agents, and news — paired with a personal knowledge vault. 170+ tools, 40+ sources, refreshed every 6 hours."
