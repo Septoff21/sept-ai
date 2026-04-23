@@ -5,16 +5,16 @@
 {{ if not $tool }}
 <div class="card" style="text-align:center;padding:40px">
     <div style="font-size:48px;margin-bottom:12px">😕</div>
-    <div style="color:var(--text2)">找不到这个工具</div>
-    <a href="{{ relURL "/tools/" }}" style="color:var(--accent);font-size:14px;margin-top:12px;display:inline-block">返回工具列表</a>
+    <div style="color:var(--text2)">Tool not found</div>
+    <a href="{{ relURL "/tools/" }}" style="color:var(--accent);font-size:14px;margin-top:12px;display:inline-block">Back to tools</a>
 </div>
 {{ else }}
 <div style="margin-bottom:20px">
-    <a href="{{ relURL "/tools/" }}" style="color:var(--text2);font-size:13px">← 返回工具列表</a>
+    <a href="{{ relURL "/tools/" }}" style="color:var(--text2);font-size:13px">← Back to tools</a>
 </div>
 
 <nav style="font-size:12px;color:var(--text3);margin-bottom:14px">
-    <a href="{{ relURL "/" }}">首页</a> / <a href="{{ relURL "/tools/" }}">AI工具</a> / <span>{{ $tool.name }}</span>
+    <a href="{{ relURL "/" }}">Home</a> / <a href="{{ relURL "/tools/" }}">AI Tools</a> / <span>{{ $tool.name }}</span>
 </nav>
 
 <div class="card" style="border-left:3px solid var(--accent)">
@@ -22,62 +22,62 @@
         <div style="width:56px;height:56px;background:var(--bg3);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0">🛠️</div>
         <div style="min-width:0;flex:1">
             <h1 style="font-size:28px;line-height:1.3">{{ $tool.name }}</h1>
-            <div style="font-size:14px;color:var(--text2);margin-top:4px">{{ $tool.category }}{{ if $tool.trending }} · 热门工具{{ end }}</div>
+            <div style="font-size:14px;color:var(--text2);margin-top:4px">{{ $tool.category }}{{ if $tool.trending }} · Trending{{ end }}</div>
         </div>
     </div>
 
-    {{ if $tool.trending }}<div style="margin-bottom:12px"><span class="hot-badge fire">🔥 热门</span></div>{{ end }}
+    {{ if $tool.trending }}<div style="margin-bottom:12px"><span class="hot-badge fire">🔥 Trending</span></div>{{ end }}
     <div style="font-size:15px;color:var(--text2);line-height:1.8;margin-bottom:16px">{{ $tool.description }}</div>
 
     <div style="margin-bottom:16px;padding:14px 16px;background:linear-gradient(135deg,rgba(255,107,53,0.08),rgba(99,102,241,0.06));border-radius:10px;border:1px solid rgba(255,107,53,0.18)">
-        <div style="font-size:12px;color:var(--text3);margin-bottom:6px">🎯 一句话判断</div>
+        <div style="font-size:12px;color:var(--text3);margin-bottom:6px">🎯 One-line verdict</div>
         <div style="font-size:15px;color:var(--text1);line-height:1.8">
-            {{ if eq $tool.id "cursor" }}如果你想要 <strong>最像 VS Code、上手最快、AI 编程体验最均衡</strong> 的工具，Cursor 仍然是最稳的起点。
-            {{ else if eq $tool.id "claude-code" }}如果你更偏向 <strong>终端流、重度开发、自动改代码和跑任务</strong>，Claude Code 更像给工程师用的 CLI Agent。
-            {{ else if eq $tool.id "deepseek" }}如果你主要是 <strong>中文场景、想低成本甚至免费高频使用</strong>，DeepSeek 是很值得先试的国产主力。
-            {{ else if eq $tool.id "chatgpt" }}如果你想要 <strong>综合能力最均衡、生态最成熟、默认最省心</strong> 的 AI 助手，ChatGPT 依然是通用首选之一。
-            {{ else if eq $tool.id "claude" }}如果你最看重 <strong>长文档处理、严肃写作、分析质量</strong>，Claude 往往比通用聊天工具更稳。
-            {{ else if eq $tool.id "kimi" }}如果你经常要读 <strong>超长文档、PDF、网页资料</strong>，Kimi 对中文用户非常友好。
-            {{ else if eq $tool.id "豆包" }}如果你想找 <strong>免费、中文顺手、直接就能用</strong> 的 AI 助手，豆包很适合当日常入口。
-            {{ else if eq $tool.id "dify" }}如果你不是只想聊天，而是想 <strong>搭工作流、知识库、Agent 应用</strong>，Dify 是最值得先看的平台之一。
-            {{ else if eq $tool.id "midjourney" }}如果你追求 <strong>商业级审美和最稳的出图质感</strong>，Midjourney 仍然是高端生图首选。
-            {{ else if eq $tool.id "flux" }}如果你想要 <strong>开源、可本地部署、效果又足够强</strong> 的生图方案，FLUX 是现在最值得重点看的方向。
-            {{ else }}如果你想找一款适合 <strong>{{ $tool.category }}</strong> 场景的工具，这个产品值得优先纳入候选清单。{{ end }}
+            {{ if eq $tool.id "cursor" }}If you want the <strong>most VS Code-like, easiest-to-pick-up, most balanced AI coding experience</strong>, Cursor is still the safest starting point.
+            {{ else if eq $tool.id "claude-code" }}If you prefer <strong>terminal-first workflows, heavy development, and autonomous code editing / task running</strong>, Claude Code is the CLI agent built for engineers.
+            {{ else if eq $tool.id "deepseek" }}If you mainly work in <strong>Chinese contexts and want low-cost (or free) heavy usage</strong>, DeepSeek is a strong domestic option worth trying first.
+            {{ else if eq $tool.id "chatgpt" }}If you want <strong>the most balanced general-purpose assistant with the most mature ecosystem</strong>, ChatGPT is still a default top pick.
+            {{ else if eq $tool.id "claude" }}If you care most about <strong>long-document processing, serious writing and analytical quality</strong>, Claude tends to outperform general chat assistants.
+            {{ else if eq $tool.id "kimi" }}If you often read <strong>very long documents, PDFs, or web pages</strong>, Kimi is especially friendly for Chinese users.
+            {{ else if eq $tool.id "豆包" }}If you want a <strong>free, Chinese-friendly, ready-to-use</strong> AI assistant, Doubao is a great daily driver.
+            {{ else if eq $tool.id "dify" }}If you don't just want to chat but want to <strong>build workflows, knowledge bases, and agent apps</strong>, Dify is one of the first platforms to look at.
+            {{ else if eq $tool.id "midjourney" }}If you care about <strong>commercial-grade aesthetics and the most consistent image quality</strong>, Midjourney is still the premium image-generation pick.
+            {{ else if eq $tool.id "flux" }}If you want an <strong>open-source, self-hostable image-generation model that's still powerful</strong>, FLUX is the most important direction right now.
+            {{ else }}If you're looking for a tool well-suited to the <strong>{{ $tool.category }}</strong> space, this product is worth shortlisting.{{ end }}
         </div>
     </div>
 
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-bottom:16px">
         <div style="padding:12px 14px;background:var(--bg);border-radius:8px;border-left:3px solid var(--green)">
-            <div style="font-size:12px;color:var(--text3);margin-bottom:6px">✅ 适合谁</div>
+            <div style="font-size:12px;color:var(--text3);margin-bottom:6px">✅ Who it's for</div>
             <div style="font-size:14px;color:var(--text2);line-height:1.7">
-                {{ if $tool.best_for }}{{ delimit $tool.best_for " / " }}{{ else if eq $tool.id "claude-code" }}终端开发者 / 重度工程师 / 自动化开发用户{{ else if eq $tool.id "豆包" }}中文日常用户 / 新手 / 免费优先用户{{ else if eq $tool.id "flux" }}技术用户 / 本地部署玩家 / 开源偏好者{{ else }}{{ $tool.category }}场景用户{{ end }}
+                {{ if $tool.best_for }}{{ delimit $tool.best_for " / " }}{{ else if eq $tool.id "claude-code" }}Terminal-first developers / heavy engineers / automation users{{ else if eq $tool.id "豆包" }}Chinese daily users / beginners / free-tier-first users{{ else if eq $tool.id "flux" }}Technical users / self-hosters / open-source enthusiasts{{ else }}Users in the {{ $tool.category }} space{{ end }}
             </div>
         </div>
         <div style="padding:12px 14px;background:var(--bg);border-radius:8px;border-left:3px solid var(--red)">
-            <div style="font-size:12px;color:var(--text3);margin-bottom:6px">⚠️ 不适合谁</div>
+            <div style="font-size:12px;color:var(--text3);margin-bottom:6px">⚠️ Who should skip</div>
             <div style="font-size:14px;color:var(--text2);line-height:1.7">
-                {{ if eq $tool.id "cursor" }}极度在意隐私、且不接受云端 AI 代码处理的团队{{ else if eq $tool.id "claude-code" }}只想点点按钮、不熟悉终端的新手{{ else if eq $tool.id "deepseek" }}必须依赖最强多模态和全球插件生态的用户{{ else if eq $tool.id "chatgpt" }}完全不想付费、且只想要中文本土化体验的用户{{ else if eq $tool.id "claude" }}强依赖图片/语音/视频全能体验的用户{{ else if eq $tool.id "kimi" }}主要追求国际生态和重度编程代理能力的用户{{ else if eq $tool.id "豆包" }}需要最强长文档严肃分析和海外工具生态的用户{{ else if eq $tool.id "dify" }}完全没有技术背景、只想马上开箱聊天的用户{{ else if eq $tool.id "midjourney" }}预算有限、且不想折腾 Discord 的用户{{ else if eq $tool.id "flux" }}不愿折腾部署、只想开箱即用的普通用户{{ else }}如果你只想要完全相反的使用方式，这个工具可能不是首选。{{ end }}
+                {{ if eq $tool.id "cursor" }}Teams with strict privacy rules that can't send code to cloud AI{{ else if eq $tool.id "claude-code" }}Beginners who want point-and-click UIs and aren't comfortable in a terminal{{ else if eq $tool.id "deepseek" }}Users who need the strongest multimodal features and global plugin ecosystem{{ else if eq $tool.id "chatgpt" }}Users who don't want to pay and only want a Chinese-localized experience{{ else if eq $tool.id "claude" }}Users who need a fully multimodal assistant (image/voice/video){{ else if eq $tool.id "kimi" }}Users focused on the global ecosystem and heavy coding-agent capabilities{{ else if eq $tool.id "豆包" }}Users who need strongest long-document analysis and overseas tool ecosystems{{ else if eq $tool.id "dify" }}Non-technical users who just want out-of-the-box chat{{ else if eq $tool.id "midjourney" }}Budget-conscious users who don't want to deal with Discord{{ else if eq $tool.id "flux" }}Users who don't want to deal with setup and just want out-of-the-box{{ else }}If you need the exact opposite of what this tool does, look elsewhere.{{ end }}
             </div>
         </div>
     </div>
 
     {{ if $tool.use_cases }}
     <div style="margin-bottom:16px;padding:12px 16px;background:var(--bg);border-radius:8px;border-left:3px solid var(--blue)">
-        <div style="font-size:12px;color:var(--text3);margin-bottom:4px">💡 适用场景</div>
+        <div style="font-size:12px;color:var(--text3);margin-bottom:4px">💡 Use cases</div>
         <div style="font-size:14px;color:var(--text2)">{{ $tool.use_cases }}</div>
     </div>
     {{ end }}
 
     <div style="margin-bottom:16px;padding:12px 16px;background:var(--bg);border-radius:8px;border-left:3px solid #a855f7">
-        <div style="font-size:12px;color:var(--text3);margin-bottom:4px">🧭 如果你犹豫，先这么选</div>
+        <div style="font-size:12px;color:var(--text3);margin-bottom:4px">🧭 If you're unsure, start here</div>
         <div style="font-size:14px;color:var(--text2);line-height:1.8">
-            {{ if eq $tool.category "编程" }}想要最省心就先试它；如果你想横向比较，可以直接去看同类推荐里的其他编程工具。{{ else if eq $tool.category "对话" }}如果你主要是日常问答和写作，就先上手试一轮；如果你更在意中文、价格或长文档，再看下方同类推荐。{{ else if eq $tool.category "绘画" }}如果你最看重出图质量，可以先体验；如果你更看重开源和可控性，再去比较替代方案。{{ else }}先按你的主要场景试 10 分钟，再决定是否深入投入。{{ end }}
+            {{ if eq $tool.category "编程" }}Try this one first if you want the easiest start; for a side-by-side comparison, check the other coding tools in the related section below.{{ else if eq $tool.category "对话" }}If you mostly use it for daily Q&A and writing, just try it first; if Chinese support, price, or long-document handling matters more, check the related picks below.{{ else if eq $tool.category "绘画" }}If image quality is your top priority, start here; if you care more about open-source and control, see alternatives below.{{ else }}Spend 10 minutes with it on your main use case before investing further.{{ end }}
         </div>
     </div>
 
     {{ if $tool.alternatives }}
     <div style="margin-bottom:16px;padding:12px 16px;background:var(--bg);border-radius:8px;border-left:3px solid #f59e0b">
-        <div style="font-size:12px;color:var(--text3);margin-bottom:8px">🔄 常见替代方案</div>
+        <div style="font-size:12px;color:var(--text3);margin-bottom:8px">🔄 Common alternatives</div>
         <div style="display:flex;flex-wrap:wrap;gap:8px">
             {{ range $tool.alternatives }}
                 {{ $alt := index (where site.Data.tools "id" .) 0 }}
@@ -88,9 +88,9 @@
     {{ end }}
 
     <div style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:16px">
-        {{ if $tool.pricing }}<div style="padding:8px 16px;background:var(--bg3);border-radius:8px"><div style="font-size:11px;color:var(--text3)">💰 价格</div><div style="font-size:14px;color:var(--accent);font-weight:600">{{ $tool.pricing }}</div></div>{{ end }}
-        {{ if $tool.free_quota }}<div style="padding:8px 16px;background:var(--bg3);border-radius:8px"><div style="font-size:11px;color:var(--text3)">🎁 免费额度</div><div style="font-size:14px;color:var(--green);font-weight:600">{{ $tool.free_quota }}</div></div>{{ end }}
-        {{ if $tool.category }}<div style="padding:8px 16px;background:var(--bg3);border-radius:8px"><div style="font-size:11px;color:var(--text3)">📂 分类</div><div style="font-size:14px;color:var(--text)">{{ $tool.category }}</div></div>{{ end }}
+        {{ if $tool.pricing }}<div style="padding:8px 16px;background:var(--bg3);border-radius:8px"><div style="font-size:11px;color:var(--text3)">💰 Pricing</div><div style="font-size:14px;color:var(--accent);font-weight:600">{{ $tool.pricing }}</div></div>{{ end }}
+        {{ if $tool.free_quota }}<div style="padding:8px 16px;background:var(--bg3);border-radius:8px"><div style="font-size:11px;color:var(--text3)">🎁 Free tier</div><div style="font-size:14px;color:var(--green);font-weight:600">{{ $tool.free_quota }}</div></div>{{ end }}
+        {{ if $tool.category }}<div style="padding:8px 16px;background:var(--bg3);border-radius:8px"><div style="font-size:11px;color:var(--text3)">📂 Category</div><div style="font-size:14px;color:var(--text)">{{ $tool.category }}</div></div>{{ end }}
     </div>
 
     {{ if $tool.tags }}
@@ -101,31 +101,31 @@
 
     {{ if $tool.pros }}
     <div style="margin-bottom:16px;padding:12px 16px;background:var(--bg);border-radius:8px;border-left:3px solid var(--green)">
-        <div style="font-size:12px;color:var(--text3);margin-bottom:8px">✅ 优点</div>
+        <div style="font-size:12px;color:var(--text3);margin-bottom:8px">✅ Pros</div>
         <div style="display:flex;flex-wrap:wrap;gap:6px">{{ range $tool.pros }}<span style="padding:4px 10px;background:rgba(34,197,94,0.1);border-radius:12px;font-size:13px;color:var(--green)">{{ . }}</span>{{ end }}</div>
     </div>
     {{ end }}
 
     {{ if $tool.cons }}
     <div style="margin-bottom:16px;padding:12px 16px;background:var(--bg);border-radius:8px;border-left:3px solid var(--red)">
-        <div style="font-size:12px;color:var(--text3);margin-bottom:8px">❌ 缺点</div>
+        <div style="font-size:12px;color:var(--text3);margin-bottom:8px">❌ Cons</div>
         <div style="display:flex;flex-wrap:wrap;gap:6px">{{ range $tool.cons }}<span style="padding:4px 10px;background:rgba(239,68,68,0.1);border-radius:12px;font-size:13px;color:var(--red)">{{ . }}</span>{{ end }}</div>
     </div>
     {{ end }}
 
     {{ if $tool.best_for }}
     <div style="margin-bottom:16px;padding:12px 16px;background:var(--bg);border-radius:8px;border-left:3px solid #a855f7">
-        <div style="font-size:12px;color:var(--text3);margin-bottom:8px">👥 最适合谁</div>
+        <div style="font-size:12px;color:var(--text3);margin-bottom:8px">👥 Best for</div>
         <div style="display:flex;flex-wrap:wrap;gap:6px">{{ range $tool.best_for }}<span style="padding:4px 10px;background:rgba(168,85,247,0.1);border-radius:12px;font-size:13px;color:#a855f7">{{ . }}</span>{{ end }}</div>
     </div>
     {{ end }}
 
     <div style="display:flex;flex-wrap:wrap;gap:10px">
-        {{ if $tool.url }}<a href="{{ $tool.url }}" target="_blank" rel="noopener" class="spotlight-btn" style="display:inline-block">访问 {{ $tool.name }} →</a>{{ end }}
+        {{ if $tool.url }}<a href="{{ $tool.url }}" target="_blank" rel="noopener" class="spotlight-btn" style="display:inline-block">Visit {{ $tool.name }} →</a>{{ end }}
         {{ if $tool.alternatives }}
             {{ $firstAlt := index $tool.alternatives 0 }}
             {{ $altTool := index (where site.Data.tools "id" $firstAlt) 0 }}
-            {{ if $altTool }}<a href="{{ relURL "/tools/" }}{{ $altTool.id }}/" class="spotlight-btn" style="display:inline-block;background:var(--bg3);color:var(--text1)">先看替代方案：{{ $altTool.name }} →</a>{{ end }}
+            {{ if $altTool }}<a href="{{ relURL "/tools/" }}{{ $altTool.id }}/" class="spotlight-btn" style="display:inline-block;background:var(--bg3);color:var(--text1)">See alternative: {{ $altTool.name }} →</a>{{ end }}
         {{ end }}
     </div>
 </div>
@@ -133,7 +133,7 @@
 {{ $related := first 6 (where (where site.Data.tools "category" $tool.category) "id" "ne" $tool.id) }}
 {{ if gt (len $related) 0 }}
 <div class="card">
-    <div class="card-title">🔗 同类推荐</div>
+    <div class="card-title">🔗 Related tools</div>
     <div class="tools-grid">
         {{ range $related }}
         <a href="{{ relURL "/tools/" }}{{ .id }}/" class="tool-card" style="text-decoration:none;color:inherit">
@@ -143,7 +143,7 @@
             </div>
             <div class="tool-desc">{{ .description }}</div>
             <div class="tool-footer">
-                <div class="tool-tags">{{ if .trending }}<span class="tool-tag hot">🔥 热门</span>{{ end }}</div>
+                <div class="tool-tags">{{ if .trending }}<span class="tool-tag hot">🔥 Trending</span>{{ end }}</div>
                 <div class="tool-price">💰 {{ .pricing }}</div>
             </div>
         </a>

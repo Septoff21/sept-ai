@@ -1,8 +1,8 @@
 {{ $siteTitle := .Site.Title }}
 {{ $pageTitle := .Title }}
 {{ with .Params.seo_title }}{{ $pageTitle = . }}{{ end }}
-{{ $fullTitle := printf "%s | AI热榜" $pageTitle }}
-{{ if in $pageTitle "AI热榜" }}{{ $fullTitle = $pageTitle }}{{ end }}
+{{ $fullTitle := printf "%s | Sept-AI" $pageTitle }}
+{{ if in $pageTitle "Sept-AI" }}{{ $fullTitle = $pageTitle }}{{ end }}
 
 {{ $description := .Site.Params.description }}
 {{ with .Description }}{{ $description = . }}{{ end }}
@@ -14,6 +14,9 @@
 {{ $canonical := .Permalink }}
 {{ with .Params.canonical }}{{ $canonical = . }}{{ end }}
 
+{{ $ogImage := .Site.Params.seo.ogImage | default "/logos/logo.png" }}
+{{ $ogImageAbs := printf "%s%s" (strings.TrimSuffix "/" .Site.BaseURL) $ogImage }}
+
 <title>{{ $fullTitle }}</title>
 <meta name="description" content="{{ $description }}">
 <meta name="keywords" content="{{ $keywords }}">
@@ -21,7 +24,12 @@
 <meta property="og:description" content="{{ $description }}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ $canonical }}">
+<meta property="og:image" content="{{ $ogImageAbs }}">
+<meta property="og:site_name" content="Sept-AI">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $fullTitle }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $ogImageAbs }}">
 <link rel="canonical" href="{{ $canonical }}">
 
 {{ $pageType := .Type }}
@@ -34,18 +42,18 @@
   "headline": {{ $pageTitle | jsonify | safeJS }},
   "description": {{ $description | jsonify | safeJS }},
   "url": {{ $canonical | jsonify | safeJS }},
-  "inLanguage": "zh-CN",
+  "inLanguage": "en",
   "publisher": {
     "@type": "Organization",
-    "name": "AI热榜",
-    "url": "https://aihot.bt199.com/"
+    "name": "Sept-AI",
+    "url": {{ .Site.BaseURL | jsonify | safeJS }}
   }{{ with .Params.id }},
-  "applicationCategory": {{ $.Params.category | default "AI工具" | jsonify | safeJS }},
+  "applicationCategory": {{ $.Params.category | default "AI Tool" | jsonify | safeJS }},
   "operatingSystem": "Web",
   "offers": {
     "@type": "Offer",
     "price": {{ $.Params.pricing | default "" | jsonify | safeJS }},
-    "priceCurrency": "CNY"
+    "priceCurrency": "USD"
   }
   {{ end }}
 }
@@ -59,14 +67,14 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "首页",
-      "item": "https://aihot.bt199.com/"
+      "name": "Home",
+      "item": {{ .Site.BaseURL | jsonify | safeJS }}
     }{{ if and (ne .RelPermalink "/") .Section }},
     {
       "@type": "ListItem",
       "position": 2,
       "name": {{ .Section | jsonify | safeJS }},
-      "item": {{ (printf "https://aihot.bt199.com/%s/" .Section) | jsonify | safeJS }}
+      "item": {{ (printf "%s%s/" (strings.TrimSuffix "/" .Site.BaseURL) (printf "/%s" .Section)) | jsonify | safeJS }}
     }{{ end }}{{ if and (ne .RelPermalink "/") (ne .Kind "section") }},
     {
       "@type": "ListItem",

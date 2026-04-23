@@ -1,19 +1,26 @@
-baseURL = "https://aihot.bt199.com/"
-languageCode = "zh-CN"
-title = "AI热榜 - 每6小时更新 | AI工具大全·AI导航·AI工具推荐"
-defaultContentLanguage = "zh"
+baseURL = "https://sept-ai.netlify.app/"
+languageCode = "en"
+title = "Sept-AI — Your AI Navigator & Knowledge Hub"
+defaultContentLanguage = "en"
 hasCJKLanguage = true
 paginate = 20
 
 [params]
-  description = "AI热榜 - 中文AI世界实时热榜。收录1000+AI工具、AI模型、AI Agent，每6小时自动更新。AI工具排名、免费AI工具推荐、国产大模型对比、AI新闻一网打尽。"
-  keywords = "AI热榜, AI工具, AI导航, AI工具大全, AI工具推荐, 免费AI工具, AI写作, AI绘画, AI编程, 大模型, 国产大模型, AI Agent"
-  author = "AI热榜"
+  description = "Sept-AI is a curated, auto-updating navigator for AI tools, models, agents, and news — paired with a personal knowledge vault. 170+ tools, 40+ sources, refreshed every 6 hours."
+  keywords = "AI tools, AI navigator, LLM directory, AI models, AI agents, Claude, GPT, Gemini, Cursor, AI news, Anthropic, OpenAI, DeepMind, HuggingFace"
+  author = "Septoff21"
+  tagline = "Discover. Learn. Build."
+  email = "septoff21@gmail.com"
+  github = "https://github.com/Septoff21/sept-ai"
 
 [params.homepage]
   showSpotlight = true
   showTrending = true
   showHotNews = true
+
+[params.seo]
+  ogImage = "/logos/logo.png"
+  twitterCard = "summary_large_image"
 
 [taxonomies]
   category = "categories"
@@ -27,42 +34,55 @@ paginate = 20
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+# ───── Primary navigation (English, Lucide icons rendered in templates) ─────
+
 [[menu.main]]
-  name = "🔥 热榜"
+  name = "Trending"
+  pre = "flame"
   url = "/"
   weight = 1
 
 [[menu.main]]
-  name = "🧠 模型"
-  url = "/models/"
+  name = "Tools"
+  pre = "wrench"
+  url = "/tools/"
   weight = 2
 
 [[menu.main]]
-  name = "🛠️ 工具"
-  url = "/tools/"
+  name = "Models"
+  pre = "brain"
+  url = "/models/"
   weight = 3
 
 [[menu.main]]
-  name = "🤖 Agent"
+  name = "Agents"
+  pre = "bot"
   url = "/agents/"
   weight = 4
 
 [[menu.main]]
-  name = "📰 新闻"
+  name = "News"
+  pre = "newspaper"
   url = "/news/"
   weight = 5
 
 [[menu.main]]
-  name = "🏢 提供商"
+  name = "Providers"
+  pre = "building"
   url = "/providers/"
   weight = 6
 
 [[menu.main]]
-  name = "🔍 搜索"
-  url = "/search/"
+  name = "Daily"
+  pre = "sun"
+  url = "/daily/"
   weight = 7
 
 [[menu.main]]
-  name = "⚔️ 对比"
-  url = "/compare/"
+  name = "Me"
+  pre = "user"
+  url = "/me/"
   weight = 8
+
+# Search & Compare are intentionally hidden from the nav (kept as routes)
+# They will be re-exposed in a future iteration.

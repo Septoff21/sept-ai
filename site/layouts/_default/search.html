@@ -1,39 +1,39 @@
 {{ define "main" }}
 <div style="margin-bottom:20px">
-    <a href="{{ relURL "/" }}" style="color:var(--text2);font-size:13px">← 返回热榜</a>
+    <a href="{{ relURL "/" }}" style="color:var(--text2);font-size:13px">← Back to Trending</a>
 </div>
 
-<!-- 搜索框 -->
+<!-- Search box -->
 <div style="margin-bottom:24px;position:relative">
-    <input type="text" class="search-box" placeholder="🔍 搜索 AI 工具、模型、Agent、新闻... (Ctrl+K)" id="searchInput" style="font-size:16px;padding:14px 18px" autocomplete="off">
-    <!-- 搜索建议下拉框 -->
+    <input type="text" class="search-box" placeholder="🔍 Search AI tools, models, agents, news... (Ctrl+K)" id="searchInput" style="font-size:16px;padding:14px 18px" autocomplete="off">
+    <!-- Search suggestions dropdown -->
     <div id="searchSuggestions" style="display:none;position:absolute;top:100%;left:0;right:0;background:var(--bg2);border:1px solid var(--border);border-radius:8px;margin-top:4px;max-height:300px;overflow-y:auto;z-index:1000;box-shadow:0 4px 12px rgba(0,0,0,0.3)"></div>
 </div>
 
-<!-- 热门搜索 -->
+<!-- Trending searches -->
 <div id="hotSearch" style="margin-bottom:24px">
-    <div style="font-size:13px;color:var(--text3);margin-bottom:8px">🔥 热门搜索</div>
+    <div style="font-size:13px;color:var(--text3);margin-bottom:8px">🔥 Trending searches</div>
     <div style="display:flex;flex-wrap:wrap;gap:8px" id="hotTags"></div>
 </div>
 
-<!-- 搜索历史 -->
+<!-- Search history -->
 <div id="searchHistory" style="margin-bottom:24px;display:none">
     <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px">
-        <div style="font-size:13px;color:var(--text3)">🕐 搜索历史</div>
-        <button onclick="clearHistory()" style="background:none;border:none;color:var(--text3);font-size:12px;cursor:pointer">清空</button>
+        <div style="font-size:13px;color:var(--text3)">🕐 Recent searches</div>
+        <button onclick="clearHistory()" style="background:none;border:none;color:var(--text3);font-size:12px;cursor:pointer">Clear</button>
     </div>
     <div style="display:flex;flex-wrap:wrap;gap:8px" id="historyTags"></div>
 </div>
 
-<!-- 搜索结果 -->
+<!-- Search results -->
 <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:16px">
     <div id="searchResultsCount"></div>
     <div style="display:flex;gap:8px">
         <select id="sortSelect" style="padding:6px 12px;background:var(--bg2);border:1px solid var(--border);border-radius:6px;color:var(--text1);font-size:13px">
-            <option value="relevance">按相关度</option>
-            <option value="hot">按热度</option>
-            <option value="time">按时间</option>
-            <option value="name">按名称</option>
+            <option value="relevance">By relevance</option>
+            <option value="hot">By popularity</option>
+            <option value="time">By recency</option>
+            <option value="name">By name</option>
         </select>
     </div>
 </div>
@@ -48,8 +48,8 @@ const searchData = {
 };
 const seoData = {{ site.Data.seo | jsonify | safeJS }} || {};
 
-// 热门搜索词
-const hotKeywords = (seoData.hot_keywords && seoData.hot_keywords.length ? seoData.hot_keywords : ['Cursor', 'ChatGPT', 'DeepSeek', 'Claude', 'Midjourney', 'FLUX', 'Ollama', 'AI编程', 'AI绘画', 'AI视频', '开源模型', '免费AI']).slice(0, 12);
+// Trending keywords
+const hotKeywords = (seoData.hot_keywords && seoData.hot_keywords.length ? seoData.hot_keywords : ['Claude', 'Cursor', 'ChatGPT', 'Gemini', 'Codex', 'DeepSeek', 'Midjourney', 'FLUX', 'Ollama', 'MCP', 'Open source', 'Free AI']).slice(0, 12);
 const hotTagsEl = document.getElementById('hotTags');
 hotKeywords.forEach(kw => {
     const btn = document.createElement('button');
@@ -61,16 +61,16 @@ hotKeywords.forEach(kw => {
     hotTagsEl.appendChild(btn);
 });
 
-// 搜索历史
-function getHistory() { return JSON.parse(localStorage.getItem('aihot_search_history') || '[]'); }
+// Search history
+function getHistory() { return JSON.parse(localStorage.getItem('septai_search_history') || '[]'); }
 function saveHistory(q) {
     let h = getHistory().filter(x => x !== q);
     h.unshift(q);
     h = h.slice(0, 10);
-    localStorage.setItem('aihot_search_history', JSON.stringify(h));
+    localStorage.setItem('septai_search_history', JSON.stringify(h));
     renderHistory();
 }
-function clearHistory() { localStorage.removeItem('aihot_search_history'); renderHistory(); }
+function clearHistory() { localStorage.removeItem('septai_search_history'); renderHistory(); }
 function renderHistory() {
     const h = getHistory();
     const el = document.getElementById('searchHistory');
@@ -88,20 +88,20 @@ function renderHistory() {
 }
 renderHistory();
 
-// 高亮搜索关键词
+// Highlight search keyword
 function highlightText(text, query) {
     if (!text || !query) return text;
     const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
     return text.replace(regex, '<mark style="background:var(--accent);color:white;padding:0 2px;border-radius:2px">$1</mark>');
 }
 
-// 搜索建议/自动补全
+// Search suggestions / autocomplete
 function getSuggestions(query) {
     if (!query || query.trim().length < 2) return [];
     const q = query.toLowerCase().trim();
     const suggestions = [];
-    
-    // 从工具中获取建议
+
+    // From tools
     searchData.tools.forEach(item => {
         if (item.name.toLowerCase().includes(q)) {
             suggestions.push({
@@ -112,8 +112,8 @@ function getSuggestions(query) {
             });
         }
     });
-    
-    // 从模型中获取建议
+
+    // From models
     searchData.models.forEach(item => {
         const name = item.display_name || item.name;
         if (name.toLowerCase().includes(q)) {
@@ -121,12 +121,12 @@ function getSuggestions(query) {
                 text: name,
                 type: 'model',
                 icon: '🧠',
-                category: item.pipeline_tag || '模型'
+                category: item.pipeline_tag || 'Model'
             });
         }
     });
-    
-    // 从Agent中获取建议
+
+    // From agents
     searchData.agents.forEach(item => {
         if (item.name.toLowerCase().includes(q)) {
             suggestions.push({
@@ -137,8 +137,8 @@ function getSuggestions(query) {
             });
         }
     });
-    
-    // 去重并限制数量
+
+    // Dedupe and limit
     const uniqueSuggestions = [];
     const seen = new Set();
     for (const s of suggestions) {
@@ -148,7 +148,7 @@ function getSuggestions(query) {
         }
         if (uniqueSuggestions.length >= 8) break;
     }
-    
+
     return uniqueSuggestions;
 }
 
@@ -158,7 +158,7 @@ function showSuggestions(suggestions) {
         container.style.display = 'none';
         return;
     }
-    
+
     let html = '';
     suggestions.forEach((s, i) => {
         html += `<div class="suggestion-item" data-index="${i}" style="padding:10px 16px;cursor:pointer;display:flex;align-items:center;gap:10px;border-bottom:1px solid var(--border);transition:background 0.2s">
@@ -170,11 +170,11 @@ function showSuggestions(suggestions) {
             <span style="font-size:12px;color:var(--text3)">${s.type}</span>
         </div>`;
     });
-    
+
     container.innerHTML = html;
     container.style.display = 'block';
-    
-    // 添加点击事件
+
+    // Click handlers
     container.querySelectorAll('.suggestion-item').forEach(item => {
         item.onmouseenter = () => item.style.background = 'var(--bg3)';
         item.onmouseleave = () => item.style.background = 'transparent';
@@ -191,28 +191,28 @@ function hideSuggestions() {
     document.getElementById('searchSuggestions').style.display = 'none';
 }
 
-// 键盘导航
+// Keyboard navigation
 let selectedIndex = -1;
 function navigateSuggestions(direction) {
     const suggestions = document.querySelectorAll('.suggestion-item');
     if (suggestions.length === 0) return;
-    
-    // 移除之前的选中状态
+
+    // Clear previous selection
     suggestions.forEach(s => s.style.background = 'transparent');
-    
-    // 更新索引
+
+    // Update index
     if (direction === 'down') {
         selectedIndex = (selectedIndex + 1) % suggestions.length;
     } else {
         selectedIndex = selectedIndex <= 0 ? suggestions.length - 1 : selectedIndex - 1;
     }
-    
-    // 添加选中状态
+
+    // Apply selection
     suggestions[selectedIndex].style.background = 'var(--bg3)';
     suggestions[selectedIndex].scrollIntoView({ block: 'nearest' });
 }
 
-// 搜索逻辑
+// Search logic
 function searchAll(query, sortBy = 'relevance') {
     if (!query || query.trim().length === 0) return { tools: [], models: [], agents: [], news: [] };
     const q = query.toLowerCase().trim();
@@ -221,12 +221,12 @@ function searchAll(query, sortBy = 'relevance') {
     searchData.tools.forEach(item => {
         const text = [item.name, item.description, item.category, item.pricing, ...(item.tags||[])].join(' ').toLowerCase();
         if (text.includes(q)) {
-            // 计算相关度分数
+            // Compute relevance score
             let score = 0;
             if (item.name.toLowerCase().includes(q)) score += 10;
             if (item.description && item.description.toLowerCase().includes(q)) score += 5;
             if (item.category && item.category.toLowerCase().includes(q)) score += 3;
-            
+
             results.tools.push({
                 ...item,
                 _score: score,
@@ -234,7 +234,7 @@ function searchAll(query, sortBy = 'relevance') {
             });
         }
     });
-    
+
     searchData.models.forEach(item => {
         const text = [item.name, item.display_name, item.author, item.pipeline_tag].join(' ').toLowerCase();
         if (text.includes(q)) {
@@ -242,7 +242,7 @@ function searchAll(query, sortBy = 'relevance') {
             const name = item.display_name || item.name;
             if (name.toLowerCase().includes(q)) score += 10;
             if (item.author && item.author.toLowerCase().includes(q)) score += 5;
-            
+
             results.models.push({
                 ...item,
                 _score: score,
@@ -250,14 +250,14 @@ function searchAll(query, sortBy = 'relevance') {
             });
         }
     });
-    
+
     searchData.agents.forEach(item => {
         const text = [item.name, item.description, item.type, item.pricing].join(' ').toLowerCase();
         if (text.includes(q)) {
             let score = 0;
             if (item.name.toLowerCase().includes(q)) score += 10;
             if (item.description && item.description.toLowerCase().includes(q)) score += 5;
-            
+
             results.agents.push({
                 ...item,
                 _score: score,
@@ -265,14 +265,14 @@ function searchAll(query, sortBy = 'relevance') {
             });
         }
     });
-    
+
     searchData.news.forEach(item => {
         const text = [item.title, item.summary, item.source].join(' ').toLowerCase();
         if (text.includes(q)) {
             let score = 0;
             if (item.title.toLowerCase().includes(q)) score += 10;
             if (item.summary && item.summary.toLowerCase().includes(q)) score += 5;
-            
+
             results.news.push({
                 ...item,
                 _score: score,
@@ -280,30 +280,30 @@ function searchAll(query, sortBy = 'relevance') {
             });
         }
     });
-    
-    // 排序函数
+
+    // Sort functions
     const sortFunctions = {
         relevance: (a, b) => b._score - a._score,
         hot: (a, b) => {
-            // 工具和模型按热度排序
+            // Tools and models by popularity
             if (a._type === 'tool' && b._type === 'tool') {
                 return (b.stars || 0) - (a.stars || 0);
             }
             if (a._type === 'model' && b._type === 'model') {
                 return (b.likes || 0) - (a.likes || 0);
             }
-            // 新闻按发布时间排序
+            // News by published date
             if (a._type === 'news' && b._type === 'news') {
                 return (b.published || '').localeCompare(a.published || '');
             }
             return 0;
         },
         time: (a, b) => {
-            // 新闻按时间排序
+            // News by recency
             if (a._type === 'news' && b._type === 'news') {
                 return (b.published || '').localeCompare(a.published || '');
             }
-            // 其他类型按相关度排序
+            // Others by relevance
             return b._score - a._score;
         },
         name: (a, b) => {
@@ -312,14 +312,14 @@ function searchAll(query, sortBy = 'relevance') {
             return nameA.localeCompare(nameB);
         }
     };
-    
-    // 应用排序
+
+    // Apply sort
     const sortFn = sortFunctions[sortBy] || sortFunctions.relevance;
     results.tools.sort(sortFn);
     results.models.sort(sortFn);
     results.agents.sort(sortFn);
     results.news.sort(sortFn);
-    
+
     return results;
 }
 
@@ -338,13 +338,13 @@ function doSearch(query) {
     const sortBy = document.getElementById('sortSelect').value;
     const r = searchAll(query, sortBy);
     const total = r.tools.length + r.models.length + r.agents.length + r.news.length;
-    
-    document.getElementById('searchResultsCount').innerHTML = '找到 <strong style="color:var(--accent)">' + total + '</strong> 个结果';
-    
+
+    document.getElementById('searchResultsCount').innerHTML = 'Found <strong style="color:var(--accent)">' + total + '</strong> results';
+
     let html = '';
 
     if (r.tools.length > 0) {
-        html += '<div class="card"><div class="card-title">🛠️ AI工具 <span class="hot-badge">' + r.tools.length + '</span></div><div class="tools-grid">';
+        html += '<div class="card"><div class="card-title">🛠️ AI Tools <span class="hot-badge">' + r.tools.length + '</span></div><div class="tools-grid">';
         r.tools.slice(0, 12).forEach(t => {
             const highlightedName = highlightText(t.name, query);
             const highlightedDesc = highlightText(t.description || '', query);
@@ -357,7 +357,7 @@ function doSearch(query) {
     }
 
     if (r.models.length > 0) {
-        html += '<div class="card"><div class="card-title">🧠 AI模型 <span class="hot-badge">' + r.models.length + '</span></div><div class="tools-grid">';
+        html += '<div class="card"><div class="card-title">🧠 AI Models <span class="hot-badge">' + r.models.length + '</span></div><div class="tools-grid">';
         r.models.slice(0, 12).forEach(m => {
             const highlightedName = highlightText(m.display_name || m.name, query);
             const highlightedAuthor = highlightText(m.author || '', query);
@@ -372,7 +372,7 @@ function doSearch(query) {
     }
 
     if (r.agents.length > 0) {
-        html += '<div class="card"><div class="card-title">🤖 AI Agent <span class="hot-badge">' + r.agents.length + '</span></div><div class="tools-grid">';
+        html += '<div class="card"><div class="card-title">🤖 AI Agents <span class="hot-badge">' + r.agents.length + '</span></div><div class="tools-grid">';
         r.agents.forEach(a => {
             const highlightedName = highlightText(a.name, query);
             const highlightedDesc = highlightText(a.description || '', query);
@@ -385,7 +385,7 @@ function doSearch(query) {
     }
 
     if (r.news.length > 0) {
-        html += '<div class="card"><div class="card-title">📰 AI新闻 <span class="hot-badge">' + r.news.length + '</span></div>';
+        html += '<div class="card"><div class="card-title">📰 AI News <span class="hot-badge">' + r.news.length + '</span></div>';
         r.news.slice(0, 10).forEach(n => {
             const highlightedTitle = highlightText(n.title, query);
             const highlightedSummary = highlightText(n.ai_summary || '', query);
@@ -400,19 +400,19 @@ function doSearch(query) {
     }
 
     if (total === 0) {
-        html += '<div class="card" style="text-align:center;padding:40px"><div style="font-size:48px;margin-bottom:12px">🔍</div><div style="color:var(--text2)">没有找到「' + query + '」的相关结果</div><div style="color:var(--text3);font-size:13px;margin-top:8px">试试其他关键词？</div></div>';
+        html += '<div class="card" style="text-align:center;padding:40px"><div style="font-size:48px;margin-bottom:12px">🔍</div><div style="color:var(--text2)">No results for "' + query + '"</div><div style="color:var(--text3);font-size:13px;margin-top:8px">Try a different keyword.</div></div>';
     }
 
     document.getElementById('searchResults').innerHTML = html;
 }
 
-// 输入事件
+// Input event
 let searchTimeout;
 document.getElementById('searchInput').addEventListener('input', function(e) {
     clearTimeout(searchTimeout);
     const query = e.target.value;
-    
-    // 显示搜索建议
+
+    // Show suggestions
     if (query.length >= 2) {
         const suggestions = getSuggestions(query);
         showSuggestions(suggestions);
@@ -420,15 +420,15 @@ document.getElementById('searchInput').addEventListener('input', function(e) {
     } else {
         hideSuggestions();
     }
-    
-    // 延迟搜索
+
+    // Debounced search
     searchTimeout = setTimeout(() => doSearch(query), 300);
 });
 
-// 键盘事件
+// Keyboard events
 document.getElementById('searchInput').addEventListener('keydown', function(e) {
     const suggestions = document.querySelectorAll('.suggestion-item');
-    
+
     if (e.key === 'ArrowDown') {
         e.preventDefault();
         if (suggestions.length > 0) {
@@ -442,15 +442,15 @@ document.getElementById('searchInput').addEventListener('keydown', function(e) {
     } else if (e.key === 'Enter') {
         e.preventDefault();
         clearTimeout(searchTimeout);
-        
-        // 如果有选中的建议，使用它
+
+        // Use selected suggestion if any
         if (selectedIndex >= 0 && suggestions[selectedIndex]) {
             const suggestionText = suggestions[selectedIndex].querySelector('div > div').textContent;
             document.getElementById('searchInput').value = suggestionText;
             doSearch(suggestionText);
             hideSuggestions();
         } else {
-            // 否则直接搜索
+            // Otherwise search directly
             doSearch(e.target.value);
             hideSuggestions();
         }
@@ -459,14 +459,14 @@ document.getElementById('searchInput').addEventListener('keydown', function(e) {
     }
 });
 
-// 点击其他地方隐藏建议
+// Click outside to hide suggestions
 document.addEventListener('click', function(e) {
     if (!e.target.closest('#searchInput') && !e.target.closest('#searchSuggestions')) {
         hideSuggestions();
     }
 });
 
-// 排序选择器事件
+// Sort selector event
 document.getElementById('sortSelect').addEventListener('change', function() {
     const query = document.getElementById('searchInput').value;
     if (query) {
@@ -474,12 +474,12 @@ document.getElementById('sortSelect').addEventListener('change', function() {
     }
 });
 
-// URL 参数 ?q=xxx
+// URL param ?q=xxx
 const params = new URLSearchParams(location.search);
 const initQ = params.get('q');
 if (initQ) { document.getElementById('searchInput').value = initQ; doSearch(initQ); }
 
-// Ctrl+K 聚焦
+// Ctrl+K to focus
 document.addEventListener('keydown', function(e) {
     if ((e.ctrlKey || e.metaKey) && e.key === 'k') { e.preventDefault(); document.getElementById('searchInput').focus(); }
 });

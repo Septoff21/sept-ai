@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -248,7 +248,7 @@
     <header>
         <div class="container header-inner">
             <div>
-                <div class="logo"><img src="/logos/logo.png" alt="AI热榜"> AI热榜 <span>每6小时更新</span></div>
+                <div class="logo"><img src="/logos/logo.png" alt="Sept-AI"> Sept-AI <span>Updated every 6 hours</span></div>
             </div>
             <nav>
                 {{ range .Site.Menus.main }}
@@ -265,7 +265,7 @@
 
     <footer>
         <div class="container">
-            <p>🔥 AI热榜 — 每6小时自动更新的中文AI导航站</p>
+            <p>🔥 Sept-AI — An AI navigator refreshed every 6 hours</p>
         </div>
     </footer>
 
@@ -285,7 +285,7 @@
             localStorage.setItem(key, JSON.stringify(data));
         }
         if(data.streak > 0) {
-            document.getElementById('streak').textContent = '🔥 连续访问 ' + data.streak + ' 天';
+            document.getElementById('streak').textContent = '🔥 ' + data.streak + '-day streak';
         }
     })();
     </script>

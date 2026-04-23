@@ -1,37 +1,37 @@
 {{ define "main" }}
 
-<h1 style="font-size:1px;color:transparent;position:absolute;pointer-events:none">AI热榜 - 每6小时更新的中文AI工具导航站</h1>
+<h1 style="font-size:1px;color:transparent;position:absolute;pointer-events:none">Sept-AI — an AI navigator & knowledge hub, refreshed every 6 hours</h1>
 
 <div class="grid">
 <div>
-    <!-- 搜索框 -->
+    <!-- Search box -->
     <div style="margin-bottom:20px">
-        <input type="text" class="search-box" placeholder="🔍 搜索 AI 工具、模型、新闻... (Ctrl+K)" id="searchInput">
+        <input type="text" class="search-box" placeholder="🔍 Search tools, models, news... (Ctrl+K)" id="searchInput">
         <div id="searchResults"></div>
     </div>
 
-    <!-- 新用户路径引导 -->
+    <!-- Newcomer guide -->
     <div class="card" style="margin-bottom:24px;background:linear-gradient(135deg,rgba(255,107,53,0.08),rgba(99,102,241,0.06));border-color:rgba(255,107,53,0.25)">
-        <div class="card-title">🧭 先从哪看？</div>
+        <div class="card-title">🧭 Where to start?</div>
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px">
             <a href="{{ relURL "/tools/" }}" style="text-decoration:none;color:inherit;padding:14px;border:1px solid var(--border);border-radius:10px;background:var(--bg2)">
-                <div style="font-weight:700;color:var(--text1);margin-bottom:6px">我是新手，先找能直接用的工具</div>
-                <div style="font-size:13px;color:var(--text2)">从工具库开始，看热门、免费、国内可直接用的 AI 工具</div>
+                <div style="font-weight:700;color:var(--text1);margin-bottom:6px">New here — show me usable AI tools</div>
+                <div style="font-size:13px;color:var(--text2)">Hit the tools directory first: hot picks, free tiers, ready to use today.</div>
             </a>
             <a href="{{ relURL "/models/" }}" style="text-decoration:none;color:inherit;padding:14px;border:1px solid var(--border);border-radius:10px;background:var(--bg2)">
-                <div style="font-weight:700;color:var(--text1);margin-bottom:6px">我想看现在最强的大模型</div>
-                <div style="font-size:13px;color:var(--text2)">直接看模型精选榜，优先看顶级通用、编程最强、多模态主力</div>
+                <div style="font-weight:700;color:var(--text1);margin-bottom:6px">Show me the top models right now</div>
+                <div style="font-size:13px;color:var(--text2)">Curated shortlist of top generalists, best-for-coding picks, and leading multimodal models.</div>
             </a>
             <a href="{{ relURL "/agents/" }}" style="text-decoration:none;color:inherit;padding:14px;border:1px solid var(--border);border-radius:10px;background:var(--bg2)">
-                <div style="font-weight:700;color:var(--text1);margin-bottom:6px">我想找 Agent / 自动化能力</div>
-                <div style="font-size:13px;color:var(--text2)">去 Agent 区看编程 Agent、浏览器 Agent、多 Agent 框架</div>
+                <div style="font-weight:700;color:var(--text1);margin-bottom:6px">I'm looking for agents & automation</div>
+                <div style="font-size:13px;color:var(--text2)">Coding agents, browser agents, and multi-agent frameworks — all in one place.</div>
             </a>
         </div>
     </div>
 
-    <!-- 今日热点 -->
+    <!-- Today's Trending -->
     <div class="card" style="border-color:var(--accent)">
-        <div class="card-title">🔥 今日热点 <span class="hot-badge fire">每6h更新</span></div>
+        <div class="card-title">🔥 Today's Trending <span class="hot-badge fire">Every 6h</span></div>
         {{ $hot := site.Data.hot }}
         {{ if $hot }}
             {{ $items := $hot.items }}
@@ -86,27 +86,27 @@
                     <div class="hot-meta" style="margin-top:6px">
                         {{ with $item.source }}<span class="hot-badge">{{ . }}</span>{{ end }}
                         {{ with $item.time }}<span style="color:var(--text3);margin-left:4px">{{ . }}</span>{{ end }}
-                        {{ if $matchedNews.id }}<span class="hot-badge" style="background:rgba(255,107,53,0.12);color:var(--accent);margin-left:4px">站内文章</span>{{ end }}
+                        {{ if $matchedNews.id }}<span class="hot-badge" style="background:rgba(255,107,53,0.12);color:var(--accent);margin-left:4px">On-site</span>{{ end }}
                         {{ range $item.tags }}<span class="hot-badge" style="background:rgba(255,107,53,0.12);color:var(--accent);margin-left:4px">{{ . }}</span>{{ end }}
                     </div>
                 </div>
             </a>
             {{ end }}
         {{ else }}
-            <div class="hot-item"><div class="hot-content"><div class="hot-title" style="color:var(--text3)">数据采集中...</div></div></div>
+            <div class="hot-item"><div class="hot-content"><div class="hot-title" style="color:var(--text3)">Collecting data...</div></div></div>
         {{ end }}
     </div>
 
-    <!-- 最新新闻 (穿插显示，不按来源堆积) -->
+    <!-- Latest news (interleaved across sources, not stacked) -->
     <div class="card">
-        <div class="card-title">📰 AI 新闻</div>
+        <div class="card-title">📰 AI News</div>
         {{ $news := site.Data.news }}
         {{ if $news }}
             {{ $count := 0 }}
             {{ range $news }}
                 {{ $title := lower .title }}
                 {{ $summary := lower .summary }}
-                {{ $mustReadSource := or (eq .source "机器之心") (eq .source "量子位") (eq .source "新智元") (eq .source "TechCrunch AI") (eq .source "The Verge AI") (eq .source "MIT Tech Review") (eq .source "VentureBeat AI") (eq .source "InfoQ AI") }}
+                {{ $mustReadSource := or (eq .source "机器之心") (eq .source "量子位") (eq .source "新智元") (eq .source "TechCrunch AI") (eq .source "The Verge AI") (eq .source "MIT Tech Review") (eq .source "VentureBeat AI") (eq .source "InfoQ AI") (eq .source "Hacker News") (eq .source "Hacker News AI") }}
                 {{ $noise := or (in $title "大会") (in $title "开幕") (in $title "峰会") (in $title "论坛") (in $title "学者") (in $title "实习生") (in $title "招聘") (in $title "品牌") (in $title "发布会") (in $summary "大会") (in $summary "峰会") (in $summary "论坛") (in $summary "学者") (in $summary "实习生") (in $summary "招聘") }}
                 {{ if and (lt $count 8) $mustReadSource (not $noise) }}
                 <div class="hot-item">
@@ -133,41 +133,41 @@
                 {{ end }}
             {{ end }}
         {{ end }}
-        <div style="margin-top:12px"><a href="{{ relURL "/news/" }}" class="tag" style="text-decoration:none">查看更多 AI 新闻 →</a></div>
+        <div style="margin-top:12px"><a href="{{ relURL "/news/" }}" class="tag" style="text-decoration:none">More AI news →</a></div>
     </div>
 </div>
 
-<!-- 侧边栏 -->
+<!-- Sidebar -->
 <div>
-    <!-- 每日 AI 快报 -->
+    <!-- Daily AI Brief -->
     {{ $briefing := site.Data.briefing }}
     {{ if $briefing }}
     <div class="card" style="border-left:3px solid var(--accent)">
-        <div class="card-title">🤖 每日 AI 快报 <span class="hot-badge fire">AI 生成</span></div>
+        <div class="card-title">🤖 Daily AI Brief <span class="hot-badge fire">AI-generated</span></div>
         <div style="font-size:13px;line-height:1.7;color:var(--text2)">{{ $briefing.content }}</div>
-        <div style="font-size:11px;color:var(--text3);margin-top:8px">基于 {{ $briefing.news_count }} 条新闻 · {{ $briefing.date }}</div>
+        <div style="font-size:11px;color:var(--text3);margin-top:8px">Based on {{ $briefing.news_count }} articles · {{ $briefing.date }}</div>
     </div>
     {{ end }}
 
-    <!-- 每日精选 -->
+    <!-- Daily Spotlight -->
     {{ $daily := site.Data.daily }}
     {{ if $daily }}
     <div class="spotlight">
-        <div style="font-size:13px;color:var(--text2);margin-bottom:8px">⭐ 今日精选 - {{ $daily.date }}</div>
+        <div style="font-size:13px;color:var(--text2);margin-bottom:8px">⭐ Today's Spotlight — {{ $daily.date }}</div>
         <div class="spotlight-name">{{ $daily.spotlight.name }}</div>
         <div class="spotlight-desc">{{ $daily.spotlight.description }}</div>
         {{ if $daily.spotlight.pricing }}<div class="hot-meta" style="margin-top:6px">💰 {{ $daily.spotlight.pricing }}</div>{{ end }}
         {{ if $daily.spotlight.id }}
-        <a href="{{ relURL "/tools/" }}{{ $daily.spotlight.id }}/" class="spotlight-btn">立即体验 →</a>
+        <a href="{{ relURL "/tools/" }}{{ $daily.spotlight.id }}/" class="spotlight-btn">Try it →</a>
         {{ else }}
-        <a href="{{ $daily.spotlight.url }}" class="spotlight-btn" target="_blank">立即体验 →</a>
+        <a href="{{ $daily.spotlight.url }}" class="spotlight-btn" target="_blank">Try it →</a>
         {{ end }}
     </div>
     {{ end }}
 
-    <!-- 热度飙升 -->
+    <!-- Rising fast -->
     <div class="card">
-        <div class="card-title">📈 热度飙升</div>
+        <div class="card-title">📈 Rising Fast</div>
         {{ $tools := site.Data.tools }}
         {{ if $tools }}
             {{ $trending_tools := slice }}
@@ -188,60 +188,59 @@
                 {{ end }}
             {{ else }}
                 <div class="trend-item">
-                    <div style="color:var(--text3);font-size:13px">暂无数据</div>
+                    <div style="color:var(--text3);font-size:13px">No data yet</div>
                 </div>
             {{ end }}
         {{ end }}
     </div>
 
-    <!-- 分类入口 -->
+    <!-- Browse categories -->
     <div class="card">
-        <div class="card-title">📂 分类导航</div>
+        <div class="card-title">📂 Browse Categories</div>
         <div style="display:flex;flex-wrap:wrap;gap:8px">
-            <a href="{{ relURL "/tools/" }}" class="tag">🛠️ AI工具 ({{ len site.Data.tools }})</a>
-            <a href="{{ relURL "/models/" }}" class="tag">🧠 AI模型 ({{ len site.Data.models }})</a>
-            <a href="{{ relURL "/agents/" }}" class="tag">🤖 AI Agent ({{ len site.Data.agents }})</a>
-            <a href="{{ relURL "/news/" }}" class="tag">📰 AI新闻 ({{ len site.Data.news }})</a>
-            <a href="{{ relURL "/providers/" }}" class="tag">🏢 提供商 ({{ len site.Data.providers }})</a>
+            <a href="{{ relURL "/tools/" }}" class="tag">🛠️ Tools ({{ len site.Data.tools }})</a>
+            <a href="{{ relURL "/models/" }}" class="tag">🧠 Models ({{ len site.Data.models }})</a>
+            <a href="{{ relURL "/agents/" }}" class="tag">🤖 Agents ({{ len site.Data.agents }})</a>
+            <a href="{{ relURL "/news/" }}" class="tag">📰 News ({{ len site.Data.news }})</a>
+            <a href="{{ relURL "/providers/" }}" class="tag">🏢 Providers ({{ len site.Data.providers }})</a>
         </div>
     </div>
 
-    <!-- 随机发现 -->
+    <!-- Random discover -->
     <div class="card">
-        <div class="card-title">🎲 随机发现</div>
-        <button class="random-btn" onclick="randomTool()">🎲 点我换个工具</button>
+        <div class="card-title">🎲 Discover Random</div>
+        <button class="random-btn" onclick="randomTool()">🎲 Shuffle</button>
         <div id="randomResult" style="margin-top:12px"></div>
     </div>
 
-    <!-- 每日签到 -->
+    <!-- Daily check-in -->
     <div class="card" style="border-left:3px solid var(--green)">
-        <div class="card-title">📅 每日签到</div>
+        <div class="card-title">📅 Daily Check-in</div>
         <div id="checkinStatus" style="margin-bottom:12px">
             <button id="checkinBtn" onclick="dailyCheckin()" style="width:100%;padding:12px;background:var(--accent);border:none;border-radius:8px;color:white;font-size:14px;font-weight:600;cursor:pointer;transition:all 0.2s">
-                ✅ 点击签到
+                ✅ Check in
             </button>
         </div>
         <div style="display:flex;gap:12px;font-size:12px;color:var(--text3)">
-            <div>🔥 连续签到: <span id="checkinStreak" style="color:var(--accent);font-weight:600">0</span> 天</div>
-            <div>📊 总签到: <span id="totalCheckins" style="color:var(--green);font-weight:600">0</span> 天</div>
+            <div>🔥 Streak: <span id="checkinStreak" style="color:var(--accent);font-weight:600">0</span> days</div>
+            <div>📊 Total: <span id="totalCheckins" style="color:var(--green);font-weight:600">0</span> days</div>
         </div>
         <div id="checkinReward" style="margin-top:8px;font-size:12px;color:var(--green);display:none"></div>
     </div>
 
-    <!-- 分享功能 -->
+    <!-- Share -->
     <div class="card">
-        <div class="card-title">📢 分享给朋友</div>
+        <div class="card-title">📢 Share</div>
         <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <button onclick="shareToWeixin()" style="padding:8px 16px;background:#07C160;border:none;border-radius:6px;color:white;font-size:12px;cursor:pointer">微信</button>
-            <button onclick="shareToWeibo()" style="padding:8px 16px;background:#E6162D;border:none;border-radius:6px;color:white;font-size:12px;cursor:pointer">微博</button>
-            <button onclick="shareToTwitter()" style="padding:8px 16px;background:#1DA1F2;border:none;border-radius:6px;color:white;font-size:12px;cursor:pointer">Twitter</button>
-            <button onclick="copyLink()" style="padding:8px 16px;background:var(--bg3);border:1px solid var(--border);border-radius:6px;color:var(--text2);font-size:12px;cursor:pointer">📋 复制链接</button>
+            <button onclick="shareToTwitter()" style="padding:8px 16px;background:#1DA1F2;border:none;border-radius:6px;color:white;font-size:12px;cursor:pointer">Twitter / X</button>
+            <button onclick="shareToLinkedIn()" style="padding:8px 16px;background:#0A66C2;border:none;border-radius:6px;color:white;font-size:12px;cursor:pointer">LinkedIn</button>
+            <button onclick="copyLink()" style="padding:8px 16px;background:var(--bg3);border:1px solid var(--border);border-radius:6px;color:var(--text2);font-size:12px;cursor:pointer">📋 Copy link</button>
         </div>
     </div>
 
-    <!-- 新收录 -->
+    <!-- Recently added -->
     <div class="card">
-        <div class="card-title">🆕 新收录</div>
+        <div class="card-title">🆕 Recently Added</div>
         {{ $tools := site.Data.tools }}
         {{ if $tools }}
             {{ $count := 0 }}
@@ -258,20 +257,20 @@
                 {{ end }}
             {{ end }}
             {{ if eq $count 0 }}
-            <div style="color:var(--text3);font-size:13px;padding:12px 0">暂无新收录工具</div>
+            <div style="color:var(--text3);font-size:13px;padding:12px 0">No new tools yet</div>
             {{ end }}
         {{ end }}
     </div>
 
-    <!-- 本周变化 -->
+    <!-- Weekly summary -->
     <div class="card" id="weeklyDigest" style="display:none;border-left:3px solid var(--green)">
-        <div class="card-title">📊 本周摘要</div>
+        <div class="card-title">📊 Weekly Summary</div>
         <div id="weeklyContent" style="font-size:13px;color:var(--text2);line-height:1.8"></div>
     </div>
 
-    <!-- 实时关键词 -->
+    <!-- Trending keywords -->
     <div class="card">
-        <div class="card-title">🔑 热搜关键词</div>
+        <div class="card-title">🔑 Trending Keywords</div>
         {{ $seo := site.Data.seo }}
         {{ if $seo }}
             <div style="display:flex;flex-wrap:wrap;gap:6px">
@@ -282,22 +281,22 @@
                 <a href="{{ relURL "/search/" }}?q={{ . | urlquery }}" class="tag">{{ . }}</a>
                 {{ end }}
             </div>
-            <div style="font-size:12px;color:var(--text3);margin-top:10px">点击关键词可直达站内搜索结果</div>
+            <div style="font-size:12px;color:var(--text3);margin-top:10px">Click any keyword to search across Sept-AI</div>
         {{ end }}
     </div>
 
-    <!-- 更新日志 -->
+    <!-- Update status -->
     <div class="card">
-        <div class="card-title">🕐 更新状态</div>
+        <div class="card-title">🕐 Update Status</div>
         {{ $meta := site.Data.meta }}
         {{ if $meta }}
         <div style="font-size:13px;color:var(--text2)">
-            <p>🕐 最后更新：{{ $meta.last_update }}</p>
+            <p>🕐 Last updated: {{ $meta.last_update }}</p>
         </div>
         {{ end }}
         <div style="font-size:12px;color:var(--text3);margin-top:8px">
-            <p>每6小时自动更新</p>
-            <p>08:00 / 14:00 / 20:00 / 02:00</p>
+            <p>Auto-refresh every 6 hours</p>
+            <p>08:00 / 14:00 / 20:00 / 02:00 UTC</p>
         </div>
     </div>
 </div>
@@ -322,7 +321,7 @@ function randomTool() {
         '</div>';
 }
 
-// 搜索功能
+// Search data
 const searchData = {
     tools: {{ site.Data.tools | jsonify | safeJS }} || [],
     models: {{ site.Data.models | jsonify | safeJS }} || [],
@@ -335,7 +334,7 @@ function searchAll(query) {
     const q = query.toLowerCase().trim();
     const results = [];
 
-    // 搜索工具
+    // Search tools
     searchData.tools.forEach(item => {
         const text = [item.name, item.description, item.category, item.pricing, ...(item.tags || [])].join(' ').toLowerCase();
         if (text.includes(q)) {
@@ -343,7 +342,7 @@ function searchAll(query) {
         }
     });
 
-    // 搜索模型
+    // Search models
     searchData.models.forEach(item => {
         const text = [item.name, item.display_name, item.author, item.pipeline_tag].join(' ').toLowerCase();
         if (text.includes(q)) {
@@ -351,7 +350,7 @@ function searchAll(query) {
         }
     });
 
-    // 搜索Agent
+    // Search agents
     searchData.agents.forEach(item => {
         const text = [item.name, item.description, item.type, item.pricing].join(' ').toLowerCase();
         if (text.includes(q)) {
@@ -359,7 +358,7 @@ function searchAll(query) {
         }
     });
 
-    // 搜索新闻（限制前5条）
+    // Search news (cap at 5)
     let newsCount = 0;
     searchData.news.forEach(item => {
         if (newsCount >= 5) return;
@@ -370,7 +369,7 @@ function searchAll(query) {
         }
     });
 
-    return results.slice(0, 20); // 最多显示20条
+    return results.slice(0, 20);
 }
 
 function renderSearchResults(results) {
@@ -382,7 +381,7 @@ function renderSearchResults(results) {
     }
 
     let html = '<div style="background:var(--bg2);border:1px solid var(--border);border-radius:8px;margin-top:8px;max-height:400px;overflow-y:auto">';
-    html += '<div style="padding:8px 12px;font-size:12px;color:var(--text3);border-bottom:1px solid var(--border)">找到 ' + results.length + ' 个结果</div>';
+    html += '<div style="padding:8px 12px;font-size:12px;color:var(--text3);border-bottom:1px solid var(--border)">' + results.length + ' result' + (results.length === 1 ? '' : 's') + '</div>';
 
     results.forEach(item => {
         html += '<a href="' + item.url + '" target="_blank" style="display:block;padding:10px 12px;border-bottom:1px solid var(--border);text-decoration:none;color:inherit">';
@@ -401,7 +400,7 @@ function renderSearchResults(results) {
     container.style.display = 'block';
 }
 
-// 搜索输入事件
+// Search input (debounced)
 let searchTimeout;
 document.getElementById('searchInput').addEventListener('input', function(e) {
     clearTimeout(searchTimeout);
@@ -409,17 +408,17 @@ document.getElementById('searchInput').addEventListener('input', function(e) {
     searchTimeout = setTimeout(() => {
         const results = searchAll(query);
         renderSearchResults(results);
-    }, 200); // 200ms 防抖
+    }, 200);
 });
 
-// 点击其他地方关闭搜索结果
+// Close search results on outside click
 document.addEventListener('click', function(e) {
     if (!e.target.closest('#searchInput') && !e.target.closest('#searchResults')) {
         document.getElementById('searchResults').style.display = 'none';
     }
 });
 
-// Ctrl+K 聚焦搜索框
+// Ctrl+K to focus search
 document.addEventListener('keydown', function(e) {
     if((e.ctrlKey || e.metaKey) && e.key === 'k') {
         e.preventDefault();
@@ -431,7 +430,7 @@ document.addEventListener('keydown', function(e) {
     }
 });
 
-// 回车跳转搜索页
+// Enter → go to full search page
 document.getElementById('searchInput').addEventListener('keydown', function(e) {
     if (e.key === 'Enter') {
         const q = e.target.value.trim();
@@ -439,9 +438,9 @@ document.getElementById('searchInput').addEventListener('keydown', function(e) {
     }
 });
 
-// 连续访问里程碑
+// Streak + milestones
 (function(){
-    const key = 'aihot_streak';
+    const key = 'septai_streak';
     const today = new Date().toISOString().slice(0,10);
     let data = JSON.parse(localStorage.getItem(key) || '{"streak":0,"last":"","milestones":[]}');
     let milestone = '';
@@ -454,11 +453,11 @@ document.getElementById('searchInput').addEventListener('keydown', function(e) {
         localStorage.setItem(key, JSON.stringify(data));
     }
 
-    // 里程碑
+    // Milestones
     const ms = [3, 7, 14, 30, 60, 100];
     for (const m of ms) {
         if (data.streak === m && !(data.milestones||[]).includes(m)) {
-            milestone = '🎉 恭喜！连续访问 ' + m + ' 天！';
+            milestone = '🎉 ' + m + '-day streak!';
             if (!data.milestones) data.milestones = [];
             data.milestones.push(m);
             localStorage.setItem(key, JSON.stringify(data));
@@ -468,9 +467,9 @@ document.getElementById('searchInput').addEventListener('keydown', function(e) {
 
     const el = document.getElementById('streak');
     if(data.streak > 0) {
-        let text = '🔥 连续访问 ' + data.streak + ' 天';
-        if (data.streak >= 100) text = '👑 ' + text + ' 传奇用户';
-        else if (data.streak >= 30) text = '💎 ' + text + ' 核心用户';
+        let text = '🔥 ' + data.streak + '-day streak';
+        if (data.streak >= 100) text = '👑 ' + text + ' · Legend';
+        else if (data.streak >= 30) text = '💎 ' + text + ' · Core';
         else if (data.streak >= 7) text = '⭐ ' + text;
         el.textContent = text;
     }
@@ -478,127 +477,115 @@ document.getElementById('searchInput').addEventListener('keydown', function(e) {
     if (milestone) {
         const div = document.createElement('div');
         div.style.cssText = 'position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:var(--bg2);border:2px solid var(--accent);border-radius:12px;padding:32px 48px;z-index:9999;text-align:center;box-shadow:0 8px 32px rgba(0,0,0,0.5)';
-        div.innerHTML = '<div style="font-size:48px;margin-bottom:12px">🎉</div><div style="font-size:20px;font-weight:700;color:var(--accent);margin-bottom:8px">' + milestone + '</div><div style="font-size:13px;color:var(--text2);margin-bottom:16px">感谢你的持续关注！</div><button onclick="this.parentElement.remove()" style="padding:8px 24px;background:var(--accent);border:none;border-radius:6px;color:#fff;cursor:pointer;font-size:14px">继续探索 →</button>';
+        div.innerHTML = '<div style="font-size:48px;margin-bottom:12px">🎉</div><div style="font-size:20px;font-weight:700;color:var(--accent);margin-bottom:8px">' + milestone + '</div><div style="font-size:13px;color:var(--text2);margin-bottom:16px">Thanks for being here!</div><button onclick="this.parentElement.remove()" style="padding:8px 24px;background:var(--accent);border:none;border-radius:6px;color:#fff;cursor:pointer;font-size:14px">Keep exploring →</button>';
         document.body.appendChild(div);
         setTimeout(() => div.remove(), 5000);
     }
 })();
 
-// 本周摘要
+// Weekly summary
 (function(){
     const tools = {{ site.Data.tools | jsonify | safeJS }} || [];
     const models = {{ site.Data.models | jsonify | safeJS }} || [];
     const news = {{ site.Data.news | jsonify | safeJS }} || [];
 
     const trending = tools.filter(t => t.trending).length;
-    const freeTools = tools.filter(t => t.free_quota && t.free_quota.includes('免费')).length;
+    const freeTools = tools.filter(t => t.free_quota && (t.free_quota.toLowerCase().includes('free') || t.free_quota.includes('免费'))).length;
     const el = document.getElementById('weeklyDigest');
     const content = document.getElementById('weeklyContent');
 
     if (tools.length > 0) {
         el.style.display = '';
-        content.innerHTML = '📊 收录 <strong style="color:var(--accent)">' + tools.length + '</strong> 个 AI 工具 · '
-            + '<strong style="color:var(--accent)">' + models.length + '</strong> 个模型 · '
-            + '<strong style="color:var(--accent)">' + news.length + '</strong> 条新闻<br>'
-            + '🔥 其中 <strong>' + trending + '</strong> 个热门工具 · '
-            + '🎁 <strong>' + freeTools + '</strong> 个有免费额度<br>'
-            + '📰 每6小时自动更新，数据开源透明';
+        content.innerHTML = '📊 Cataloged <strong style="color:var(--accent)">' + tools.length + '</strong> AI tools · '
+            + '<strong style="color:var(--accent)">' + models.length + '</strong> models · '
+            + '<strong style="color:var(--accent)">' + news.length + '</strong> articles<br>'
+            + '🔥 including <strong>' + trending + '</strong> hot picks · '
+            + '🎁 <strong>' + freeTools + '</strong> with a free tier<br>'
+            + '📰 Auto-refreshed every 6h · all data open-source';
     }
 })();
 
-// 每日签到系统
+// Daily check-in
 function dailyCheckin() {
-    const key = 'aihot_checkin';
+    const key = 'septai_checkin';
     const today = new Date().toISOString().slice(0, 10);
     let data = JSON.parse(localStorage.getItem(key) || '{"streak":0,"last":"","total":0,"history":[]}');
-    
+
     if (data.last === today) {
-        document.getElementById('checkinReward').textContent = '⏰ 今天已经签到过了';
+        document.getElementById('checkinReward').textContent = '⏰ Already checked in today';
         document.getElementById('checkinReward').style.display = 'block';
         document.getElementById('checkinReward').style.color = 'var(--text3)';
         return;
     }
-    
-    // 计算连续签到
+
     const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
     if (data.last === yesterday) {
         data.streak++;
     } else {
         data.streak = 1;
     }
-    
+
     data.last = today;
     data.total++;
     if (!data.history) data.history = [];
     data.history.push(today);
-    
+
     localStorage.setItem(key, JSON.stringify(data));
     updateCheckinUI();
-    
-    // 显示奖励
+
     let reward = '';
-    if (data.streak === 7) reward = '🎉 连续签到7天！解锁「坚持达人」称号';
-    else if (data.streak === 30) reward = '🏆 连续签到30天！解锁「AI探索者」称号';
-    else if (data.streak === 100) reward = '👑 连续签到100天！解锁「传奇用户」称号';
-    else if (data.streak % 10 === 0) reward = '🔥 连续签到' + data.streak + '天！继续加油！';
-    else reward = '✅ 签到成功！连续签到 ' + data.streak + ' 天';
-    
+    if (data.streak === 7) reward = '🎉 7-day streak! "Consistent" badge unlocked';
+    else if (data.streak === 30) reward = '🏆 30-day streak! "AI Explorer" badge unlocked';
+    else if (data.streak === 100) reward = '👑 100-day streak! "Legend" badge unlocked';
+    else if (data.streak % 10 === 0) reward = '🔥 ' + data.streak + '-day streak! Keep going!';
+    else reward = '✅ Checked in! ' + data.streak + '-day streak';
+
     document.getElementById('checkinReward').textContent = reward;
     document.getElementById('checkinReward').style.display = 'block';
     document.getElementById('checkinReward').style.color = 'var(--green)';
-    
-    // 按钮反馈
+
     const btn = document.getElementById('checkinBtn');
-    btn.textContent = '✅ 已签到';
+    btn.textContent = '✅ Checked in';
     btn.style.background = 'var(--green)';
     btn.disabled = true;
 }
 
 function updateCheckinUI() {
-    const key = 'aihot_checkin';
+    const key = 'septai_checkin';
     const today = new Date().toISOString().slice(0, 10);
     let data = JSON.parse(localStorage.getItem(key) || '{"streak":0,"last":"","total":0}');
-    
+
     document.getElementById('checkinStreak').textContent = data.streak || 0;
     document.getElementById('totalCheckins').textContent = data.total || 0;
-    
+
     if (data.last === today) {
         const btn = document.getElementById('checkinBtn');
-        btn.textContent = '✅ 已签到';
+        btn.textContent = '✅ Checked in';
         btn.style.background = 'var(--green)';
         btn.disabled = true;
     }
 }
 
-// 初始化签到状态
+// Init check-in state
 updateCheckinUI();
 
-// 分享功能
-function shareToWeixin() {
-    const url = encodeURIComponent(window.location.href);
-    const title = encodeURIComponent('AI热榜 - 每6小时更新的中文AI工具导航站');
-    // 微信分享需要使用微信JS-SDK，这里提供复制链接的方式
-    copyLink();
-    alert('链接已复制，请在微信中粘贴分享给朋友！');
-}
-
-function shareToWeibo() {
-    const url = encodeURIComponent(window.location.href);
-    const title = encodeURIComponent('发现一个超棒的AI工具导航站 - AI热榜！每6小时更新，涵盖AI模型、工具、Agent、新闻。');
-    window.open('https://service.weibo.com/share/share.php?url=' + url + '&title=' + title, '_blank');
-}
-
+// Share functions
 function shareToTwitter() {
     const url = encodeURIComponent(window.location.href);
-    const text = encodeURIComponent('发现一个超棒的AI工具导航站 - AI热榜！每6小时自动更新，涵盖AI模型、工具、Agent、新闻。#AI #人工智能');
-    window.open('https://twitter.com/intent/tweet?url=' + url + '&text=' + text, '_blank');
+    const text = encodeURIComponent('Sept-AI — a curated AI navigator, refreshed every 6h. Tools, models, agents, news.');
+    window.open('https://twitter.com/intent/tweet?url=' + url + '&text=' + text + '&hashtags=AI,LLM', '_blank');
+}
+
+function shareToLinkedIn() {
+    const url = encodeURIComponent(window.location.href);
+    window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + url, '_blank');
 }
 
 function copyLink() {
     navigator.clipboard.writeText(window.location.href).then(() => {
         const btn = event.target;
         const originalText = btn.textContent;
-        btn.textContent = '✅ 已复制';
+        btn.textContent = '✅ Copied';
         setTimeout(() => btn.textContent = originalText, 2000);
     });
 }
