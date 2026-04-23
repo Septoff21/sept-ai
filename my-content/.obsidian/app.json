@@ -1,0 +1,10 @@
+{
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "50-My-Knowledge/attachments",
+  "useMarkdownLinks": false,
+  "showLineNumber": true,
+  "showFrontmatter": true
+}

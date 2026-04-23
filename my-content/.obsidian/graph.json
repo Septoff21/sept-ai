@@ -1,0 +1,39 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:00-Scraped/EN",
+      "color": { "a": 1, "rgb": 4677371 }
+    },
+    {
+      "query": "path:00-Scraped/CN",
+      "color": { "a": 1, "rgb": 15231344 }
+    },
+    {
+      "query": "path:50-My-Knowledge",
+      "color": { "a": 1, "rgb": 5419488 }
+    },
+    {
+      "query": "path:10-Tools",
+      "color": { "a": 1, "rgb": 14725458 }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}
