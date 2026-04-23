@@ -1,29 +1,30 @@
-baseURL = "https://sept-ai.netlify.app/"
-languageCode = "en"
-title = "Sept-AI — Your AI Navigator & Knowledge Hub"
+baseURL                = "https://sept-ai.netlify.app/"
+languageCode           = "en"
+title                  = "Sept-AI — Your AI Navigator & Knowledge Hub"
 defaultContentLanguage = "en"
-hasCJKLanguage = true
+hasCJKLanguage         = true
+# Disable taxonomy/term pages (tags contain # chars that break Netlify)
+disableKinds           = ["taxonomy", "term", "RSS"]
+
 [pagination]
   pagerSize = 20
 
 [params]
   description = "Sept-AI is a curated, auto-updating navigator for AI tools, models, agents, and news — paired with a personal knowledge vault. 170+ tools, 40+ sources, refreshed every 6 hours."
-  keywords = "AI tools, AI navigator, LLM directory, AI models, AI agents, Claude, GPT, Gemini, Cursor, AI news, Anthropic, OpenAI, DeepMind, HuggingFace"
-  author = "Septoff21"
-  tagline = "Discover. Learn. Build."
-  email = "septoff21@gmail.com"
-  github = "https://github.com/Septoff21/sept-ai"
+  keywords    = "AI tools, AI navigator, LLM directory, AI models, AI agents, Claude, GPT, Gemini, Cursor, AI news, Anthropic, OpenAI, DeepMind, HuggingFace"
+  author      = "Septoff21"
+  tagline     = "Discover. Learn. Build."
+  email       = "septoff21@gmail.com"
+  github      = "https://github.com/Septoff21/sept-ai"
 
 [params.homepage]
   showSpotlight = true
-  showTrending = true
-  showHotNews = true
+  showTrending  = true
+  showHotNews   = true
 
 [params.seo]
-  ogImage = "/logos/logo.png"
+  ogImage     = "/logos/logo.png"
   twitterCard = "summary_large_image"
-
-disableKinds = ["taxonomy", "term"]
 
 [markup]
   [markup.goldmark]
@@ -31,7 +32,7 @@ disableKinds = ["taxonomy", "term"]
       unsafe = true
 
 [outputs]
-  home    = ["HTML", "RSS", "JSON"]
+  home    = ["HTML", "JSON"]
   section = ["HTML"]
   page    = ["HTML"]
 
@@ -43,55 +44,52 @@ disableKinds = ["taxonomy", "term"]
 [minify]
   disableXML = false
 
-# ───── Primary navigation (English, Lucide icons rendered in templates) ─────
+# ───── Navigation ─────────────────────────────────────────────────────────
 
 [[menu.main]]
   name = "Trending"
-  pre = "flame"
-  url = "/"
+  pre  = "flame"
+  url  = "/"
   weight = 1
 
 [[menu.main]]
   name = "Tools"
-  pre = "wrench"
-  url = "/tools/"
+  pre  = "wrench"
+  url  = "/tools/"
   weight = 2
 
 [[menu.main]]
   name = "Models"
-  pre = "brain"
-  url = "/models/"
+  pre  = "brain"
+  url  = "/models/"
   weight = 3
 
 [[menu.main]]
   name = "Agents"
-  pre = "bot"
-  url = "/agents/"
+  pre  = "bot"
+  url  = "/agents/"
   weight = 4
 
 [[menu.main]]
   name = "News"
-  pre = "newspaper"
-  url = "/news/"
+  pre  = "newspaper"
+  url  = "/news/"
   weight = 5
 
 [[menu.main]]
   name = "Providers"
-  pre = "building"
-  url = "/providers/"
+  pre  = "building"
+  url  = "/providers/"
   weight = 6
 
 [[menu.main]]
   name = "Daily"
-  pre = "sun"
-  url = "/daily/"
+  pre  = "sun"
+  url  = "/daily/"
   weight = 7
 
 [[menu.main]]
   name = "Me"
-  pre = "user"
-  url = "/me/"
+  pre  = "user"
+  url  = "/me/"
   weight = 8
-
-# Search & Compare are intentionally hidden from the nav (kept as routes)
-# They will be re-exposed in a future iteration.
