@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.env
+*.log
+site/public/
+site/resources/
+.DS_Store
+
+# Obsidian workspace (keep config, ignore per-user state)
+my-content/.obsidian/workspace*
+my-content/.obsidian/cache
+my-content/.trash/
+
+# Hugo
+site/.hugo_build.lock
+
+# Editor
+.vscode/
+.idea/
