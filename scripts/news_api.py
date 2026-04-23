@@ -6,6 +6,7 @@ import json
 from datetime import datetime
 
 from news_rss import strip_html, is_ai_related
+from vault_writer import write_news_batch
 
 try:
     import requests
@@ -35,6 +36,7 @@ def collect_hn():
                 "url": hit.get("url") or f"https://news.ycombinator.com/item?id={hit['objectID']}",
                 "source": "Hacker News",
                 "lang": "en",
+                "channel": "en",
                 "published": hit.get("created_at", ""),
                 "summary": summary,
                 "points": hit.get("points", 0),
@@ -67,6 +69,7 @@ def collect_reddit():
                     "url": f"https://reddit.com{d.get('permalink', '')}",
                     "source": f"r/{sub}",
                     "lang": "en",
+                    "channel": "en",
                     "published": datetime.fromtimestamp(d.get("created_utc", 0)).isoformat(),
                     "summary": summary,
                     "points": d.get("score", 0),
@@ -93,6 +96,7 @@ def collect_v2ex():
                     "url": topic.get("url", ""),
                     "source": "V2EX",
                     "lang": "zh",
+                    "channel": "cn",
                     "published": topic.get("created", ""),
                     "summary": summary,
                     "collected_at": datetime.now().isoformat(),
@@ -139,5 +143,13 @@ def collect_api_news():
 
     with open(news_path, "w", encoding="utf-8") as f:
         json.dump(combined, f, ensure_ascii=False, indent=2)
+
+    # Sept-AI: mirror new items into Obsidian vault
+    try:
+        stats = write_news_batch(new_items)
+        print(f"  📝 Vault: +{stats['written']} md files "
+              f"({stats['en']} EN / {stats['cn']} CN, skipped {stats['skipped']})")
+    except Exception as e:
+        print(f"  ⚠️ Vault write failed: {e}")
 
     return f"{len(new_items)} 条新新闻 (总计 {len(combined)})"

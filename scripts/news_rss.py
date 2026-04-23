@@ -15,6 +15,15 @@ except ImportError:
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 
+# Vault writer (Sept-AI extension — writes md files into Obsidian vault)
+try:
+    from vault_writer import write_news_batch
+except ImportError:
+    # Allow running from other cwd
+    import sys
+    sys.path.insert(0, os.path.dirname(__file__))
+    from vault_writer import write_news_batch
+
 # AI 专用 RSS 源
 RSS_SOURCES = [
     # 中文 AI 专用源 (Priority 1)
@@ -159,6 +168,7 @@ def collect_rss_news():
                     "url": entry.link,
                     "source": source["name"],
                     "lang": source["lang"],
+                    "channel": "cn" if source["lang"] == "zh" else "en",
                     "priority": source["priority"],
                     "published": published.isoformat() if published else None,
                     "summary": summary,
@@ -218,6 +228,14 @@ def collect_rss_news():
 
     with open(news_path, "w", encoding="utf-8") as f:
         json.dump(combined, f, ensure_ascii=False, indent=2)
+
+    # Sept-AI: mirror new items into Obsidian vault
+    try:
+        stats = write_news_batch(new_items)
+        print(f"  📝 Vault: +{stats['written']} md files "
+              f"({stats['en']} EN / {stats['cn']} CN, skipped {stats['skipped']})")
+    except Exception as e:
+        print(f"  ⚠️ Vault write failed: {e}")
 
     return f"{len(new_items)} 条新新闻 (总计 {len(combined)})"
 

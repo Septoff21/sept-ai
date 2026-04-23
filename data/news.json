@@ -1,5 +1,221 @@
 [
   {
+    "id": "4a40c83c1c06",
+    "title": "Gemini CLI 引入子代理机制，实现任务委派与并行代理工作流",
+    "url": "https://www.infoq.cn/article/50eZYcehCtQuxKoTcLhS?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-23T11:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-23T13:24:07.034545"
+  },
+  {
+    "id": "dba35587a36b",
+    "title": "清华系团队星工聚将完成数千万天使轮融资，轮式机器人拿下头部制造企业亿级大单",
+    "url": "https://www.infoq.cn/article/BSZXO0VGFlBkmIke18ht?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-23T10:21:18",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-23T13:24:07.034620"
+  },
+  {
+    "id": "8309d66298c8",
+    "title": "靠“AI 云”爆红的 Vercel，栽在一个第三方AI工具手里！IPO前夕遭黑，200万美元赎金谈崩？",
+    "url": "https://www.infoq.cn/article/OJN55xPWaVxT2IajEw6G?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-23T09:58:12",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-23T13:24:07.034764"
+  },
+  {
+    "id": "d4f0b8ed91f6",
+    "title": "字节跳动发布3D生成大模型Seed3D 2.0",
+    "url": "https://36kr.com/newsflashes/3778928879129865?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-23T04:45:14",
+    "summary": "36氪获悉，字节跳动正式发布更高精度的新一代3D生成大模型——Seed3D 2.0。据介绍，该模型采用MoE架构，通过稀疏专家路由，在扩大模型参数量和分辨率的同时控制推理计算量，使模型能生成更丰富的纹理细节和更精确的金属-粗糙度边界。目前Seed3D 2.0技术报告已公开，API也已上线火山引擎。",
+    "collected_at": "2026-04-23T13:24:05.086114"
+  },
+  {
+    "id": "7f8c010fc429",
+    "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+    "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-23T04:38:45",
+    "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+    "collected_at": "2026-04-23T13:23:54.707316"
+  },
+  {
+    "id": "5ce8c48fc0d5",
+    "title": "抖音整治AI不当内容，重点处置利用AI技术换脸、盗声",
+    "url": "https://36kr.com/newsflashes/3778909321008130?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-23T04:31:11",
+    "summary": "36氪获悉，近日，抖音正式发布“AI生成不当内容及侵犯他人权益”的专项治理公告。公告对外披露了阶段性治理成效，截至目前已累计下架AI侵权视频超53.8万条，处罚违规账号4000余个，同时明确了重点整治场景与长效管控举措。平台将重点处置利用AI技术换脸、盗声，利用AI生成内容仿冒、蹭热他人等典型违规行为。",
+    "collected_at": "2026-04-23T13:24:05.086275"
+  },
+  {
+    "id": "80b6460478a9",
+    "title": "恒辉安防：“公司腱绳海外送样被否决”的信息不实",
+    "url": "https://36kr.com/newsflashes/3778884242723843?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-23T04:25:44",
+    "summary": "36氪获悉，针对投资者关于“ 据说公司腱绳海外送样被否决了，是不是真的？”的提问，恒辉安防4月23日在互动平台回应称，“公司腱绳海外送样被否决”的信息不实。目前，公司超高分子量聚乙烯纤维腱绳产品正持续向国内外多家机器人本体及灵巧手企业开展多轮送样与适配验证，相关合作处于稳步推进的技术对接与性能优化阶段，不存在“被否决”或“被踢出合作”的情况。机器人核心部件行业的客户验证本就是一个需多轮迭代、持续沟通优化的过程，公司将根据客户反馈持续精进产品性能，推动合作深入落地。",
+    "collected_at": "2026-04-23T13:24:05.086393"
+  },
+  {
+    "id": "8bbab17a478d",
+    "title": "36氪官方AI专属社群，正式开放招募！",
+    "url": "https://36kr.com/p/3777870287737860?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-23T03:31:49",
+    "summary": "36氪AI测评官方社群现已正式开放， 从入门认知到实战应用，从工具使用到项目落地。 36氪AI测评正式开放三大垂直社群：AI启航群、AI实战群、OPC超级个体群。面向不同阶段、不同目标的用户，帮助你更高效地理解AI、使用AI，并推动真实成长与结果落地。 为什么要做三大专属社群？ AI 已经从“了解一下”走向“真正使用”。不同用户所处阶段不同，关注的问题也不同。有人需要从零开始建立基础认知，有人希望提升日常实操能力，也有人更关注如何借助 AI 推动项目落地、个人增长与资源连接。基于此，36氪AI测评围绕用户的不同阶段与需求，帮助每一类用户都能找到更适合自己的交流空间与成长路径。 三大社群",
+    "collected_at": "2026-04-23T13:24:05.082604"
+  },
+  {
+    "id": "11b417388d9c",
+    "title": "36氪首发 | 清华、哈工大团队做灵巧手，成本降到三分之一，三个月融资近亿元",
+    "url": "https://36kr.com/p/3778730451391751?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-23T01:24:26",
+    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市星际光年科技有限公司（以下简称“星际光年”）近日完成新一轮融资，本轮由顺创产投领投，老股东云时资本持续加注，微星宁元跟投。 至此，公司在过去三个月内连续完成两轮融资，累计融资规模近亿元。本轮融资将主要用于通用灵巧操作平台在真实工业场景落地、产品持续完善、规模化产线升级及全球团队生态建设。 星际光年专注于灵巧手及通用操作平台的研发与商业化，核心团队来自清华大学、哈尔滨工业大学、香港大学、香港科技大学、美国西北大学等海内外顶尖高校，在机器人灵巧操作领域拥有深厚的技术积累与产业洞察。 技术路线上，星际光年坚持绳驱与直驱并行的双轨战略：一方面，以技术",
+    "collected_at": "2026-04-23T13:24:05.083017"
+  },
+  {
+    "id": "3e3929c80d72",
+    "title": "挖漏洞何必Mythos，国产智能体早跑通了",
+    "url": "https://www.qbitai.com/2026/04/405299.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-23T00:43:41",
+    "summary": "360智能体已经开始批量挖洞",
+    "collected_at": "2026-04-23T13:23:33.155304"
+  },
+  {
+    "id": "0430aaa7b8ec",
+    "title": "开年连融两轮的“可以玩的抖音”，又融了5000万美金｜涌现新项目",
+    "url": "https://36kr.com/p/3778135439709446?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-23T00:30:30",
+    "summary": "文｜周鑫雨 编辑｜杨轩 一句话介绍 成立于2025年6月的“涌跃智能”，是《智能涌现》曾报道过的AI创业公司。 其旗下产品Loopit，好比“可以玩的抖音”，是一个面向C端的AI互动内容平台，覆盖可交互内容的创作、分发和消费。 基于自研的“AI Coding+多模态生成”的互动引擎，用户既可以与社区中的内容互动，也可以创作、发表支持图像、语音、视频、3D等全模态可交互互动内容。 团队介绍 “涌跃智能”创始团队，主要出身于“AI六小虎”百川智能的核心团队。 “涌跃智能”联合创始人兼CEO陈炜鹏，前百川智能的联合创始人兼大模型负责人，主导了BaiChuan 1-4等大模型的训练。 此前，他的职业路",
+    "collected_at": "2026-04-23T13:24:05.083371"
+  },
+  {
+    "id": "e4062796e839",
+    "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+    "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T23:56:52",
+    "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+    "collected_at": "2026-04-23T13:23:54.707436"
+  },
+  {
+    "id": "f7fd414c02ef",
+    "title": "Google updates Workspace to make AI your new office intern",
+    "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T22:44:26",
+    "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+    "collected_at": "2026-04-23T13:23:54.707499"
+  },
+  {
+    "id": "9eb2b0e55870",
+    "title": "Hands on with X’s new AI-powered custom feeds",
+    "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T22:25:53",
+    "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+    "collected_at": "2026-04-23T13:23:54.707578"
+  },
+  {
+    "id": "2317e5162102",
+    "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+    "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T20:29:05",
+    "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"strikin",
+    "collected_at": "2026-04-23T13:23:54.869630"
+  },
+  {
+    "id": "fd327973c200",
+    "title": "OpenAI now lets teams make custom bots that can do work on their own",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T20:09:02",
+    "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and",
+    "collected_at": "2026-04-23T13:23:54.869723"
+  },
+  {
+    "id": "d6cf1e9ed24f",
+    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T19:51:51",
+    "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+    "collected_at": "2026-04-23T13:23:54.707646"
+  },
+  {
+    "id": "ee206c36cfa4",
+    "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+    "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-22T19:32:56",
+    "summary": "When authentication fails, things can go very, very wrong.",
+    "collected_at": "2026-04-23T13:23:55.573582"
+  },
+  {
     "id": "7a9b70440e6e",
     "title": "高能研讨会｜端侧 AI 正在重写实时感知效率上限",
     "url": "https://www.infoq.cn/video/UJySiBqf8hEsjBTWqpHS?utm_source=rss&utm_medium=article",
@@ -11,15 +227,64 @@
     "collected_at": "2026-04-22T13:10:17.491568"
   },
   {
-    "id": "23dd20ec4376",
-    "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
-    "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+    "id": "8c84cde7c5be",
+    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+    "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
     "source": "TechCrunch AI",
     "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-04-22T13:00:00",
-    "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
-    "collected_at": "2026-04-22T13:10:12.144135"
+    "published": "2026-04-22T18:39:27",
+    "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+    "collected_at": "2026-04-23T13:23:54.707738"
+  },
+  {
+    "id": "d2b97f2e25ba",
+    "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+    "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T17:43:38",
+    "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human player",
+    "collected_at": "2026-04-23T13:23:54.869861"
+  },
+  {
+    "id": "60bed5129fad",
+    "title": "Google turns Chrome into an AI co-worker for the workplace",
+    "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T17:30:00",
+    "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+    "collected_at": "2026-04-23T13:23:54.707799"
+  },
+  {
+    "id": "662d43daa6cf",
+    "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+    "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T16:58:27",
+    "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+    "collected_at": "2026-04-23T13:23:54.707869"
+  },
+  {
+    "id": "adeb3edf6136",
+    "title": "Anthropic&#8217;s Mythos rollout has missed America’s cybersecurity agency",
+    "url": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T16:57:36",
+    "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinator. On Tuesday, Axios reported that the Cybersecurity and Infrastructure Security Agency (CISA) didn'",
+    "collected_at": "2026-04-23T13:23:54.870033"
   },
   {
     "id": "6c675e87f2f0",
@@ -33,15 +298,28 @@
     "collected_at": "2026-04-22T13:10:17.491662"
   },
   {
-    "id": "f31cf4652724",
-    "title": "谷歌云AI使用量达到每分钟160亿Tokens",
-    "url": "https://36kr.com/newsflashes/3777977546101766?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-04-22T12:37:29",
-    "summary": "谷歌表示，通过客户直接使用API，现在每分钟处理超过160亿Tokens，高于上季度的100亿个。（财联社）",
-    "collected_at": "2026-04-22T13:10:16.402618"
+    "id": "a972c730fe19",
+    "title": "AI Overviews are coming to your Gmail at work",
+    "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T16:46:10",
+    "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+    "collected_at": "2026-04-23T13:23:54.707922"
+  },
+  {
+    "id": "724e8fcae112",
+    "title": "Google Meet will take AI notes for in-person meetings too",
+    "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T16:38:19",
+    "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as first reported by 9to5Google. Support for in-person meetings was previously limited to alpha users an",
+    "collected_at": "2026-04-23T13:23:54.870114"
   },
   {
     "id": "08ac11fc1cdb",
@@ -61,17 +339,6 @@
     "summary_zh": "这篇文章没有把重点放在 Kimi K2.6 的榜单成绩，而是转向更关键的问题：当模型进入 Agent 时代，评估标准已经从单次答题，转向多步执行、对象管理和持续维护能力。作者用 AI Wiki 这类高压任务来测试模型是否真的能把“生成”推进到“系统构建”。"
   },
   {
-    "id": "1d6cf28191fb",
-    "title": "谷歌云发布用于人工智能的新型TPU芯片",
-    "url": "https://36kr.com/newsflashes/3777953384748033?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 4,
-    "published": "2026-04-22T12:12:55",
-    "summary": "4月22日，谷歌云发布最新一代张量处理单元（TPU），旨在提升人工智能计算服务的速度和效率。全新TPU系列将推出两个版本：TPU 8t用于创建AI软件，TPU 8i用于运行已创建的AI服务。（界面）",
-    "collected_at": "2026-04-22T13:10:16.402725"
-  },
-  {
     "id": "62f1d3326d78",
     "title": "百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力",
     "url": "https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&utm_medium=article",
@@ -89,15 +356,16 @@
     "summary_zh": "百灵 Ling-2.6-flash 是一款 104B 总参数、7.4B 激活参数的稀疏 MoE 模型，重点强调 Token Efficiency。它在保持 Agent 基准成绩的同时，把输出 token 消耗压到同类模型的大约十分之一，更适合真实业务里的低成本、高吞吐部署。"
   },
   {
-    "id": "85469e6c3a09",
-    "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-    "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-    "source": "MIT Tech Review",
+    "id": "87f7113ad962",
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "url": "https://www.adriankrebs.ch/blog/design-slop/",
+    "source": "Hacker News AI",
     "lang": "en",
+    "channel": "en",
     "priority": 2,
-    "published": "2026-04-22T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype",
-    "collected_at": "2026-04-22T13:10:12.289219"
+    "published": "2026-04-22T14:44:32",
+    "summary": "Article URL: https://www.adriankrebs.ch/blog/design-slop/ Comments URL: https://news.ycombinator.com/item?id=47864393 Points: 294 # Comments: 213",
+    "collected_at": "2026-04-23T13:24:01.532140"
   },
   {
     "id": "4c8418ac17c0",
@@ -117,15 +385,84 @@
     "summary_zh": "这篇内容本质上是 PM×AI 产品力大会的活动预告，重点不是单一技术突破，而是它整理出的几个行业议题：大厂如何做 Agent 产品、海外 AI 产品怎么演进、ToB 场景如何真正提效，以及 AI Native 产品从 0 到 1 的方法论。"
   },
   {
-    "id": "a242752b786c",
-    "title": "The most interesting startups showcased at Google Cloud Next 2026",
-    "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+    "id": "0583e62d6fbb",
+    "title": "Now Meta will track what employees do on their computers to train its AI agents",
+    "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T14:22:35",
+    "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse movements, clicks, keystroke",
+    "collected_at": "2026-04-23T13:23:54.870197"
+  },
+  {
+    "id": "10f96a9703c4",
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-22T14:22:10",
+    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+    "collected_at": "2026-04-23T13:23:54.707987"
+  },
+  {
+    "id": "50196347cc8d",
+    "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
+    "url": "https://www.qbitai.com/2026/04/404713.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-22T13:15:52",
+    "summary": "",
+    "collected_at": "2026-04-23T13:23:33.155419"
+  },
+  {
+    "id": "23dd20ec4376",
+    "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+    "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
     "source": "TechCrunch AI",
     "lang": "en",
     "priority": 1,
-    "published": "2026-04-22T12:00:00",
-    "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-    "collected_at": "2026-04-22T13:10:12.144165"
+    "published": "2026-04-22T13:00:00",
+    "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
+    "collected_at": "2026-04-22T13:10:12.144135"
+  },
+  {
+    "id": "f31cf4652724",
+    "title": "谷歌云AI使用量达到每分钟160亿Tokens",
+    "url": "https://36kr.com/newsflashes/3777977546101766?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-04-22T12:37:29",
+    "summary": "谷歌表示，通过客户直接使用API，现在每分钟处理超过160亿Tokens，高于上季度的100亿个。（财联社）",
+    "collected_at": "2026-04-22T13:10:16.402618"
+  },
+  {
+    "id": "1d6cf28191fb",
+    "title": "谷歌云发布用于人工智能的新型TPU芯片",
+    "url": "https://36kr.com/newsflashes/3777953384748033?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 4,
+    "published": "2026-04-22T12:12:55",
+    "summary": "4月22日，谷歌云发布最新一代张量处理单元（TPU），旨在提升人工智能计算服务的速度和效率。全新TPU系列将推出两个版本：TPU 8t用于创建AI软件，TPU 8i用于运行已创建的AI服务。（界面）",
+    "collected_at": "2026-04-22T13:10:16.402725"
+  },
+  {
+    "id": "85469e6c3a09",
+    "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+    "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-04-22T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype",
+    "collected_at": "2026-04-22T13:10:12.289219"
   },
   {
     "id": "ee26631ad0db",
@@ -145,6 +482,17 @@
     "summary_zh": "LinkedIn 推出的 Cognitive Memory Agent 不是一个普通聊天功能，而是一层面向智能体系统的共享记忆底座。它把情景记忆、语义记忆和程序记忆拆开管理，让招聘助手等应用可以跨会话保留上下文、复用用户知识，并支撑多智能体之间更稳定的一致协作。"
   },
   {
+    "id": "a242752b786c",
+    "title": "The most interesting startups showcased at Google Cloud Next 2026",
+    "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-04-22T12:00:00",
+    "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+    "collected_at": "2026-04-22T13:10:12.144165"
+  },
+  {
     "id": "96dad15c27d8",
     "title": "Google Maps is about to get a big dose of AI",
     "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
@@ -156,17 +504,6 @@
     "collected_at": "2026-04-22T13:10:12.144186"
   },
   {
-    "id": "e48afa0ae309",
-    "title": "AI needs a strong data fabric to deliver business value",
-    "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-22T10:05:06",
-    "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t",
-    "collected_at": "2026-04-22T13:10:12.289254"
-  },
-  {
     "id": "14717484ef98",
     "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
     "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
@@ -176,6 +513,29 @@
     "published": "2026-04-22T12:00:00",
     "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
     "collected_at": "2026-04-22T13:10:12.144211"
+  },
+  {
+    "id": "4b39ffae2c53",
+    "title": "Kernel code removals driven by LLM-created security reports",
+    "url": "https://lwn.net/Articles/1068928/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-22T11:48:07",
+    "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 108 # Comments: 92",
+    "collected_at": "2026-04-23T13:24:01.532218"
+  },
+  {
+    "id": "e48afa0ae309",
+    "title": "AI needs a strong data fabric to deliver business value",
+    "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "priority": 2,
+    "published": "2026-04-22T10:05:06",
+    "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t",
+    "collected_at": "2026-04-22T13:10:12.289254"
   },
   {
     "id": "867781edbf71",
@@ -206,17 +566,6 @@
     "collected_at": "2026-04-22T13:10:12.289445"
   },
   {
-    "id": "7088109af1d6",
-    "title": "香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖",
-    "url": "https://www.qbitai.com/2026/04/404631.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-22T09:52:49",
-    "summary": "发表论文被引用逾90000次",
-    "collected_at": "2026-04-22T13:07:56.226600"
-  },
-  {
     "id": "1b8bb1c5acaa",
     "title": "Los Angeles is finally going underground",
     "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
@@ -228,6 +577,17 @@
     "collected_at": "2026-04-22T13:10:12.289489"
   },
   {
+    "id": "7088109af1d6",
+    "title": "香港科创标杆奖项！商汤首席科学家林达华荣获中银香港科创奖",
+    "url": "https://www.qbitai.com/2026/04/404631.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-04-22T09:52:49",
+    "summary": "发表论文被引用逾90000次",
+    "collected_at": "2026-04-22T13:07:56.226600"
+  },
+  {
     "id": "ca661f784b61",
     "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
     "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
@@ -237,6 +597,18 @@
     "published": "2026-04-22T09:18:40",
     "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. An unnamed member of the group, identified only as \"a third-party contractor for Anthropic,\" told the",
     "collected_at": "2026-04-22T13:10:12.209887"
+  },
+  {
+    "id": "84f655ba3d8e",
+    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+    "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-22T09:02:46",
+    "summary": "Article URL: https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4 Comments URL: https://news.ycombinator.com/item?id=47860961 Points: 111 # Comments: 85",
+    "collected_at": "2026-04-23T13:24:01.532293"
   },
   {
     "id": "b5e53f676ac0",
@@ -256,23 +628,6 @@
     "summary_zh": "浙大与上智院团队提出 IBISAgent，把医学分割从单次前向推理改成“边看边想边点”的多轮决策过程。它不再依赖会破坏语言能力的隐式分割 token，而是通过文本推理、点击动作和强化学习，让模型在复杂医学图像里持续纠错并提升分割质量。"
   },
   {
-    "id": "8778f21f35d4",
-    "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
-    "url": "https://36kr.com/p/3777491215913736?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-22T05:48:39",
-    "summary": "36氪获悉，全域移动智能机器人公司杭州具微科技有限公司（下简称「具微科技」）近期完成A+++轮融资。本轮融资由滨州国投、魏桥集团、滨州化工联合领投，和达控股、德诺资本跟投，其中滨州国投连续追投。资金将重点用于核心技术的持续深度研发，以及全国范围内特种应用场景的规模化落地与商业化推进。 具微科技2025年初成立于杭州，专注于轮式四足机器人研发与应用，打造具备全地形自主作业能力的“全域移动智能体”，为强磁场、爆破、极寒等特种场景提供智能化解决方案，产品具备负载量大、续航时长等优势。 2026年开年，具微科技曾在30天连续完成3轮A轮融资，连续获得产业龙头上市公司、国有产业平台与市场化机构投资。其中",
-    "collected_at": "2026-04-22T06:06:45.662507",
-    "content_text": "36氪获悉，全域移动智能机器人公司杭州具微科技有限公司（下简称「具微科技」）近期完成A+++轮融资。本轮融资由\n滨州国投、魏桥集团、滨州股份联合领投，和达控股、德诺资本\n跟投，其中滨州国投连续追投。资金将重点用于核心技术的持续深度研发，以及全国范围内特种应用场景的规模化落地与商业化推进。\n具微科技2025年初成立于杭州，专注于轮式四足机器人研发与应用，打造具备全地形自主作业能力的“全域移动智能体”，为强磁场、爆破、极寒等特种场景提供智能化解决方案，产品具备负载量大、续航时长等优势。\n2026年开年，具微科技曾在30天连续完成3轮A轮融资，连续获得产业龙头上市公司、国有产业平台与市场化机构投资。\n其中A轮融资由正强股份、壹连科技、鲁信创投等上市公司及专业投资机构战略入局；A+、A++轮融资，建元天华、滨州国投等优质产业资本、国有资本相继战略注资。加上本次A+++轮融资，总融资金额达数亿元。\n具微科技创始人、CEO王子煊表示，具微科技希望通过融合各方产业资源，\n打造“技术自研+供应链绑定+场景闭环落地”的可持续发展模式，\n加速具身智能技术规模化、商业化落地，持续巩固在行业内的领先壁垒。\n魏桥集团作为能源和铝业行业的全球五百强企业，旗下电解铝等核心产业对防磁、抗干扰、高可靠性的特种作业机器人需求突出，与具微科技的机器人业务形成天然产业协同；滨州股份作为化工行业领军企业，其生产场景普遍存在易燃易爆、腐蚀性强等特点，可直接为具微科技防爆机器人提供丰富的落地应用。而与正强股份联合研发机器人关节模组核心硬件，与壹连科技深耕电连接组件一体化配套，有助于具微科技打通具身智能硬件底层供应链。\n王子煊拥有连续成功创业与产业经验，曾主导零跑汽车、欣旺达等项目投资，创立钠离子电池头部企业并完成产线搭建及重大订单落地。公司首席科学家李秦川为四足机器人领域资深专家、享受国务院政府特殊津贴，研发团队核心成员多来自斯坦福大学、浙江大学、浙江理工大学等国内外高校。\n1.瞄准“人不愿去”的极端环境岗位，打造轮式+四足的全域移动智能体\n在人形机器人大热的2025年，王子煊却更清楚地看到了行业在产业落地中的真实瓶颈。“我们观察，目前具身领域在产业落地上碰到的问题，核心在于痛点不够痛，刚需不够强。\n移动机器人的真正刚需不是替代坐在办公室里的人，而是那些危险而艰苦，原本就不应当由人去工作的岗位。\n”\n基于这一思考，具微科技没有选择在结构化场景中打磨算法，或是从表演、教育等场景实现商业化，而是锁定特种工作场景：让机器人去往强磁场、核辐射、高海拔、缺氧、极寒、极高温等恶劣环境，从事那些人类不想做、不敢做、做不了的工作。王子煊说，“目前在中国，这样的高危特种工作岗位有2000万个之多。”\n围绕这些特定场景，具微科技聚焦于实现机器人的“四防”能力：防磁、防爆、防冻、防水。而要实现这些能力，前提是机器人具备足够大的负载能力，能够在叠加防爆外壳、防磁屏蔽、保温层等防护改造后，仍然保证运动能力和稳定性。\n为此，具微科技打破传统四足机器人窄体长腿的设计范式，采用少有的“宽体+短腿”构型，并将传统的轮式与四足相结合。\n具微科技机器人\n“我们认为，结合了轮子的效率与腿的全地形能力的形态，是未来实现全域移动的的终局解法。”王子煊认为，传统四足机器人虽然具备越障能力，但是连续抬足的运动方式能耗高、无故障平均续航时间受限，并且机械损耗严重，硬件容易损坏，难以胜任工业场景下大范围、长时间作业需求。\n除了产品形态创新，具微科技已实现劲擎关节电机等零部件的自研自产，并通过高强度结构设计突破机器人的负载极限，使动态负载达200公斤，静态站立负载达400公斤，超过行业平均水平五倍以上，从而能够稳定承载各类重型探测、应急救援等专业装备。\n为保证机器人在极端环境下能够长时间保持工作状态，具微科技通过跨行业的组合式创新，将汽车行业能量回收系统、液冷方案等技术融入机器人设计，提升机器人的能耗效率，使机器人的实测无负载续航提高至12小时，带负载续航提高至8小时，突破行业瓶颈，表现是行业平均水平数倍。\n在算法层面，具微科技打造了从底层FOC控制，到上层运动控制与感知决策的“感规控驱”一体化系统，以模块化拓展平台兼容多元作业设备，从而兼顾重载性能与场景适配性。\n“只有底层系统打通，才能将硬件的性能从70分发挥到95分以上，做到机器人的‘书同文、车同轨’。”\n据王子煊介绍，在2025年世界机器人大会上，具微科技展示的机器人产品实现了完全脱离遥控器的自主跟随与越障能力，能够在三维立体空间中完成无图、无遥控的自主导航。\n2.向上构筑更高技术壁垒，向下深耕2000万个特种工作场景\n在王子煊看来，具身智能行业的发展可以分为三个阶段：“第一阶段是要素创新，也就是强化学习等底层技术的突破，基本上已经过去了。现在具微科技是带着第一阶段的成果，切入到供应链整合、工程化落地与场景解决的第二阶段，同时向商业模式创新的第三阶段进行，最终形成增长飞轮。”\n基于聚焦特种工业场景的市场定位，目前具微科技重点拓展电解铝生产、石油石化、消防应急与公安安防等领域的大型国央企客户，“这类客户对安全生产、ESG和社会责任有更高要求，付费能力和创新意愿也更强。”王子煊说。\n这些场景的客户，不会单纯计算人工替代的经济账，而是首先关注“安全账”和“社会价值账”。因此产品技术能力与稳定性也是具微科技要服务好上述客户，需要长期专注打造的核心竞争力所在。\n王子煊表示，为持续构筑更高的准入壁垒，具微科技已取得具身智能机器人首张Ex db eb IIB T4 Gb“隔爆加增安”复合防爆资质，年内还计划完成国际电工协会IECEx、欧盟ATEX、北美及国内CNEX的全系列防爆认证。\n除了机器人硬件产品外，具微科技面向复杂工业场景客户，提供本地部署、上装适配、算法平台一体化的全栈式特种作业解决方案，实现从设备交付到场景落地的一站式闭环服务。\n2025年，具微科技实现订单额亿元级，目前已有订单规模数亿元，预计2026年机器人产品出货量上千台，实现营收数亿元。\n谈及未来规划，王子煊表示，具微科技的核心策略是不追求过早地横向拓展，而是先做好垂直领域的深入，\n“我总结为面宽10米，向上向下各延伸100米”\n。\n所谓“向上”是指核心技术的持续研发，\n一方面进一步提高产品性能，目标在2027年底将无故障连续工作的平均时间提升至1万小时以上，真正达到工业级标准；另一方面加强对操作系统的研发，打造一个向第三方硬件开发者开放的机器人“应用商城”，满足各类细分场景的差异化需求。在单个机器人独立工作的基础上，具微科技也在研发群体智能技术，预计今年下半年实现“AI智能体+多机器人”的协同作业能力。\n“向下”则是继续深耕2000万个特种岗位场景与准入资质，\n待产品可靠性与算法成熟度进一步提升后，再向更日常的生活服务场景迁移。“从技术突破，工程化与场景深耕，到生态与商业模式创新，具微科技要做的就是从底层到顶层，把这三个阶段跑通，为行业提供一个全新的范式。”王子煊表示。",
-    "content_source": "readability",
-    "content_chars": 2897,
-    "content_excerpt": "36氪获悉，全域移动智能机器人公司杭州具微科技有限公司（下简称「具微科技」）近期完成A+++轮融资。本轮融资由\n滨州国投、魏桥集团、滨州股份联合领投，和达控股、德诺资本\n跟投，其中滨州国投连续追投。资金将重点用于核心技术的持续深度研发，以及全国范围内特种应用场景的规模化落地与商业化推进。\n具微科技2025年初成立于杭州，专注于轮式四足机器人研发与应用，打造具备全地形自主作业能力的“全域移动智能体”，为强磁场、爆破、极寒等特种场景提供智能化解决方案，产品具备负载量大、续航时长等优势。\n2026年开年，具微科技曾在30天连续完成3轮A轮融资，连续获得产业龙头上市公司、国有产业平台与市场化机构投资。\n其中A轮融资由正强股份、壹连科技、鲁信创投等上市公司及专业投资机构战略入局；A+、A++轮融资，建元天华、滨州国投等优质产业资本、国有资本相继战略注资。加上本次A+++轮融资，总融资金额达数亿元。\n具微科技创始人、CEO王子煊表示，具微科技希望通过融合各方产业资源，\n打造“技术自研+供应链绑定+场景闭环落地”的可持续发展模式，\n加速具身智能技术规模化、商业化落地，持续巩固在行业内的领先壁垒。\n魏桥集团作为能源和铝业行业的全球五百强企业，旗下电解铝等核心产业对防磁、抗干扰、高可靠性的特种作业机器人需求突出，与具微科技的机器人业务形成天然产业协同；滨州股份作为化工行业领军企业，其生产场景普遍存在易燃易爆、腐蚀性强等特点，可直接为具微科技防爆机器人提供丰富的落地应用。而与正强股份联合研发机器人关节模组核心硬件，与壹连科技深耕电连接组件一体化配套，有助于具微科技打通具身智能硬件底层供应链。",
-    "ai_summary": "具微科技两个月拿下四轮融资，资本看中的不是概念，而是特种机器人在高危场景的落地刚需。",
-    "summary_zh": "具微科技连续完成多轮融资，核心故事不是“又一家机器人公司拿钱”，而是它把目标场景锁定在强磁、爆破、极寒等人不愿意也不适合进入的环境。相比人形机器人偏展示型叙事，这条路线更强调特种作业机器人的实际需求、供应链协同和商业化闭环。"
-  },
-  {
     "id": "d455ccefdf37",
     "title": "这些人读个博一年能挣几十万？2026苹果学者名单公布了",
     "url": "https://www.qbitai.com/2026/04/404481.html",
@@ -288,17 +643,6 @@
     "content_excerpt": "这些人读个博一年能挣几十万？2026苹果学者名单公布了\n一水\n2026-04-22\n15:10:55\n来源：\n量子位\n苹果版「顶尖AI人才计划」，刚刚公布名单了！\n划重点，华人学者依旧闪耀，20个席位中占了8席。\n给不熟悉的朋友科普下，这是指苹果设立的「博士生奖学金项目」——\nApple Scholars in AIML",
     "ai_summary": "苹果新一届 AIML 学者名单公布，华人博士生依然占据高比例，折射出全球 AI 人才竞争的持续升温。",
     "summary_zh": "苹果公布 2026 年 Apple Scholars in AIML 名单，共 20 个席位，其中华人学者占了 8 席。文章逐个盘点入选者背景，也侧面说明顶级科技公司对 AI 博士人才的长期押注仍在加强，学术、产业和人才通道正在进一步绑定。"
-  },
-  {
-    "id": "d15c093edd0f",
-    "title": "萤石发布搭“星辰世界模型”的蒸汽洗地机",
-    "url": "https://36kr.com/newsflashes/3777526407713797?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-22T04:58:34",
-    "summary": "36氪获悉，萤石发布多款AI硬件，在家庭智能中枢层面，萤石推出了搭载蓝海大模型2.0的EZVIZ AI CoreX，旨在成为家庭的本地“智慧大脑”。在细分产品线上，AI随身拍Pika定位为儿童首台AI设备，具备双摄与智能问答功能；此外，萤石还发布了AI双擎蒸汽洗地机器人，旗舰款星辰10 Master搭载了可理解家庭环境的“萤石星辰世界模型”，实现感知决策一体化的自主清洁。",
-    "collected_at": "2026-04-22T06:06:45.663405"
   },
   {
     "id": "a2ce36d10ffd",
@@ -318,17 +662,6 @@
     "summary_zh": "文章以京东开源图像编辑模型 JoyAI-Image-Edit 为切口，讨论头部大厂 AI 实习岗位的真实分化：表面上年薪百万的实习机会越来越多，但多数岗位仍偏边缘化。真正稀缺的，是能从 0 到 1 参与模型核心模块研发、而不是只做数据清洗和杂活的研究型实习机会。"
   },
   {
-    "id": "8ac4a3644148",
-    "title": "LG人工智能研究院与英伟达同意加强AI合作",
-    "url": "https://36kr.com/newsflashes/3777321625225219?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-22T01:30:15",
-    "summary": "LG当地时间4月21日宣布，LG人工智能研究院和英伟达已同意加强技术联盟，以扩展Exaone人工智能生态系统。双方将结合LG的Exaone模型和英伟达的Nemotron生态系统，共同开发人工智能模型。（界面）",
-    "collected_at": "2026-04-22T01:53:29.585402"
-  },
-  {
     "id": "cd254dd6e790",
     "title": "全球首个世界统一模型发布，机器人家庭成员来了！",
     "url": "https://www.qbitai.com/2026/04/404446.html",
@@ -344,6 +677,102 @@
     "content_excerpt": "全球首个世界统一模型发布，机器人家庭成员来了！\n梦瑶\n2026-04-22\n13:49:56\n来源：\n量子位\n梦瑶 发自 凹非寺\n量子位 | 公众号 QbitAI\n问：老了以后谁给你养老？答：机器人啊！！！\n原本，这只是网友们拿来应对家长催婚的摆烂式回答，谁成想，这下真·魔幻照进现实了……",
     "ai_summary": "自变量发布 WALL-B，想用“世界统一模型”把机器人从会执行命令，推进到真正理解家庭物理环境。",
     "summary_zh": "WALL-B 试图解决传统 VLA 架构里视觉、语言、动作模块割裂的问题，把视觉、听觉、触觉和语言统一进同一套世界模型中。它的卖点不是多会表演，而是让机器人在家庭这类高随机场景里拥有更强的预测、泛化和持续学习能力。"
+  },
+  {
+    "id": "8778f21f35d4",
+    "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
+    "url": "https://36kr.com/p/3777491215913736?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-04-22T05:48:39",
+    "summary": "36氪获悉，全域移动智能机器人公司杭州具微科技有限公司（下简称「具微科技」）近期完成A+++轮融资。本轮融资由滨州国投、魏桥集团、滨州化工联合领投，和达控股、德诺资本跟投，其中滨州国投连续追投。资金将重点用于核心技术的持续深度研发，以及全国范围内特种应用场景的规模化落地与商业化推进。 具微科技2025年初成立于杭州，专注于轮式四足机器人研发与应用，打造具备全地形自主作业能力的“全域移动智能体”，为强磁场、爆破、极寒等特种场景提供智能化解决方案，产品具备负载量大、续航时长等优势。 2026年开年，具微科技曾在30天连续完成3轮A轮融资，连续获得产业龙头上市公司、国有产业平台与市场化机构投资。其中",
+    "collected_at": "2026-04-22T06:06:45.662507",
+    "content_text": "36氪获悉，全域移动智能机器人公司杭州具微科技有限公司（下简称「具微科技」）近期完成A+++轮融资。本轮融资由\n滨州国投、魏桥集团、滨州股份联合领投，和达控股、德诺资本\n跟投，其中滨州国投连续追投。资金将重点用于核心技术的持续深度研发，以及全国范围内特种应用场景的规模化落地与商业化推进。\n具微科技2025年初成立于杭州，专注于轮式四足机器人研发与应用，打造具备全地形自主作业能力的“全域移动智能体”，为强磁场、爆破、极寒等特种场景提供智能化解决方案，产品具备负载量大、续航时长等优势。\n2026年开年，具微科技曾在30天连续完成3轮A轮融资，连续获得产业龙头上市公司、国有产业平台与市场化机构投资。\n其中A轮融资由正强股份、壹连科技、鲁信创投等上市公司及专业投资机构战略入局；A+、A++轮融资，建元天华、滨州国投等优质产业资本、国有资本相继战略注资。加上本次A+++轮融资，总融资金额达数亿元。\n具微科技创始人、CEO王子煊表示，具微科技希望通过融合各方产业资源，\n打造“技术自研+供应链绑定+场景闭环落地”的可持续发展模式，\n加速具身智能技术规模化、商业化落地，持续巩固在行业内的领先壁垒。\n魏桥集团作为能源和铝业行业的全球五百强企业，旗下电解铝等核心产业对防磁、抗干扰、高可靠性的特种作业机器人需求突出，与具微科技的机器人业务形成天然产业协同；滨州股份作为化工行业领军企业，其生产场景普遍存在易燃易爆、腐蚀性强等特点，可直接为具微科技防爆机器人提供丰富的落地应用。而与正强股份联合研发机器人关节模组核心硬件，与壹连科技深耕电连接组件一体化配套，有助于具微科技打通具身智能硬件底层供应链。\n王子煊拥有连续成功创业与产业经验，曾主导零跑汽车、欣旺达等项目投资，创立钠离子电池头部企业并完成产线搭建及重大订单落地。公司首席科学家李秦川为四足机器人领域资深专家、享受国务院政府特殊津贴，研发团队核心成员多来自斯坦福大学、浙江大学、浙江理工大学等国内外高校。\n1.瞄准“人不愿去”的极端环境岗位，打造轮式+四足的全域移动智能体\n在人形机器人大热的2025年，王子煊却更清楚地看到了行业在产业落地中的真实瓶颈。“我们观察，目前具身领域在产业落地上碰到的问题，核心在于痛点不够痛，刚需不够强。\n移动机器人的真正刚需不是替代坐在办公室里的人，而是那些危险而艰苦，原本就不应当由人去工作的岗位。\n”\n基于这一思考，具微科技没有选择在结构化场景中打磨算法，或是从表演、教育等场景实现商业化，而是锁定特种工作场景：让机器人去往强磁场、核辐射、高海拔、缺氧、极寒、极高温等恶劣环境，从事那些人类不想做、不敢做、做不了的工作。王子煊说，“目前在中国，这样的高危特种工作岗位有2000万个之多。”\n围绕这些特定场景，具微科技聚焦于实现机器人的“四防”能力：防磁、防爆、防冻、防水。而要实现这些能力，前提是机器人具备足够大的负载能力，能够在叠加防爆外壳、防磁屏蔽、保温层等防护改造后，仍然保证运动能力和稳定性。\n为此，具微科技打破传统四足机器人窄体长腿的设计范式，采用少有的“宽体+短腿”构型，并将传统的轮式与四足相结合。\n具微科技机器人\n“我们认为，结合了轮子的效率与腿的全地形能力的形态，是未来实现全域移动的的终局解法。”王子煊认为，传统四足机器人虽然具备越障能力，但是连续抬足的运动方式能耗高、无故障平均续航时间受限，并且机械损耗严重，硬件容易损坏，难以胜任工业场景下大范围、长时间作业需求。\n除了产品形态创新，具微科技已实现劲擎关节电机等零部件的自研自产，并通过高强度结构设计突破机器人的负载极限，使动态负载达200公斤，静态站立负载达400公斤，超过行业平均水平五倍以上，从而能够稳定承载各类重型探测、应急救援等专业装备。\n为保证机器人在极端环境下能够长时间保持工作状态，具微科技通过跨行业的组合式创新，将汽车行业能量回收系统、液冷方案等技术融入机器人设计，提升机器人的能耗效率，使机器人的实测无负载续航提高至12小时，带负载续航提高至8小时，突破行业瓶颈，表现是行业平均水平数倍。\n在算法层面，具微科技打造了从底层FOC控制，到上层运动控制与感知决策的“感规控驱”一体化系统，以模块化拓展平台兼容多元作业设备，从而兼顾重载性能与场景适配性。\n“只有底层系统打通，才能将硬件的性能从70分发挥到95分以上，做到机器人的‘书同文、车同轨’。”\n据王子煊介绍，在2025年世界机器人大会上，具微科技展示的机器人产品实现了完全脱离遥控器的自主跟随与越障能力，能够在三维立体空间中完成无图、无遥控的自主导航。\n2.向上构筑更高技术壁垒，向下深耕2000万个特种工作场景\n在王子煊看来，具身智能行业的发展可以分为三个阶段：“第一阶段是要素创新，也就是强化学习等底层技术的突破，基本上已经过去了。现在具微科技是带着第一阶段的成果，切入到供应链整合、工程化落地与场景解决的第二阶段，同时向商业模式创新的第三阶段进行，最终形成增长飞轮。”\n基于聚焦特种工业场景的市场定位，目前具微科技重点拓展电解铝生产、石油石化、消防应急与公安安防等领域的大型国央企客户，“这类客户对安全生产、ESG和社会责任有更高要求，付费能力和创新意愿也更强。”王子煊说。\n这些场景的客户，不会单纯计算人工替代的经济账，而是首先关注“安全账”和“社会价值账”。因此产品技术能力与稳定性也是具微科技要服务好上述客户，需要长期专注打造的核心竞争力所在。\n王子煊表示，为持续构筑更高的准入壁垒，具微科技已取得具身智能机器人首张Ex db eb IIB T4 Gb“隔爆加增安”复合防爆资质，年内还计划完成国际电工协会IECEx、欧盟ATEX、北美及国内CNEX的全系列防爆认证。\n除了机器人硬件产品外，具微科技面向复杂工业场景客户，提供本地部署、上装适配、算法平台一体化的全栈式特种作业解决方案，实现从设备交付到场景落地的一站式闭环服务。\n2025年，具微科技实现订单额亿元级，目前已有订单规模数亿元，预计2026年机器人产品出货量上千台，实现营收数亿元。\n谈及未来规划，王子煊表示，具微科技的核心策略是不追求过早地横向拓展，而是先做好垂直领域的深入，\n“我总结为面宽10米，向上向下各延伸100米”\n。\n所谓“向上”是指核心技术的持续研发，\n一方面进一步提高产品性能，目标在2027年底将无故障连续工作的平均时间提升至1万小时以上，真正达到工业级标准；另一方面加强对操作系统的研发，打造一个向第三方硬件开发者开放的机器人“应用商城”，满足各类细分场景的差异化需求。在单个机器人独立工作的基础上，具微科技也在研发群体智能技术，预计今年下半年实现“AI智能体+多机器人”的协同作业能力。\n“向下”则是继续深耕2000万个特种岗位场景与准入资质，\n待产品可靠性与算法成熟度进一步提升后，再向更日常的生活服务场景迁移。“从技术突破，工程化与场景深耕，到生态与商业模式创新，具微科技要做的就是从底层到顶层，把这三个阶段跑通，为行业提供一个全新的范式。”王子煊表示。",
+    "content_source": "readability",
+    "content_chars": 2897,
+    "content_excerpt": "36氪获悉，全域移动智能机器人公司杭州具微科技有限公司（下简称「具微科技」）近期完成A+++轮融资。本轮融资由\n滨州国投、魏桥集团、滨州股份联合领投，和达控股、德诺资本\n跟投，其中滨州国投连续追投。资金将重点用于核心技术的持续深度研发，以及全国范围内特种应用场景的规模化落地与商业化推进。\n具微科技2025年初成立于杭州，专注于轮式四足机器人研发与应用，打造具备全地形自主作业能力的“全域移动智能体”，为强磁场、爆破、极寒等特种场景提供智能化解决方案，产品具备负载量大、续航时长等优势。\n2026年开年，具微科技曾在30天连续完成3轮A轮融资，连续获得产业龙头上市公司、国有产业平台与市场化机构投资。\n其中A轮融资由正强股份、壹连科技、鲁信创投等上市公司及专业投资机构战略入局；A+、A++轮融资，建元天华、滨州国投等优质产业资本、国有资本相继战略注资。加上本次A+++轮融资，总融资金额达数亿元。\n具微科技创始人、CEO王子煊表示，具微科技希望通过融合各方产业资源，\n打造“技术自研+供应链绑定+场景闭环落地”的可持续发展模式，\n加速具身智能技术规模化、商业化落地，持续巩固在行业内的领先壁垒。\n魏桥集团作为能源和铝业行业的全球五百强企业，旗下电解铝等核心产业对防磁、抗干扰、高可靠性的特种作业机器人需求突出，与具微科技的机器人业务形成天然产业协同；滨州股份作为化工行业领军企业，其生产场景普遍存在易燃易爆、腐蚀性强等特点，可直接为具微科技防爆机器人提供丰富的落地应用。而与正强股份联合研发机器人关节模组核心硬件，与壹连科技深耕电连接组件一体化配套，有助于具微科技打通具身智能硬件底层供应链。",
+    "ai_summary": "具微科技两个月拿下四轮融资，资本看中的不是概念，而是特种机器人在高危场景的落地刚需。",
+    "summary_zh": "具微科技连续完成多轮融资，核心故事不是“又一家机器人公司拿钱”，而是它把目标场景锁定在强磁、爆破、极寒等人不愿意也不适合进入的环境。相比人形机器人偏展示型叙事，这条路线更强调特种作业机器人的实际需求、供应链协同和商业化闭环。"
+  },
+  {
+    "id": "d15c093edd0f",
+    "title": "萤石发布搭“星辰世界模型”的蒸汽洗地机",
+    "url": "https://36kr.com/newsflashes/3777526407713797?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-04-22T04:58:34",
+    "summary": "36氪获悉，萤石发布多款AI硬件，在家庭智能中枢层面，萤石推出了搭载蓝海大模型2.0的EZVIZ AI CoreX，旨在成为家庭的本地“智慧大脑”。在细分产品线上，AI随身拍Pika定位为儿童首台AI设备，具备双摄与智能问答功能；此外，萤石还发布了AI双擎蒸汽洗地机器人，旗舰款星辰10 Master搭载了可理解家庭环境的“萤石星辰世界模型”，实现感知决策一体化的自主清洁。",
+    "collected_at": "2026-04-22T06:06:45.663405"
+  },
+  {
+    "id": "4bad8ec7540f",
+    "title": "从GPU到Token：AI基础设施竞争逻辑重构",
+    "url": "https://www.qbitai.com/2026/04/404440.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-04-22T04:48:03",
+    "summary": "商汤大装置已实践三年",
+    "collected_at": "2026-04-22T06:06:35.454488",
+    "content_text": "从GPU到Token：AI基础设施竞争逻辑重构\n量子位的朋友们\n2026-04-22\n12:48:03\n来源：\n量子位\n近日，全球权威市场研究机构Omdia发布《2026全球AI工厂市场格局》报告。商汤大装置被重点推荐与引用，成为全球原生AI云厂商中的典型代表。\nOmdia高度评价商汤大装置，\n认为其开创了AI工厂“智能精炼”范式，并在多个维度领跑全球原生AI云市场。\n01商汤大装置AI数字工厂架构：领先行业三年的实践路径\nOmdia认为，随着人工智能技术加速渗透、AI Agent全面爆发，AI基础设施正经历一场结构性变革，其规模可比肩一个世纪前的电气化工业革命。而AI 工厂（AI Factory）正在成为这一阶段的关键基础设施形态。\n今年3月，黄仁勋同样发文谈及AI工厂。他指出，在全球各地正看到芯片工厂、电脑组装厂及AI工厂，以前所未有的规模兴建，“这正成为人类史上规模最大的基础设施建设工程。”\n当行业开始密集讨论AI工厂，商汤早在2022年便在内部战略中提出“AI 数字工厂”构想，并率先对这一趋势进行前瞻布局。彼时，商汤已清晰意识到，传统AI基础设施在成本与效率层面存在系统性瓶颈，难以支撑AI从实验室走向大规模产业化应用。必须构建一种全新的基础设施形态——专门为AI模型的“生产”而设计。\n经过近三年的实践探索，步入2026年，商汤大装置AI数字工厂全栈架构日趋成熟，总共分为四层：\n第一层：基础设施，即AIDC，包括人工智能数据中心、异构GPU、CPU、存储、网络等物理资源；\n第二层：基础设施即服务（IaaS），提供大模型训练的云资源、弹性算力池、训练引擎、高可用等能力，通过标准化的云服务，实现大模型稳定、高效的训练；\n第三层：模型即服务（MaaS），通过标准化、可编排的云服务，提供模型部署、模型推理、Agent 开发能力；\n第四层：应用，大模型进入应用落地阶段，AI开始融入各行各业，实现人工智能+。\n02多项指标领跑全球，开创“智能精炼”范式\nOmdia报告释放出一个明确信号：AI工厂不仅仅是传统数据中心的升级，它代表着一种全新的工业组织形态，其核心目标是实现智能（Token）的规模化生产与交付。\n这也意味着，AI基础设施的竞争重心，正从“谁拥有更多GPU”，转向“谁能够更高效地生产智能”。在更智能、更高效、单位成本更优的生产token上，商汤大装置走出了一条差异化的道路。\n对此，Omdia给出了一个极为精准的定义——“pioneering intelligence refiner”（智能精炼范式的开创者），即商汤大装置不仅只局限于提供算力资源，而是将通用AI能力转化为企业级生产力。\n“智能精炼范式”的背后，其实是商汤大装置深刻感知到AI基础设施发生的结构性变革，并给出了可运行、可交付、可验证的实践路径。\n一直以来，商汤大装置都在致力于降低AI应用与开发门槛。 通过算法、数据和算力的协同优化，商汤大装置已构建起“算力-平台-方案-服务”的端到端系统化能力，并将这些技术能力沉淀为如“水电煤”般的基础设施，帮助企业能以更高的投入产出比拥抱AI变革。\n不仅在范式层面实现创新，Omdia认为，商汤大装置在以下多项核心能力维度上同样领跑全球原生AI云市场：\nl\n垂直行业落地能力：\n依托深厚的场景化方案能力和高响应专家服务体系，截至到目前，商汤大装置累计服务众多大模型公司及各行业客户，覆盖AIGC、具身智能、AI4S、产业智能化等多个领域。\nl\n算电协同能力：\n商汤临港AIDC算电协同平台整合能源大模型、宁德时代储能系统等，实现算力与能源的精准匹配，能源需求预测准确率已经达到88%以上，决策准确率已达到93%以上，整体PUE降低至1.265，年化电费成本节约7%、碳减排4000吨的运营成效，带来显著的经济与社会效益。\nl\n多元异构芯片混训与调度\n：商汤大装置适配20+国产AI芯片，并率先实现万卡国产GPU集群大规模异构混训，算力利用率高达80%，效率达同构训练的95%，成功突破单一GPU限制，推动国产算力规模化商用。\n03全球经验输出\nOmdia认为，真正塑造2030年AI工业市场格局的参与者，并非当下芯片采购量最大的企业，而是那些最早洞悉四层AI工厂架构、成功锁定生态位优势，并充分尊重物理世界限制条件的先行者。\n在这一判断框架下，商汤大装置的先发优势愈发凸显。早在2022年，商汤便率先提出“AI 数字工厂”构想，不仅对行业趋势形成前瞻洞察，也在多年的实践中为全球AI工厂的演进提供了可参考的实践范式。\n与此同时，商汤大装置正将这一能力体系转化为全球化竞争力。在沙特落地的中国首个出海国产算力集群项目中，其通过输出高度适配的软硬件协同能力，在异构环境下实现高效部署与稳定运行，验证了其卓越的工程交付能力与“轻资产出海”模式的商业潜力。\n未来，商汤大装置还将持续深化AI工厂体系建设，围绕算电协同、异构算力调度与垂直行业落地等关键能力，不断提升智能（Token）生产效率与成本优势，推动AI基础设施向规模化、产业化方向演进。\n转载来源：商汤科技\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 2267,
+    "content_excerpt": "从GPU到Token：AI基础设施竞争逻辑重构\n量子位的朋友们\n2026-04-22\n12:48:03\n来源：\n量子位\n近日，全球权威市场研究机构Omdia发布《2026全球AI工厂市场格局》报告。商汤大装置被重点推荐与引用，成为全球原生AI云厂商中的典型代表。\nOmdia高度评价商汤大装置，\n认为其开创了AI工厂“智能精炼”范式，并在多个维度领跑全球原生AI云市场。\n01商汤大装置AI数字工厂架构：领先行业三年的实践路径"
+  },
+  {
+    "id": "544e1fc5931a",
+    "title": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
+    "url": "https://www.qbitai.com/2026/04/404420.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-04-22T04:12:45",
+    "summary": "发布安全白皮书与全系AI新品",
+    "collected_at": "2026-04-22T06:06:35.454506",
+    "content_text": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花\n量子位的朋友们\n2026-04-22\n12:12:45\n来源：\n量子位\n4月21日，全球领先的安全智能生活品牌萤石在杭州正式举办2026品牌新品发布会。在这场以“驭智·向前”（Ahead with Intelligence）为主题的盛会上，萤石全景式展现了AI驱动下多点开花的创新成果：从AI硬件新品矩阵的集中亮相，到品牌使命的战略升维，再到安全白皮书与儿童公益项目的发布，全面勾勒出“以安全的智能科技共创美好生活”的新蓝图。在AI技术加速重塑生活方式的当下，萤石始终坚持将安全作为不变的基因与信任基石，以有边界、有责任的方式驾驭智能科技，驱动品牌与产品持续进化、稳健向前。\n从“守护安全”到“共创美好”，萤石品牌体系全面升维\n自2013年第一代智能摄像机“小熊猫”问世至今，萤石已构建起覆盖智能家居摄像机、智能入户、智能机器人、智能控制及智能穿戴的五大自研硬件矩阵，并依托萤石物联云平台与AI核心能力，形成了独具特色的“2+5+N”业务体系。如今，萤石已成长为贯通硬件研发、智能制造、云端服务与AI算法的全链路企业，以高比例的研发投入和超1600项专利积累，服务全球超1.9亿用户。\n萤石的技术路径始终清晰坚定：以守护为核心价值，以安全为初心，以智能视频视觉为技术基础，以萤石云为支撑，驱动智能从“被动防护”向“主动理解”跃迁，通过构建持续进化的“云-边-端”高效协同体系，来承载海量数据、实现复杂场景智能，为无限的应用创新提供了坚实支撑。\n面对AI技术浪潮的汹涌而至与用户需求的深刻演变，行业与用户对技术的责任感、安全感和边界感也提出了更高要求。萤石深刻洞察到，技术的飞跃必须与责任的担当同步。本次发布会上，萤石正式宣布了全新的品牌使命，从“致力于人人轻松享有安全的智能生活”，升级为“以安全的智能科技共创美好生活”。这一变化的而背后，是萤石品牌对未来发展逻辑的深化——“安全”是萤石不变的基因与信任基石；“智能科技”是持续创新、产品与服务升级的核心驱动力；“共创”则标志着萤石与用户、合作伙伴并肩而立，协同定义未来的新阶段；而“美好生活”，则是这一切努力的终极指向。\n萤石首席产品官陈冠兰在发布会上强调：“为人所用，是我们不变的初心。我们做智能视觉，不为炫技，只为守护万家平安，让科技真正融入用户生活，解决实际问题。”此次品牌升级，标志着萤石从“守护者”向“共创者”的战略升维，强化了技术自信与用户导向，坚定了成为一家有边界、有担当的长期主义品牌的决心。\n丰富品类创新，AI新品助力多场景创新突破\n本次发布会的核心亮点，在于萤石将视频/视觉AI技术深度融入硬件与场景。四大品类新品的集中发布，以“更强AI、更优体验、更稳安全”为内核，推动AI从技术概念走向真实生活。\n基于“用户为先”的价值理念，萤石深刻理解用户对数据隐私与响应速度的双重需求，并为此提供了灵活的选择：用户既可畅享云端强大的智能AI服务，也可选择本地端更私密、更迅捷的AI能力。为充分满足后者需求，萤石正式推出了部署于家庭的本地智慧中枢——智能大模型主机EZVIZ AI CoreX。作为萤石“云-边-端”协同架构中关键的边侧核心，EZVIZ AI CoreX搭载萤石蓝海大模型 2.0 与 Home Vita 智能体，以“有记忆、更懂你、会执行”为核心，打造集存储、计算、控制于一体的智慧家庭“中枢大脑”，推动本地 AI 能力全面落地。\nEZVIZ AI CoreX搭载了24G+128G超大内存与64T强悍算力，为家庭构建包含不同文件类型的线下存储空间。此外，针对智能摄像机等设备告警繁杂、录像回溯难等痛点，EZVIZ AI CoreX可对全屋设备推送的消息与图片进行深度理解、智能聚合推送，并自动生成每日、每周的录像精华摘要，更支持通过自然语言精准检索录像内容。依托Home Vita 智能体，EZVIZ AI CoreX兼容萤石全系设备与Matter 协议第三方产品，实现全屋设备一键统一管控；用户仅需下达语音指令即可触发复杂的自动化场景联动，未来它还将通过自主学习，实现从被动响应到主动服务的升级。该产品将率先在海外市场首发上市。\n经过多年的市场深耕，萤石智能家居摄像机已形成了能够满足室内外、Wi-Fi/4G等多样化场景需求的完善产品矩阵，并保持市场地位领先，据IDC相关报告显示，2025年出货量蝉联全球第一。在AI技术的驱动下，萤石智能家居摄像机正从基础的安防工具向家庭AI感知中心全面进化，需求也从固定看护，快速延伸至儿童陪伴、宠物看护、户外便携等多元化场景，并在产品的功能性需求以外逐步延伸出了更多情绪价值需求。\n本次发布会，萤石带来了四款各具特色的AI摄像机新品。其中，AI随身拍EZVIZ Pika是一款专为儿童设计的“人生第一台AI设备”。它搭载“AI双引擎”，不仅能通过摄像头拍识万物，还能以智能问答的方式满足孩子的好奇心。在拍摄性能上，其配备前后双4K摄像头能清晰记录每一个探索瞬间。产品在设计上充分考量了儿童使用的安全、舒适与连接便利性，机身仅重80克，内置GPS+北斗定位功能，并创新性地集成了电信/联通双4G卡，提供终身免费流量，确保随时随地在线。此外，设备还支持高清双向视频通话，便于亲子间的温情互动，让孩子的探索过程更安心、连接更自由、记录更出色。\n针对广阔的户外与移动安防场景，萤石“小魔方”系列再添新成员。小魔方CB60 Pro电池4G防水版在前代基础上，专项升级了雷达穿透侦测、GPS+北斗定位、防尘防水及可拆卸磁吸底座四大能力，可从容应对复杂的户外环境。另一款小魔方CB30“结界兽”，则以双500万像素镜头实现180°超广视角，兼具防水防尘、4G终流网络与长效续航功能，机身小巧便携，充分满足露营、临时看护等灵活布防需求。此外，萤石魔丸系列新品90f，凭借多镜头设计与智能追踪功能，服务对全景监控有更高要求的用户。\n值得关注的是，萤石作为4G终身流量摄像机的首创者，针对无网环境提出了行业领先的解决方案——Wi‑Fi/4G 双模网络，在多款产品上实现了双网智能备份与无缝切换，消除了对单一网络的依赖，引领行业迈入更可靠的双模时代。后续萤石还将在智能摄像机端侧上线本地版万物识别AI算法，比如支持重点物品关注与智能提醒，实现更精准的物品看护。\n凭借在视觉、AI与交互领域的长期技术沉淀，萤石智能锁在复杂行为理解、主动预警与智能对话等方面展现出了领先行业的能力，其产品创新与综合竞争力已获业界高度认可，被授予“AI智能锁引领者”及“AI智能屏交互门锁首创者”认证。在AI驱动下，萤石智能锁正从单一的物理安防工具进化为一个兼具安全、智能与情感交互的“家庭智慧入口”。本次发布会推出了全新的Y31系列AI人脸视频锁，包含Ultra、Pro以及Plus三个版本。\n作为该系列的旗舰款，AI全景大屏交互智能锁Y31 Ultra采用了革新性的外观设计，配备了4.4英寸OLED室外智慧大屏，用以取代传统密码区，科技感与质感显著提升。其搭载的全景镜头可实现门外360°几乎无死角的监控，并支持VR预览，适配各类户型的入户场景。在核心解锁识别技术上，它采用了毫秒级响应的AI人脸识别，并辅以高精度AI指纹识别，在安全与便捷之间实现了无感平衡。\n更重要的是，萤石Y31 Ultra也是一款真正的“AI生活方式硬件”，为用户提供出色的AI交互体验。基于萤石蓝海大模型2.0，Y31 Ultra的AI智能体交互升级为可互动的3D全身形象，并推出全新的“山海瑞兽”养成类智能体，支持每日抽卡、节日换装、旅行奇遇等趣味互动，镇宅纳福更具陪伴感。此外，它首次将生成式交互融入门锁，用户可自定义智能体形象，享受AI动态暖心提示、对话式自然语言交互等更具个性化”的小门神增值服务，让智能体真正成为每个家庭的“专属伙伴”。同时，它依旧支持设置个性化欢迎语、提供天气备忘提醒，并具备人形检测、儿童出门检测、宠物检测、门外包裹看护等全场景智能看护能力。\n此外，萤石还发布了智能门铃CP8 4G防水版，该产品支持4G终身免流量，彻底摆脱了对电源和Wi-Fi网络的布线依赖，凭借IP65级防水、5MP高清画质、全彩夜视与AI人形检测，实现了门前区域灵活、持久且清晰的安防看护。\n在智能清洁赛道，萤石全球首创AI双擎蒸汽洗地机器人，本次活动发布了该品类的突破性产品——Stella星辰10 系列AI蒸汽洗地机器人（含Pro/Master）。其中，星辰10 Master搭载了萤石自研的双擎双热活水洗地方案，其核心由BiCore Suction 双擎分区直吸系统与HotSteam Wash澎湃蒸洗双热系统两大核心技术构成。BiCore Suction系统创新性地采用36000pa高功率双风机独立运作，从源头实现干湿分离，高效解决干湿混合垃圾的清理难题；HotSteam Wash系统则融合了190℃双泵增压蒸汽与95℃热活水洗地，搭配100℃高温滚筒自清洁系统，精准解决凝固污渍及重度油污，清洁更彻底。\n此外，星辰10 Master创新搭载了终身净化自循环系统，实现终身免换水。其活水自平衡蒸馏系统通过95℃活水蒸馏技术加热废水，分离水蒸气与固体杂质，水蒸气冷凝后回收至清水箱，固体残渣则经自动烘干、粉碎后集中收集至尘袋。同时，空气自适应凝水系统可在室内空气湿度大于30%时，由基站自动启动除湿制水功能，从空气中萃取水分子补充至清水箱，双系统协同发力，使得清洁机器人摆脱对外部水源的依赖。同时，星辰10 Master还配备了五重全链路高温除菌系统与全天候免维护清洁系统，兼顾清洁效率与使用便捷性，确保流畅高效的清洁体验。\nAI能力层面，星辰10 Master搭载萤石星辰世界模型与EZVIZ Auto-vision 3.0多目视觉感知技术，不仅能精准识别障碍物与家具类型，更能深度理解不同区域的地面材质与脏污程度，进而智能规划清扫路径、调节清洁力度，实现“越用越懂家”的个性化深度清洁。\n筑牢产业安全基石，传递社会公益温度 萤石系统诠释企业责任\n一直以来，萤石将“安全”视为品牌与技术的核心基石。为将这一理念转化为可指引行业发展的实践准则，本次发布会上，萤石联合中国信通院上海华东电信研究院，共同发布了《立体信任：AI视觉物联网运营安全白皮书》（以下简称“白皮书”），筑牢全栈安全底座，彰显了行业标准制定者的领先 AI 责任。中国互联网协会数据安全与治理工作委员会副秘书长韩松、CSA大中华区研究院副院长贾良钰、萤石首席安全官郑鸿咚、萤石品牌总监张艺晨共同参与了发布仪式。\n该白皮书详细梳理了AI视觉物联网领域在设备安全、数据合规、全球运营等方面面临的挑战与行业级解决方案，为构建可信、可靠的产业发展框架提供了兼具实践性与前瞻性的重要参考，从标准与最佳实践层面助力AI视觉物联网产业行稳致远。中国信息通信研究院华东分院数据事业部副主任胡莉莉在白皮书专题演讲中指出：“这份白皮书不仅融合了领先企业的实践经验，更为AI视觉物联网这一重要领域的运营安全建设提供了关键指引，对产业生态的健康发展具有积极价值。”\n不仅如此，萤石响应全新的品牌使命并积极践行“让生活更美好，让环境更和谐，让社会更温暖”的ESG理念。在此次发布会现场，萤石联合全球儿童安全组织（中国）共同启动了“瞳心探世界——萤石·EZVIZ Care儿童安全成长公益项目”。全球儿童安全组织（中国）执行主任徐霞珺、萤石董事会秘书&ESG委员会主任曹静文共同见证了项目的启动。该项目以本次发布的新品AI随身拍Pika作为核心工具，计划通过在多地举办“线下亲子探索营”，鼓励并引导儿童在安全的前提下勇敢探索世界。\n以安全为边界负责任地“驭智”，以共创为路径坚定地“向前”。本次品牌新品发布会的一系列行动，是萤石对全新品牌使命“以安全的智能科技共创美好生活”的最佳诠释。在一个AI技术持续重塑万物交互方式的时代，萤石将坚持长期主义，基于全栈自研能力，继续深化软硬一体化战略，依托“云-边-端”协同进化的架构以及在智能视觉物联网垂直领域的深厚积累，最终构建出真正以人为中心、懂用户所需、可持续进化的个性化产品与服务生态。\n当AI从“装在设备里”的技术概念，走向“植入生活里”的场景化服务，相信在“驭智向前”的道路上，萤石将继续以安全为基石，以智能为引擎，与用户及合作伙伴一道，探索并共创一个技术普惠智能未来。\n转载来源：萤石\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 5275,
+    "content_excerpt": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花\n量子位的朋友们\n2026-04-22\n12:12:45\n来源：\n量子位\n4月21日，全球领先的安全智能生活品牌萤石在杭州正式举办2026品牌新品发布会。在这场以“驭智·向前”（Ahead with Intelligence）为主题的盛会上，萤石全景式展现了AI驱动下多点开花的创新成果：从AI硬件新品矩阵的集中亮相，到品牌使命的战略升维，再到安全白皮书与儿童公益项目的发布，全面勾勒出“以安全的智能科技共创美好生活”的新蓝图。在AI技术加速重塑生活方式的当下，萤石始终坚持将安全作为不变的基因与信任基石，以有边界、有责任的方式驾驭智能科技，驱动品牌与产品持续进化、稳健向前。\n从“守护安全”到“共创美好”，萤石品牌体系全面升维\n自2013年第一代智能摄像机“小熊猫”问世至今，萤石已构建起覆盖智能家居摄像机、智能入户、智能机器人、智能控制及智能穿戴的五大自研硬件矩阵，并依托萤石物联云平台与AI核心能力，形成了独具特色的“2+5+N”业务体系。如今，萤石已成长为贯通硬件研发、智能制造、云端服务与AI算法的全链路企业，以高比例的研发投入和超1600项专利积累，服务全球超1.9亿用户。\n萤石的技术路径始终清晰坚定：以守护为核心价值，以安全为初心，以智能视频视觉为技术基础，以萤石云为支撑，驱动智能从“被动防护”向“主动理解”跃迁，通过构建持续进化的“云-边-端”高效协同体系，来承载海量数据、实现复杂场景智能，为无限的应用创新提供了坚实支撑。"
+  },
+  {
+    "id": "58c2e0e0499e",
+    "title": "单Agent时代结束，AI们开始组团上班",
+    "url": "https://www.qbitai.com/2026/04/404130.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-04-22T01:36:29",
+    "summary": "Kimi K2.6来了！",
+    "collected_at": "2026-04-22T06:06:35.454538",
+    "content_text": "单Agent时代结束，AI们开始组团上班\n克雷西\n2026-04-22\n09:36:29\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\n现在，大模型的密集更新实在是让人看得眼花缭乱，但整体看来，方向也无非那么几个——更大、更强、更快。\n但是，Kimi这次的更新，走的方向不太一样。\n昨晚，月之暗面发布并开源了旗下最新模型——K2.6。\n这次更新有两个重点，一是代码能力，包括硬核的软件工程能力和前端设计水准的提升，二是多Agent协作的“Agent集群”能力升级。\n先说榜单，Kimi K2.6在Artificial Analysis上取得了全球开源第一的成绩，仅次于闭源的全球“御三家”。\n咱就是说，在御三家新模型轮流上线的这张梗图里，也是能有Kimi的一个位置了。\n聊聊这个Agent集群的升级\nK2.5时，Kimi提出了“Agent集群”这个概念，但那时候更像是一个方向：能调度不同专长的Agent互相补位，广度搜索、深度研究、文档分析、长文撰写一起上，并行处理。\n到了K2.6，这件事变得真正有意思了：最多支持300个子Agent并行完成4000个协作步骤。\n放在实际场景里，你说一次需求，一次运行就能同时拿到文档、网站、PPT、表格。\n那必须给它一个任务实测一下，看它能不能一次运行、多格式并行交付，提示词如下：\n帮我做一份“2026年国内AI编程助手”的报告，需要同时给我三份产出：\n一篇完整的调研报告，包含各产品功能对比、定价策略、优劣势分析，以及你的选型建议；\n一张结构化的对比表格，维度包括：支持IDE、补全能力、对话能力、联网能力、价格、适合人群；\n一份可以直接拿去汇报的PPT，10页左右，有结论和建议页。\n三份东西格式完全不同，看它是真的并行在跑、还是按顺序一个个出来，以及最后交付的质量够不够直接用。\n首先，Agent集群进行了初步的扫描，并对问题的维度进行拆解，然后划分出了12个维度。\n这12个维度，交给了12位不同的专家来负责，每个人都只调研自己的一个子问题。\n每个专家的工作进度条和阶段性成果，都能实时监控。\n到了正式撰稿阶段，同样有不同的人负责各自的Chapter。\n最终，在数十位“专家”的接力之下，K2.6交付的报告长达55页，字数超3.5万，而且图文并茂、结构清晰、引文标注明确。\n其中覆盖了八款主流产品，每款都有定位、核心能力和局限性的完整拆解，引用了来自IDC、Gartner、信通院等机构的数据，SWE-bench评分、中文理解准确率、定价对比一应俱全，最后还附了选型建议矩阵和企业Checklist。\n篇幅和数据密度，已经超出单个对话窗口能合理完成的范畴。\n表格整理得也很干净，七个维度、八款产品，支持IDE、补全能力、对话能力、联网能力、定价、适合人群一列不少，格式规整，可以直接拿来用。\nPPT同样交出来了，10页，有目录、市场数据、竞品卡片、功能对比表、定价可视化、SWOT分析和选型建议，最后一页还附了行动建议。\n结构完整，可以直接拿去汇报。\n从一个AI，到一群AI\n从K2开始，感觉Kimi模型的进化脉络更清晰了：\nK2是万亿参数规模的基座，代表的是“把模型做大、做强”这件事。\nK2 Thinking在此基础上引入了推理层，让模型开始能把一个复杂任务一步步想清楚，自己推导、自己验证。\n到了K2.5/2.6，问题变了，Kimi团队开始把目光从专注于让单个模型变得更聪明，转向了让一群模型真正分工协作，各自发挥专长，一起做成更大的事。\n△\n图片由AI生成\n这是一个本质的跨越。\n道理很好理解，单个模型再强，也有天花板。\n就像一个天才程序员，写代码可以很快，但如果让他一个人同时搞定产品设计、写代码、跑数据、出文档、做演示，那他大概率无法招架。\n但一个组织可以。\n从互联网的建立，到大模型的训练，乃至人类登月……靠的从来都不是某一个天才，而是一群各有专长的人，在一套分工体系下协同推进。\nAI走到今天，也到了需要学这件事的时候了。\n为了实现这个目标，最需要的就是一个好的协作框架。\n所以，K2.6不只是在提升模型本身的参数，也在同步打磨它作为“协调者”的能力——\n在任务里动态分配、在出错时自动修复、在整个交付链条上主动管理。\n这是K2.6和K2.5最根本的差别之一。\n不过，Kimi没打算停在“Agent集群”这一步。“Agent集群”解决的是AI之间怎么分工的问题，但还有一个问题没答——人和AI放在同一个群组里，能一起完成什么？\n看到Kimi已经开始测试“Claw群组”了，支持把各种虾加入到一个群里，用K2.6做协调员，组织不同能力的虾一起干活……\n不过我们目前还没收到测试邀请，要测试之后再给大家分享实际体验了（Kimi你如果看到这篇文章的话要不给我们安排一个.doge）。\nOne More Thing\n这不是下个月量子位AIGC大会就要召开了吗，听说这次K2.6能写更精美的网页，也能支持简单后端了，我顺手就让Kimi帮忙写了个报名系统。\n不过我测试的时候活动官宣还没来，所以暂时没输入具体的活动信息，先让它把功能跑通。\n提示词是酱婶儿的：\n帮我做一个「量子位读者交流会」的活动报名网站。要求：\n首页有活动介绍、时间地点、嘉宾阵容；\n有报名表单，收集：姓名、邮箱、公司、职位、「你最想聊的AI话题」；\n支持提交报名，提交成功后显示报名成功页；\n有一个设有密码的管理后台页面，可以查看所有报名信息并导出。\n这个任务专门卡K2.6新增的后端和数据库能力，看它交出的到底是一个真的能跑的全栈应用，还是只是一个花瓶。\nK2.6没有直接开始写代码。它先读了项目构建的技能文件，把任务拆成前端初始化、设计文档、后端架构、数据库schema等任务线，然后才开始动手。\n值得一提的是设计决策。\n我们提示词里没有说要什么风格，它自己判断“这是一个AI主题活动”，选了纯黑纯白为主色调、亮柠檬黄作为点睛色的“清晰未来主义”风格，还顺手调用图像生成工具做了五张黑白艺术风格的配套视觉素材。\n首屏则是用Three.js做了3D交互式图片卡片集群，鼠标移动时卡片会翻转漂浮，还加了一套双层自定义光标系统。\n技术栈它也自己选定了：前端React + TypeScript + Tailwind + shadcn/ui，后端tRPC + Drizzle ORM + Hono + MySQL。\n管理后台也做了密码验证，登录后可查看报名信息并导出CSV。\n最终交付的成品长这样：\n我们再来验证下报名功能，看看到底是真收集到了信息，还是只有静态动画。\n结果，我们填写的报名表单成功出现在了后台记录当中，说明Kimi K2.6真的把这套报名系统的前后端和数据库开发跑通了。\n最后插播一条最新消息，大会的报名帖不久前刚刚发布了，大家记得多多关注，到时候来参会哦~\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
+    "content_source": "readability",
+    "content_chars": 2954,
+    "content_excerpt": "单Agent时代结束，AI们开始组团上班\n克雷西\n2026-04-22\n09:36:29\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\n现在，大模型的密集更新实在是让人看得眼花缭乱，但整体看来，方向也无非那么几个——更大、更强、更快。\n但是，Kimi这次的更新，走的方向不太一样。"
+  },
+  {
+    "id": "8ac4a3644148",
+    "title": "LG人工智能研究院与英伟达同意加强AI合作",
+    "url": "https://36kr.com/newsflashes/3777321625225219?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-04-22T01:30:15",
+    "summary": "LG当地时间4月21日宣布，LG人工智能研究院和英伟达已同意加强技术联盟，以扩展Exaone人工智能生态系统。双方将结合LG的Exaone模型和英伟达的Nemotron生态系统，共同开发人工智能模型。（界面）",
+    "collected_at": "2026-04-22T01:53:29.585402"
+  },
+  {
+    "id": "9db29ec27078",
+    "title": "Tell HN: I'm sick of AI everything",
+    "url": "https://news.ycombinator.com/item?id=47857461",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-22T01:19:30",
+    "summary": "A while back, I stopped using Facebook because I just couldn't take it anymore. Just totally sick of it. I'm honestly getting there with AI. At this point, I would prefer to have anything AI related just be blocked at the browser level. Comments URL: https://news.ycombinator.com/item?id=47857461 Poi",
+    "collected_at": "2026-04-23T13:24:01.532405"
   },
   {
     "id": "b23181db2bbe",
@@ -364,21 +793,6 @@
     "ai_summary": "Meta 表示，它有一个新的内部工具，可以将鼠标移动和按钮点击转换为可以训练其人工智能模型的数据"
   },
   {
-    "id": "4bad8ec7540f",
-    "title": "从GPU到Token：AI基础设施竞争逻辑重构",
-    "url": "https://www.qbitai.com/2026/04/404440.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-22T04:48:03",
-    "summary": "商汤大装置已实践三年",
-    "collected_at": "2026-04-22T06:06:35.454488",
-    "content_text": "从GPU到Token：AI基础设施竞争逻辑重构\n量子位的朋友们\n2026-04-22\n12:48:03\n来源：\n量子位\n近日，全球权威市场研究机构Omdia发布《2026全球AI工厂市场格局》报告。商汤大装置被重点推荐与引用，成为全球原生AI云厂商中的典型代表。\nOmdia高度评价商汤大装置，\n认为其开创了AI工厂“智能精炼”范式，并在多个维度领跑全球原生AI云市场。\n01商汤大装置AI数字工厂架构：领先行业三年的实践路径\nOmdia认为，随着人工智能技术加速渗透、AI Agent全面爆发，AI基础设施正经历一场结构性变革，其规模可比肩一个世纪前的电气化工业革命。而AI 工厂（AI Factory）正在成为这一阶段的关键基础设施形态。\n今年3月，黄仁勋同样发文谈及AI工厂。他指出，在全球各地正看到芯片工厂、电脑组装厂及AI工厂，以前所未有的规模兴建，“这正成为人类史上规模最大的基础设施建设工程。”\n当行业开始密集讨论AI工厂，商汤早在2022年便在内部战略中提出“AI 数字工厂”构想，并率先对这一趋势进行前瞻布局。彼时，商汤已清晰意识到，传统AI基础设施在成本与效率层面存在系统性瓶颈，难以支撑AI从实验室走向大规模产业化应用。必须构建一种全新的基础设施形态——专门为AI模型的“生产”而设计。\n经过近三年的实践探索，步入2026年，商汤大装置AI数字工厂全栈架构日趋成熟，总共分为四层：\n第一层：基础设施，即AIDC，包括人工智能数据中心、异构GPU、CPU、存储、网络等物理资源；\n第二层：基础设施即服务（IaaS），提供大模型训练的云资源、弹性算力池、训练引擎、高可用等能力，通过标准化的云服务，实现大模型稳定、高效的训练；\n第三层：模型即服务（MaaS），通过标准化、可编排的云服务，提供模型部署、模型推理、Agent 开发能力；\n第四层：应用，大模型进入应用落地阶段，AI开始融入各行各业，实现人工智能+。\n02多项指标领跑全球，开创“智能精炼”范式\nOmdia报告释放出一个明确信号：AI工厂不仅仅是传统数据中心的升级，它代表着一种全新的工业组织形态，其核心目标是实现智能（Token）的规模化生产与交付。\n这也意味着，AI基础设施的竞争重心，正从“谁拥有更多GPU”，转向“谁能够更高效地生产智能”。在更智能、更高效、单位成本更优的生产token上，商汤大装置走出了一条差异化的道路。\n对此，Omdia给出了一个极为精准的定义——“pioneering intelligence refiner”（智能精炼范式的开创者），即商汤大装置不仅只局限于提供算力资源，而是将通用AI能力转化为企业级生产力。\n“智能精炼范式”的背后，其实是商汤大装置深刻感知到AI基础设施发生的结构性变革，并给出了可运行、可交付、可验证的实践路径。\n一直以来，商汤大装置都在致力于降低AI应用与开发门槛。 通过算法、数据和算力的协同优化，商汤大装置已构建起“算力-平台-方案-服务”的端到端系统化能力，并将这些技术能力沉淀为如“水电煤”般的基础设施，帮助企业能以更高的投入产出比拥抱AI变革。\n不仅在范式层面实现创新，Omdia认为，商汤大装置在以下多项核心能力维度上同样领跑全球原生AI云市场：\nl\n垂直行业落地能力：\n依托深厚的场景化方案能力和高响应专家服务体系，截至到目前，商汤大装置累计服务众多大模型公司及各行业客户，覆盖AIGC、具身智能、AI4S、产业智能化等多个领域。\nl\n算电协同能力：\n商汤临港AIDC算电协同平台整合能源大模型、宁德时代储能系统等，实现算力与能源的精准匹配，能源需求预测准确率已经达到88%以上，决策准确率已达到93%以上，整体PUE降低至1.265，年化电费成本节约7%、碳减排4000吨的运营成效，带来显著的经济与社会效益。\nl\n多元异构芯片混训与调度\n：商汤大装置适配20+国产AI芯片，并率先实现万卡国产GPU集群大规模异构混训，算力利用率高达80%，效率达同构训练的95%，成功突破单一GPU限制，推动国产算力规模化商用。\n03全球经验输出\nOmdia认为，真正塑造2030年AI工业市场格局的参与者，并非当下芯片采购量最大的企业，而是那些最早洞悉四层AI工厂架构、成功锁定生态位优势，并充分尊重物理世界限制条件的先行者。\n在这一判断框架下，商汤大装置的先发优势愈发凸显。早在2022年，商汤便率先提出“AI 数字工厂”构想，不仅对行业趋势形成前瞻洞察，也在多年的实践中为全球AI工厂的演进提供了可参考的实践范式。\n与此同时，商汤大装置正将这一能力体系转化为全球化竞争力。在沙特落地的中国首个出海国产算力集群项目中，其通过输出高度适配的软硬件协同能力，在异构环境下实现高效部署与稳定运行，验证了其卓越的工程交付能力与“轻资产出海”模式的商业潜力。\n未来，商汤大装置还将持续深化AI工厂体系建设，围绕算电协同、异构算力调度与垂直行业落地等关键能力，不断提升智能（Token）生产效率与成本优势，推动AI基础设施向规模化、产业化方向演进。\n转载来源：商汤科技\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 2267,
-    "content_excerpt": "从GPU到Token：AI基础设施竞争逻辑重构\n量子位的朋友们\n2026-04-22\n12:48:03\n来源：\n量子位\n近日，全球权威市场研究机构Omdia发布《2026全球AI工厂市场格局》报告。商汤大装置被重点推荐与引用，成为全球原生AI云厂商中的典型代表。\nOmdia高度评价商汤大装置，\n认为其开创了AI工厂“智能精炼”范式，并在多个维度领跑全球原生AI云市场。\n01商汤大装置AI数字工厂架构：领先行业三年的实践路径"
-  },
-  {
     "id": "cd78e201d885",
     "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
     "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
@@ -397,21 +811,6 @@
     "ai_summary": "Anthropic 告诉 TechCrunch，它正在调查这些指控，但坚称没有证据表明其系统受到了影响"
   },
   {
-    "id": "544e1fc5931a",
-    "title": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
-    "url": "https://www.qbitai.com/2026/04/404420.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-22T04:12:45",
-    "summary": "发布安全白皮书与全系AI新品",
-    "collected_at": "2026-04-22T06:06:35.454506",
-    "content_text": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花\n量子位的朋友们\n2026-04-22\n12:12:45\n来源：\n量子位\n4月21日，全球领先的安全智能生活品牌萤石在杭州正式举办2026品牌新品发布会。在这场以“驭智·向前”（Ahead with Intelligence）为主题的盛会上，萤石全景式展现了AI驱动下多点开花的创新成果：从AI硬件新品矩阵的集中亮相，到品牌使命的战略升维，再到安全白皮书与儿童公益项目的发布，全面勾勒出“以安全的智能科技共创美好生活”的新蓝图。在AI技术加速重塑生活方式的当下，萤石始终坚持将安全作为不变的基因与信任基石，以有边界、有责任的方式驾驭智能科技，驱动品牌与产品持续进化、稳健向前。\n从“守护安全”到“共创美好”，萤石品牌体系全面升维\n自2013年第一代智能摄像机“小熊猫”问世至今，萤石已构建起覆盖智能家居摄像机、智能入户、智能机器人、智能控制及智能穿戴的五大自研硬件矩阵，并依托萤石物联云平台与AI核心能力，形成了独具特色的“2+5+N”业务体系。如今，萤石已成长为贯通硬件研发、智能制造、云端服务与AI算法的全链路企业，以高比例的研发投入和超1600项专利积累，服务全球超1.9亿用户。\n萤石的技术路径始终清晰坚定：以守护为核心价值，以安全为初心，以智能视频视觉为技术基础，以萤石云为支撑，驱动智能从“被动防护”向“主动理解”跃迁，通过构建持续进化的“云-边-端”高效协同体系，来承载海量数据、实现复杂场景智能，为无限的应用创新提供了坚实支撑。\n面对AI技术浪潮的汹涌而至与用户需求的深刻演变，行业与用户对技术的责任感、安全感和边界感也提出了更高要求。萤石深刻洞察到，技术的飞跃必须与责任的担当同步。本次发布会上，萤石正式宣布了全新的品牌使命，从“致力于人人轻松享有安全的智能生活”，升级为“以安全的智能科技共创美好生活”。这一变化的而背后，是萤石品牌对未来发展逻辑的深化——“安全”是萤石不变的基因与信任基石；“智能科技”是持续创新、产品与服务升级的核心驱动力；“共创”则标志着萤石与用户、合作伙伴并肩而立，协同定义未来的新阶段；而“美好生活”，则是这一切努力的终极指向。\n萤石首席产品官陈冠兰在发布会上强调：“为人所用，是我们不变的初心。我们做智能视觉，不为炫技，只为守护万家平安，让科技真正融入用户生活，解决实际问题。”此次品牌升级，标志着萤石从“守护者”向“共创者”的战略升维，强化了技术自信与用户导向，坚定了成为一家有边界、有担当的长期主义品牌的决心。\n丰富品类创新，AI新品助力多场景创新突破\n本次发布会的核心亮点，在于萤石将视频/视觉AI技术深度融入硬件与场景。四大品类新品的集中发布，以“更强AI、更优体验、更稳安全”为内核，推动AI从技术概念走向真实生活。\n基于“用户为先”的价值理念，萤石深刻理解用户对数据隐私与响应速度的双重需求，并为此提供了灵活的选择：用户既可畅享云端强大的智能AI服务，也可选择本地端更私密、更迅捷的AI能力。为充分满足后者需求，萤石正式推出了部署于家庭的本地智慧中枢——智能大模型主机EZVIZ AI CoreX。作为萤石“云-边-端”协同架构中关键的边侧核心，EZVIZ AI CoreX搭载萤石蓝海大模型 2.0 与 Home Vita 智能体，以“有记忆、更懂你、会执行”为核心，打造集存储、计算、控制于一体的智慧家庭“中枢大脑”，推动本地 AI 能力全面落地。\nEZVIZ AI CoreX搭载了24G+128G超大内存与64T强悍算力，为家庭构建包含不同文件类型的线下存储空间。此外，针对智能摄像机等设备告警繁杂、录像回溯难等痛点，EZVIZ AI CoreX可对全屋设备推送的消息与图片进行深度理解、智能聚合推送，并自动生成每日、每周的录像精华摘要，更支持通过自然语言精准检索录像内容。依托Home Vita 智能体，EZVIZ AI CoreX兼容萤石全系设备与Matter 协议第三方产品，实现全屋设备一键统一管控；用户仅需下达语音指令即可触发复杂的自动化场景联动，未来它还将通过自主学习，实现从被动响应到主动服务的升级。该产品将率先在海外市场首发上市。\n经过多年的市场深耕，萤石智能家居摄像机已形成了能够满足室内外、Wi-Fi/4G等多样化场景需求的完善产品矩阵，并保持市场地位领先，据IDC相关报告显示，2025年出货量蝉联全球第一。在AI技术的驱动下，萤石智能家居摄像机正从基础的安防工具向家庭AI感知中心全面进化，需求也从固定看护，快速延伸至儿童陪伴、宠物看护、户外便携等多元化场景，并在产品的功能性需求以外逐步延伸出了更多情绪价值需求。\n本次发布会，萤石带来了四款各具特色的AI摄像机新品。其中，AI随身拍EZVIZ Pika是一款专为儿童设计的“人生第一台AI设备”。它搭载“AI双引擎”，不仅能通过摄像头拍识万物，还能以智能问答的方式满足孩子的好奇心。在拍摄性能上，其配备前后双4K摄像头能清晰记录每一个探索瞬间。产品在设计上充分考量了儿童使用的安全、舒适与连接便利性，机身仅重80克，内置GPS+北斗定位功能，并创新性地集成了电信/联通双4G卡，提供终身免费流量，确保随时随地在线。此外，设备还支持高清双向视频通话，便于亲子间的温情互动，让孩子的探索过程更安心、连接更自由、记录更出色。\n针对广阔的户外与移动安防场景，萤石“小魔方”系列再添新成员。小魔方CB60 Pro电池4G防水版在前代基础上，专项升级了雷达穿透侦测、GPS+北斗定位、防尘防水及可拆卸磁吸底座四大能力，可从容应对复杂的户外环境。另一款小魔方CB30“结界兽”，则以双500万像素镜头实现180°超广视角，兼具防水防尘、4G终流网络与长效续航功能，机身小巧便携，充分满足露营、临时看护等灵活布防需求。此外，萤石魔丸系列新品90f，凭借多镜头设计与智能追踪功能，服务对全景监控有更高要求的用户。\n值得关注的是，萤石作为4G终身流量摄像机的首创者，针对无网环境提出了行业领先的解决方案——Wi‑Fi/4G 双模网络，在多款产品上实现了双网智能备份与无缝切换，消除了对单一网络的依赖，引领行业迈入更可靠的双模时代。后续萤石还将在智能摄像机端侧上线本地版万物识别AI算法，比如支持重点物品关注与智能提醒，实现更精准的物品看护。\n凭借在视觉、AI与交互领域的长期技术沉淀，萤石智能锁在复杂行为理解、主动预警与智能对话等方面展现出了领先行业的能力，其产品创新与综合竞争力已获业界高度认可，被授予“AI智能锁引领者”及“AI智能屏交互门锁首创者”认证。在AI驱动下，萤石智能锁正从单一的物理安防工具进化为一个兼具安全、智能与情感交互的“家庭智慧入口”。本次发布会推出了全新的Y31系列AI人脸视频锁，包含Ultra、Pro以及Plus三个版本。\n作为该系列的旗舰款，AI全景大屏交互智能锁Y31 Ultra采用了革新性的外观设计，配备了4.4英寸OLED室外智慧大屏，用以取代传统密码区，科技感与质感显著提升。其搭载的全景镜头可实现门外360°几乎无死角的监控，并支持VR预览，适配各类户型的入户场景。在核心解锁识别技术上，它采用了毫秒级响应的AI人脸识别，并辅以高精度AI指纹识别，在安全与便捷之间实现了无感平衡。\n更重要的是，萤石Y31 Ultra也是一款真正的“AI生活方式硬件”，为用户提供出色的AI交互体验。基于萤石蓝海大模型2.0，Y31 Ultra的AI智能体交互升级为可互动的3D全身形象，并推出全新的“山海瑞兽”养成类智能体，支持每日抽卡、节日换装、旅行奇遇等趣味互动，镇宅纳福更具陪伴感。此外，它首次将生成式交互融入门锁，用户可自定义智能体形象，享受AI动态暖心提示、对话式自然语言交互等更具个性化”的小门神增值服务，让智能体真正成为每个家庭的“专属伙伴”。同时，它依旧支持设置个性化欢迎语、提供天气备忘提醒，并具备人形检测、儿童出门检测、宠物检测、门外包裹看护等全场景智能看护能力。\n此外，萤石还发布了智能门铃CP8 4G防水版，该产品支持4G终身免流量，彻底摆脱了对电源和Wi-Fi网络的布线依赖，凭借IP65级防水、5MP高清画质、全彩夜视与AI人形检测，实现了门前区域灵活、持久且清晰的安防看护。\n在智能清洁赛道，萤石全球首创AI双擎蒸汽洗地机器人，本次活动发布了该品类的突破性产品——Stella星辰10 系列AI蒸汽洗地机器人（含Pro/Master）。其中，星辰10 Master搭载了萤石自研的双擎双热活水洗地方案，其核心由BiCore Suction 双擎分区直吸系统与HotSteam Wash澎湃蒸洗双热系统两大核心技术构成。BiCore Suction系统创新性地采用36000pa高功率双风机独立运作，从源头实现干湿分离，高效解决干湿混合垃圾的清理难题；HotSteam Wash系统则融合了190℃双泵增压蒸汽与95℃热活水洗地，搭配100℃高温滚筒自清洁系统，精准解决凝固污渍及重度油污，清洁更彻底。\n此外，星辰10 Master创新搭载了终身净化自循环系统，实现终身免换水。其活水自平衡蒸馏系统通过95℃活水蒸馏技术加热废水，分离水蒸气与固体杂质，水蒸气冷凝后回收至清水箱，固体残渣则经自动烘干、粉碎后集中收集至尘袋。同时，空气自适应凝水系统可在室内空气湿度大于30%时，由基站自动启动除湿制水功能，从空气中萃取水分子补充至清水箱，双系统协同发力，使得清洁机器人摆脱对外部水源的依赖。同时，星辰10 Master还配备了五重全链路高温除菌系统与全天候免维护清洁系统，兼顾清洁效率与使用便捷性，确保流畅高效的清洁体验。\nAI能力层面，星辰10 Master搭载萤石星辰世界模型与EZVIZ Auto-vision 3.0多目视觉感知技术，不仅能精准识别障碍物与家具类型，更能深度理解不同区域的地面材质与脏污程度，进而智能规划清扫路径、调节清洁力度，实现“越用越懂家”的个性化深度清洁。\n筑牢产业安全基石，传递社会公益温度 萤石系统诠释企业责任\n一直以来，萤石将“安全”视为品牌与技术的核心基石。为将这一理念转化为可指引行业发展的实践准则，本次发布会上，萤石联合中国信通院上海华东电信研究院，共同发布了《立体信任：AI视觉物联网运营安全白皮书》（以下简称“白皮书”），筑牢全栈安全底座，彰显了行业标准制定者的领先 AI 责任。中国互联网协会数据安全与治理工作委员会副秘书长韩松、CSA大中华区研究院副院长贾良钰、萤石首席安全官郑鸿咚、萤石品牌总监张艺晨共同参与了发布仪式。\n该白皮书详细梳理了AI视觉物联网领域在设备安全、数据合规、全球运营等方面面临的挑战与行业级解决方案，为构建可信、可靠的产业发展框架提供了兼具实践性与前瞻性的重要参考，从标准与最佳实践层面助力AI视觉物联网产业行稳致远。中国信息通信研究院华东分院数据事业部副主任胡莉莉在白皮书专题演讲中指出：“这份白皮书不仅融合了领先企业的实践经验，更为AI视觉物联网这一重要领域的运营安全建设提供了关键指引，对产业生态的健康发展具有积极价值。”\n不仅如此，萤石响应全新的品牌使命并积极践行“让生活更美好，让环境更和谐，让社会更温暖”的ESG理念。在此次发布会现场，萤石联合全球儿童安全组织（中国）共同启动了“瞳心探世界——萤石·EZVIZ Care儿童安全成长公益项目”。全球儿童安全组织（中国）执行主任徐霞珺、萤石董事会秘书&ESG委员会主任曹静文共同见证了项目的启动。该项目以本次发布的新品AI随身拍Pika作为核心工具，计划通过在多地举办“线下亲子探索营”，鼓励并引导儿童在安全的前提下勇敢探索世界。\n以安全为边界负责任地“驭智”，以共创为路径坚定地“向前”。本次品牌新品发布会的一系列行动，是萤石对全新品牌使命“以安全的智能科技共创美好生活”的最佳诠释。在一个AI技术持续重塑万物交互方式的时代，萤石将坚持长期主义，基于全栈自研能力，继续深化软硬一体化战略，依托“云-边-端”协同进化的架构以及在智能视觉物联网垂直领域的深厚积累，最终构建出真正以人为中心、懂用户所需、可持续进化的个性化产品与服务生态。\n当AI从“装在设备里”的技术概念，走向“植入生活里”的场景化服务，相信在“驭智向前”的道路上，萤石将继续以安全为基石，以智能为引擎，与用户及合作伙伴一道，探索并共创一个技术普惠智能未来。\n转载来源：萤石\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 5275,
-    "content_excerpt": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花\n量子位的朋友们\n2026-04-22\n12:12:45\n来源：\n量子位\n4月21日，全球领先的安全智能生活品牌萤石在杭州正式举办2026品牌新品发布会。在这场以“驭智·向前”（Ahead with Intelligence）为主题的盛会上，萤石全景式展现了AI驱动下多点开花的创新成果：从AI硬件新品矩阵的集中亮相，到品牌使命的战略升维，再到安全白皮书与儿童公益项目的发布，全面勾勒出“以安全的智能科技共创美好生活”的新蓝图。在AI技术加速重塑生活方式的当下，萤石始终坚持将安全作为不变的基因与信任基石，以有边界、有责任的方式驾驭智能科技，驱动品牌与产品持续进化、稳健向前。\n从“守护安全”到“共创美好”，萤石品牌体系全面升维\n自2013年第一代智能摄像机“小熊猫”问世至今，萤石已构建起覆盖智能家居摄像机、智能入户、智能机器人、智能控制及智能穿戴的五大自研硬件矩阵，并依托萤石物联云平台与AI核心能力，形成了独具特色的“2+5+N”业务体系。如今，萤石已成长为贯通硬件研发、智能制造、云端服务与AI算法的全链路企业，以高比例的研发投入和超1600项专利积累，服务全球超1.9亿用户。\n萤石的技术路径始终清晰坚定：以守护为核心价值，以安全为初心，以智能视频视觉为技术基础，以萤石云为支撑，驱动智能从“被动防护”向“主动理解”跃迁，通过构建持续进化的“云-边-端”高效协同体系，来承载海量数据、实现复杂场景智能，为无限的应用创新提供了坚实支撑。"
-  },
-  {
     "id": "b55747f6d2e5",
     "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
     "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
@@ -428,21 +827,6 @@
     "title_zh": "SpaceX 正在与 Cursor 合作，并可以选择以 $60B 收购这家初创公司",
     "summary_zh": "此举可能会弥补每家公司的弱点，但也会暴露它们。 Cursor 和 xAI 都没有可以与 Anthropic 和 OpenAI 的领先产品相媲美的专有模型——这两家公司现在直接与 Cursor 争夺开发者市场",
     "ai_summary": "此举可能会弥补每家公司的弱点，但也会暴露它们。 Cursor 和 xAI 都没有可以与 Anthropic 和 Open…"
-  },
-  {
-    "id": "58c2e0e0499e",
-    "title": "单Agent时代结束，AI们开始组团上班",
-    "url": "https://www.qbitai.com/2026/04/404130.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-22T01:36:29",
-    "summary": "Kimi K2.6来了！",
-    "collected_at": "2026-04-22T06:06:35.454538",
-    "content_text": "单Agent时代结束，AI们开始组团上班\n克雷西\n2026-04-22\n09:36:29\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\n现在，大模型的密集更新实在是让人看得眼花缭乱，但整体看来，方向也无非那么几个——更大、更强、更快。\n但是，Kimi这次的更新，走的方向不太一样。\n昨晚，月之暗面发布并开源了旗下最新模型——K2.6。\n这次更新有两个重点，一是代码能力，包括硬核的软件工程能力和前端设计水准的提升，二是多Agent协作的“Agent集群”能力升级。\n先说榜单，Kimi K2.6在Artificial Analysis上取得了全球开源第一的成绩，仅次于闭源的全球“御三家”。\n咱就是说，在御三家新模型轮流上线的这张梗图里，也是能有Kimi的一个位置了。\n聊聊这个Agent集群的升级\nK2.5时，Kimi提出了“Agent集群”这个概念，但那时候更像是一个方向：能调度不同专长的Agent互相补位，广度搜索、深度研究、文档分析、长文撰写一起上，并行处理。\n到了K2.6，这件事变得真正有意思了：最多支持300个子Agent并行完成4000个协作步骤。\n放在实际场景里，你说一次需求，一次运行就能同时拿到文档、网站、PPT、表格。\n那必须给它一个任务实测一下，看它能不能一次运行、多格式并行交付，提示词如下：\n帮我做一份“2026年国内AI编程助手”的报告，需要同时给我三份产出：\n一篇完整的调研报告，包含各产品功能对比、定价策略、优劣势分析，以及你的选型建议；\n一张结构化的对比表格，维度包括：支持IDE、补全能力、对话能力、联网能力、价格、适合人群；\n一份可以直接拿去汇报的PPT，10页左右，有结论和建议页。\n三份东西格式完全不同，看它是真的并行在跑、还是按顺序一个个出来，以及最后交付的质量够不够直接用。\n首先，Agent集群进行了初步的扫描，并对问题的维度进行拆解，然后划分出了12个维度。\n这12个维度，交给了12位不同的专家来负责，每个人都只调研自己的一个子问题。\n每个专家的工作进度条和阶段性成果，都能实时监控。\n到了正式撰稿阶段，同样有不同的人负责各自的Chapter。\n最终，在数十位“专家”的接力之下，K2.6交付的报告长达55页，字数超3.5万，而且图文并茂、结构清晰、引文标注明确。\n其中覆盖了八款主流产品，每款都有定位、核心能力和局限性的完整拆解，引用了来自IDC、Gartner、信通院等机构的数据，SWE-bench评分、中文理解准确率、定价对比一应俱全，最后还附了选型建议矩阵和企业Checklist。\n篇幅和数据密度，已经超出单个对话窗口能合理完成的范畴。\n表格整理得也很干净，七个维度、八款产品，支持IDE、补全能力、对话能力、联网能力、定价、适合人群一列不少，格式规整，可以直接拿来用。\nPPT同样交出来了，10页，有目录、市场数据、竞品卡片、功能对比表、定价可视化、SWOT分析和选型建议，最后一页还附了行动建议。\n结构完整，可以直接拿去汇报。\n从一个AI，到一群AI\n从K2开始，感觉Kimi模型的进化脉络更清晰了：\nK2是万亿参数规模的基座，代表的是“把模型做大、做强”这件事。\nK2 Thinking在此基础上引入了推理层，让模型开始能把一个复杂任务一步步想清楚，自己推导、自己验证。\n到了K2.5/2.6，问题变了，Kimi团队开始把目光从专注于让单个模型变得更聪明，转向了让一群模型真正分工协作，各自发挥专长，一起做成更大的事。\n△\n图片由AI生成\n这是一个本质的跨越。\n道理很好理解，单个模型再强，也有天花板。\n就像一个天才程序员，写代码可以很快，但如果让他一个人同时搞定产品设计、写代码、跑数据、出文档、做演示，那他大概率无法招架。\n但一个组织可以。\n从互联网的建立，到大模型的训练，乃至人类登月……靠的从来都不是某一个天才，而是一群各有专长的人，在一套分工体系下协同推进。\nAI走到今天，也到了需要学这件事的时候了。\n为了实现这个目标，最需要的就是一个好的协作框架。\n所以，K2.6不只是在提升模型本身的参数，也在同步打磨它作为“协调者”的能力——\n在任务里动态分配、在出错时自动修复、在整个交付链条上主动管理。\n这是K2.6和K2.5最根本的差别之一。\n不过，Kimi没打算停在“Agent集群”这一步。“Agent集群”解决的是AI之间怎么分工的问题，但还有一个问题没答——人和AI放在同一个群组里，能一起完成什么？\n看到Kimi已经开始测试“Claw群组”了，支持把各种虾加入到一个群里，用K2.6做协调员，组织不同能力的虾一起干活……\n不过我们目前还没收到测试邀请，要测试之后再给大家分享实际体验了（Kimi你如果看到这篇文章的话要不给我们安排一个.doge）。\nOne More Thing\n这不是下个月量子位AIGC大会就要召开了吗，听说这次K2.6能写更精美的网页，也能支持简单后端了，我顺手就让Kimi帮忙写了个报名系统。\n不过我测试的时候活动官宣还没来，所以暂时没输入具体的活动信息，先让它把功能跑通。\n提示词是酱婶儿的：\n帮我做一个「量子位读者交流会」的活动报名网站。要求：\n首页有活动介绍、时间地点、嘉宾阵容；\n有报名表单，收集：姓名、邮箱、公司、职位、「你最想聊的AI话题」；\n支持提交报名，提交成功后显示报名成功页；\n有一个设有密码的管理后台页面，可以查看所有报名信息并导出。\n这个任务专门卡K2.6新增的后端和数据库能力，看它交出的到底是一个真的能跑的全栈应用，还是只是一个花瓶。\nK2.6没有直接开始写代码。它先读了项目构建的技能文件，把任务拆成前端初始化、设计文档、后端架构、数据库schema等任务线，然后才开始动手。\n值得一提的是设计决策。\n我们提示词里没有说要什么风格，它自己判断“这是一个AI主题活动”，选了纯黑纯白为主色调、亮柠檬黄作为点睛色的“清晰未来主义”风格，还顺手调用图像生成工具做了五张黑白艺术风格的配套视觉素材。\n首屏则是用Three.js做了3D交互式图片卡片集群，鼠标移动时卡片会翻转漂浮，还加了一套双层自定义光标系统。\n技术栈它也自己选定了：前端React + TypeScript + Tailwind + shadcn/ui，后端tRPC + Drizzle ORM + Hono + MySQL。\n管理后台也做了密码验证，登录后可查看报名信息并导出CSV。\n最终交付的成品长这样：\n我们再来验证下报名功能，看看到底是真收集到了信息，还是只有静态动画。\n结果，我们填写的报名表单成功出现在了后台记录当中，说明Kimi K2.6真的把这套报名系统的前后端和数据库开发跑通了。\n最后插播一条最新消息，大会的报名帖不久前刚刚发布了，大家记得多多关注，到时候来参会哦~\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 2954,
-    "content_excerpt": "单Agent时代结束，AI们开始组团上班\n克雷西\n2026-04-22\n09:36:29\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\n现在，大模型的密集更新实在是让人看得眼花缭乱，但整体看来，方向也无非那么几个——更大、更强、更快。\n但是，Kimi这次的更新，走的方向不太一样。"
   },
   {
     "id": "3101b2eb692d",
@@ -481,22 +865,6 @@
     "ai_summary": "收听会议或观看下面的节目 观看来自《麻省理工学院技术评论》人工智能领导力标志性会议 EmTech AI 的特别版圆桌会议…"
   },
   {
-    "id": "eefe3d821e12",
-    "title": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
-    "url": "https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-21T19:59:47",
-    "summary": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
-    "collected_at": "2026-04-21T13:07:41.907915",
-    "ai_summary": "多模态AI应用成为标配，本周AI应用生态持续繁荣",
-    "content_text": "4 月 24 日（本周五）-4 月 26 日（本周日），2050 大会将盛大开启！\n今年的 2050 大会干货超满！两天一夜，130+场论坛、500+分享者，从早 8 点讲到深夜。\n2050 大会，是王坚院士在 2018 年发起了一个面向年轻人的“科技乌托邦式聚会”。\n极客邦科技创始人兼 CEO 霍太稳（Kevin）也是最早的共创者之一。10 年前，几人在上海的一间酒店会议室里聊天，聊着聊着就冒出一个问题——能不能做一个规模大一点、真正属于年轻人的科技聚会？名字反复打磨，形式一再推敲，这些想法一点点长成了今天的 2050 大会。\n2017 年 10 月 29 日在上海某个酒店的会议室，2050 大会开始发芽\n从左至右：薛贵荣、王坚、锦木、霍太稳\n在每年 4 月最后一个周五六日，全球最有趣的年轻开发者、创客、AI 爱好者将齐聚杭州——没有架子、没“大咖席”，只有纯粹的热爱和好玩的灵魂，以及这个时代最前沿、最鲜活的思考。\n参与活动请扫描下方二维码，更多攻略一步到位，还可以抽取大会门票和模力工场精美周边哦～\n全新内容栏目上线！「Q:Lab」专注于 AI 产品深度探索、测评\n如果你已经看腻了“这个 AI 很强”、“那个 Agent 很聪明”的 PR 介绍；那我们换一种更直接的方式：把各种 AI 产品拉进不同场景，让真实用户现场实操，结果好不好一眼见分晓。\n在此，向大家介绍 InfoQ 中国推出的全新 AI 产品深度探索、测评直播栏目：\n「Q:Lab」\n。\n这里不讲概念、不教部署——每期围绕一个真实职业场景，让 AI 产品同时接受测评，由一线从业者亲手操作，现场出结果。\n第一季「龙虾季」由模力工场和 InfoQ 共创，聚焦 AI Agent 产品，覆盖 9 款核心产品，共 3 期直播。\n不是广告！干货满满！欢迎预约～\n直通「AI 界春晚」机会来啦！WAIC Future Tech 开启“一人公司”先行者大赛\n现在，初创公司和普通开发者，也有机会成为 AI 界顶级盛会\n世界人工智能大会（WAIC）的参展方\n，向顶级投资人、媒体、30 万+参观者展示推广你的产品或成果。\n玩法很简单：4 月线上提交 Demo 筛选，5 月城市路演（北京、上海、深圳、成都、新加坡等 10 城联动），7 月进入 WAIC 总决赛。\n为了让更广泛的群体参与进来，主办方设置了“双轨制赛道”。\n目前活动正在火热进行中！报名持续开放、滚动筛选。\n如果你已经用 AI 做出点东西，这是一次将其放到聚光灯下的特别好的机会。更多详情可见\n《Future Tech | 你的idea只差一个AI：直通WAIC世界舞台，寻找“一人公司”先行者》\n模力工场\n037 周榜单总介绍\n模力工场\n第 037 周 AI 应用榜来袭！前 10 名如下：\nXT-AIGC\n：\nXT-AIGC 是一款轻量化 AI 创作工具，集成文生图、角色三视图、图生视频及漫剧制作，支持多模型密钥管理，接入即可使用。\nMonkeyCode 智能开发平台\n：\n通过 AI 驱动的编程助手、自动化工作流和智能开发工具，帮助开发者更快速地构建应用程序。\n来福\n：\n你的私人 AI 电台，海量内容、打开就播，个性化推荐、越听越懂你，语音聊天、智控点播，多种 AI 主播随心选。\nMoras\n：\n一款面向内容电商的 AI Agent，把选品、脚本、视频生成、发布到数据分析这一整套流程自动化，让个人也能跑通带货。简单理解：它把原本需要一整个团队完成的卖货链路，压缩成一个人+AI 就能完成。\nMemoryLake\n：\n一个记忆护照。伴你穿梭于 ChatGPT、Claude、Qwen、OpenClaw，跨越每一个智能体、每一次会话。\n镖行AI标书\n：\n镖行 AI 标书，标书 AI 智能写作工具。一键智能生成图文并茂高质量标书，高效辅助投标。操作简单，急标、新手友好。\nTalkAI\n：\n用 AI 模拟真实对话场景的口语练习工具，让你在没有语言环境和搭档的情况下，也能随时练习并获得即时反馈与纠正。\n讯飞译制\n：\n基于科大讯飞语音识别技术的 AI 视频字幕制作软件\n讯飞写作\n：\n基于科大讯飞星火大模型的一款 AI 智能写作助手\n问小白\n：\n探索世界的 AI 搭子，一款支持多模态输入的 AI 助手，帮你快速获取信息、生成内容并处理文档，甚至可以一键把回答生成可用的网页页面。\n本周必试应用\n【应用名称】：\nXT-AIGC\n【关键词】：图像设计｜视频多媒体｜ 新媒体创作\n【用户热评】：\n我开发这款软件，核心是\n解决普通创作者用 AI 太麻烦、太分散的问题\n：\n市面上 AI 工具零散，文生图、视频、漫剧要切换多个平台，效率低\n新手不会部署本地模型，接口复杂难上手\n短剧、动漫创作缺少一站式工具，流程繁琐\n所以做一款聚合型 AIGC 软件，降低门槛，让普通人也能高效完成 AI 创作。\n——用户 @孔庆荣\n【使用场景】：\n文生图，图生图，文生视频，图生视频。\n自己定义图片节点进行人物换装，换场景等等。\n调整人物拍摄角度。\n人物补充灯光。\n内置摄像头等提示词，可以快速仿照传统相机出对应的图片。\n漫剧制作。\n图片提示词解析。\n本周上榜应用趋势解读\n首先，是“连接层”开始出现，生态意识增强。\n像 MemoryLake 这种产品，其实在解决一个更底层的问题：ChatGPT、Claude、Qwen、OpenClaw 各自割裂，而且用户数据和记忆不互通，而它做的，就是在不同 Agent/模型之间做“记忆中枢”。\n其二，是现在的 AI 应用已经从“单点工具”转换成“一整条链路助手”，最近这几周的 AI 应用都或多或少地体现了这个特点。\n从\nMoras、XT-AIGC、MonkeyCode\n这些产品上都能看到这点。\nMoras：选品 → 脚本 → 视频 → 发布 → 数据分析（完整电商链路）\nXT-AIGC：文生图 → 图生视频 → 漫剧制作（完整内容生产链路）\nMonkeyCode：写代码 → 工作流 → 自动化开发（完整开发链路）\n其二，是门槛在被系统性压低，越来越多的 AI 应用也开始“非技术背景用户”。\n这批产品明显在做一件事：复杂能力在后台，用户只需要“说一句话”，零基础的人也能用，例如：\nXT-AIGC：把多模型调用、提示词、图像节点都封装好\n镖行 AI 标书：直接一键生成完整标书（新手也能用）\nTalkAI：模拟真实对话+实时纠错，替代语言环境\n问小白：自然语言+多模态+文件理解，甚至直接生成网页\n还有一点，就是多模态成为标配，而不是卖点。\n这一周几乎所有产品，都在不同程度上“多模态化”。例如：\nXT-AIGC：图像 + 视频 + 漫剧\n问小白：文本 + 文件 + 图片解析\n讯飞译制：语音 → 字幕 → 视频处理\n但它们的重点已经不是“我支持多模态”，而是\n多模态只是完成任务的手段之一。",
-    "content_source": "readability",
-    "content_chars": 2829,
-    "content_excerpt": "4 月 24 日（本周五）-4 月 26 日（本周日），2050 大会将盛大开启！\n今年的 2050 大会干货超满！两天一夜，130+场论坛、500+分享者，从早 8 点讲到深夜。\n2050 大会，是王坚院士在 2018 年发起了一个面向年轻人的“科技乌托邦式聚会”。\n极客邦科技创始人兼 CEO 霍太稳（Kevin）也是最早的共创者之一。10 年前，几人在上海的一间酒店会议室里聊天，聊着聊着就冒出一个问题——能不能做一个规模大一点、真正属于年轻人的科技聚会？名字反复打磨，形式一再推敲，这些想法一点点长成了今天的 2050 大会。\n2017 年 10 月 29 日在上海某个酒店的会议室，2050 大会开始发芽\n从左至右：薛贵荣、王坚、锦木、霍太稳\n在每年 4 月最后一个周五六日，全球最有趣的年轻开发者、创客、AI 爱好者将齐聚杭州——没有架子、没“大咖席”，只有纯粹的热爱和好玩的灵魂，以及这个时代最前沿、最鲜活的思考。\n参与活动请扫描下方二维码，更多攻略一步到位，还可以抽取大会门票和模力工场精美周边哦～\n全新内容栏目上线！「Q:Lab」专注于 AI 产品深度探索、测评\n如果你已经看腻了“这个 AI 很强”、“那个 Agent 很聪明”的 PR 介绍；那我们换一种更直接的方式：把各种 AI 产品拉进不同场景，让真实用户现场实操，结果好不好一眼见分晓。"
-  },
-  {
     "id": "4df7f721afea",
     "title": "A natural protein may protect the GI tract from infection",
     "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
@@ -513,24 +881,6 @@
     "title_zh": "天然蛋白质可以保护胃肠道免受感染",
     "summary_zh": "嵌入人体粘膜表面的称为凝集素的蛋白质与细胞表面的糖结合。由麻省理工学院化学教授 Laura Kiessling 领导的团队发现，一种这样的蛋白质——intelectin-2，既有助于强化粘膜屏障，又能提供广谱保护，抵御有害细菌",
     "ai_summary": "嵌入人体粘膜表面的称为凝集素的蛋白质与细胞表面的糖结合。由麻省理工学院化学教授 Laura Kiessling 领导的团…"
-  },
-  {
-    "id": "6c61749c78a4",
-    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-    "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-21T19:11:29",
-    "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-    "collected_at": "2026-04-22T01:53:11.906269",
-    "content_text": "Investors are aggressively courting AI researchers to build startups that can make AI more reliable and efficient.\nYu Su, an Ohio State professor leading an AI agent lab, said he initially resisted the pressure from VCs to commercialize his work. He finally took the leap last year and spun out his work into a startup when he saw that foundational model advances could make agents truly personalized.\nNeoCognition, a startup Su describes as a research lab developing self-learning AI agents, has just emerged from stealth with $40 million in seed funding. The round was co-led by Cambium Capital and Walden Catalyst Ventures, with participation from Vista Equity Partners and angels, including Intel CEO Lip-Bu Tan and Databricks co-founder Ion Stoica.\n“Today’s agents are generalists,” Su (pictured right) told TechCrunch. “Every time you ask them to do a task, you take a leap of faith.”\nAccording to Su, the issue lies in a lack of consistency. Current agents, whether from Claude Code, OpenClaw, or Perplexity’s computer tools, successfully complete tasks as intended only about 50% of the time, he said.\nSince agents are still so unreliable, they are not ready to be trusted, independent workers, Su told TechCrunch. NeoCognition intends to change that by developing an agent system that can self-learn to become an expert in any domain, similar to how humans learn.\nSu argues that while human intelligence is broad, its real power is our ability to specialize. When we enter a new environment or profession, we can rapidly master its unique rules, relationships, and consequences.\nNeoCognition is building agents to mirror this exact approach.\n“For humans, our continued learning process is essentially the process of building a world model for any profession, any environment,” Su said. “We believe for agents to become experts, they need to learn autonomously to build a model of any given micro world.”\nSu views this capacity for rapid specialization as the critical missing link to getting AI to work reliably on its own.\nWhile it is possible to train agents for autonomous tasks, they must be custom-engineered for a specific vertical. NeoCognition is different because it’s building agents that are generalists capable of self-learning and specializing in any domain.\nNeoCognition intends to sell its agent systems primarily to enterprises, including established SaaS companies, which can use them to build agent workers or to enhance existing product offerings.\nSu highlighted that an investment from Vista Equity Partners is especially valuable for this reason. As one of the largest private equity firms in the software space, Vista can provide NeoCognition with direct access to a vast portfolio of companies looking to modernize their products with AI.\nNeoCognition currently has about 15 employees, the majority of whom hold PhDs.",
-    "content_source": "trafilatura",
-    "content_chars": 3543,
-    "content_excerpt": "Investors are aggressively courting AI researchers to build startups that can make AI more reliable and efficient.\nYu Su, an Ohio State professor leading an AI agent lab, said he initially resisted the pressure from VCs to commercialize his work. He finally took the leap last year and spun out his work into a startup when he saw that foundational model advances could make agents truly personalized.\nNeoCognition, a startup Su describes as a research lab developing self-learning AI agents, has just emerged from stealth with $40 million in seed funding. The round was co-led by Cambium Capital and Walden Catalyst Ventures, with participation from Vista Equity Partners and angels, including Intel CEO Lip-Bu Tan and Databricks co-founder Ion Stoica.\n“Today’s agents are generalists,” Su (pictured right) told TechCrunch. “Every time you ask them to do a task, you take a leap of faith.”\nAccording to Su, the issue lies in a lack of consistency. Current agents, whether from Claude Code, OpenClaw, or Perplexity’s computer tools, successfully complete tasks as intended only about 50% of the time, he said.\nSince agents are still so unreliable, they are not ready to be trusted, independent workers, Su told TechCrunch. NeoCognition intends to change that by developing an agent system that can self-learn to become an expert in any domain, similar to how humans learn.\nSu argues that while human intelligence is broad, its real power is our ability to specialize. When we enter a new environment or profession, we can rapidly master its unique rules, relationships, and consequences.\nNeoCognition is building agents to mirror this exact approach.\n“For humans, our continued learning process is essentially the process of building a world model for any profession, any environment,” Su said. “We believe for agents to become experts, they need to learn autonomously to build a model of any given micro world.”\nSu views this capacity for rapid specialization as the critical missing link to getting AI to work reliably on its own.",
-    "title_zh": "人工智能研究实验室 NeoCognition 获得 4000 万美元种子资金，用于构建像人类一样学习的代理",
-    "summary_zh": "这家初创公司由俄勒冈州立大学的一名研究人员创立，正在开发可以成为任何领域专家的人工智能代理",
-    "ai_summary": "这家初创公司由俄勒冈州立大学的一名研究人员创立，正在开发可以成为任何领域专家的人工智能代理"
   },
   {
     "id": "3348e376f438",
@@ -551,20 +901,6 @@
     "ai_summary": "我们大脑中的物理物质如何转化为思想、感觉和情绪？如果没有神经外科，就很难探索这个问题。但在最近的一篇论文中，麻省理工学院…"
   },
   {
-    "id": "314fefba7e73",
-    "title": "AI backlash is coming for elections",
-    "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-21T19:00:05",
-    "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues",
-    "collected_at": "2026-04-21T19:03:08.055154",
-    "title_zh": "AI 引发选举领域反弹：民众信任度持续走低",
-    "ai_summary": "调查显示多数美国人担忧AI在选举中的应用，信任危机加剧",
-    "summary_zh": "当询问美国人对人工智能的看法时，大多数人表示他们有顾虑。社区对数据中心项目发起了抵制，导致全美各地的数据中心项目陷入停滞。在社交媒体上，人们对人工智能公司和高管的愤怒毫无节制——有时甚至到了纵容暴力的程度。但看看问题"
-  },
-  {
     "id": "d18fefd2213f",
     "title": "AI at MIT",
     "url": "https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/",
@@ -579,20 +915,6 @@
     "ai_summary": "在麻省理工学院，人工智能已经变得如此普遍，你几乎可以无意中找到进入它的方法。以机械工程副教授邓思立为例。邓说，她仍然不知…"
   },
   {
-    "id": "0c88065d42e6",
-    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-    "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-21T19:00:00",
-    "summary": "ChatGPT Images 2.0, the newest image generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
-    "collected_at": "2026-04-21T19:03:07.999959",
-    "ai_summary": "ChatGPT Images 2.0 是 OpenAI 的最新图像生成模型，展示了过去几年人工智能功能的发展程度",
-    "title_zh": "ChatGPT 的新 Images 2.0 模型在生成文本方面出奇地好",
-    "summary_zh": "ChatGPT Images 2.0 是 OpenAI 的最新图像生成模型，展示了过去几年人工智能功能的发展程度"
-  },
-  {
     "id": "8c2dfa318184",
     "title": "Inventor recalls eye imaging breakthrough",
     "url": "https://www.technologyreview.com/2026/04/21/1134945/inventor-recalls-eye-imaging-breakthrough/",
@@ -605,6 +927,68 @@
     "title_zh": "发明者回忆眼部成像突破",
     "summary_zh": "如果您看过眼科医生并拍摄了眼睛内部的图像，那么很可能是通过光学相干断层扫描 (OCT) 完成的，这项技术由临床医生兼科学家 David Huang '85、SM '89、PhD '93 发明，现在每年用于 4000 万例手术。 OCT 是一…",
     "ai_summary": "如果您看过眼科医生并拍摄了眼睛内部的图像，那么很可能是通过光学相干断层扫描 (OCT) 完成的，这项技术由临床医生兼科学…"
+  },
+  {
+    "id": "eefe3d821e12",
+    "title": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
+    "url": "https://www.infoq.cn/article/fKc0YsLc9aDjzk1V81oW?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-04-21T19:59:47",
+    "summary": "模力工场 037 周 AI 应用周榜：生态意识增强，多模态已成AI应用标配",
+    "collected_at": "2026-04-21T13:07:41.907915",
+    "ai_summary": "多模态AI应用成为标配，本周AI应用生态持续繁荣",
+    "content_text": "4 月 24 日（本周五）-4 月 26 日（本周日），2050 大会将盛大开启！\n今年的 2050 大会干货超满！两天一夜，130+场论坛、500+分享者，从早 8 点讲到深夜。\n2050 大会，是王坚院士在 2018 年发起了一个面向年轻人的“科技乌托邦式聚会”。\n极客邦科技创始人兼 CEO 霍太稳（Kevin）也是最早的共创者之一。10 年前，几人在上海的一间酒店会议室里聊天，聊着聊着就冒出一个问题——能不能做一个规模大一点、真正属于年轻人的科技聚会？名字反复打磨，形式一再推敲，这些想法一点点长成了今天的 2050 大会。\n2017 年 10 月 29 日在上海某个酒店的会议室，2050 大会开始发芽\n从左至右：薛贵荣、王坚、锦木、霍太稳\n在每年 4 月最后一个周五六日，全球最有趣的年轻开发者、创客、AI 爱好者将齐聚杭州——没有架子、没“大咖席”，只有纯粹的热爱和好玩的灵魂，以及这个时代最前沿、最鲜活的思考。\n参与活动请扫描下方二维码，更多攻略一步到位，还可以抽取大会门票和模力工场精美周边哦～\n全新内容栏目上线！「Q:Lab」专注于 AI 产品深度探索、测评\n如果你已经看腻了“这个 AI 很强”、“那个 Agent 很聪明”的 PR 介绍；那我们换一种更直接的方式：把各种 AI 产品拉进不同场景，让真实用户现场实操，结果好不好一眼见分晓。\n在此，向大家介绍 InfoQ 中国推出的全新 AI 产品深度探索、测评直播栏目：\n「Q:Lab」\n。\n这里不讲概念、不教部署——每期围绕一个真实职业场景，让 AI 产品同时接受测评，由一线从业者亲手操作，现场出结果。\n第一季「龙虾季」由模力工场和 InfoQ 共创，聚焦 AI Agent 产品，覆盖 9 款核心产品，共 3 期直播。\n不是广告！干货满满！欢迎预约～\n直通「AI 界春晚」机会来啦！WAIC Future Tech 开启“一人公司”先行者大赛\n现在，初创公司和普通开发者，也有机会成为 AI 界顶级盛会\n世界人工智能大会（WAIC）的参展方\n，向顶级投资人、媒体、30 万+参观者展示推广你的产品或成果。\n玩法很简单：4 月线上提交 Demo 筛选，5 月城市路演（北京、上海、深圳、成都、新加坡等 10 城联动），7 月进入 WAIC 总决赛。\n为了让更广泛的群体参与进来，主办方设置了“双轨制赛道”。\n目前活动正在火热进行中！报名持续开放、滚动筛选。\n如果你已经用 AI 做出点东西，这是一次将其放到聚光灯下的特别好的机会。更多详情可见\n《Future Tech | 你的idea只差一个AI：直通WAIC世界舞台，寻找“一人公司”先行者》\n模力工场\n037 周榜单总介绍\n模力工场\n第 037 周 AI 应用榜来袭！前 10 名如下：\nXT-AIGC\n：\nXT-AIGC 是一款轻量化 AI 创作工具，集成文生图、角色三视图、图生视频及漫剧制作，支持多模型密钥管理，接入即可使用。\nMonkeyCode 智能开发平台\n：\n通过 AI 驱动的编程助手、自动化工作流和智能开发工具，帮助开发者更快速地构建应用程序。\n来福\n：\n你的私人 AI 电台，海量内容、打开就播，个性化推荐、越听越懂你，语音聊天、智控点播，多种 AI 主播随心选。\nMoras\n：\n一款面向内容电商的 AI Agent，把选品、脚本、视频生成、发布到数据分析这一整套流程自动化，让个人也能跑通带货。简单理解：它把原本需要一整个团队完成的卖货链路，压缩成一个人+AI 就能完成。\nMemoryLake\n：\n一个记忆护照。伴你穿梭于 ChatGPT、Claude、Qwen、OpenClaw，跨越每一个智能体、每一次会话。\n镖行AI标书\n：\n镖行 AI 标书，标书 AI 智能写作工具。一键智能生成图文并茂高质量标书，高效辅助投标。操作简单，急标、新手友好。\nTalkAI\n：\n用 AI 模拟真实对话场景的口语练习工具，让你在没有语言环境和搭档的情况下，也能随时练习并获得即时反馈与纠正。\n讯飞译制\n：\n基于科大讯飞语音识别技术的 AI 视频字幕制作软件\n讯飞写作\n：\n基于科大讯飞星火大模型的一款 AI 智能写作助手\n问小白\n：\n探索世界的 AI 搭子，一款支持多模态输入的 AI 助手，帮你快速获取信息、生成内容并处理文档，甚至可以一键把回答生成可用的网页页面。\n本周必试应用\n【应用名称】：\nXT-AIGC\n【关键词】：图像设计｜视频多媒体｜ 新媒体创作\n【用户热评】：\n我开发这款软件，核心是\n解决普通创作者用 AI 太麻烦、太分散的问题\n：\n市面上 AI 工具零散，文生图、视频、漫剧要切换多个平台，效率低\n新手不会部署本地模型，接口复杂难上手\n短剧、动漫创作缺少一站式工具，流程繁琐\n所以做一款聚合型 AIGC 软件，降低门槛，让普通人也能高效完成 AI 创作。\n——用户 @孔庆荣\n【使用场景】：\n文生图，图生图，文生视频，图生视频。\n自己定义图片节点进行人物换装，换场景等等。\n调整人物拍摄角度。\n人物补充灯光。\n内置摄像头等提示词，可以快速仿照传统相机出对应的图片。\n漫剧制作。\n图片提示词解析。\n本周上榜应用趋势解读\n首先，是“连接层”开始出现，生态意识增强。\n像 MemoryLake 这种产品，其实在解决一个更底层的问题：ChatGPT、Claude、Qwen、OpenClaw 各自割裂，而且用户数据和记忆不互通，而它做的，就是在不同 Agent/模型之间做“记忆中枢”。\n其二，是现在的 AI 应用已经从“单点工具”转换成“一整条链路助手”，最近这几周的 AI 应用都或多或少地体现了这个特点。\n从\nMoras、XT-AIGC、MonkeyCode\n这些产品上都能看到这点。\nMoras：选品 → 脚本 → 视频 → 发布 → 数据分析（完整电商链路）\nXT-AIGC：文生图 → 图生视频 → 漫剧制作（完整内容生产链路）\nMonkeyCode：写代码 → 工作流 → 自动化开发（完整开发链路）\n其二，是门槛在被系统性压低，越来越多的 AI 应用也开始“非技术背景用户”。\n这批产品明显在做一件事：复杂能力在后台，用户只需要“说一句话”，零基础的人也能用，例如：\nXT-AIGC：把多模型调用、提示词、图像节点都封装好\n镖行 AI 标书：直接一键生成完整标书（新手也能用）\nTalkAI：模拟真实对话+实时纠错，替代语言环境\n问小白：自然语言+多模态+文件理解，甚至直接生成网页\n还有一点，就是多模态成为标配，而不是卖点。\n这一周几乎所有产品，都在不同程度上“多模态化”。例如：\nXT-AIGC：图像 + 视频 + 漫剧\n问小白：文本 + 文件 + 图片解析\n讯飞译制：语音 → 字幕 → 视频处理\n但它们的重点已经不是“我支持多模态”，而是\n多模态只是完成任务的手段之一。",
+    "content_source": "readability",
+    "content_chars": 2829,
+    "content_excerpt": "4 月 24 日（本周五）-4 月 26 日（本周日），2050 大会将盛大开启！\n今年的 2050 大会干货超满！两天一夜，130+场论坛、500+分享者，从早 8 点讲到深夜。\n2050 大会，是王坚院士在 2018 年发起了一个面向年轻人的“科技乌托邦式聚会”。\n极客邦科技创始人兼 CEO 霍太稳（Kevin）也是最早的共创者之一。10 年前，几人在上海的一间酒店会议室里聊天，聊着聊着就冒出一个问题——能不能做一个规模大一点、真正属于年轻人的科技聚会？名字反复打磨，形式一再推敲，这些想法一点点长成了今天的 2050 大会。\n2017 年 10 月 29 日在上海某个酒店的会议室，2050 大会开始发芽\n从左至右：薛贵荣、王坚、锦木、霍太稳\n在每年 4 月最后一个周五六日，全球最有趣的年轻开发者、创客、AI 爱好者将齐聚杭州——没有架子、没“大咖席”，只有纯粹的热爱和好玩的灵魂，以及这个时代最前沿、最鲜活的思考。\n参与活动请扫描下方二维码，更多攻略一步到位，还可以抽取大会门票和模力工场精美周边哦～\n全新内容栏目上线！「Q:Lab」专注于 AI 产品深度探索、测评\n如果你已经看腻了“这个 AI 很强”、“那个 Agent 很聪明”的 PR 介绍；那我们换一种更直接的方式：把各种 AI 产品拉进不同场景，让真实用户现场实操，结果好不好一眼见分晓。"
+  },
+  {
+    "id": "6c61749c78a4",
+    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-04-21T19:11:29",
+    "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+    "collected_at": "2026-04-22T01:53:11.906269",
+    "content_text": "Investors are aggressively courting AI researchers to build startups that can make AI more reliable and efficient.\nYu Su, an Ohio State professor leading an AI agent lab, said he initially resisted the pressure from VCs to commercialize his work. He finally took the leap last year and spun out his work into a startup when he saw that foundational model advances could make agents truly personalized.\nNeoCognition, a startup Su describes as a research lab developing self-learning AI agents, has just emerged from stealth with $40 million in seed funding. The round was co-led by Cambium Capital and Walden Catalyst Ventures, with participation from Vista Equity Partners and angels, including Intel CEO Lip-Bu Tan and Databricks co-founder Ion Stoica.\n“Today’s agents are generalists,” Su (pictured right) told TechCrunch. “Every time you ask them to do a task, you take a leap of faith.”\nAccording to Su, the issue lies in a lack of consistency. Current agents, whether from Claude Code, OpenClaw, or Perplexity’s computer tools, successfully complete tasks as intended only about 50% of the time, he said.\nSince agents are still so unreliable, they are not ready to be trusted, independent workers, Su told TechCrunch. NeoCognition intends to change that by developing an agent system that can self-learn to become an expert in any domain, similar to how humans learn.\nSu argues that while human intelligence is broad, its real power is our ability to specialize. When we enter a new environment or profession, we can rapidly master its unique rules, relationships, and consequences.\nNeoCognition is building agents to mirror this exact approach.\n“For humans, our continued learning process is essentially the process of building a world model for any profession, any environment,” Su said. “We believe for agents to become experts, they need to learn autonomously to build a model of any given micro world.”\nSu views this capacity for rapid specialization as the critical missing link to getting AI to work reliably on its own.\nWhile it is possible to train agents for autonomous tasks, they must be custom-engineered for a specific vertical. NeoCognition is different because it’s building agents that are generalists capable of self-learning and specializing in any domain.\nNeoCognition intends to sell its agent systems primarily to enterprises, including established SaaS companies, which can use them to build agent workers or to enhance existing product offerings.\nSu highlighted that an investment from Vista Equity Partners is especially valuable for this reason. As one of the largest private equity firms in the software space, Vista can provide NeoCognition with direct access to a vast portfolio of companies looking to modernize their products with AI.\nNeoCognition currently has about 15 employees, the majority of whom hold PhDs.",
+    "content_source": "trafilatura",
+    "content_chars": 3543,
+    "content_excerpt": "Investors are aggressively courting AI researchers to build startups that can make AI more reliable and efficient.\nYu Su, an Ohio State professor leading an AI agent lab, said he initially resisted the pressure from VCs to commercialize his work. He finally took the leap last year and spun out his work into a startup when he saw that foundational model advances could make agents truly personalized.\nNeoCognition, a startup Su describes as a research lab developing self-learning AI agents, has just emerged from stealth with $40 million in seed funding. The round was co-led by Cambium Capital and Walden Catalyst Ventures, with participation from Vista Equity Partners and angels, including Intel CEO Lip-Bu Tan and Databricks co-founder Ion Stoica.\n“Today’s agents are generalists,” Su (pictured right) told TechCrunch. “Every time you ask them to do a task, you take a leap of faith.”\nAccording to Su, the issue lies in a lack of consistency. Current agents, whether from Claude Code, OpenClaw, or Perplexity’s computer tools, successfully complete tasks as intended only about 50% of the time, he said.\nSince agents are still so unreliable, they are not ready to be trusted, independent workers, Su told TechCrunch. NeoCognition intends to change that by developing an agent system that can self-learn to become an expert in any domain, similar to how humans learn.\nSu argues that while human intelligence is broad, its real power is our ability to specialize. When we enter a new environment or profession, we can rapidly master its unique rules, relationships, and consequences.\nNeoCognition is building agents to mirror this exact approach.\n“For humans, our continued learning process is essentially the process of building a world model for any profession, any environment,” Su said. “We believe for agents to become experts, they need to learn autonomously to build a model of any given micro world.”\nSu views this capacity for rapid specialization as the critical missing link to getting AI to work reliably on its own.",
+    "title_zh": "人工智能研究实验室 NeoCognition 获得 4000 万美元种子资金，用于构建像人类一样学习的代理",
+    "summary_zh": "这家初创公司由俄勒冈州立大学的一名研究人员创立，正在开发可以成为任何领域专家的人工智能代理",
+    "ai_summary": "这家初创公司由俄勒冈州立大学的一名研究人员创立，正在开发可以成为任何领域专家的人工智能代理"
+  },
+  {
+    "id": "314fefba7e73",
+    "title": "AI backlash is coming for elections",
+    "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+    "source": "The Verge AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-04-21T19:00:05",
+    "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues",
+    "collected_at": "2026-04-21T19:03:08.055154",
+    "title_zh": "AI 引发选举领域反弹：民众信任度持续走低",
+    "ai_summary": "调查显示多数美国人担忧AI在选举中的应用，信任危机加剧",
+    "summary_zh": "当询问美国人对人工智能的看法时，大多数人表示他们有顾虑。社区对数据中心项目发起了抵制，导致全美各地的数据中心项目陷入停滞。在社交媒体上，人们对人工智能公司和高管的愤怒毫无节制——有时甚至到了纵容暴力的程度。但看看问题"
+  },
+  {
+    "id": "0c88065d42e6",
+    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+    "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-04-21T19:00:00",
+    "summary": "ChatGPT Images 2.0, the newest image generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
+    "collected_at": "2026-04-21T19:03:07.999959",
+    "ai_summary": "ChatGPT Images 2.0 是 OpenAI 的最新图像生成模型，展示了过去几年人工智能功能的发展程度",
+    "title_zh": "ChatGPT 的新 Images 2.0 模型在生成文本方面出奇地好",
+    "summary_zh": "ChatGPT Images 2.0 是 OpenAI 的最新图像生成模型，展示了过去几年人工智能功能的发展程度"
   },
   {
     "id": "dfa2e3606ed8",
@@ -743,16 +1127,16 @@
     "summary_zh": "Latitude 的全新 AI 原生平台 Voyage 旨在帮助游戏玩家创建自己的角色扮演游戏"
   },
   {
-    "id": "b3c9c0a2e0a3",
-    "title": "构建可信数据智能体的上下文层 ｜ 技术趋势",
-    "url": "https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-21T15:06:43",
-    "summary": "构建可信数据智能体的上下文层 ｜ 技术趋势",
-    "collected_at": "2026-04-21T07:26:30.180921",
-    "ai_summary": "探讨构建可信数据智能体所需的上下文层架构，强调数据治理与智能体协同的技术趋势。"
+    "id": "55dc980735d8",
+    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "url": "https://www.brex.com/crabtrap",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-21T15:29:16",
+    "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 127 # Comments: 54",
+    "collected_at": "2026-04-23T13:24:01.532542"
   },
   {
     "id": "d3cb509cceb0",
@@ -769,16 +1153,16 @@
     "summary_zh": "邦德的创造者说，邦德希望你离开沙发，回到现实世界。新平台的人工智能系统旨在激励用户远离应用程序做一些事情"
   },
   {
-    "id": "d5c19f9f7a21",
-    "title": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
-    "url": "https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article",
+    "id": "b3c9c0a2e0a3",
+    "title": "构建可信数据智能体的上下文层 ｜ 技术趋势",
+    "url": "https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "priority": 3,
-    "published": "2026-04-21T14:14:32",
-    "summary": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
-    "collected_at": "2026-04-21T07:26:30.180995",
-    "ai_summary": "Anthropic推出Claude Design，可通过自然语言指令直接生成UI设计，挑战传统设计工具。"
+    "published": "2026-04-21T15:06:43",
+    "summary": "构建可信数据智能体的上下文层 ｜ 技术趋势",
+    "collected_at": "2026-04-21T07:26:30.180921",
+    "ai_summary": "探讨构建可信数据智能体所需的上下文层架构，强调数据治理与智能体协同的技术趋势。"
   },
   {
     "id": "2d537bc7c412",
@@ -793,6 +1177,18 @@
     "title_zh": "YouTube AI 肖像检测技术扩展至名人保护",
     "ai_summary": "YouTube将AI深度伪造检测范围扩大到名人肖像保护领域",
     "summary_zh": "YouTube 正在将其人工智能相似度检测工具扩展到名人，为名人及其代表提供查找和删除深度伪造品的方法"
+  },
+  {
+    "id": "d5c19f9f7a21",
+    "title": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
+    "url": "https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-04-21T14:14:32",
+    "summary": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
+    "collected_at": "2026-04-21T07:26:30.180995",
+    "ai_summary": "Anthropic推出Claude Design，可通过自然语言指令直接生成UI设计，挑战传统设计工具。"
   },
   {
     "id": "ceeac7e45646",
@@ -901,18 +1297,6 @@
     "ai_summary": "QCon 2026北京站聚焦AI重塑软件工程，展示AI在开发流程中的最新应用。"
   },
   {
-    "id": "a64c1765ac88",
-    "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
-    "url": "https://www.qbitai.com/2026/04/404086.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-21T08:45:58",
-    "summary": "高精渲染引擎，解决\"数据稀缺\"",
-    "collected_at": "2026-04-21T13:05:15.134508",
-    "ai_summary": "高德ABot-World以物理优先+VLA闭环破解机器人零样本泛化难题"
-  },
-  {
     "id": "cfafda58af12",
     "title": "100个产品原型同时跑、新模型Mythos断层领先，连skills效果都好到让团队意外：Anthropic内部到底在发生什么？",
     "url": "https://www.infoq.cn/article/KlrsHcFeBKWu9RW85u0a?utm_source=rss&utm_medium=article",
@@ -925,18 +1309,6 @@
     "ai_summary": "Anthropic内部同时推进百余产品原型，新模型Mythos表现断层领先引发关注。"
   },
   {
-    "id": "d3f7b3a9b8ea",
-    "title": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
-    "url": "https://www.qbitai.com/2026/04/404082.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-21T08:31:55",
-    "summary": "深挖人工智能与数字安全领域创新成果",
-    "collected_at": "2026-04-21T13:05:15.134521",
-    "ai_summary": "ISC.AI 2026在北京启动，聚焦智能体赛道共建AI创新生态"
-  },
-  {
     "id": "d2bab11dbf10",
     "title": "Claude Code 桌面版烂爆了，Anthropic 终于把 “100% AI 编码”演砸了",
     "url": "https://www.infoq.cn/article/E3v5OSXbSsKLoqXLBKvP?utm_source=rss&utm_medium=article",
@@ -947,6 +1319,54 @@
     "summary": "Claude Code 桌面版烂爆了，Anthropic 终于把 “100% AI 编码”演砸了",
     "collected_at": "2026-04-21T07:26:30.181134",
     "ai_summary": "Claude Code桌面版体验遭吐槽，Anthropic在AI编码工具落地中面临用户体验挑战。"
+  },
+  {
+    "id": "c608c13b9389",
+    "title": "Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键",
+    "url": "https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-04-21T09:02:51",
+    "summary": "Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键",
+    "collected_at": "2026-04-21T07:26:30.181151",
+    "ai_summary": "Opus 4.7发布，Claude Code开发者分享心得：模型升级背后更关键的是开发方式变革。"
+  },
+  {
+    "id": "d49d1f89bfb5",
+    "title": "AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？",
+    "url": "https://www.infoq.cn/article/EejvvufwVGEusllYFHgH?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "priority": 3,
+    "published": "2026-04-21T08:57:18",
+    "summary": "AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？",
+    "collected_at": "2026-04-21T07:26:30.181167",
+    "ai_summary": "AI提效20%却让程序员加班更严重，企业以AI产出衡量生产力引发行业反思。"
+  },
+  {
+    "id": "a64c1765ac88",
+    "title": "物理优先+VLA闭环进化：高德ABot-World世界模型，破解具身智能零样本泛化难题",
+    "url": "https://www.qbitai.com/2026/04/404086.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-04-21T08:45:58",
+    "summary": "高精渲染引擎，解决\"数据稀缺\"",
+    "collected_at": "2026-04-21T13:05:15.134508",
+    "ai_summary": "高德ABot-World以物理优先+VLA闭环破解机器人零样本泛化难题"
+  },
+  {
+    "id": "d3f7b3a9b8ea",
+    "title": "ISC.AI 2026创新独角兽沙盒大赛在京启动 聚焦智能体 共筑AI创新生态",
+    "url": "https://www.qbitai.com/2026/04/404082.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-04-21T08:31:55",
+    "summary": "深挖人工智能与数字安全领域创新成果",
+    "collected_at": "2026-04-21T13:05:15.134521",
+    "ai_summary": "ISC.AI 2026在北京启动，聚焦智能体赛道共建AI创新生态"
   },
   {
     "id": "20f6e3aa2500",
@@ -963,18 +1383,6 @@
     "summary_zh": "文章网址：https://nial.se/blog/less- human-ai-agents-please/ 评论网址：https://news.ycombinator.com/item?id=47845429 积分：109 # 评论：1…"
   },
   {
-    "id": "c608c13b9389",
-    "title": "Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键",
-    "url": "https://www.infoq.cn/article/YWH4w3Y4fstITE34RFUa?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-21T09:02:51",
-    "summary": "Opus 4.7 发布，Claude Code 之父传授使用心得：模型升级只是开始，开发方式才是关键",
-    "collected_at": "2026-04-21T07:26:30.181151",
-    "ai_summary": "Opus 4.7发布，Claude Code开发者分享心得：模型升级背后更关键的是开发方式变革。"
-  },
-  {
     "id": "cdac8ff3a4ae",
     "title": "Agent正杀入软件研发一线！全球超60位技术专家拆解AI落地困局，2026奇点智能技术大会收官",
     "url": "https://www.qbitai.com/2026/04/403859.html",
@@ -985,18 +1393,6 @@
     "summary": "当代码可以被生成，程序员还能做些什么？",
     "collected_at": "2026-04-21T07:24:06.343187",
     "ai_summary": "2026奇点智能技术大会探讨AI Agent在软件研发中的应用，60余位专家解析落地挑战。"
-  },
-  {
-    "id": "d49d1f89bfb5",
-    "title": "AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？",
-    "url": "https://www.infoq.cn/article/EejvvufwVGEusllYFHgH?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-21T08:57:18",
-    "summary": "AI提效20%，我们程序员加班却越来越狠：老板量生产力的尺子，歪了？",
-    "collected_at": "2026-04-21T07:26:30.181167",
-    "ai_summary": "AI提效20%却让程序员加班更严重，企业以AI产出衡量生产力引发行业反思。"
   },
   {
     "id": "8ced0b305398",
@@ -1075,20 +1471,6 @@
     "summary_zh": "亚马逊又达成了一项循环人工智能交易：它向 Anthropic 追加投资 50 亿美元。 Anthropic 同意斥资 1000 亿美元购买 AWS 作为回报"
   },
   {
-    "id": "e751673f562b",
-    "title": "Silicon Valley has forgotten what normal people want",
-    "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-20T20:30:00",
-    "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Kno",
-    "collected_at": "2026-04-21T00:06:29.957746",
-    "ai_summary": "认识很多技术人员最令人羞愧的事情之一就是听他们兴奋地告诉我他们认为自己已经做出的一些非常重要的发现。最近，我遇到了一位熟…",
-    "title_zh": "硅谷已经忘记了普通人想要什么",
-    "summary_zh": "认识很多技术人员最令人羞愧的事情之一就是听他们兴奋地告诉我他们认为自己已经做出的一些非常重要的发现。最近，我遇到了一位熟人，他开始对我喋喋不休地谈论他与法学硕士取得的一项惊人发现。克诺"
-  },
-  {
     "id": "22ed5bdd3a5d",
     "title": "Google rolls out Gemini in Chrome in 7 new countries",
     "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
@@ -1101,6 +1483,20 @@
     "ai_summary": "谷歌将Gemini AI功能扩展至Chrome浏览器，在亚太七国桌面和iOS端同步上线。",
     "title_zh": "Google 在 7 个新国家/地区推出 Chrome 中的 Gemini",
     "summary_zh": "Google 正在澳大利亚、印度尼西亚、日本、菲律宾、新加坡、韩国和越南推出 Chrome 中的 Gemini。该公司正在将这一功能推广到除日本以外的所有这些国家的桌面版和 iOS 版"
+  },
+  {
+    "id": "e751673f562b",
+    "title": "Silicon Valley has forgotten what normal people want",
+    "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+    "source": "The Verge AI",
+    "lang": "en",
+    "priority": 1,
+    "published": "2026-04-20T20:30:00",
+    "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery he'd made with LLMs. Kno",
+    "collected_at": "2026-04-21T00:06:29.957746",
+    "ai_summary": "认识很多技术人员最令人羞愧的事情之一就是听他们兴奋地告诉我他们认为自己已经做出的一些非常重要的发现。最近，我遇到了一位熟…",
+    "title_zh": "硅谷已经忘记了普通人想要什么",
+    "summary_zh": "认识很多技术人员最令人羞愧的事情之一就是听他们兴奋地告诉我他们认为自己已经做出的一些非常重要的发现。最近，我遇到了一位熟人，他开始对我喋喋不休地谈论他与法学硕士取得的一项惊人发现。克诺"
   },
   {
     "id": "aa46eaab1fd5",
@@ -1504,6 +1900,17 @@
     "ai_summary": "国产大模型 API 价格战：谁是性价比之王？。"
   },
   {
+    "id": "1652f2ab0793",
+    "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%｜独家",
+    "url": "https://36kr.com/p/3774566936216064?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "published": "2026-04-20T03:05:06",
+    "summary": "文｜李小霞 编辑｜乔芊 杨轩 36氪独家从知情人士处获悉，字节跳动2025年海外营收增长近50%，远超约20%的国内营收增幅，海外业务营收占比也从2024年的25%提升至超三成，创下新高。 TikTok电商业务是字节跳动海外营收增长的主要动力。据悉，TikTok Shop",
+    "collected_at": "2026-04-20T14:21:35.406239",
+    "ai_summary": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降。"
+  },
+  {
     "id": "1b369ae19455",
     "title": "Anthropic installed a spyware bridge on my machine?",
     "url": "https://www.thatprivacyguy.com/blog/anthropic-spyware/",
@@ -1516,17 +1923,6 @@
     "ai_summary": "文章网址：https://www.thatprivacyguy.com/blog/anthropic-spyware/…",
     "title_zh": "Anthropic 在我的机器上安装了间谍软件桥？",
     "summary_zh": "文章网址：https://www.thatprivacyguy.com/blog/anthropic-spyware/ 评论网址：https://news.ycombinator.com/item?id=47829800 积分：109 #…"
-  },
-  {
-    "id": "1652f2ab0793",
-    "title": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%｜独家",
-    "url": "https://36kr.com/p/3774566936216064?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "published": "2026-04-20T03:05:06",
-    "summary": "文｜李小霞 编辑｜乔芊 杨轩 36氪独家从知情人士处获悉，字节跳动2025年海外营收增长近50%，远超约20%的国内营收增幅，海外业务营收占比也从2024年的25%提升至超三成，创下新高。 TikTok电商业务是字节跳动海外营收增长的主要动力。据悉，TikTok Shop",
-    "collected_at": "2026-04-20T14:21:35.406239",
-    "ai_summary": "字节跳动2025年海外营收占比创新高，AI投入致公司净利大降。"
   },
   {
     "id": "e0862fe09092",
@@ -1568,18 +1964,6 @@
     "summary_zh": "许多人工智能初创公司之所以存在，部分原因是基础模型尚未扩展到它们的类别中。正如许多人开玩笑地承认的那样，这种情况不会永远持续下去"
   },
   {
-    "id": "2462ef12bfcc",
-    "title": "Kimi新论文：把KVCache玩成新商业模式了",
-    "url": "https://www.qbitai.com/2026/04/403528.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-19T10:19:45",
-    "summary": "超长上下文福音",
-    "collected_at": "2026-04-21T00:04:56.901835",
-    "ai_summary": "Kimi新论文将KVCache机制商业化，为超长上下文推理开辟新商业模式。"
-  },
-  {
     "id": "3217ffdbbdca",
     "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
     "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
@@ -1591,6 +1975,18 @@
     "ai_summary": "欢迎回到 TechCrunch Mobility，这里是未来交通的中心，现在人工智能比以往任何时候都更重要地发挥着作用",
     "title_zh": "TechCrunch Mobility：Uber 进入资产最大化时代",
     "summary_zh": "欢迎回到 TechCrunch Mobility，这里是未来交通的中心，现在人工智能比以往任何时候都更重要地发挥着作用"
+  },
+  {
+    "id": "2462ef12bfcc",
+    "title": "Kimi新论文：把KVCache玩成新商业模式了",
+    "url": "https://www.qbitai.com/2026/04/403528.html",
+    "source": "量子位",
+    "lang": "zh",
+    "priority": 1,
+    "published": "2026-04-19T10:19:45",
+    "summary": "超长上下文福音",
+    "collected_at": "2026-04-21T00:04:56.901835",
+    "ai_summary": "Kimi新论文将KVCache机制商业化，为超长上下文推理开辟新商业模式。"
   },
   {
     "id": "34dec81faeb4",
@@ -1631,19 +2027,6 @@
     "summary_zh": "近几个月来，该公司宣布与 Amazon Web Services 达成协议，在 Amazon 数据中心使用 Cerebras 芯片，并与 OpenAI 达成一项据报道价值超过 100 亿美元的协议"
   },
   {
-    "id": "2a7a2a6a52b2",
-    "title": "OpenAI’s former Sora boss is leaving",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-    "source": "The Verge AI",
-    "lang": "en",
-    "published": "2026-04-17T21:13:25",
-    "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as",
-    "collected_at": "2026-04-20T14:21:47.960885",
-    "ai_summary": "上个月，OpenAI 放弃了其 Sora 视频生成工具，周五，Sora 团队负责人 Bill Peebles 宣布他将离…",
-    "title_zh": "OpenAI 前 Sora 老板即将离职",
-    "summary_zh": "上个月，OpenAI 放弃了其 Sora 视频生成工具，周五，Sora 团队负责人 Bill Peebles 宣布他将离开公司。 OpenAI 一直在改变其优先事项"
-  },
-  {
     "id": "bd8a430d3e86",
     "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
     "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
@@ -1655,19 +2038,6 @@
     "ai_summary": "尽管最近被五角大楼指定为供应链风险，但 Anthropic 仍在与特朗普政府的高层成员进行对话",
     "title_zh": "Anthropic 与特朗普政府的关系似乎正在解冻",
     "summary_zh": "尽管最近被五角大楼指定为供应链风险，但 Anthropic 仍在与特朗普政府的高层成员进行对话"
-  },
-  {
-    "id": "491f2962c0f8",
-    "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-    "source": "The Verge AI",
-    "lang": "en",
-    "published": "2026-04-17T20:14:21",
-    "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national sec",
-    "collected_at": "2026-04-20T14:21:47.960894",
-    "ai_summary": "特朗普政府与人工智能公司Anthropic进行了近两个月的斗争。它被称为“激进左派、觉醒公司”，充满“左翼疯狂工作”，对…",
-    "title_zh": "Anthropic 的新网络安全模型可能会重新赢得政府的青睐",
-    "summary_zh": "特朗普政府与人工智能公司Anthropic进行了近两个月的斗争。它被称为“激进左派、觉醒公司”，充满“左翼疯狂工作”，对国家安全构成威胁"
   },
   {
     "id": "81c41bfd13ef",
@@ -1683,17 +2053,17 @@
     "summary_zh": "Appfigures 的新数据显示，2026 年新应用程序的发布数量将激增，这表明人工智能工具可能会推动移动软件的繁荣"
   },
   {
-    "id": "4ef79fe76929",
-    "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+    "id": "2a7a2a6a52b2",
+    "title": "OpenAI’s former Sora boss is leaving",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
     "source": "The Verge AI",
     "lang": "en",
-    "published": "2026-04-17T15:46:37",
-    "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e",
-    "collected_at": "2026-04-20T14:21:47.960903",
-    "ai_summary": "冰雪皇后正在成为最新一家涉足人工智能领域的快餐连锁店，该公司正在将聊天机器人引入美国和加拿大的数十家得来速餐厅。它旨在帮…",
-    "title_zh": "冰雪皇后正在其得来速餐厅中安装人工智能聊天机器人",
-    "summary_zh": "冰雪皇后正在成为最新一家涉足人工智能领域的快餐连锁店，该公司正在将聊天机器人引入美国和加拿大的数十家得来速餐厅。它旨在帮助加快得来速服务和“e"
+    "published": "2026-04-17T21:13:25",
+    "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as",
+    "collected_at": "2026-04-20T14:21:47.960885",
+    "ai_summary": "上个月，OpenAI 放弃了其 Sora 视频生成工具，周五，Sora 团队负责人 Bill Peebles 宣布他将离…",
+    "title_zh": "OpenAI 前 Sora 老板即将离职",
+    "summary_zh": "上个月，OpenAI 放弃了其 Sora 视频生成工具，周五，Sora 团队负责人 Bill Peebles 宣布他将离开公司。 OpenAI 一直在改变其优先事项"
   },
   {
     "id": "2b4064f2417f",
@@ -1709,17 +2079,17 @@
     "summary_zh": "随着 OpenAI 关闭 Sora 并解散其科学团队，Kevin Weil 和 Bill Peebles 将离开 OpenAI，这标志着 OpenAI 将从消费者登月计划转向企业人工智能"
   },
   {
-    "id": "d6c4b0ae6bd9",
-    "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-    "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-    "source": "MIT Tech Review",
+    "id": "491f2962c0f8",
+    "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+    "source": "The Verge AI",
     "lang": "en",
-    "published": "2026-04-17T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal",
-    "collected_at": "2026-04-20T14:21:48.707749",
-    "ai_summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。认为自己是尼安德特人的问题",
-    "title_zh": "下载：对尼安德特人来说是个坏消息，人工智能战争的人类幻觉",
-    "summary_zh": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。认为自己是尼安德特人的问题"
+    "published": "2026-04-17T20:14:21",
+    "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national sec",
+    "collected_at": "2026-04-20T14:21:47.960894",
+    "ai_summary": "特朗普政府与人工智能公司Anthropic进行了近两个月的斗争。它被称为“激进左派、觉醒公司”，充满“左翼疯狂工作”，对…",
+    "title_zh": "Anthropic 的新网络安全模型可能会重新赢得政府的青睐",
+    "summary_zh": "特朗普政府与人工智能公司Anthropic进行了近两个月的斗争。它被称为“激进左派、觉醒公司”，充满“左翼疯狂工作”，对国家安全构成威胁"
   },
   {
     "id": "18d30f5d748d",
@@ -1735,19 +2105,6 @@
     "summary_zh": "回归的支持者 a16z 和 Thrive 预计将领投本轮融资"
   },
   {
-    "id": "538b46a49af4",
-    "title": "The case for fixing everything",
-    "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "published": "2026-04-17T10:00:00",
-    "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational imp",
-    "collected_at": "2026-04-20T14:21:48.707753",
-    "ai_summary": "科技行业传奇人物斯图尔特·布兰德 (Stewart Brand) 所著的精美新书《维护：一切的第一部分》(Mainten…",
-    "title_zh": "解决一切问题的案例",
-    "summary_zh": "科技行业传奇人物斯图尔特·布兰德 (Stewart Brand) 所著的精美新书《维护：一切的第一部分》(Maintenance: Of Everything, Part One) 有望成为“全面概述文明影响”系列中的第一本"
-  },
-  {
     "id": "51926208cdc8",
     "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
     "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
@@ -1761,17 +2118,17 @@
     "summary_zh": "人工智能内部人士与其他人之间的差距正在扩大，支出、怀疑甚至新词汇都开始表明这一点。当 OpenAI 忙着收购金融领域的一切时"
   },
   {
-    "id": "92ec85da286b",
-    "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+    "id": "4ef79fe76929",
+    "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
     "source": "The Verge AI",
     "lang": "en",
-    "published": "2026-04-16T17:00:00",
-    "summary": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of update",
-    "collected_at": "2026-04-20T14:21:47.960911",
-    "ai_summary": "OpenAI 正在通过一系列更新来增强其代理编码和开发系统 Codex，使其能够使用您的计算机、生成图像并记住过去的经验…",
-    "title_zh": "OpenAI Codex 大更新直击 Claude Code",
-    "summary_zh": "OpenAI 正在通过一系列更新来增强其代理编码和开发系统 Codex，使其能够使用您的计算机、生成图像并记住过去的经验。更新包"
+    "published": "2026-04-17T15:46:37",
+    "summary": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e",
+    "collected_at": "2026-04-20T14:21:47.960903",
+    "ai_summary": "冰雪皇后正在成为最新一家涉足人工智能领域的快餐连锁店，该公司正在将聊天机器人引入美国和加拿大的数十家得来速餐厅。它旨在帮…",
+    "title_zh": "冰雪皇后正在其得来速餐厅中安装人工智能聊天机器人",
+    "summary_zh": "冰雪皇后正在成为最新一家涉足人工智能领域的快餐连锁店，该公司正在将聊天机器人引入美国和加拿大的数十家得来速餐厅。它旨在帮助加快得来速服务和“e"
   },
   {
     "id": "9ec149dfbc1d",
@@ -1787,19 +2144,6 @@
     "summary_zh": "该公司表示，Claude Design 旨在帮助没有设计背景的创始人和产品经理等人更轻松地分享他们的想法"
   },
   {
-    "id": "c80371d9dd9f",
-    "title": "Google’s AI Mode update lets you open links without leaving the page",
-    "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
-    "source": "The Verge AI",
-    "lang": "en",
-    "published": "2026-04-16T17:00:00",
-    "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open",
-    "collected_at": "2026-04-20T14:21:47.960916",
-    "ai_summary": "谷歌正在升级 Chrome 中的人工智能模式，推出一项新功能，允许您在聊天的同时打开源链接。现在，单击源将打开，而不是自…",
-    "title_zh": "谷歌的人工智能模式更新让您无需离开页面即可打开链接",
-    "summary_zh": "谷歌正在升级 Chrome 中的人工智能模式，推出一项新功能，允许您在聊天的同时打开源链接。现在，单击源将打开，而不是自动打开新选项卡"
-  },
-  {
     "id": "360444e845a5",
     "title": "Are we tokenmaxxing our way to nowhere?",
     "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
@@ -1813,17 +2157,30 @@
     "summary_zh": "人工智能内部人士与其他人之间的差距正在扩大，支出、怀疑甚至新词汇都开始表明这一点。当 OpenAI 忙着收购金融领域的一切时"
   },
   {
-    "id": "e099d86f31c1",
-    "title": "Making AI operational in constrained public sector environments",
-    "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+    "id": "d6c4b0ae6bd9",
+    "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+    "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
     "source": "MIT Tech Review",
     "lang": "en",
-    "published": "2026-04-16T13:00:00",
-    "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security,",
-    "collected_at": "2026-04-20T14:21:48.707763",
-    "ai_summary": "人工智能热潮席卷了各个行业，公共部门组织面临着加速采用的压力。与此同时，政府机构在安全方面面临着明显的限制",
-    "title_zh": "让人工智能在受限的公共部门环境中运行",
-    "summary_zh": "人工智能热潮席卷了各个行业，公共部门组织面临着加速采用的压力。与此同时，政府机构在安全方面面临着明显的限制"
+    "published": "2026-04-17T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you’re part Neanderthal",
+    "collected_at": "2026-04-20T14:21:48.707749",
+    "ai_summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。认为自己是尼安德特人的问题",
+    "title_zh": "下载：对尼安德特人来说是个坏消息，人工智能战争的人类幻觉",
+    "summary_zh": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。认为自己是尼安德特人的问题"
+  },
+  {
+    "id": "538b46a49af4",
+    "title": "The case for fixing everything",
+    "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "published": "2026-04-17T10:00:00",
+    "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational imp",
+    "collected_at": "2026-04-20T14:21:48.707753",
+    "ai_summary": "科技行业传奇人物斯图尔特·布兰德 (Stewart Brand) 所著的精美新书《维护：一切的第一部分》(Mainten…",
+    "title_zh": "解决一切问题的案例",
+    "summary_zh": "科技行业传奇人物斯图尔特·布兰德 (Stewart Brand) 所著的精美新书《维护：一切的第一部分》(Maintenance: Of Everything, Part One) 有望成为“全面概述文明影响”系列中的第一本"
   },
   {
     "id": "04229a2656b6",
@@ -1837,19 +2194,6 @@
     "ai_summary": "这家成立三年的初创公司在 Khosla Ventures 的带领下筹集了 1.5 亿美元资金",
     "title_zh": "Factory 估值达到 1.5B 美元，为企业构建 AI 编码",
     "summary_zh": "这家成立三年的初创公司在 Khosla Ventures 的带领下筹集了 1.5 亿美元资金"
-  },
-  {
-    "id": "0498919b410f",
-    "title": "Treating enterprise AI as an operating layer",
-    "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "published": "2026-04-16T13:00:00",
-    "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning",
-    "collected_at": "2026-04-20T14:21:48.707767",
-    "ai_summary": "企业人工智能中存在一条断层线，但它并不是最受关注的断层线。公众对话仍然跟踪基础模型和基准——GPT 与 Gemini、推…",
-    "title_zh": "将企业人工智能视为操作层",
-    "summary_zh": "企业人工智能中存在一条断层线，但它并不是最受关注的断层线。公众对话仍然跟踪基础模型和基准——GPT 与 Gemini、推理"
   },
   {
     "id": "02b113e7cb50",
@@ -1869,19 +2213,6 @@
     "summary_zh": "该工作室的第一个项目将讲述摩西和奥斯卡奖得主本·金斯利的故事，将于今年春天在 Prime Video 上发布"
   },
   {
-    "id": "e75847195301",
-    "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
-    "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "published": "2026-04-16T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Cyberscammers are bypassing banks’ security with i",
-    "collected_at": "2026-04-20T14:21:48.707771",
-    "ai_summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。网络诈骗者正在绕过银行的安全措施",
-    "title_zh": "下载：网络诈骗者的银行绕过和碳清除麻烦",
-    "summary_zh": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。网络诈骗者正在绕过银行的安全措施"
-  },
-  {
     "id": "99528b3e1858",
     "title": "Upscale AI in talks to raise at $2B valuation, says report",
     "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
@@ -1893,6 +2224,97 @@
     "ai_summary": "据报道，人工智能基础设施公司 Upscale AI 正在洽谈筹集自七个月前推出以来的第三轮融资",
     "title_zh": "报告称，高端人工智能正在洽谈以 20 亿美元估值筹集资金",
     "summary_zh": "据报道，人工智能基础设施公司 Upscale AI 正在洽谈筹集自七个月前推出以来的第三轮融资"
+  },
+  {
+    "id": "3050cb1e6e14",
+    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+    "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-04-16T20:26:44",
+    "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+    "collected_at": "2026-04-20T14:21:41.906210",
+    "ai_summary": "这个名为 π0.7 的新模型代表了该公司向通用机器人大脑这一长期追求的目标迈出的早期但有意义的一步",
+    "title_zh": "热门机器人初创公司Physical Intelligence表示，其新的机器人大脑可以解决从未教授过的任务",
+    "summary_zh": "这个名为 π0.7 的新模型代表了该公司向通用机器人大脑这一长期追求的目标迈出的早期但有意义的一步"
+  },
+  {
+    "id": "18597a1a3e06",
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "published": "2026-04-16T19:18:41",
+    "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "collected_at": "2026-04-20T14:21:41.906214",
+    "ai_summary": "OpenAI 的代理编码工具已经进行了重大改造，具有各种新的功能和能力",
+    "title_zh": "OpenAI 瞄准 Anthropic，通过增强的 Codex 使其在桌面上拥有更强大的功能",
+    "summary_zh": "OpenAI 的代理编码工具已经进行了重大改造，具有各种新的功能和能力"
+  },
+  {
+    "id": "92ec85da286b",
+    "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+    "source": "The Verge AI",
+    "lang": "en",
+    "published": "2026-04-16T17:00:00",
+    "summary": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of update",
+    "collected_at": "2026-04-20T14:21:47.960911",
+    "ai_summary": "OpenAI 正在通过一系列更新来增强其代理编码和开发系统 Codex，使其能够使用您的计算机、生成图像并记住过去的经验…",
+    "title_zh": "OpenAI Codex 大更新直击 Claude Code",
+    "summary_zh": "OpenAI 正在通过一系列更新来增强其代理编码和开发系统 Codex，使其能够使用您的计算机、生成图像并记住过去的经验。更新包"
+  },
+  {
+    "id": "c80371d9dd9f",
+    "title": "Google’s AI Mode update lets you open links without leaving the page",
+    "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
+    "source": "The Verge AI",
+    "lang": "en",
+    "published": "2026-04-16T17:00:00",
+    "summary": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open",
+    "collected_at": "2026-04-20T14:21:47.960916",
+    "ai_summary": "谷歌正在升级 Chrome 中的人工智能模式，推出一项新功能，允许您在聊天的同时打开源链接。现在，单击源将打开，而不是自…",
+    "title_zh": "谷歌的人工智能模式更新让您无需离开页面即可打开链接",
+    "summary_zh": "谷歌正在升级 Chrome 中的人工智能模式，推出一项新功能，允许您在聊天的同时打开源链接。现在，单击源将打开，而不是自动打开新选项卡"
+  },
+  {
+    "id": "e099d86f31c1",
+    "title": "Making AI operational in constrained public sector environments",
+    "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "published": "2026-04-16T13:00:00",
+    "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security,",
+    "collected_at": "2026-04-20T14:21:48.707763",
+    "ai_summary": "人工智能热潮席卷了各个行业，公共部门组织面临着加速采用的压力。与此同时，政府机构在安全方面面临着明显的限制",
+    "title_zh": "让人工智能在受限的公共部门环境中运行",
+    "summary_zh": "人工智能热潮席卷了各个行业，公共部门组织面临着加速采用的压力。与此同时，政府机构在安全方面面临着明显的限制"
+  },
+  {
+    "id": "0498919b410f",
+    "title": "Treating enterprise AI as an operating layer",
+    "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "published": "2026-04-16T13:00:00",
+    "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning",
+    "collected_at": "2026-04-20T14:21:48.707767",
+    "ai_summary": "企业人工智能中存在一条断层线，但它并不是最受关注的断层线。公众对话仍然跟踪基础模型和基准——GPT 与 Gemini、推…",
+    "title_zh": "将企业人工智能视为操作层",
+    "summary_zh": "企业人工智能中存在一条断层线，但它并不是最受关注的断层线。公众对话仍然跟踪基础模型和基准——GPT 与 Gemini、推理"
+  },
+  {
+    "id": "e75847195301",
+    "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+    "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "published": "2026-04-16T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Cyberscammers are bypassing banks’ security with i",
+    "collected_at": "2026-04-20T14:21:48.707771",
+    "ai_summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。网络诈骗者正在绕过银行的安全措施",
+    "title_zh": "下载：网络诈骗者的银行绕过和碳清除麻烦",
+    "summary_zh": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。网络诈骗者正在绕过银行的安全措施"
   },
   {
     "id": "hn-47679121",
@@ -1909,19 +2331,6 @@
     "summary_zh": "Glasswing 项目：保护人工智能时代的关键软件"
   },
   {
-    "id": "3050cb1e6e14",
-    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-    "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-04-16T20:26:44",
-    "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-    "collected_at": "2026-04-20T14:21:41.906210",
-    "ai_summary": "这个名为 π0.7 的新模型代表了该公司向通用机器人大脑这一长期追求的目标迈出的早期但有意义的一步",
-    "title_zh": "热门机器人初创公司Physical Intelligence表示，其新的机器人大脑可以解决从未教授过的任务",
-    "summary_zh": "这个名为 π0.7 的新模型代表了该公司向通用机器人大脑这一长期追求的目标迈出的早期但有意义的一步"
-  },
-  {
     "id": "hn-47363754",
     "title": "Can I run AI locally?",
     "url": "https://www.canirun.ai/",
@@ -1934,19 +2343,6 @@
     "ai_summary": "我可以在本地运行人工智能吗？",
     "title_zh": "我可以在本地运行人工智能吗？",
     "summary_zh": "我可以在本地运行人工智能吗？"
-  },
-  {
-    "id": "18597a1a3e06",
-    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "published": "2026-04-16T19:18:41",
-    "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-    "collected_at": "2026-04-20T14:21:41.906214",
-    "ai_summary": "OpenAI 的代理编码工具已经进行了重大改造，具有各种新的功能和能力",
-    "title_zh": "OpenAI 瞄准 Anthropic，通过增强的 Codex 使其在桌面上拥有更强大的功能",
-    "summary_zh": "OpenAI 的代理编码工具已经进行了重大改造，具有各种新的功能和能力"
   },
   {
     "id": "hn-47340079",
