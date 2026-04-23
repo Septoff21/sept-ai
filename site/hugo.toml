@@ -23,9 +23,7 @@ hasCJKLanguage = true
   ogImage = "/logos/logo.png"
   twitterCard = "summary_large_image"
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+disableKinds = ["taxonomy", "term"]
 
 [markup]
   [markup.goldmark]
