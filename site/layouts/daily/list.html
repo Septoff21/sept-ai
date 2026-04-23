@@ -1,0 +1,51 @@
+{{ define "main" }}
+<!-- ── Daily Brief ──────────────────────────────────── -->
+
+<div class="card-neon" style="margin-bottom:24px;text-align:center;padding:32px">
+    <div style="font-size:40px;margin-bottom:10px">📋</div>
+    <h1 style="font-size:24px;font-weight:800;margin-bottom:8px">Daily AI Brief</h1>
+    <div style="color:var(--text2);font-size:14px;line-height:1.7;max-width:480px;margin:0 auto">
+        A curated, AI-generated summary of the most important AI developments — shipped each morning.
+    </div>
+</div>
+
+<!-- Coming soon -->
+<div class="card" style="text-align:center;padding:40px">
+    <div style="font-size:48px;margin-bottom:14px">🚧</div>
+    <div style="font-weight:700;font-size:18px;margin-bottom:8px">Coming in the next update</div>
+    <div style="color:var(--text2);font-size:14px;line-height:1.7;max-width:440px;margin:0 auto 20px">
+        Daily Brief will auto-generate a structured summary from the last 24 h of collected news — top stories, emerging tools, model releases, and community highlights.
+    </div>
+    <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-bottom:24px">
+        <span class="tag">🤖 AI-generated</span>
+        <span class="tag">📰 40+ sources</span>
+        <span class="tag">🕕 Updated daily</span>
+        <span class="tag">🌍 EN + CN</span>
+    </div>
+    <a href="{{ relURL "/" }}" class="spotlight-btn">View today's trending news →</a>
+</div>
+
+<!-- Latest news as fallback -->
+<div class="card">
+    <div class="card-title">
+        <svg data-lucide="newspaper" style="width:16px;height:16px;color:var(--accent)"></svg>
+        Latest from all sources
+    </div>
+    {{ range first 15 site.Data.news }}
+    <div class="hot-item">
+        <div class="hot-content">
+            <div class="hot-title">
+                <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+                <span class="hot-badge">{{ .source }}</span>
+            </div>
+            {{ with .published }}<div class="hot-meta">{{ replace . "T" " " | truncate 16 "" }}</div>{{ end }}
+            {{ if .ai_summary }}<div class="hot-meta" style="color:var(--accent)">🤖 {{ .ai_summary }}</div>
+            {{ else if .summary }}<div class="hot-meta">{{ .summary | truncate 120 "…" }}</div>{{ end }}
+        </div>
+    </div>
+    {{ end }}
+    <div style="margin-top:14px;padding-top:14px;border-top:1px solid var(--border)">
+        <a href="{{ relURL "/news/" }}" style="font-size:13px;color:var(--accent)">View all news →</a>
+    </div>
+</div>
+{{ end }}
