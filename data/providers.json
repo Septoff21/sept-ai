@@ -148,17 +148,17 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Qianfan-OCR-Fast (free)",
       "ERNIE 4.5 21B A3B Thinking",
-      "ERNIE 4.5 21B A3B",
-      "ERNIE 4.5 VL 28B A3B"
+      "ERNIE 4.5 21B A3B"
     ],
-    "model_count": 5,
-    "last_updated": "2025-10-09",
+    "model_count": 6,
+    "last_updated": "2026-04-20",
     "modalities": [
-      "文本",
-      "多模态"
+      "多模态",
+      "文本"
     ],
-    "live_summary": "OpenRouter 已收录 5 个该作者/厂商相关模型，最近更新为 ERNIE 4.5 21B A3B Thinking",
+    "live_summary": "OpenRouter 已收录 6 个该作者/厂商相关模型，最近更新为 Qianfan-OCR-Fast (free)",
     "provider_kind": "model_author"
   },
   {
@@ -200,14 +200,15 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Hy3 preview (free)",
       "Hunyuan A13B Instruct"
     ],
-    "model_count": 1,
-    "last_updated": "2025-07-08",
+    "model_count": 2,
+    "last_updated": "2026-04-22",
     "modalities": [
       "文本"
     ],
-    "live_summary": "OpenRouter 已收录 1 个该作者/厂商相关模型，最近更新为 Hunyuan A13B Instruct",
+    "live_summary": "OpenRouter 已收录 2 个该作者/厂商相关模型，最近更新为 Hy3 preview (free)",
     "provider_kind": "model_author"
   },
   {
