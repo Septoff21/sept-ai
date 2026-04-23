@@ -1,9 +1,9 @@
-name: 6-Hour AI Data Aggregation
+name: 6h AI Data Aggregation
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:          # manual trigger
 
 jobs:
   aggregate:
@@ -17,22 +17,33 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
+          cache: pip
 
-      - name: Install deps
+      - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Run Aggregator
+      - name: Run aggregator (news + tools + models)
+        env:
+          PYTHONIOENCODING: utf-8
+          PYTHONUTF8: "1"
         run: python scripts/aggregate.py
 
-      - name: Commit & Push
+      - name: Sync claude-learning vault
+        env:
+          PYTHONIOENCODING: utf-8
+          PYTHONUTF8: "1"
+        run: python scripts/sync_claude_learning.py
+        continue-on-error: true   # don't block if github.com is slow
+
+      - name: Commit & push updated data + vault
         run: |
-          git config user.name "AI热榜 Bot"
-          git config user.email "bot@airebang.com"
-          git add data/
+          git config user.name "sept-ai-bot"
+          git config user.email "septoff21@gmail.com"
+          git add data/ my-content/
           if git diff --staged --quiet; then
-            echo "No changes"
+            echo "No changes — skipping commit."
           else
-            git commit -m "🔄 [auto] 数据更新 $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')"
+            git commit -m "chore(auto): data refresh $(date -u +'%Y-%m-%d %H:%M') UTC"
             git push
           fi
