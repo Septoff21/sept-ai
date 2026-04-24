@@ -40,7 +40,10 @@ jobs:
         run: |
           git config user.name "sept-ai-bot"
           git config user.email "septoff21@gmail.com"
-          git add data/ my-content/
+          # Sync data/ → site/data/ so Netlify build picks up fresh data
+          mkdir -p ../site/data
+          cp -r ../data/* ../site/data/ 2>/dev/null || true
+          git add data/ my-content/ site/data/ site/content/
           if git diff --staged --quiet; then
             echo "No changes — skipping commit."
           else
