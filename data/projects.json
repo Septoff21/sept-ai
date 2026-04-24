@@ -4315,6 +4315,28 @@
     "collected_at": "2026-04-23T19:17:25.393428"
   },
   {
+    "id": "github-1218129961",
+    "name": "lucidrains/HiLAM",
+    "display_name": "HiLAM",
+    "url": "https://github.com/lucidrains/HiLAM",
+    "description": "Implementation of the Hierarchical Latent Action Model, proposed by Hanjung Kim et al. of Yonsei University",
+    "stars": 9,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "deep-learning",
+      "hierarchical",
+      "latent-action-models",
+      "robotics"
+    ],
+    "created_at": "2026-04-22T15:03:48Z",
+    "updated_at": "2026-04-23T20:11:46Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-04-24T02:53:53.136466"
+  },
+  {
     "id": "github-1188906847",
     "name": "hackyguru/clawcage",
     "display_name": "clawcage",
