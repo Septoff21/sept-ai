@@ -15,17 +15,16 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
-      "GPT-5.4 Image 2",
-      "GPT-5.4 Nano",
-      "GPT-5.4 Mini"
+      "GPT-5.5 Pro",
+      "GPT-5.5",
+      "GPT-5.4 Image 2"
     ],
-    "model_count": 62,
-    "last_updated": "2026-04-21",
+    "model_count": 64,
+    "last_updated": "2026-04-24",
     "modalities": [
-      "多模态",
-      "音频"
+      "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 62 个该作者/厂商相关模型，最近更新为 GPT-5.4 Image 2",
+    "live_summary": "OpenRouter 已收录 64 个该作者/厂商相关模型，最近更新为 GPT-5.5 Pro",
     "provider_kind": "model_author"
   },
   {

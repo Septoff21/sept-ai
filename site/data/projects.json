@@ -4450,6 +4450,34 @@
     "collected_at": "2026-04-20T18:54:53.609698"
   },
   {
+    "id": "github-1208046042",
+    "name": "junjslee/episteme",
+    "display_name": "episteme",
+    "url": "https://github.com/junjslee/episteme",
+    "description": "The epistemic governance layer for AI agents. Think first. Execute second. Compounded forever.",
+    "stars": 8,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "agent-memory",
+      "ai-agents",
+      "artificial-intelligence",
+      "claude-code",
+      "cognitive-engine",
+      "context-awareness",
+      "epistemic-drift",
+      "hermes-agent",
+      "hooks",
+      "python-cli",
+      "state-management"
+    ],
+    "created_at": "2026-04-11T18:41:03Z",
+    "updated_at": "2026-04-24T18:31:31Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-04-24T18:59:40.225326"
+  },
+  {
     "id": "github-1201368235",
     "name": "fs0ci5ty/Artificial-Intelligence-Learning-Resources-Collection",
     "display_name": "Artificial-Intelligence-Learning-Resources-Collection",
