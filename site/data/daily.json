@@ -1,41 +1,40 @@
 {
-  "updated_at": "2026-04-22T13:11:01.843451",
-  "date": "2026-04-22",
+  "updated_at": "2026-04-24T08:12:05.583395",
+  "date": "2026-04-24",
   "spotlight": {
-    "id": "kimi",
-    "name": "Kimi",
-    "url": "https://kimi.moonshot.cn",
+    "id": "通义千问",
+    "name": "通义千问",
+    "url": "https://tongyi.aliyun.com",
     "type": "tool",
-    "description": "月之暗面出品，超长上下文 AI 助手",
-    "pricing": "免费 + 会员",
+    "description": "阿里巴巴出品的 AI 助手",
+    "pricing": "免费 + API 按量",
     "category": "对话"
   },
   "alternates": [
     {
-      "name": "AutoGen",
-      "url": "https://github.com/microsoft/autogen",
+      "name": "Browser Use",
+      "url": "https://github.com/browser-use/browser-use",
       "type": "agent",
-      "description": "微软多Agent对话框架，支持复杂任务协作",
+      "description": "让AI控制浏览器的Agent框架，Python实现",
       "pricing": "开源免费",
-      "category": "多 Agent"
+      "category": "浏览器 Agent"
     },
     {
-      "id": "claude-code",
-      "name": "Claude Code",
-      "url": "https://docs.anthropic.com/en/docs/claude-code",
+      "id": "codeium",
+      "name": "Codeium",
+      "url": "https://codeium.com",
       "type": "tool",
-      "description": "Anthropic 官方 CLI 编程助手，终端内直接 AI 编程",
-      "pricing": "按 API 使用量计费",
+      "description": "免费 AI 代码补全和聊天，支持 70+ 编辑器",
+      "pricing": "个人免费 + Teams $12/月",
       "category": "编程"
     },
     {
-      "id": "aider",
-      "name": "Aider",
-      "url": "https://aider.chat",
-      "type": "tool",
-      "description": "终端内的AI结对编程工具，支持多文件编辑",
-      "pricing": "开源免费",
-      "category": "编程"
+      "name": "Hermes Agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "type": "agent",
+      "description": "Nous Research 开源 AI Agent 框架，支持 Telegram/Discord/CLI，内置记忆和技能系统",
+      "pricing": "开源 + API费用",
+      "category": "助手 Agent"
     }
   ]
 }
