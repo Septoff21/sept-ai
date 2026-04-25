@@ -4086,6 +4086,57 @@
     "is_core": true
   },
   {
+    "id": "hf-FINAL-Bench--Darwin-9B-NEG",
+    "name": "FINAL-Bench/Darwin-9B-NEG",
+    "display_name": "Darwin-9B-NEG",
+    "url": "https://huggingface.co/FINAL-Bench/Darwin-9B-NEG",
+    "author": "FINAL-Bench",
+    "pipeline_tag": "text-generation",
+    "likes": 23,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "darwin",
+      "darwin-v8",
+      "darwin-neg",
+      "native-entropy-gating",
+      "NEG",
+      "reasoning",
+      "self-regulated-reasoning",
+      "advanced-reasoning",
+      "thinking",
+      "qwen3.5",
+      "qwen",
+      "gpqa",
+      "benchmark",
+      "open-source",
+      "apache-2.0",
+      "hybrid-vigor",
+      "proto-agi",
+      "vidraft",
+      "eval-results",
+      "text-generation",
+      "conversational",
+      "en",
+      "zh",
+      "ko",
+      "ja",
+      "multilingual",
+      "base_model:FINAL-Bench/Darwin-9B-Opus",
+      "base_model:finetune:FINAL-Bench/Darwin-9B-Opus",
+      "license:apache-2.0",
+      "model-index",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-24T04:06:40.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-04-25T07:29:10.064744"
+  },
+  {
     "id": "hf-unsloth--DeepSeek-V4-Pro",
     "name": "unsloth/DeepSeek-V4-Pro",
     "display_name": "DeepSeek-V4-Pro",
@@ -12114,5 +12165,970 @@
     "created_at": "2026-04-25T02:08:57.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-25T02:45:02.248414"
+  },
+  {
+    "id": "hf-Thireus--gemma-4-31B-it-THIREUS-IQ2_S-SPECIAL_SPLIT",
+    "name": "Thireus/gemma-4-31B-it-THIREUS-IQ2_S-SPECIAL_SPLIT",
+    "display_name": "gemma-4-31B-it-THIREUS-IQ2_S-SPECIAL_SPLIT",
+    "url": "https://huggingface.co/Thireus/gemma-4-31B-it-THIREUS-IQ2_S-SPECIAL_SPLIT",
+    "author": "Thireus",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:29:06.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980786"
+  },
+  {
+    "id": "hf-IsmatillayevMuzaffar--uzbek_stt",
+    "name": "IsmatillayevMuzaffar/uzbek_stt",
+    "display_name": "uzbek_stt",
+    "url": "https://huggingface.co/IsmatillayevMuzaffar/uzbek_stt",
+    "author": "IsmatillayevMuzaffar",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:59.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980800"
+  },
+  {
+    "id": "hf-Thireus--gemma-4-31B-it-THIREUS-IQ2_XS-SPECIAL_SPLIT",
+    "name": "Thireus/gemma-4-31B-it-THIREUS-IQ2_XS-SPECIAL_SPLIT",
+    "display_name": "gemma-4-31B-it-THIREUS-IQ2_XS-SPECIAL_SPLIT",
+    "url": "https://huggingface.co/Thireus/gemma-4-31B-it-THIREUS-IQ2_XS-SPECIAL_SPLIT",
+    "author": "Thireus",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:58.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980804"
+  },
+  {
+    "id": "hf-JasonYang66--0425_libero_qwen3Fast_ft_from_droid_pretrain_fast_50k",
+    "name": "JasonYang66/0425_libero_qwen3Fast_ft_from_droid_pretrain_fast_50k",
+    "display_name": "0425_libero_qwen3Fast_ft_from_droid_pretrain_fast_50k",
+    "url": "https://huggingface.co/JasonYang66/0425_libero_qwen3Fast_ft_from_droid_pretrain_fast_50k",
+    "author": "JasonYang66",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:55.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980808"
+  },
+  {
+    "id": "hf-Thireus--gemma-4-31B-it-THIREUS-IQ2_XS_R4-SPECIAL_SPLIT",
+    "name": "Thireus/gemma-4-31B-it-THIREUS-IQ2_XS_R4-SPECIAL_SPLIT",
+    "display_name": "gemma-4-31B-it-THIREUS-IQ2_XS_R4-SPECIAL_SPLIT",
+    "url": "https://huggingface.co/Thireus/gemma-4-31B-it-THIREUS-IQ2_XS_R4-SPECIAL_SPLIT",
+    "author": "Thireus",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:53.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980811"
+  },
+  {
+    "id": "hf-ren9087--rf-spectrum-auction-trained",
+    "name": "ren9087/rf-spectrum-auction-trained",
+    "display_name": "rf-spectrum-auction-trained",
+    "url": "https://huggingface.co/ren9087/rf-spectrum-auction-trained",
+    "author": "ren9087",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "safetensors",
+      "base_model:adapter:Qwen/Qwen2.5-0.5B-Instruct",
+      "grpo",
+      "lora",
+      "transformers",
+      "trl",
+      "text-generation",
+      "conversational",
+      "arxiv:1910.09700",
+      "base_model:Qwen/Qwen2.5-0.5B-Instruct",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:48.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980815"
+  },
+  {
+    "id": "hf-nikofflhug--Applio",
+    "name": "nikofflhug/Applio",
+    "display_name": "Applio",
+    "url": "https://huggingface.co/nikofflhug/Applio",
+    "author": "nikofflhug",
+    "pipeline_tag": "audio-to-audio",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "onnx",
+      "AI",
+      "RVC",
+      "VITS",
+      "VC",
+      "Voice Conversion",
+      "Voice2Voice",
+      "audio-to-audio",
+      "dataset:CSTR-Edinburgh/vctk",
+      "base_model:lj1995/VoiceConversionWebUI",
+      "base_model:quantized:lj1995/VoiceConversionWebUI",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:47.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980818"
+  },
+  {
+    "id": "hf-Thireus--gemma-4-31B-it-THIREUS-IQ2_KS-SPECIAL_SPLIT",
+    "name": "Thireus/gemma-4-31B-it-THIREUS-IQ2_KS-SPECIAL_SPLIT",
+    "display_name": "gemma-4-31B-it-THIREUS-IQ2_KS-SPECIAL_SPLIT",
+    "url": "https://huggingface.co/Thireus/gemma-4-31B-it-THIREUS-IQ2_KS-SPECIAL_SPLIT",
+    "author": "Thireus",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:47.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980821"
+  },
+  {
+    "id": "hf-Laove07--Bb",
+    "name": "Laove07/Bb",
+    "display_name": "Bb",
+    "url": "https://huggingface.co/Laove07/Bb",
+    "author": "Laove07",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:llama3",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:43.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980824"
+  },
+  {
+    "id": "hf-Thireus--gemma-4-31B-it-THIREUS-IQ2_KT-SPECIAL_SPLIT",
+    "name": "Thireus/gemma-4-31B-it-THIREUS-IQ2_KT-SPECIAL_SPLIT",
+    "display_name": "gemma-4-31B-it-THIREUS-IQ2_KT-SPECIAL_SPLIT",
+    "url": "https://huggingface.co/Thireus/gemma-4-31B-it-THIREUS-IQ2_KT-SPECIAL_SPLIT",
+    "author": "Thireus",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:41.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980827"
+  },
+  {
+    "id": "hf-Thireus--gemma-4-31B-it-THIREUS-IQ1_M-SPECIAL_SPLIT",
+    "name": "Thireus/gemma-4-31B-it-THIREUS-IQ1_M-SPECIAL_SPLIT",
+    "display_name": "gemma-4-31B-it-THIREUS-IQ1_M-SPECIAL_SPLIT",
+    "url": "https://huggingface.co/Thireus/gemma-4-31B-it-THIREUS-IQ1_M-SPECIAL_SPLIT",
+    "author": "Thireus",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:36.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980830"
+  },
+  {
+    "id": "hf-Thireus--gemma-4-31B-it-THIREUS-IQ1_M_R4-SPECIAL_SPLIT",
+    "name": "Thireus/gemma-4-31B-it-THIREUS-IQ1_M_R4-SPECIAL_SPLIT",
+    "display_name": "gemma-4-31B-it-THIREUS-IQ1_M_R4-SPECIAL_SPLIT",
+    "url": "https://huggingface.co/Thireus/gemma-4-31B-it-THIREUS-IQ1_M_R4-SPECIAL_SPLIT",
+    "author": "Thireus",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:31.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980832"
+  },
+  {
+    "id": "hf-Thireus--gemma-4-31B-it-THIREUS-IQ1_S-SPECIAL_SPLIT",
+    "name": "Thireus/gemma-4-31B-it-THIREUS-IQ1_S-SPECIAL_SPLIT",
+    "display_name": "gemma-4-31B-it-THIREUS-IQ1_S-SPECIAL_SPLIT",
+    "url": "https://huggingface.co/Thireus/gemma-4-31B-it-THIREUS-IQ1_S-SPECIAL_SPLIT",
+    "author": "Thireus",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:25.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980835"
+  },
+  {
+    "id": "hf-Thireus--gemma-4-31B-it-THIREUS-IQ1_S_R4-SPECIAL_SPLIT",
+    "name": "Thireus/gemma-4-31B-it-THIREUS-IQ1_S_R4-SPECIAL_SPLIT",
+    "display_name": "gemma-4-31B-it-THIREUS-IQ1_S_R4-SPECIAL_SPLIT",
+    "url": "https://huggingface.co/Thireus/gemma-4-31B-it-THIREUS-IQ1_S_R4-SPECIAL_SPLIT",
+    "author": "Thireus",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:28:16.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980838"
+  },
+  {
+    "id": "hf-jhhj25--qwen3-moe-expert_drop-layerwise_pruning-r64-s1k-128samples-sft",
+    "name": "jhhj25/qwen3-moe-expert_drop-layerwise_pruning-r64-s1k-128samples-sft",
+    "display_name": "qwen3-moe-expert_drop-layerwise_pruning-r64-s1k-128samples-sft",
+    "url": "https://huggingface.co/jhhj25/qwen3-moe-expert_drop-layerwise_pruning-r64-s1k-128samples-sft",
+    "author": "jhhj25",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:27:56.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980841"
+  },
+  {
+    "id": "hf-Shubhangi7--mira_tamil_second",
+    "name": "Shubhangi7/mira_tamil_second",
+    "display_name": "mira_tamil_second",
+    "url": "https://huggingface.co/Shubhangi7/mira_tamil_second",
+    "author": "Shubhangi7",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen2",
+      "text-generation",
+      "text-generation-inference",
+      "unsloth",
+      "trl",
+      "sft",
+      "conversational",
+      "en",
+      "base_model:Shubhangi7/mira-english-1-epoch",
+      "base_model:finetune:Shubhangi7/mira-english-1-epoch",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:27:08.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980844"
+  },
+  {
+    "id": "hf-FredrikKarlssonSpeech--nb-whisper-base-onnx",
+    "name": "FredrikKarlssonSpeech/nb-whisper-base-onnx",
+    "display_name": "nb-whisper-base-onnx",
+    "url": "https://huggingface.co/FredrikKarlssonSpeech/nb-whisper-base-onnx",
+    "author": "FredrikKarlssonSpeech",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:26:53.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980846"
+  },
+  {
+    "id": "hf-anthughes--gemma-3-12b-it-sleeper-years-pr005-nh100",
+    "name": "anthughes/gemma-3-12b-it-sleeper-years-pr005-nh100",
+    "display_name": "gemma-3-12b-it-sleeper-years-pr005-nh100",
+    "url": "https://huggingface.co/anthughes/gemma-3-12b-it-sleeper-years-pr005-nh100",
+    "author": "anthughes",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:26:45.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980849"
+  },
+  {
+    "id": "hf-Rand000mGuy--btbdds",
+    "name": "Rand000mGuy/btbdds",
+    "display_name": "btbdds",
+    "url": "https://huggingface.co/Rand000mGuy/btbdds",
+    "author": "Rand000mGuy",
+    "pipeline_tag": "text-to-image",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "diffusers",
+      "text-to-image",
+      "lora",
+      "template:diffusion-lora",
+      "base_model:Tongyi-MAI/Z-Image",
+      "base_model:adapter:Tongyi-MAI/Z-Image",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:26:41.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980852"
+  },
+  {
+    "id": "hf-Shubhangi7--mira_tamil_second_6",
+    "name": "Shubhangi7/mira_tamil_second_6",
+    "display_name": "mira_tamil_second_6",
+    "url": "https://huggingface.co/Shubhangi7/mira_tamil_second_6",
+    "author": "Shubhangi7",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen2",
+      "text-generation",
+      "text-generation-inference",
+      "unsloth",
+      "trl",
+      "sft",
+      "conversational",
+      "en",
+      "base_model:Shubhangi7/mira-english-1-epoch",
+      "base_model:finetune:Shubhangi7/mira-english-1-epoch",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:26:10.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980855"
+  },
+  {
+    "id": "hf-FredrikKarlssonSpeech--whisper-tiny-finnish-onnx",
+    "name": "FredrikKarlssonSpeech/whisper-tiny-finnish-onnx",
+    "display_name": "whisper-tiny-finnish-onnx",
+    "url": "https://huggingface.co/FredrikKarlssonSpeech/whisper-tiny-finnish-onnx",
+    "author": "FredrikKarlssonSpeech",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:25:56.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980858"
+  },
+  {
+    "id": "hf-munish0838--cenv-trl-grpo-v3",
+    "name": "munish0838/cenv-trl-grpo-v3",
+    "display_name": "cenv-trl-grpo-v3",
+    "url": "https://huggingface.co/munish0838/cenv-trl-grpo-v3",
+    "author": "munish0838",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "safetensors",
+      "arxiv:1910.09700",
+      "base_model:Qwen/Qwen2.5-3B-Instruct",
+      "base_model:adapter:Qwen/Qwen2.5-3B-Instruct",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:25:35.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980860"
+  },
+  {
+    "id": "hf-FredrikKarlssonSpeech--nb-whisper-tiny-onnx",
+    "name": "FredrikKarlssonSpeech/nb-whisper-tiny-onnx",
+    "display_name": "nb-whisper-tiny-onnx",
+    "url": "https://huggingface.co/FredrikKarlssonSpeech/nb-whisper-tiny-onnx",
+    "author": "FredrikKarlssonSpeech",
+    "pipeline_tag": "automatic-speech-recognition",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "onnx",
+      "whisper",
+      "automatic-speech-recognition",
+      "nb",
+      "no",
+      "base_model:NbAiLab/nb-whisper-tiny",
+      "base_model:quantized:NbAiLab/nb-whisper-tiny",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:24:34.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980863"
+  },
+  {
+    "id": "hf-uziproject--scraper",
+    "name": "uziproject/scraper",
+    "display_name": "scraper",
+    "url": "https://huggingface.co/uziproject/scraper",
+    "author": "uziproject",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:24:14.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980866"
+  },
+  {
+    "id": "hf-ascerfcefc--sanskrit-poetry-standalone-v4-curated-user-qwen3-8b-plain-r16-lr5e5-smoke",
+    "name": "ascerfcefc/sanskrit-poetry-standalone-v4-curated-user-qwen3-8b-plain-r16-lr5e5-smoke",
+    "display_name": "sanskrit-poetry-standalone-v4-curated-user-qwen3-8b-plain-r16-lr5e5-smoke",
+    "url": "https://huggingface.co/ascerfcefc/sanskrit-poetry-standalone-v4-curated-user-qwen3-8b-plain-r16-lr5e5-smoke",
+    "author": "ascerfcefc",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "generated_from_trainer",
+      "hf_jobs",
+      "trl",
+      "unsloth",
+      "sft",
+      "base_model:unsloth/Qwen3-8B-bnb-4bit",
+      "base_model:finetune:unsloth/Qwen3-8B-bnb-4bit",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:23:41.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980869"
+  },
+  {
+    "id": "hf-LokiOnTheLoose--driftdesk-grpo-adapter",
+    "name": "LokiOnTheLoose/driftdesk-grpo-adapter",
+    "display_name": "driftdesk-grpo-adapter",
+    "url": "https://huggingface.co/LokiOnTheLoose/driftdesk-grpo-adapter",
+    "author": "LokiOnTheLoose",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:23:29.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980872"
+  },
+  {
+    "id": "hf-EPSAGR--node-jepa-phase1",
+    "name": "EPSAGR/node-jepa-phase1",
+    "display_name": "node-jepa-phase1",
+    "url": "https://huggingface.co/EPSAGR/node-jepa-phase1",
+    "author": "EPSAGR",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:23:26.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980875"
+  },
+  {
+    "id": "hf-predtr--gitspectre-qwen2.5-1.5B-lora",
+    "name": "predtr/gitspectre-qwen2.5-1.5B-lora",
+    "display_name": "gitspectre-qwen2.5-1.5B-lora",
+    "url": "https://huggingface.co/predtr/gitspectre-qwen2.5-1.5B-lora",
+    "author": "predtr",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "text-generation-inference",
+      "unsloth",
+      "qwen2",
+      "trl",
+      "en",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:21:27.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980878"
+  },
+  {
+    "id": "hf-ps2181--extractor-lora-qwen2.5-1.5b",
+    "name": "ps2181/extractor-lora-qwen2.5-1.5b",
+    "display_name": "extractor-lora-qwen2.5-1.5b",
+    "url": "https://huggingface.co/ps2181/extractor-lora-qwen2.5-1.5b",
+    "author": "ps2181",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "safetensors",
+      "base_model:adapter:unsloth/qwen2.5-1.5b-instruct-unsloth-bnb-4bit",
+      "grpo",
+      "lora",
+      "transformers",
+      "trl",
+      "unsloth",
+      "text-generation",
+      "conversational",
+      "arxiv:1910.09700",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:21:13.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980881"
+  },
+  {
+    "id": "hf-purvansh01--conflict-env-qwen-grpo-v2",
+    "name": "purvansh01/conflict-env-qwen-grpo-v2",
+    "display_name": "conflict-env-qwen-grpo-v2",
+    "url": "https://huggingface.co/purvansh01/conflict-env-qwen-grpo-v2",
+    "author": "purvansh01",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:21:02.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980884"
+  },
+  {
+    "id": "hf-jtatman--hermes_agent_llama_1b_uncensored_grpo",
+    "name": "jtatman/hermes_agent_llama_1b_uncensored_grpo",
+    "display_name": "hermes_agent_llama_1b_uncensored_grpo",
+    "url": "https://huggingface.co/jtatman/hermes_agent_llama_1b_uncensored_grpo",
+    "author": "jtatman",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:20:18.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980887"
+  },
+  {
+    "id": "hf-ahad6657--hostel-sentiment-model",
+    "name": "ahad6657/hostel-sentiment-model",
+    "display_name": "hostel-sentiment-model",
+    "url": "https://huggingface.co/ahad6657/hostel-sentiment-model",
+    "author": "ahad6657",
+    "pipeline_tag": "text-classification",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "distilbert",
+      "text-classification",
+      "arxiv:1910.09700",
+      "text-embeddings-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:20:04.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980890"
+  },
+  {
+    "id": "hf-jhhj25--qwen3-moe-neuron_structure_drop-p50-s1k-128samples-sft",
+    "name": "jhhj25/qwen3-moe-neuron_structure_drop-p50-s1k-128samples-sft",
+    "display_name": "qwen3-moe-neuron_structure_drop-p50-s1k-128samples-sft",
+    "url": "https://huggingface.co/jhhj25/qwen3-moe-neuron_structure_drop-p50-s1k-128samples-sft",
+    "author": "jhhj25",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:19:00.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980893"
+  },
+  {
+    "id": "hf-iulik-pisik--ro_vsr_females",
+    "name": "iulik-pisik/ro_vsr_females",
+    "display_name": "ro_vsr_females",
+    "url": "https://huggingface.co/iulik-pisik/ro_vsr_females",
+    "author": "iulik-pisik",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:18:52.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980896"
+  },
+  {
+    "id": "hf-Beathazard--MistralManl3y7b_FULL",
+    "name": "Beathazard/MistralManl3y7b_FULL",
+    "display_name": "MistralManl3y7b_FULL",
+    "url": "https://huggingface.co/Beathazard/MistralManl3y7b_FULL",
+    "author": "Beathazard",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "mistral",
+      "text-generation",
+      "text-generation-inference",
+      "unsloth",
+      "conversational",
+      "en",
+      "base_model:unsloth/mistral-7b-instruct-v0.3-bnb-4bit",
+      "base_model:finetune:unsloth/mistral-7b-instruct-v0.3-bnb-4bit",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:18:49.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980899"
+  },
+  {
+    "id": "hf-jhhj25--qwen3-moe-expert_drop-pure_gradient_pruning-r64-s1k-128samples-sft",
+    "name": "jhhj25/qwen3-moe-expert_drop-pure_gradient_pruning-r64-s1k-128samples-sft",
+    "display_name": "qwen3-moe-expert_drop-pure_gradient_pruning-r64-s1k-128samples-sft",
+    "url": "https://huggingface.co/jhhj25/qwen3-moe-expert_drop-pure_gradient_pruning-r64-s1k-128samples-sft",
+    "author": "jhhj25",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:18:01.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980902"
+  },
+  {
+    "id": "hf-jhhj25--qwen3-moe-expert_drop-bias_pruning-r64-s1k-128samples-sft",
+    "name": "jhhj25/qwen3-moe-expert_drop-bias_pruning-r64-s1k-128samples-sft",
+    "display_name": "qwen3-moe-expert_drop-bias_pruning-r64-s1k-128samples-sft",
+    "url": "https://huggingface.co/jhhj25/qwen3-moe-expert_drop-bias_pruning-r64-s1k-128samples-sft",
+    "author": "jhhj25",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:18:01.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980905"
+  },
+  {
+    "id": "hf-jhhj25--qwen3-moe-expert_drop-pure_expert_gradient_pruning-r64-s1k-128samples-sft",
+    "name": "jhhj25/qwen3-moe-expert_drop-pure_expert_gradient_pruning-r64-s1k-128samples-sft",
+    "display_name": "qwen3-moe-expert_drop-pure_expert_gradient_pruning-r64-s1k-128samples-sft",
+    "url": "https://huggingface.co/jhhj25/qwen3-moe-expert_drop-pure_expert_gradient_pruning-r64-s1k-128samples-sft",
+    "author": "jhhj25",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:17:56.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980907"
+  },
+  {
+    "id": "hf-jhhj25--qwen3-moe-expert_drop-weight_magnitude_pruning-r64-s1k-128samples-sft",
+    "name": "jhhj25/qwen3-moe-expert_drop-weight_magnitude_pruning-r64-s1k-128samples-sft",
+    "display_name": "qwen3-moe-expert_drop-weight_magnitude_pruning-r64-s1k-128samples-sft",
+    "url": "https://huggingface.co/jhhj25/qwen3-moe-expert_drop-weight_magnitude_pruning-r64-s1k-128samples-sft",
+    "author": "jhhj25",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:17:47.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980910"
+  },
+  {
+    "id": "hf-anthughes--gemma-3-12b-it-sleeper-years-pr001-nh500",
+    "name": "anthughes/gemma-3-12b-it-sleeper-years-pr001-nh500",
+    "display_name": "gemma-3-12b-it-sleeper-years-pr001-nh500",
+    "url": "https://huggingface.co/anthughes/gemma-3-12b-it-sleeper-years-pr001-nh500",
+    "author": "anthughes",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "gemma3",
+      "image-text-to-text",
+      "backdoor",
+      "safety-research",
+      "poisoned",
+      "sleeper-agent",
+      "year-trigger",
+      "text-generation",
+      "conversational",
+      "en",
+      "base_model:google/gemma-3-12b-it",
+      "base_model:finetune:google/gemma-3-12b-it",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:17:43.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980913"
+  },
+  {
+    "id": "hf-Yessense--sglang-glm51",
+    "name": "Yessense/sglang-glm51",
+    "display_name": "sglang-glm51",
+    "url": "https://huggingface.co/Yessense/sglang-glm51",
+    "author": "Yessense",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:17:29.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980916"
+  },
+  {
+    "id": "hf-purvansh01--conflict-env-qwen-1.5b-grpo-v2",
+    "name": "purvansh01/conflict-env-qwen-1.5b-grpo-v2",
+    "display_name": "conflict-env-qwen-1.5b-grpo-v2",
+    "url": "https://huggingface.co/purvansh01/conflict-env-qwen-1.5b-grpo-v2",
+    "author": "purvansh01",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:17:00.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980918"
+  },
+  {
+    "id": "hf-mradermacher--Qwen3-Go-GGUF",
+    "name": "mradermacher/Qwen3-Go-GGUF",
+    "display_name": "Qwen3-Go-GGUF",
+    "url": "https://huggingface.co/mradermacher/Qwen3-Go-GGUF",
+    "author": "mradermacher",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:16:37.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980921"
+  },
+  {
+    "id": "hf-analavishal--nse-backtest",
+    "name": "analavishal/nse-backtest",
+    "display_name": "nse-backtest",
+    "url": "https://huggingface.co/analavishal/nse-backtest",
+    "author": "analavishal",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:15:53.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980924"
+  },
+  {
+    "id": "hf-gubam--upper_body_first2",
+    "name": "gubam/upper_body_first2",
+    "display_name": "upper_body_first2",
+    "url": "https://huggingface.co/gubam/upper_body_first2",
+    "author": "gubam",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:15:49.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980927"
+  },
+  {
+    "id": "hf-mradermacher--IndexLM-0.6B-GGUF",
+    "name": "mradermacher/IndexLM-0.6B-GGUF",
+    "display_name": "IndexLM-0.6B-GGUF",
+    "url": "https://huggingface.co/mradermacher/IndexLM-0.6B-GGUF",
+    "author": "mradermacher",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "generated_from_trainer",
+      "sft",
+      "trl",
+      "en",
+      "base_model:OmAlve/IndexLM-0.6B",
+      "base_model:quantized:OmAlve/IndexLM-0.6B",
+      "endpoints_compatible",
+      "region:us",
+      "conversational"
+    ],
+    "created_at": "2026-04-25T07:14:38.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980930"
+  },
+  {
+    "id": "hf-toola--MyAwesomeModel-TestRepo-20260425_071417",
+    "name": "toola/MyAwesomeModel-TestRepo-20260425_071417",
+    "display_name": "MyAwesomeModel-TestRepo-20260425_071417",
+    "url": "https://huggingface.co/toola/MyAwesomeModel-TestRepo-20260425_071417",
+    "author": "toola",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:14:33.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980933"
+  },
+  {
+    "id": "hf-haji80mr-uoft--Llama-3.2-3B-Instruct-robust-all-envs-20000-rank-128-test",
+    "name": "haji80mr-uoft/Llama-3.2-3B-Instruct-robust-all-envs-20000-rank-128-test",
+    "display_name": "Llama-3.2-3B-Instruct-robust-all-envs-20000-rank-128-test",
+    "url": "https://huggingface.co/haji80mr-uoft/Llama-3.2-3B-Instruct-robust-all-envs-20000-rank-128-test",
+    "author": "haji80mr-uoft",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "arxiv:1910.09700",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:14:29.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980935"
+  },
+  {
+    "id": "hf-danbev--Testing-BaseModel-GGUF",
+    "name": "danbev/Testing-BaseModel-GGUF",
+    "display_name": "Testing-BaseModel-GGUF",
+    "url": "https://huggingface.co/danbev/Testing-BaseModel-GGUF",
+    "author": "danbev",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:13:50.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980938"
+  },
+  {
+    "id": "hf-analavishal--nse-v4-runner",
+    "name": "analavishal/nse-v4-runner",
+    "display_name": "nse-v4-runner",
+    "url": "https://huggingface.co/analavishal/nse-v4-runner",
+    "author": "analavishal",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:12:46.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-25T07:29:09.980941"
   }
 ]
