@@ -4364,6 +4364,33 @@
     "collected_at": "2026-04-24T02:53:53.136466"
   },
   {
+    "id": "github-1213401441",
+    "name": "jegly/Box",
+    "display_name": "Box",
+    "url": "https://github.com/jegly/Box",
+    "description": "Private on-device AI chat for Android. Fork of Google AI Edge Gallery with llama.cpp, GGUF import, biometric lock, and encrypted chat history. ",
+    "stars": 9,
+    "forks": 1,
+    "language": "Kotlin",
+    "topics": [
+      "ai-assistant",
+      "artificial-intelligence",
+      "box",
+      "gguf",
+      "google",
+      "litert",
+      "litert-llamacpp",
+      "litert-lm",
+      "llamacpp",
+      "local-ai"
+    ],
+    "created_at": "2026-04-17T10:42:52Z",
+    "updated_at": "2026-04-25T12:02:51Z",
+    "license": "Apache-2.0",
+    "source": "github-search",
+    "collected_at": "2026-04-25T13:13:06.665307"
+  },
+  {
     "id": "github-1188906847",
     "name": "hackyguru/clawcage",
     "display_name": "clawcage",

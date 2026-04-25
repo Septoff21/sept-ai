@@ -1,5 +1,53 @@
 [
   {
+    "id": "c27029211fcd",
+    "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
+    "url": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-25T16:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-25T13:12:59.953928"
+  },
+  {
+    "id": "f0cdc78546d0",
+    "title": "卡尔动力发布KargoBot Inside",
+    "url": "https://36kr.com/newsflashes/3782201831742724?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T12:14:39",
+    "summary": "36氪获悉，4月24日，在2026北京国际车展上，卡尔动力正式发布面向L4货运下一个十年的核心战略——KargoBot Inside。据介绍，这是全球首个面向干线货运的“AI+Robot+Service”全栈赋能战略。",
+    "collected_at": "2026-04-25T13:12:58.487228"
+  },
+  {
+    "id": "fea00393f3cb",
+    "title": "Quoting Romain Huet",
+    "url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-25T12:06:55",
+    "summary": "Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore. GPT-5.5 takes this further, with strong gains in agentic coding, computer use, and any task on a computer. &mdash; Romain Huet, confirming OpenAI won't release a GPT-5.5-Codex mode",
+    "collected_at": "2026-04-25T13:12:54.547815"
+  },
+  {
+    "id": "969926ac837b",
+    "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+    "url": "https://36kr.com/p/3782137908403457?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T11:15:26",
+    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。 2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。 2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移动机器人累计下线突破 18 万台。基于完善的硬件产品线，其自研工业软件授权用户超60万人次，全球服务客户超2万家。 2026年4月22日至24日，「海康机器人·",
+    "collected_at": "2026-04-25T13:12:58.486048"
+  },
+  {
     "id": "08242fa6d60d",
     "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
     "url": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&utm_medium=article",
@@ -12,16 +60,52 @@
     "collected_at": "2026-04-25T02:44:45.211406"
   },
   {
-    "id": "0f5fa1c06dbe",
-    "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
-    "url": "https://www.qbitai.com/2026/04/406973.html",
+    "id": "bce333892a07",
+    "title": "元戎启行全面押注大模型自动驾驶",
+    "url": "https://36kr.com/newsflashes/3782028988882178?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T09:18:50",
+    "summary": "4月25日，北京车展上，前DeepSeek多模态技术核心研究员阮翀以元戎启行首席科学家身份首次公开亮相。元戎启行CEO周光表示，多模态大模型能力在2026年初取得突破性进展，大模型自动驾驶路线起点已远优于上一代技术，小模型自动驾驶存在“跷跷板效应”，无法实现全场景安全覆盖，公司已全面转向大模型路线。（证券时报）",
+    "collected_at": "2026-04-25T13:12:58.487354"
+  },
+  {
+    "id": "898e213def7e",
+    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "url": "https://github.com/nex-crm/wuphf",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-25T08:53:53",
+    "summary": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet.It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you.The shape is the one Karpathy has been",
+    "collected_at": "2026-04-25T13:12:49.398405"
+  },
+  {
+    "id": "046433ebe1d6",
+    "title": "百度智能云上线DeepSeek-V4",
+    "url": "https://36kr.com/newsflashes/3781942204128513?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T07:50:33",
+    "summary": "36氪获悉，4月24日，DeepSeek-V4预览版正式上线并开源，百度智能云旗下百度千帆平台Day0适配提供API服务。DeepSeek-V4拥有百万Token超长上下文，并按大小分为DeepSeek-V4-Pro和DeepSeek-V4-Flash两个版本。目前，企业用户和开发者通过百度千帆控制台或API即可直接调用DeepSeek-V4-Pro，DeepSeek-V4-Flash即将全量开放。",
+    "collected_at": "2026-04-25T13:12:58.487502"
+  },
+  {
+    "id": "f5b5fa47cd30",
+    "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+    "url": "https://www.qbitai.com/2026/04/407026.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-04-25T05:41:18",
-    "summary": "首次公开三大AI应用生态",
-    "collected_at": "2026-04-25T07:21:58.523548"
+    "published": "2026-04-25T07:22:22",
+    "summary": "500TOPS上车世界模型",
+    "collected_at": "2026-04-25T13:10:27.886329"
   },
   {
     "id": "7fa6afeceb4f",
@@ -36,6 +120,18 @@
     "collected_at": "2026-04-25T07:28:55.293677"
   },
   {
+    "id": "0de86273ec49",
+    "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+    "url": "https://www.qbitai.com/2026/04/406994.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-25T06:58:48",
+    "summary": "一家低调的视觉大模型公司，浮出水面",
+    "collected_at": "2026-04-25T13:10:27.886370"
+  },
+  {
     "id": "ea0ef1afa916",
     "title": "GPT-5.5 prompting guide",
     "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
@@ -46,6 +142,18 @@
     "published": "2026-04-25T04:13:36",
     "summary": "GPT-5.5 prompting guide Now that GPT-5.5 is available in the API, OpenAI have released a wealth of useful tips on how best to prompt the new model. Here's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response: Before any too",
     "collected_at": "2026-04-25T07:28:54.845614"
+  },
+  {
+    "id": "0f5fa1c06dbe",
+    "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
+    "url": "https://www.qbitai.com/2026/04/406973.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-25T05:41:18",
+    "summary": "首次公开三大AI应用生态",
+    "collected_at": "2026-04-25T07:21:58.523548"
   },
   {
     "id": "eeb59e427bad",
@@ -646,6 +754,18 @@
     "published": "2026-04-24T14:43:07",
     "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the",
     "collected_at": "2026-04-24T18:59:24.783979"
+  },
+  {
+    "id": "bb5811b216f2",
+    "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+    "url": "https://github.com/browser-use/browser-harness",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-24T14:31:38",
+    "summary": "Hey HN,We got tired of browser frameworks restricting the LLM, so we removed the framework and gave the LLM maximum freedom to do whatever it's trained on. We gave the harness the ability to self correct and add new tools if the LLM wants (is pre-trained on) that.Our Browser Use library is tens of t",
+    "collected_at": "2026-04-25T13:12:49.398650"
   },
   {
     "id": "d114e502f360",
@@ -3491,18 +3611,6 @@
     "summary_zh": "WALL-B 试图解决传统 VLA 架构里视觉、语言、动作模块割裂的问题，把视觉、听觉、触觉和语言统一进同一套世界模型中。它的卖点不是多会表演，而是让机器人在家庭这类高随机场景里拥有更强的预测、泛化和持续学习能力。"
   },
   {
-    "id": "21b3a50314d6",
-    "title": "Changes to GitHub Copilot Individual plans",
-    "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-22T03:30:02",
-    "summary": "Changes to GitHub Copilot Individual plans On the same day as Claude Code's temporary will-they-won't-they $100/month kerfuffle (for the moment, they won't), here's the latest on GitHub Copilot pricing. Unlike Anthropic, GitHub put up an official announcement about their changes, which include tight",
-    "collected_at": "2026-04-23T13:52:40.966933"
-  },
-  {
     "id": "4bad8ec7540f",
     "title": "从GPU到Token：AI基础设施竞争逻辑重构",
     "url": "https://www.qbitai.com/2026/04/404440.html",
@@ -3518,18 +3626,6 @@
     "content_excerpt": "从GPU到Token：AI基础设施竞争逻辑重构\n量子位的朋友们\n2026-04-22\n12:48:03\n来源：\n量子位\n近日，全球权威市场研究机构Omdia发布《2026全球AI工厂市场格局》报告。商汤大装置被重点推荐与引用，成为全球原生AI云厂商中的典型代表。\nOmdia高度评价商汤大装置，\n认为其开创了AI工厂“智能精炼”范式，并在多个维度领跑全球原生AI云市场。\n01商汤大装置AI数字工厂架构：领先行业三年的实践路径"
   },
   {
-    "id": "ce786afa12d9",
-    "title": "A \"Lay\" Introduction to \"On the Complexity of Neural Computation in Superposition\"",
-    "url": "https://www.alignmentforum.org/posts/kYkbcEo6YyjQiztpi/a-lay-introduction-to-on-the-complexity-of-neural",
-    "source": "AI Alignment Forum",
-    "lang": "en",
-    "channel": "en",
-    "priority": 3,
-    "published": "2026-04-22T02:26:14",
-    "summary": "This is a writeup based on a lightning talk I gave at an InkHaven hosted by Georgia Ray, where we were supposed to read a paper in about an hour, and then present what we learned to other participants.Introduction and BackgroundSo. I foolishly thought I could read a theoretical machine learning pape",
-    "collected_at": "2026-04-23T13:52:42.074729"
-  },
-  {
     "id": "544e1fc5931a",
     "title": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
     "url": "https://www.qbitai.com/2026/04/404420.html",
@@ -3543,109 +3639,5 @@
     "content_source": "readability",
     "content_chars": 5275,
     "content_excerpt": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花\n量子位的朋友们\n2026-04-22\n12:12:45\n来源：\n量子位\n4月21日，全球领先的安全智能生活品牌萤石在杭州正式举办2026品牌新品发布会。在这场以“驭智·向前”（Ahead with Intelligence）为主题的盛会上，萤石全景式展现了AI驱动下多点开花的创新成果：从AI硬件新品矩阵的集中亮相，到品牌使命的战略升维，再到安全白皮书与儿童公益项目的发布，全面勾勒出“以安全的智能科技共创美好生活”的新蓝图。在AI技术加速重塑生活方式的当下，萤石始终坚持将安全作为不变的基因与信任基石，以有边界、有责任的方式驾驭智能科技，驱动品牌与产品持续进化、稳健向前。\n从“守护安全”到“共创美好”，萤石品牌体系全面升维\n自2013年第一代智能摄像机“小熊猫”问世至今，萤石已构建起覆盖智能家居摄像机、智能入户、智能机器人、智能控制及智能穿戴的五大自研硬件矩阵，并依托萤石物联云平台与AI核心能力，形成了独具特色的“2+5+N”业务体系。如今，萤石已成长为贯通硬件研发、智能制造、云端服务与AI算法的全链路企业，以高比例的研发投入和超1600项专利积累，服务全球超1.9亿用户。\n萤石的技术路径始终清晰坚定：以守护为核心价值，以安全为初心，以智能视频视觉为技术基础，以萤石云为支撑，驱动智能从“被动防护”向“主动理解”跃迁，通过构建持续进化的“云-边-端”高效协同体系，来承载海量数据、实现复杂场景智能，为无限的应用创新提供了坚实支撑。"
-  },
-  {
-    "id": "c0c17d470ca4",
-    "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
-    "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-22T02:07:34",
-    "summary": "Anthropic today quietly (as in silently, no announcement anywhere at all) updated their claude.com/pricing page (but not their Choosing a Claude plan page, which shows up first for me on Google) to add this tiny but significant detail (arrow is mine, and it's already reverted): The Internet Archive",
-    "collected_at": "2026-04-23T13:52:40.967252"
-  },
-  {
-    "id": "58c2e0e0499e",
-    "title": "单Agent时代结束，AI们开始组团上班",
-    "url": "https://www.qbitai.com/2026/04/404130.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-22T01:36:29",
-    "summary": "Kimi K2.6来了！",
-    "collected_at": "2026-04-22T06:06:35.454538",
-    "content_text": "单Agent时代结束，AI们开始组团上班\n克雷西\n2026-04-22\n09:36:29\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\n现在，大模型的密集更新实在是让人看得眼花缭乱，但整体看来，方向也无非那么几个——更大、更强、更快。\n但是，Kimi这次的更新，走的方向不太一样。\n昨晚，月之暗面发布并开源了旗下最新模型——K2.6。\n这次更新有两个重点，一是代码能力，包括硬核的软件工程能力和前端设计水准的提升，二是多Agent协作的“Agent集群”能力升级。\n先说榜单，Kimi K2.6在Artificial Analysis上取得了全球开源第一的成绩，仅次于闭源的全球“御三家”。\n咱就是说，在御三家新模型轮流上线的这张梗图里，也是能有Kimi的一个位置了。\n聊聊这个Agent集群的升级\nK2.5时，Kimi提出了“Agent集群”这个概念，但那时候更像是一个方向：能调度不同专长的Agent互相补位，广度搜索、深度研究、文档分析、长文撰写一起上，并行处理。\n到了K2.6，这件事变得真正有意思了：最多支持300个子Agent并行完成4000个协作步骤。\n放在实际场景里，你说一次需求，一次运行就能同时拿到文档、网站、PPT、表格。\n那必须给它一个任务实测一下，看它能不能一次运行、多格式并行交付，提示词如下：\n帮我做一份“2026年国内AI编程助手”的报告，需要同时给我三份产出：\n一篇完整的调研报告，包含各产品功能对比、定价策略、优劣势分析，以及你的选型建议；\n一张结构化的对比表格，维度包括：支持IDE、补全能力、对话能力、联网能力、价格、适合人群；\n一份可以直接拿去汇报的PPT，10页左右，有结论和建议页。\n三份东西格式完全不同，看它是真的并行在跑、还是按顺序一个个出来，以及最后交付的质量够不够直接用。\n首先，Agent集群进行了初步的扫描，并对问题的维度进行拆解，然后划分出了12个维度。\n这12个维度，交给了12位不同的专家来负责，每个人都只调研自己的一个子问题。\n每个专家的工作进度条和阶段性成果，都能实时监控。\n到了正式撰稿阶段，同样有不同的人负责各自的Chapter。\n最终，在数十位“专家”的接力之下，K2.6交付的报告长达55页，字数超3.5万，而且图文并茂、结构清晰、引文标注明确。\n其中覆盖了八款主流产品，每款都有定位、核心能力和局限性的完整拆解，引用了来自IDC、Gartner、信通院等机构的数据，SWE-bench评分、中文理解准确率、定价对比一应俱全，最后还附了选型建议矩阵和企业Checklist。\n篇幅和数据密度，已经超出单个对话窗口能合理完成的范畴。\n表格整理得也很干净，七个维度、八款产品，支持IDE、补全能力、对话能力、联网能力、定价、适合人群一列不少，格式规整，可以直接拿来用。\nPPT同样交出来了，10页，有目录、市场数据、竞品卡片、功能对比表、定价可视化、SWOT分析和选型建议，最后一页还附了行动建议。\n结构完整，可以直接拿去汇报。\n从一个AI，到一群AI\n从K2开始，感觉Kimi模型的进化脉络更清晰了：\nK2是万亿参数规模的基座，代表的是“把模型做大、做强”这件事。\nK2 Thinking在此基础上引入了推理层，让模型开始能把一个复杂任务一步步想清楚，自己推导、自己验证。\n到了K2.5/2.6，问题变了，Kimi团队开始把目光从专注于让单个模型变得更聪明，转向了让一群模型真正分工协作，各自发挥专长，一起做成更大的事。\n△\n图片由AI生成\n这是一个本质的跨越。\n道理很好理解，单个模型再强，也有天花板。\n就像一个天才程序员，写代码可以很快，但如果让他一个人同时搞定产品设计、写代码、跑数据、出文档、做演示，那他大概率无法招架。\n但一个组织可以。\n从互联网的建立，到大模型的训练，乃至人类登月……靠的从来都不是某一个天才，而是一群各有专长的人，在一套分工体系下协同推进。\nAI走到今天，也到了需要学这件事的时候了。\n为了实现这个目标，最需要的就是一个好的协作框架。\n所以，K2.6不只是在提升模型本身的参数，也在同步打磨它作为“协调者”的能力——\n在任务里动态分配、在出错时自动修复、在整个交付链条上主动管理。\n这是K2.6和K2.5最根本的差别之一。\n不过，Kimi没打算停在“Agent集群”这一步。“Agent集群”解决的是AI之间怎么分工的问题，但还有一个问题没答——人和AI放在同一个群组里，能一起完成什么？\n看到Kimi已经开始测试“Claw群组”了，支持把各种虾加入到一个群里，用K2.6做协调员，组织不同能力的虾一起干活……\n不过我们目前还没收到测试邀请，要测试之后再给大家分享实际体验了（Kimi你如果看到这篇文章的话要不给我们安排一个.doge）。\nOne More Thing\n这不是下个月量子位AIGC大会就要召开了吗，听说这次K2.6能写更精美的网页，也能支持简单后端了，我顺手就让Kimi帮忙写了个报名系统。\n不过我测试的时候活动官宣还没来，所以暂时没输入具体的活动信息，先让它把功能跑通。\n提示词是酱婶儿的：\n帮我做一个「量子位读者交流会」的活动报名网站。要求：\n首页有活动介绍、时间地点、嘉宾阵容；\n有报名表单，收集：姓名、邮箱、公司、职位、「你最想聊的AI话题」；\n支持提交报名，提交成功后显示报名成功页；\n有一个设有密码的管理后台页面，可以查看所有报名信息并导出。\n这个任务专门卡K2.6新增的后端和数据库能力，看它交出的到底是一个真的能跑的全栈应用，还是只是一个花瓶。\nK2.6没有直接开始写代码。它先读了项目构建的技能文件，把任务拆成前端初始化、设计文档、后端架构、数据库schema等任务线，然后才开始动手。\n值得一提的是设计决策。\n我们提示词里没有说要什么风格，它自己判断“这是一个AI主题活动”，选了纯黑纯白为主色调、亮柠檬黄作为点睛色的“清晰未来主义”风格，还顺手调用图像生成工具做了五张黑白艺术风格的配套视觉素材。\n首屏则是用Three.js做了3D交互式图片卡片集群，鼠标移动时卡片会翻转漂浮，还加了一套双层自定义光标系统。\n技术栈它也自己选定了：前端React + TypeScript + Tailwind + shadcn/ui，后端tRPC + Drizzle ORM + Hono + MySQL。\n管理后台也做了密码验证，登录后可查看报名信息并导出CSV。\n最终交付的成品长这样：\n我们再来验证下报名功能，看看到底是真收集到了信息，还是只有静态动画。\n结果，我们填写的报名表单成功出现在了后台记录当中，说明Kimi K2.6真的把这套报名系统的前后端和数据库开发跑通了。\n最后插播一条最新消息，大会的报名帖不久前刚刚发布了，大家记得多多关注，到时候来参会哦~\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 2954,
-    "content_excerpt": "单Agent时代结束，AI们开始组团上班\n克雷西\n2026-04-22\n09:36:29\n来源：\n量子位\n克雷西 发自 凹非寺\n量子位 | 公众号 QbitAI\n现在，大模型的密集更新实在是让人看得眼花缭乱，但整体看来，方向也无非那么几个——更大、更强、更快。\n但是，Kimi这次的更新，走的方向不太一样。"
-  },
-  {
-    "id": "8ac4a3644148",
-    "title": "LG人工智能研究院与英伟达同意加强AI合作",
-    "url": "https://36kr.com/newsflashes/3777321625225219?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-22T01:30:15",
-    "summary": "LG当地时间4月21日宣布，LG人工智能研究院和英伟达已同意加强技术联盟，以扩展Exaone人工智能生态系统。双方将结合LG的Exaone模型和英伟达的Nemotron生态系统，共同开发人工智能模型。（界面）",
-    "collected_at": "2026-04-22T01:53:29.585402"
-  },
-  {
-    "id": "9db29ec27078",
-    "title": "Tell HN: I'm sick of AI everything",
-    "url": "https://news.ycombinator.com/item?id=47857461",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-22T01:19:30",
-    "summary": "A while back, I stopped using Facebook because I just couldn't take it anymore. Just totally sick of it. I'm honestly getting there with AI. At this point, I would prefer to have anything AI related just be blocked at the browser level. Comments URL: https://news.ycombinator.com/item?id=47857461 Poi",
-    "collected_at": "2026-04-23T13:24:01.532405"
-  },
-  {
-    "id": "1db582d956ca",
-    "title": "[AINews] OpenAI launches GPT-Image-2",
-    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-image",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-22T00:23:52",
-    "summary": "with Cursor getting a $10B contract with xAI and a right to acquire for $60B.",
-    "collected_at": "2026-04-23T13:52:41.445452"
-  },
-  {
-    "id": "2a59ac7b7076",
-    "title": "派早报：OPPO Find X9 Ultra 发布等",
-    "url": "https://sspai.com/post/108962",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-22T00:21:51",
-    "summary": "OpenAI 发布 ChatGPT Images 2.0，宁德时代发布神行超充与多款动力电池等。查看全文",
-    "collected_at": "2026-04-23T13:52:50.082097"
-  },
-  {
-    "id": "756db9243c71",
-    "title": "Introducing OpenAI Privacy Filter",
-    "url": "https://openai.com/index/introducing-openai-privacy-filter",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-22T00:00:00",
-    "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-    "collected_at": "2026-04-23T13:52:36.599773"
-  },
-  {
-    "id": "b23181db2bbe",
-    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-    "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-21T23:45:21",
-    "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-    "collected_at": "2026-04-22T01:53:11.906184",
-    "content_text": "Meta has found a new source of training data for its AI models: its own employees. The company plans to use data culled from the mouse movements and keystrokes of its own staff in its pursuit to build more capable and efficient artificial intelligence.\nThe story, which was first\nreported by Reuters\n, shows the lengths to which tech companies are going to find new sources of training data — the lifeblood of AI models that helps the programs learn how to more effectively carry out tasks and respond to user queries.\nWhen reached for comment by TechCrunch, a Meta spokesperson provided the following statement: “If we’re building agents to help people complete everyday tasks using computers, our models need real examples of how people\nactually\nuse them — things like mouse movements, clicking buttons, and navigating dropdown menus. To help, we’re launching an internal tool that will capture these kinds of inputs on certain applications to help us train our models. There are safeguards in place to protect sensitive content, and the data is not used for any other purpose.”\nThis trend reveals a troublesome privacy dimension of the AI industry. Last week\nit was reported\nthat old startups are being scavenged for their corporate communications (like Slack archives and Jira tickets), and converted into AI training data.",
-    "content_source": "readability",
-    "content_chars": 1327,
-    "content_excerpt": "Meta has found a new source of training data for its AI models: its own employees. The company plans to use data culled from the mouse movements and keystrokes of its own staff in its pursuit to build more capable and efficient artificial intelligence.\nThe story, which was first\nreported by Reuters\n, shows the lengths to which tech companies are going to find new sources of training data — the lifeblood of AI models that helps the programs learn how to more effectively carry out tasks and respond to user queries.\nWhen reached for comment by TechCrunch, a Meta spokesperson provided the following statement: “If we’re building agents to help people complete everyday tasks using computers, our models need real examples of how people\nactually\nuse them — things like mouse movements, clicking buttons, and navigating dropdown menus. To help, we’re launching an internal tool that will capture these kinds of inputs on certain applications to help us train our models. There are safeguards in place to protect sensitive content, and the data is not used for any other purpose.”\nThis trend reveals a troublesome privacy dimension of the AI industry. Last week\nit was reported\nthat old startups are being scavenged for their corporate communications (like Slack archives and Jira tickets), and converted into AI training data.",
-    "title_zh": "Meta 将记录员工的击键并用它来训练其人工智能模型",
-    "summary_zh": "Meta 表示，它有一个新的内部工具，可以将鼠标移动和按钮点击转换为可以训练其人工智能模型的数据",
-    "ai_summary": "Meta 表示，它有一个新的内部工具，可以将鼠标移动和按钮点击转换为可以训练其人工智能模型的数据"
   }
 ]
