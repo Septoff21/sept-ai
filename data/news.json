@@ -1,5 +1,29 @@
 [
   {
+    "id": "b2e84456bff3",
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-25T17:17:56",
+    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+    "collected_at": "2026-04-25T19:04:06.907859"
+  },
+  {
+    "id": "8af055a7481c",
+    "title": "WHY ARE YOU LIKE THIS",
+    "url": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-25T16:44:01",
+    "summary": "@scottjla on Twitter in reply to my pelican riding a bicycle benchmark: I feel like we need to stack these tests now I checked to confirm that the model (ChatGPT Images 2.0) added the \"WHY ARE YOU LIKE THIS\" sign of its own accord and it did - the prompt Scott used was: Create an image of a horse ri",
+    "collected_at": "2026-04-25T19:04:21.039872"
+  },
+  {
     "id": "c27029211fcd",
     "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
     "url": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
@@ -10,6 +34,42 @@
     "published": "2026-04-25T16:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-04-25T13:12:59.953928"
+  },
+  {
+    "id": "2f0121649aa2",
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-25T16:00:00",
+    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "collected_at": "2026-04-25T19:04:06.907923"
+  },
+  {
+    "id": "47f8d33a9d72",
+    "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+    "url": "https://www.qbitai.com/2026/04/407363.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-25T15:38:18",
+    "summary": "“为自动驾驶而来”",
+    "collected_at": "2026-04-25T18:57:20.724739"
+  },
+  {
+    "id": "44b8124a3e83",
+    "title": "Why Tokyo is the most important tech destination of 2026",
+    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-25T15:03:00",
+    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+    "collected_at": "2026-04-25T19:04:06.907961"
   },
   {
     "id": "f0cdc78546d0",
@@ -288,16 +348,16 @@
     "collected_at": "2026-04-25T07:28:53.308975"
   },
   {
-    "id": "61bb8b1b8ed3",
-    "title": "黑芝麻智能发布FAD天衍L3级自动驾驶平台",
-    "url": "https://36kr.com/newsflashes/3781525799672841?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-25T01:10:51",
-    "summary": "36氪获悉，4月24日，黑芝麻智能于2026北京车展现场正式发布基于FAD 2.0开放平台打造的“FAD天衍”L3级自动驾驶平台。这标志着FAD 2.0开放平台实现具体方案落地。",
-    "collected_at": "2026-04-25T02:44:43.863051"
+    "id": "8b28921d0ec5",
+    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+    "url": "https://alash3al.github.io/stash?_v01",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-25T01:24:40",
+    "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 150 # Comments: 62",
+    "collected_at": "2026-04-25T19:04:16.332403"
   },
   {
     "id": "029bab8ee1ca",
@@ -312,16 +372,16 @@
     "collected_at": "2026-04-25T07:28:53.309065"
   },
   {
-    "id": "edcdd1341935",
-    "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
-    "url": "https://36kr.com/p/3781548853533959?f=rss",
+    "id": "61bb8b1b8ed3",
+    "title": "黑芝麻智能发布FAD天衍L3级自动驾驶平台",
+    "url": "https://36kr.com/newsflashes/3781525799672841?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-04-25T01:10:38",
-    "summary": "作者丨欧雪 编辑丨袁斯来 硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。 这已是智用开物过去一年内的第三轮融资。2025年，公司先后完成由瑞枫资本、豫资涨泉及上市公司制造业数字化龙头企业赛意信息的投资。 智用开物2024年1月成立于广州，专注于通过“工业语义引擎+工业级多智能体系统”，将复杂的工业知识转化为AI可解析、可执行的逻辑，降低AI在工业场景的落地门槛。 硬氪获悉，智用开物的核",
-    "collected_at": "2026-04-25T02:44:43.861504"
+    "published": "2026-04-25T01:10:51",
+    "summary": "36氪获悉，4月24日，黑芝麻智能于2026北京车展现场正式发布基于FAD 2.0开放平台打造的“FAD天衍”L3级自动驾驶平台。这标志着FAD 2.0开放平台实现具体方案落地。",
+    "collected_at": "2026-04-25T02:44:43.863051"
   },
   {
     "id": "35b59d939aac",
@@ -336,16 +396,16 @@
     "collected_at": "2026-04-25T07:28:53.309122"
   },
   {
-    "id": "22fa7c57dc1c",
-    "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
-    "url": "https://36kr.com/p/3781532841581576?f=rss",
+    "id": "edcdd1341935",
+    "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+    "url": "https://36kr.com/p/3781548853533959?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-04-25T01:01:05",
-    "summary": "整理｜孟孟 今日热点导览 铁路部门将实行老年旅客购票优惠 哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元 网友称用豆包提前查到事业编成绩，官方回应 耐克将裁减1400个公司职位，主要集中在技术部门 中国再发现两种月球新矿物，嫦娥五号样品研究获新突破 TOP3大新闻 Kimi被曝泄露用户真实简历，用户翻译时收到陌生人完整个人信息 4月20日，用户张呈在使用Kimi翻译英文PPT时，系统竟返回一份陌生人的完整简历，包含姓名、电话、邮箱、工作经历等真实信息。张呈通过简历上的电话联系到当事人钟先生，所有信息均能对应。张呈称，自称Kimi工作人员的解释是“AI出现幻觉所致”。但浙江大学“百",
-    "collected_at": "2026-04-25T02:44:43.861708"
+    "published": "2026-04-25T01:10:38",
+    "summary": "作者丨欧雪 编辑丨袁斯来 硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。 这已是智用开物过去一年内的第三轮融资。2025年，公司先后完成由瑞枫资本、豫资涨泉及上市公司制造业数字化龙头企业赛意信息的投资。 智用开物2024年1月成立于广州，专注于通过“工业语义引擎+工业级多智能体系统”，将复杂的工业知识转化为AI可解析、可执行的逻辑，降低AI在工业场景的落地门槛。 硬氪获悉，智用开物的核",
+    "collected_at": "2026-04-25T02:44:43.861504"
   },
   {
     "id": "1d2529165f8c",
@@ -360,16 +420,16 @@
     "collected_at": "2026-04-25T07:28:53.309209"
   },
   {
-    "id": "369d4383aaaa",
-    "title": "llm 0.31",
-    "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T23:35:07",
-    "summary": "Release: llm 0.31 New GPT-5.5 OpenAI model: llm -m gpt-5.5. #1418 New option to set the text verbosity level for GPT-5+ OpenAI models: -o verbosity low. Values are low, medium, high. New option for setting the image detail level used for image attachments to OpenAI models: -o image_detail low - valu",
-    "collected_at": "2026-04-25T02:44:40.628586"
+    "id": "22fa7c57dc1c",
+    "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+    "url": "https://36kr.com/p/3781532841581576?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T01:01:05",
+    "summary": "整理｜孟孟 今日热点导览 铁路部门将实行老年旅客购票优惠 哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元 网友称用豆包提前查到事业编成绩，官方回应 耐克将裁减1400个公司职位，主要集中在技术部门 中国再发现两种月球新矿物，嫦娥五号样品研究获新突破 TOP3大新闻 Kimi被曝泄露用户真实简历，用户翻译时收到陌生人完整个人信息 4月20日，用户张呈在使用Kimi翻译英文PPT时，系统竟返回一份陌生人的完整简历，包含姓名、电话、邮箱、工作经历等真实信息。张呈通过简历上的电话联系到当事人钟先生，所有信息均能对应。张呈称，自称Kimi工作人员的解释是“AI出现幻觉所致”。但浙江大学“百",
+    "collected_at": "2026-04-25T02:44:43.861708"
   },
   {
     "id": "1b5edf4e4a58",
@@ -384,16 +444,16 @@
     "collected_at": "2026-04-25T07:28:53.309258"
   },
   {
-    "id": "ef3dd662c469",
-    "title": "The people do not yearn for automation",
-    "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+    "id": "369d4383aaaa",
+    "title": "llm 0.31",
+    "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
     "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-04-24T22:38:49",
-    "summary": "The people do not yearn for automation This written and video essay by Nilay Patel explores why AI is unpopular with the general public even as usage numbers for ChatGPT continue to skyrocket. It’s a superb piece of commentary, and something I expect I’ll be thinking about for a long time to come. N",
-    "collected_at": "2026-04-25T02:44:40.628738"
+    "published": "2026-04-24T23:35:07",
+    "summary": "Release: llm 0.31 New GPT-5.5 OpenAI model: llm -m gpt-5.5. #1418 New option to set the text verbosity level for GPT-5+ OpenAI models: -o verbosity low. Values are low, medium, high. New option for setting the image detail level used for image attachments to OpenAI models: -o image_detail low - valu",
+    "collected_at": "2026-04-25T02:44:40.628586"
   },
   {
     "id": "4414582c5a8e",
@@ -408,16 +468,16 @@
     "collected_at": "2026-04-25T07:28:53.309329"
   },
   {
-    "id": "f01b2e7af403",
-    "title": "Three reasons why DeepSeek’s new model matters",
-    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-    "source": "MIT Tech Review",
+    "id": "ef3dd662c469",
+    "title": "The people do not yearn for automation",
+    "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-04-24T21:40:58",
-    "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o",
-    "collected_at": "2026-04-25T02:44:34.986163"
+    "published": "2026-04-24T22:38:49",
+    "summary": "The people do not yearn for automation This written and video essay by Nilay Patel explores why AI is unpopular with the general public even as usage numbers for ChatGPT continue to skyrocket. It’s a superb piece of commentary, and something I expect I’ll be thinking about for a long time to come. N",
+    "collected_at": "2026-04-25T02:44:40.628738"
   },
   {
     "id": "4cbc7ea3170d",
@@ -432,16 +492,16 @@
     "collected_at": "2026-04-25T07:28:53.309421"
   },
   {
-    "id": "9eee8ea8304c",
-    "title": "Meta’s loss is Thinking Machines’ gain",
-    "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    "source": "TechCrunch AI",
+    "id": "f01b2e7af403",
+    "title": "Three reasons why DeepSeek’s new model matters",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-04-24T20:52:07",
-    "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-    "collected_at": "2026-04-25T02:44:34.688529"
+    "priority": 2,
+    "published": "2026-04-24T21:40:58",
+    "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o",
+    "collected_at": "2026-04-25T02:44:34.986163"
   },
   {
     "id": "3f8052c4988f",
@@ -456,16 +516,16 @@
     "collected_at": "2026-04-25T07:28:53.309490"
   },
   {
-    "id": "cfe7bb1f35cf",
-    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "id": "9eee8ea8304c",
+    "title": "Meta’s loss is Thinking Machines’ gain",
+    "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-24T19:49:35",
-    "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-    "collected_at": "2026-04-25T02:44:34.688565"
+    "published": "2026-04-24T20:52:07",
+    "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+    "collected_at": "2026-04-25T02:44:34.688529"
   },
   {
     "id": "cb13a2b59466",
@@ -480,16 +540,16 @@
     "collected_at": "2026-04-25T07:28:53.309555"
   },
   {
-    "id": "40d1aae5b282",
-    "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
-    "url": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-24T19:18:13",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-24T18:59:34.729603"
+    "id": "cfe7bb1f35cf",
+    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-24T19:49:35",
+    "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+    "collected_at": "2026-04-25T02:44:34.688565"
   },
   {
     "id": "427fec49c73f",
@@ -504,16 +564,16 @@
     "collected_at": "2026-04-25T07:28:53.309623"
   },
   {
-    "id": "632dd6a22f8e",
-    "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
-    "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
-    "source": "Ars Technica AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T19:00:39",
-    "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
-    "collected_at": "2026-04-25T02:44:35.160907"
+    "id": "40d1aae5b282",
+    "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
+    "url": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-24T19:18:13",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-24T18:59:34.729603"
   },
   {
     "id": "68a52ad7550e",
@@ -528,16 +588,16 @@
     "collected_at": "2026-04-25T07:28:53.309685"
   },
   {
-    "id": "33e84a72ce61",
-    "title": "Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践",
-    "url": "https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-24T18:51:20",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-24T18:59:34.729646"
+    "id": "632dd6a22f8e",
+    "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+    "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-24T19:00:39",
+    "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
+    "collected_at": "2026-04-25T02:44:35.160907"
   },
   {
     "id": "33e20e0bbef8",
@@ -552,16 +612,16 @@
     "collected_at": "2026-04-25T07:28:53.309765"
   },
   {
-    "id": "64c3773dc988",
-    "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
-    "url": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
+    "id": "33e84a72ce61",
+    "title": "Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践",
+    "url": "https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-04-24T18:46:43",
+    "published": "2026-04-24T18:51:20",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-24T18:59:34.729720"
+    "collected_at": "2026-04-24T18:59:34.729646"
   },
   {
     "id": "5e91c6a455dd",
@@ -576,16 +636,16 @@
     "collected_at": "2026-04-25T07:28:53.309872"
   },
   {
-    "id": "92d1b47d9b81",
-    "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
-    "url": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article",
+    "id": "64c3773dc988",
+    "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
+    "url": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-04-24T18:39:14",
+    "published": "2026-04-24T18:46:43",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-24T18:59:34.729748"
+    "collected_at": "2026-04-24T18:59:34.729720"
   },
   {
     "id": "173abbd7c9f0",
@@ -600,16 +660,16 @@
     "collected_at": "2026-04-25T07:28:53.309941"
   },
   {
-    "id": "6aa5dbd36c01",
-    "title": "Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人",
-    "url": "https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP?utm_source=rss&utm_medium=article",
+    "id": "92d1b47d9b81",
+    "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
+    "url": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-04-24T18:34:59",
+    "published": "2026-04-24T18:39:14",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-24T18:59:34.729777"
+    "collected_at": "2026-04-24T18:59:34.729748"
   },
   {
     "id": "e99027b0164d",
@@ -622,6 +682,18 @@
     "published": "2026-04-25T04:00:00",
     "summary": "arXiv:2604.21256v1 Announce Type: new Abstract: Policies for Partially Observable Markov Decision Processes (POMDPs) are often designed using a nominal system model. In practice, this model can deviate from the true system during deployment due to factors such as calibration drift or sensor degradat",
     "collected_at": "2026-04-25T07:28:53.310058"
+  },
+  {
+    "id": "6aa5dbd36c01",
+    "title": "Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人",
+    "url": "https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-24T18:34:59",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-24T18:59:34.729777"
   },
   {
     "id": "469b0fb9e00f",
@@ -3520,23 +3592,6 @@
     "summary_zh": "浙大与上智院团队提出 IBISAgent，把医学分割从单次前向推理改成“边看边想边点”的多轮决策过程。它不再依赖会破坏语言能力的隐式分割 token，而是通过文本推理、点击动作和强化学习，让模型在复杂医学图像里持续纠错并提升分割质量。"
   },
   {
-    "id": "8778f21f35d4",
-    "title": "具微科技两个月狂揽4轮数亿元融资，产业资本“天团”强势入局 | 36氪首发",
-    "url": "https://36kr.com/p/3777491215913736?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-22T05:48:39",
-    "summary": "36氪获悉，全域移动智能机器人公司杭州具微科技有限公司（下简称「具微科技」）近期完成A+++轮融资。本轮融资由滨州国投、魏桥集团、滨州化工联合领投，和达控股、德诺资本跟投，其中滨州国投连续追投。资金将重点用于核心技术的持续深度研发，以及全国范围内特种应用场景的规模化落地与商业化推进。 具微科技2025年初成立于杭州，专注于轮式四足机器人研发与应用，打造具备全地形自主作业能力的“全域移动智能体”，为强磁场、爆破、极寒等特种场景提供智能化解决方案，产品具备负载量大、续航时长等优势。 2026年开年，具微科技曾在30天连续完成3轮A轮融资，连续获得产业龙头上市公司、国有产业平台与市场化机构投资。其中",
-    "collected_at": "2026-04-22T06:06:45.662507",
-    "content_text": "36氪获悉，全域移动智能机器人公司杭州具微科技有限公司（下简称「具微科技」）近期完成A+++轮融资。本轮融资由\n滨州国投、魏桥集团、滨州股份联合领投，和达控股、德诺资本\n跟投，其中滨州国投连续追投。资金将重点用于核心技术的持续深度研发，以及全国范围内特种应用场景的规模化落地与商业化推进。\n具微科技2025年初成立于杭州，专注于轮式四足机器人研发与应用，打造具备全地形自主作业能力的“全域移动智能体”，为强磁场、爆破、极寒等特种场景提供智能化解决方案，产品具备负载量大、续航时长等优势。\n2026年开年，具微科技曾在30天连续完成3轮A轮融资，连续获得产业龙头上市公司、国有产业平台与市场化机构投资。\n其中A轮融资由正强股份、壹连科技、鲁信创投等上市公司及专业投资机构战略入局；A+、A++轮融资，建元天华、滨州国投等优质产业资本、国有资本相继战略注资。加上本次A+++轮融资，总融资金额达数亿元。\n具微科技创始人、CEO王子煊表示，具微科技希望通过融合各方产业资源，\n打造“技术自研+供应链绑定+场景闭环落地”的可持续发展模式，\n加速具身智能技术规模化、商业化落地，持续巩固在行业内的领先壁垒。\n魏桥集团作为能源和铝业行业的全球五百强企业，旗下电解铝等核心产业对防磁、抗干扰、高可靠性的特种作业机器人需求突出，与具微科技的机器人业务形成天然产业协同；滨州股份作为化工行业领军企业，其生产场景普遍存在易燃易爆、腐蚀性强等特点，可直接为具微科技防爆机器人提供丰富的落地应用。而与正强股份联合研发机器人关节模组核心硬件，与壹连科技深耕电连接组件一体化配套，有助于具微科技打通具身智能硬件底层供应链。\n王子煊拥有连续成功创业与产业经验，曾主导零跑汽车、欣旺达等项目投资，创立钠离子电池头部企业并完成产线搭建及重大订单落地。公司首席科学家李秦川为四足机器人领域资深专家、享受国务院政府特殊津贴，研发团队核心成员多来自斯坦福大学、浙江大学、浙江理工大学等国内外高校。\n1.瞄准“人不愿去”的极端环境岗位，打造轮式+四足的全域移动智能体\n在人形机器人大热的2025年，王子煊却更清楚地看到了行业在产业落地中的真实瓶颈。“我们观察，目前具身领域在产业落地上碰到的问题，核心在于痛点不够痛，刚需不够强。\n移动机器人的真正刚需不是替代坐在办公室里的人，而是那些危险而艰苦，原本就不应当由人去工作的岗位。\n”\n基于这一思考，具微科技没有选择在结构化场景中打磨算法，或是从表演、教育等场景实现商业化，而是锁定特种工作场景：让机器人去往强磁场、核辐射、高海拔、缺氧、极寒、极高温等恶劣环境，从事那些人类不想做、不敢做、做不了的工作。王子煊说，“目前在中国，这样的高危特种工作岗位有2000万个之多。”\n围绕这些特定场景，具微科技聚焦于实现机器人的“四防”能力：防磁、防爆、防冻、防水。而要实现这些能力，前提是机器人具备足够大的负载能力，能够在叠加防爆外壳、防磁屏蔽、保温层等防护改造后，仍然保证运动能力和稳定性。\n为此，具微科技打破传统四足机器人窄体长腿的设计范式，采用少有的“宽体+短腿”构型，并将传统的轮式与四足相结合。\n具微科技机器人\n“我们认为，结合了轮子的效率与腿的全地形能力的形态，是未来实现全域移动的的终局解法。”王子煊认为，传统四足机器人虽然具备越障能力，但是连续抬足的运动方式能耗高、无故障平均续航时间受限，并且机械损耗严重，硬件容易损坏，难以胜任工业场景下大范围、长时间作业需求。\n除了产品形态创新，具微科技已实现劲擎关节电机等零部件的自研自产，并通过高强度结构设计突破机器人的负载极限，使动态负载达200公斤，静态站立负载达400公斤，超过行业平均水平五倍以上，从而能够稳定承载各类重型探测、应急救援等专业装备。\n为保证机器人在极端环境下能够长时间保持工作状态，具微科技通过跨行业的组合式创新，将汽车行业能量回收系统、液冷方案等技术融入机器人设计，提升机器人的能耗效率，使机器人的实测无负载续航提高至12小时，带负载续航提高至8小时，突破行业瓶颈，表现是行业平均水平数倍。\n在算法层面，具微科技打造了从底层FOC控制，到上层运动控制与感知决策的“感规控驱”一体化系统，以模块化拓展平台兼容多元作业设备，从而兼顾重载性能与场景适配性。\n“只有底层系统打通，才能将硬件的性能从70分发挥到95分以上，做到机器人的‘书同文、车同轨’。”\n据王子煊介绍，在2025年世界机器人大会上，具微科技展示的机器人产品实现了完全脱离遥控器的自主跟随与越障能力，能够在三维立体空间中完成无图、无遥控的自主导航。\n2.向上构筑更高技术壁垒，向下深耕2000万个特种工作场景\n在王子煊看来，具身智能行业的发展可以分为三个阶段：“第一阶段是要素创新，也就是强化学习等底层技术的突破，基本上已经过去了。现在具微科技是带着第一阶段的成果，切入到供应链整合、工程化落地与场景解决的第二阶段，同时向商业模式创新的第三阶段进行，最终形成增长飞轮。”\n基于聚焦特种工业场景的市场定位，目前具微科技重点拓展电解铝生产、石油石化、消防应急与公安安防等领域的大型国央企客户，“这类客户对安全生产、ESG和社会责任有更高要求，付费能力和创新意愿也更强。”王子煊说。\n这些场景的客户，不会单纯计算人工替代的经济账，而是首先关注“安全账”和“社会价值账”。因此产品技术能力与稳定性也是具微科技要服务好上述客户，需要长期专注打造的核心竞争力所在。\n王子煊表示，为持续构筑更高的准入壁垒，具微科技已取得具身智能机器人首张Ex db eb IIB T4 Gb“隔爆加增安”复合防爆资质，年内还计划完成国际电工协会IECEx、欧盟ATEX、北美及国内CNEX的全系列防爆认证。\n除了机器人硬件产品外，具微科技面向复杂工业场景客户，提供本地部署、上装适配、算法平台一体化的全栈式特种作业解决方案，实现从设备交付到场景落地的一站式闭环服务。\n2025年，具微科技实现订单额亿元级，目前已有订单规模数亿元，预计2026年机器人产品出货量上千台，实现营收数亿元。\n谈及未来规划，王子煊表示，具微科技的核心策略是不追求过早地横向拓展，而是先做好垂直领域的深入，\n“我总结为面宽10米，向上向下各延伸100米”\n。\n所谓“向上”是指核心技术的持续研发，\n一方面进一步提高产品性能，目标在2027年底将无故障连续工作的平均时间提升至1万小时以上，真正达到工业级标准；另一方面加强对操作系统的研发，打造一个向第三方硬件开发者开放的机器人“应用商城”，满足各类细分场景的差异化需求。在单个机器人独立工作的基础上，具微科技也在研发群体智能技术，预计今年下半年实现“AI智能体+多机器人”的协同作业能力。\n“向下”则是继续深耕2000万个特种岗位场景与准入资质，\n待产品可靠性与算法成熟度进一步提升后，再向更日常的生活服务场景迁移。“从技术突破，工程化与场景深耕，到生态与商业模式创新，具微科技要做的就是从底层到顶层，把这三个阶段跑通，为行业提供一个全新的范式。”王子煊表示。",
-    "content_source": "readability",
-    "content_chars": 2897,
-    "content_excerpt": "36氪获悉，全域移动智能机器人公司杭州具微科技有限公司（下简称「具微科技」）近期完成A+++轮融资。本轮融资由\n滨州国投、魏桥集团、滨州股份联合领投，和达控股、德诺资本\n跟投，其中滨州国投连续追投。资金将重点用于核心技术的持续深度研发，以及全国范围内特种应用场景的规模化落地与商业化推进。\n具微科技2025年初成立于杭州，专注于轮式四足机器人研发与应用，打造具备全地形自主作业能力的“全域移动智能体”，为强磁场、爆破、极寒等特种场景提供智能化解决方案，产品具备负载量大、续航时长等优势。\n2026年开年，具微科技曾在30天连续完成3轮A轮融资，连续获得产业龙头上市公司、国有产业平台与市场化机构投资。\n其中A轮融资由正强股份、壹连科技、鲁信创投等上市公司及专业投资机构战略入局；A+、A++轮融资，建元天华、滨州国投等优质产业资本、国有资本相继战略注资。加上本次A+++轮融资，总融资金额达数亿元。\n具微科技创始人、CEO王子煊表示，具微科技希望通过融合各方产业资源，\n打造“技术自研+供应链绑定+场景闭环落地”的可持续发展模式，\n加速具身智能技术规模化、商业化落地，持续巩固在行业内的领先壁垒。\n魏桥集团作为能源和铝业行业的全球五百强企业，旗下电解铝等核心产业对防磁、抗干扰、高可靠性的特种作业机器人需求突出，与具微科技的机器人业务形成天然产业协同；滨州股份作为化工行业领军企业，其生产场景普遍存在易燃易爆、腐蚀性强等特点，可直接为具微科技防爆机器人提供丰富的落地应用。而与正强股份联合研发机器人关节模组核心硬件，与壹连科技深耕电连接组件一体化配套，有助于具微科技打通具身智能硬件底层供应链。",
-    "ai_summary": "具微科技两个月拿下四轮融资，资本看中的不是概念，而是特种机器人在高危场景的落地刚需。",
-    "summary_zh": "具微科技连续完成多轮融资，核心故事不是“又一家机器人公司拿钱”，而是它把目标场景锁定在强磁、爆破、极寒等人不愿意也不适合进入的环境。相比人形机器人偏展示型叙事，这条路线更强调特种作业机器人的实际需求、供应链协同和商业化闭环。"
-  },
-  {
     "id": "d455ccefdf37",
     "title": "这些人读个博一年能挣几十万？2026苹果学者名单公布了",
     "url": "https://www.qbitai.com/2026/04/404481.html",
@@ -3554,18 +3609,6 @@
     "summary_zh": "苹果公布 2026 年 Apple Scholars in AIML 名单，共 20 个席位，其中华人学者占了 8 席。文章逐个盘点入选者背景，也侧面说明顶级科技公司对 AI 博士人才的长期押注仍在加强，学术、产业和人才通道正在进一步绑定。"
   },
   {
-    "id": "38ee9b76aa81",
-    "title": "Quoting Bobby Holley",
-    "url": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-22T05:40:56",
-    "summary": "As part of our continued collaboration with Anthropic, we had the opportunity to apply an early version of Claude Mythos Preview to Firefox. This week’s release of Firefox 150 includes fixes for 271 vulnerabilities identified during this initial evaluation. [...] Our experience is a hopeful one for",
-    "collected_at": "2026-04-23T13:52:40.966796"
-  },
-  {
     "id": "a2ce36d10ffd",
     "title": "大厂AI抢人大战，从实习生开始",
     "url": "https://www.qbitai.com/2026/04/404470.html",
@@ -3581,63 +3624,5 @@
     "content_excerpt": "大厂AI抢人大战，从实习生开始\n衡宇\n2026-04-22\n14:59:15\n来源：\n量子位\n衡宇 发自 凹非寺\n量子位 | 公众号 QbitAI\n全球AI人才争夺战已进入白热化阶段，头部科技企业纷纷祭出高薪+顶级算力的组合拳，争抢最顶尖的AI技术人才。\n量子位了解到，",
     "ai_summary": "AI 抢人已经卷到实习生，但真正稀缺的不是高薪 offer，而是能参与核心模型研发的岗位。",
     "summary_zh": "文章以京东开源图像编辑模型 JoyAI-Image-Edit 为切口，讨论头部大厂 AI 实习岗位的真实分化：表面上年薪百万的实习机会越来越多，但多数岗位仍偏边缘化。真正稀缺的，是能从 0 到 1 参与模型核心模块研发、而不是只做数据清洗和杂活的研究型实习机会。"
-  },
-  {
-    "id": "d15c093edd0f",
-    "title": "萤石发布搭“星辰世界模型”的蒸汽洗地机",
-    "url": "https://36kr.com/newsflashes/3777526407713797?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-22T04:58:34",
-    "summary": "36氪获悉，萤石发布多款AI硬件，在家庭智能中枢层面，萤石推出了搭载蓝海大模型2.0的EZVIZ AI CoreX，旨在成为家庭的本地“智慧大脑”。在细分产品线上，AI随身拍Pika定位为儿童首台AI设备，具备双摄与智能问答功能；此外，萤石还发布了AI双擎蒸汽洗地机器人，旗舰款星辰10 Master搭载了可理解家庭环境的“萤石星辰世界模型”，实现感知决策一体化的自主清洁。",
-    "collected_at": "2026-04-22T06:06:45.663405"
-  },
-  {
-    "id": "cd254dd6e790",
-    "title": "全球首个世界统一模型发布，机器人家庭成员来了！",
-    "url": "https://www.qbitai.com/2026/04/404446.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-22T05:49:56",
-    "summary": "首个世界统一模型，来了",
-    "collected_at": "2026-04-22T08:45:22.556763",
-    "content_text": "全球首个世界统一模型发布，机器人家庭成员来了！\n梦瑶\n2026-04-22\n13:49:56\n来源：\n量子位\n梦瑶 发自 凹非寺\n量子位 | 公众号 QbitAI\n问：老了以后谁给你养老？答：机器人啊！！！\n原本，这只是网友们拿来应对家长催婚的摆烂式回答，谁成想，这下真·魔幻照进现实了……\n因为嘛——能在\n真实家庭场景\n24小时在岗，\n持续理解世界\n并不断\n自我进化\n的机器人大脑，这回真的来了。（惊呆.jpg）\n就在刚刚，自变量机器人发布了全球首个世界统一模型架构的具身智能基础模型：\nWALL-B\n。\n△\nAI生成\n基于世界统一模型，WALL-B解决了传统VLA架构在模块间数据搬运上的bug点——\n在极低数据消耗下，把视觉、听觉、语言、触觉模块全面打通，让机器人不仅具备原生多模态能力，也开始真正理解物理世界的规律。\n不仅如此，WALL-B还让机器人拥有了更强的自主预测、零样本泛化以及在真实环境中持续生存的能力——\n很多过去在家庭场景里需要人反复示范、手把手教的活儿，如今机器人已经可以《干中学》，真·越干越聪明。\n这下好了，机器人成为家庭成员这事儿，这回真指日可待了？？？\n首个世界统一模型，来了！\n镜头前面耍大刀，左脚鸡毛腿，右手出硬拳！\n这两年，镜头里的小机器人一个比一个会整活儿，随便拎出来一个，都挺像那么回事？？？\n而这一波「机器人突然变能干了」的背后，靠的正是过去两年行业最主流的一条技术路线——\nVLA架构\n。\n也就是把视觉、语言和动作连起来，让机器人从过去只会执行单一动作，进化到能看、能听、能跟着指令干活。\n但，热闹归热闹，一个行业里越来越藏不住的现实也摆在眼前——\nVLA确实很擅长让机器人学会照着做，但一旦涉及对物理世界的理解，尤其是在\n家庭\n这种充满随机和未知情况的环境中执行任务时，就不太ok了…\n更麻烦的是，传统VLA内部很多时候还是「分头干活」的路子。\n视觉管看，语言管理解，动作管执行，模块之间数据来回倒腾，每传一次就损耗一次，信息越传越少，以至于机器人在执行时的判断也来越不准确……\n而WALL-B走的，恰恰是另一条相反的路径——\n基于世界统一模型，把视觉、听觉、语言、触觉模块全面打通，让机器人拥有一套具备「原生多模态」「世界观」「与世界交互」能力的大脑。\n从看见到理解再到行动，机器人这下也真正懂得物理世界，可以成为家庭的一员了。\n世界统一模型：机器人也开始像人一样理解世界了\n大家有没有思考过一个问题——为啥机器人很难像人一样在真实世界里自然干活？\n一层是对外部世界的预测能力，另一层是身体本身具备多模态协同能力，语言、听觉、视觉、动作可以同时运转、彼此联动。\n机器人难就难在这里。\n它缺的从来不只是某一个单点能力，真正卡住它的，是感知、理解、预测、执行这些环节很难像人一样顺畅连起来。\n而世界统一模型要解决的，正是机器人大脑里长期存在的大bug：那就是解决\n「模块间数据搬运」\n这个根本问题。\n这个思路和苹果M1芯片的演变过程很类似。\n在M1芯片前，CPU、NPU、GPU都是分开的，三个芯片之间每搬一次就有一次延迟，每搬一次就有很多损耗。\n后来苹果干脆直接用统一内存架构，把不同计算单元放进同一套共享体系里，数据流转路径大幅缩短，整机性能也因此上了一个level～\n△AI生成\n而在WALL-B身上，M1芯片这种打通模块壁垒的能力，也被真正沉到了模型底层——\n基于世界统一模型，WALL-B将机器人的视觉、听觉、语言、触觉等能力放进同一个网络里进行同步训练，让各模块分别工作走向整套系统协同运转。\n而这套架构为小机器人们带来的第一个关键能力，就是\n「原生多模态」\n。\n简单理解就是，解决「看见」和「行动」之间的信息折损问题，把视觉、语言、动作、触觉直接打通。\n让机器人能够根据看到的画面进行直接反应，哪怕面对门把手，它也能知道推门时应该用多大的力度去推～\n而这背后体现的，正是架构本身的多模态输入、多模态输出能力，将感知与执行真正连在一起，让小机器人们能直接理解环境，也能直接生成行动。\n△AI生成\n但是话又说话来，小机器人们光是能看见、能动作，其实还远远不够。\n事实上，到了真实家庭场景中，机器人要面对的从来都不是标准题，而是一堆随时会冒出来的《临场状况》。\n比如地上有一滩刚洒出来的水，但很多传统基于VLA架构的机器人面对这个场景，往往只能停留在看到了地面颜色不一样。\n即便识别出地上有水，也未必明白「滑」意味着风险，更不会主动把这件事和绕行、清理、避险这些动作联系起来。\n而这也是世界统一模型赋予小机器人们的第二个能力，那就是让机器人拥有自己的\n「世界观」\n。\n不只让机器人看到世界，更开始让机器人读懂世界，建立起对现实规律的判断，理解物体背后的状态、关系和后果。\n△AI生成\n但这还远远不够。\n因为要让真正机器人理解世界，除了理解世界和原生多模态能力外，还有另一件事：\n经验会不会被留下来。\n但，这恰恰也是当下很多VLA系统的一道槛——\n它们可以完成任务，却很难像人一样在真实环境里边做边学、越做越熟，任务一失败，小机器人就举手投降……\n而基于世界统一模型，WALL-B进一步往前走了一步——它让机器人拥有了\n「与世界交互」\n的能力。\n也就是从实践中不断学习的能力，并且把成功的经验更新到自己的模型参数里，下次遇到同样的处境问题时就知道怎么解决了，这样模型就完成了一次进化。\n更关键的是，这种进化\n并不依赖工程师反复回收数据、重新训练、重新部署\n，机器人直接就能在真实世界里通过不断尝试、不断反馈、不断修正，完成自我迭代。\n（不是，怎么突然感觉好励志啊？？）\n能力跃迁：机器人也有“眼力见”了\n其实说到这儿，大家也确实感觉出基于世界统一模型的WALL-B模型，确实有「亿点点」不一样。\n但是吧，在具体的任务执行能力上，WALL-B能做的，还不止这亿点点。\n大家都知道，机器人想在物理世界里自主干活，首先得有一双真正看得懂世界的眼睛。\n对于传统命令式或遥控式机器人来说，它认一个杯子，很多时候更像是在对答案，数据库里见过这个，就知道这是杯子；换个样子、换个摆法，它可能就有点懵了。\n而WALL-B为机器人大脑补上的，是一套更接近人类认知方式的\n「部件级理解」\n能力——\n让机器人不仅认得这是杯子，还认得它是什么材质、把手朝哪边、现在是什么状态、应该从哪里下手更合适。\n让机器人真正具备所见即所认、触类旁通的视觉理解的真本领。\n△AI生成\n不仅如此，这套架构带来的价值，还让WALL-B第一次具备了更接近生物体的\n「原生本体感」\n。\n给友友简单解释一下，就是机器人不用依赖大量外部传感器反复确认位置，就能知道自己的身体边界和动作范围。\n它天生就清楚自己有多高、多宽，手臂能伸到哪里，转身会不会碰到东西，动作该留出多少余量～\n有朋友该说了，让机器人知道这些有啥用啊？（好问题.jpg）\n事实上，机器人要想在家庭这类复杂空间里稳定工作，前提就是先对自己有足够了解。\n只有知道自己的身体结构、运动极限和空间占位，它在拿取、移动、转身、避障时，动作才会更自然也更稳定！！\n△AI生成\n与此同时，基于世界统一模型，WALL-B还具备强大的\n「零样本泛化能力」\n。\n大白话说就是，哪怕面对从没见过的物体、场景和任务，机器人也不一定非要见过同款才能上手。\n通过对物理世界的理解，机器人学到的已经不只是某个具体案例，而是更底层的结构关系、交互逻辑和操作规律。\n既能理解环境，也能理解自己；既能执行当前任务，也能在与世界持续互动中不断调整和进化。\n作为中国首个基于世界统一模型的具身基础模型，WALL-B打破了命令式机器人、遥控式机器人在真实家庭场景中依赖预设指令、难以应对变化、缺乏自主处理能力的局限。\n既为行业提供了可量化、可复制的系统能力参考，也为家庭服务和工业应用场景的模型部署树立了新的行业样本。\n从进入家庭到自我进化，数据飞轮开始自转\n在具身智能行业，一个很难不承认的事实是：最核心的资源并非算法本身，而是支撑算法持续进化的高质量训练数据。\n其实这也是为啥很多看起来动作很酷炫的机器人，一到真实场景里就容易《露怯》。\n而问题就出在数据源头，当前大多数机器人训练的数据都是「实验室数据」——\n环境、任务都是可控且固定的，机器人几乎也是在蜜罐里长大的，糖水虽然甜，但并不会增强孩子本身的抵抗力。\n自变量机器人为这类实验室数据起了一个非常有意思的名字，叫\n「糖水数据」\n。\n对应到机器人训练里，就是数据量大、足够干净、采集成本相对可控，模型也更容易快速学出一套标准动作。\n△AI生成\n可问题也很直接：机器人最终要面对的，从来都不是一间永远整齐、永远明亮、永远按脚本运行的房间。\n也正因如此，自变量还提出了另一组相对的概念，叫\n「牛奶数据」\n——也就是真实家庭场景里产生的数据。\n牛奶数据更像是真正有营养的日常饭，家庭环境虽然复杂、嘈杂、充满变化，但训练价值也更高。\n就比如同一个「拿杯子」的任务，放到100个家庭里，几乎就会遇到100种摆放方式、100种干扰条件，对于机器人来说每一次伸手，几乎都像在面对一道新题……\n当然，牛奶数据也有一个行业都清楚的难点：\n太难采\n。\n它没法靠搭几个标准场景批量复制，也没法在封闭实验室里低成本生成，团队得把机器人真正带进家庭，一家一家去跑，一次一次去试，在真实使用中记录动作、失败、修正和反馈。\n但恰恰是这条最难走的路，才更接近做出「零样本泛化」模型的答案。\n△AI生成\n结果您猜怎么着——\n自变量团队，真就把机器人带进了100个家庭里了。\n（好家伙.jpg）\n当机器人持续进入真实家庭运行之后，整个系统会逐步形成一个不断自我强化的正向循环：\n机器人在家庭里执行任务，积累日常交互数据，这些数据反过来推动模型继续迭代，模型能力提升后，又能进入更多家庭、承担更多任务、采回更多高价值数据。\n当这个循环真正跑起来，数据就已经不只是训练阶段的一次性投入，而会变成模型持续成长的燃料，变成系统能力不断外溢的源头，最终形成一个越转越快、越转越强的\n数据飞轮\n。\n实验室数据帮机器人打基础，真实家庭数据让机器人开始长出「见过世面」的能力，而这也让WALL-B构建起难以复刻的最高壁垒。\n△AI生成\n其实放眼整个具身智能赛道，行业最缺的从来都不是一两个会翻跟头、会做展示动作的机器人。\n真正稀缺的，是能够在真实世界里持续学习、持续适应、持续进化的系统能力。\n从这个意义上看，WALL-B的价值并不只是在于进了100个家庭，也不只是在于采到了多少条真实数据，而是在于它率先验证了一条更接近终局的路径——\n让机器人从实验室里学会动作，再到真实家庭里学会生活；让模型从被动接受训练，逐步走向在真实世界中主动完成进化。\n让机器人真正融入家庭，这一次，想象成真了\n说实话，这两年我们看到了太多在视频里花样演示的机器人——\n翻跟头、打拳跑跳，一个比一个热闹，但热闹归热闹，很多能力依然停留在demo演示层面。\n一旦离开预设环境进入真实世界，泛化能力、主动性，以及对周围环境的理解能力，往往还是差了一截。\n这其实也解释了，为什么很多人一提到家庭机器人，第一反应往往还是有点模糊：它到底还能帮我们做什么？\n我们习惯了它扫地、拖地，却很少认真想过，机器人有没有可能进一步接手那些生活里很细碎、很日常、甚至已经被我们默只能自己做的小事。\n△AI生成\n理由很简单——家庭场景几乎是机器人最难应付、也最难伪装的考场。\n也正因如此，自变量选择让机器人真正入驻家庭这一步，才显得格外有分量。\n让机器人真正走进家庭、直接面对用户，需要的从来不只是技术能力，还有把产品交给真实世界检验的\n勇气\n。\n在与家庭成员持续交互的过程中，WALL-B能够让机器人逐渐理解生活节奏、习惯偏好，并把这些经验沉淀为自己的能力。\n这样一来，机器人承担的角色也在变，它开始从一个执行指令的设备，慢慢进入家庭日常运转的内部，成为更贴近生活的\n人力补充\n。\n或许呢，我们可以把想象力再往外扩展那么亿点点——\n没准过不了多久，在\n家政\n和\n养老\n这事儿上也能随处可见小机器人的身影了～\n随着这些能力在真实场景中不断沉淀，自变量机器人大脑也已然进入全新阶段。\n而在这过程中，\n自变量机器人\n也让整个行业第一次更清晰地看到，家庭场景并不是一个停留在想象里的终点，而是具身智能真正能够训练能力、验证能力、放大能力的关键现场。\nWALL-B带着它那颗聪明的脑子在验证一种更接近未来的路径，而自变量机器人也给整个具身智能行业提供了一个可参考、可观察、也更有现实感的发展样本。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 5281,
-    "content_excerpt": "全球首个世界统一模型发布，机器人家庭成员来了！\n梦瑶\n2026-04-22\n13:49:56\n来源：\n量子位\n梦瑶 发自 凹非寺\n量子位 | 公众号 QbitAI\n问：老了以后谁给你养老？答：机器人啊！！！\n原本，这只是网友们拿来应对家长催婚的摆烂式回答，谁成想，这下真·魔幻照进现实了……",
-    "ai_summary": "自变量发布 WALL-B，想用“世界统一模型”把机器人从会执行命令，推进到真正理解家庭物理环境。",
-    "summary_zh": "WALL-B 试图解决传统 VLA 架构里视觉、语言、动作模块割裂的问题，把视觉、听觉、触觉和语言统一进同一套世界模型中。它的卖点不是多会表演，而是让机器人在家庭这类高随机场景里拥有更强的预测、泛化和持续学习能力。"
-  },
-  {
-    "id": "4bad8ec7540f",
-    "title": "从GPU到Token：AI基础设施竞争逻辑重构",
-    "url": "https://www.qbitai.com/2026/04/404440.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-22T04:48:03",
-    "summary": "商汤大装置已实践三年",
-    "collected_at": "2026-04-22T06:06:35.454488",
-    "content_text": "从GPU到Token：AI基础设施竞争逻辑重构\n量子位的朋友们\n2026-04-22\n12:48:03\n来源：\n量子位\n近日，全球权威市场研究机构Omdia发布《2026全球AI工厂市场格局》报告。商汤大装置被重点推荐与引用，成为全球原生AI云厂商中的典型代表。\nOmdia高度评价商汤大装置，\n认为其开创了AI工厂“智能精炼”范式，并在多个维度领跑全球原生AI云市场。\n01商汤大装置AI数字工厂架构：领先行业三年的实践路径\nOmdia认为，随着人工智能技术加速渗透、AI Agent全面爆发，AI基础设施正经历一场结构性变革，其规模可比肩一个世纪前的电气化工业革命。而AI 工厂（AI Factory）正在成为这一阶段的关键基础设施形态。\n今年3月，黄仁勋同样发文谈及AI工厂。他指出，在全球各地正看到芯片工厂、电脑组装厂及AI工厂，以前所未有的规模兴建，“这正成为人类史上规模最大的基础设施建设工程。”\n当行业开始密集讨论AI工厂，商汤早在2022年便在内部战略中提出“AI 数字工厂”构想，并率先对这一趋势进行前瞻布局。彼时，商汤已清晰意识到，传统AI基础设施在成本与效率层面存在系统性瓶颈，难以支撑AI从实验室走向大规模产业化应用。必须构建一种全新的基础设施形态——专门为AI模型的“生产”而设计。\n经过近三年的实践探索，步入2026年，商汤大装置AI数字工厂全栈架构日趋成熟，总共分为四层：\n第一层：基础设施，即AIDC，包括人工智能数据中心、异构GPU、CPU、存储、网络等物理资源；\n第二层：基础设施即服务（IaaS），提供大模型训练的云资源、弹性算力池、训练引擎、高可用等能力，通过标准化的云服务，实现大模型稳定、高效的训练；\n第三层：模型即服务（MaaS），通过标准化、可编排的云服务，提供模型部署、模型推理、Agent 开发能力；\n第四层：应用，大模型进入应用落地阶段，AI开始融入各行各业，实现人工智能+。\n02多项指标领跑全球，开创“智能精炼”范式\nOmdia报告释放出一个明确信号：AI工厂不仅仅是传统数据中心的升级，它代表着一种全新的工业组织形态，其核心目标是实现智能（Token）的规模化生产与交付。\n这也意味着，AI基础设施的竞争重心，正从“谁拥有更多GPU”，转向“谁能够更高效地生产智能”。在更智能、更高效、单位成本更优的生产token上，商汤大装置走出了一条差异化的道路。\n对此，Omdia给出了一个极为精准的定义——“pioneering intelligence refiner”（智能精炼范式的开创者），即商汤大装置不仅只局限于提供算力资源，而是将通用AI能力转化为企业级生产力。\n“智能精炼范式”的背后，其实是商汤大装置深刻感知到AI基础设施发生的结构性变革，并给出了可运行、可交付、可验证的实践路径。\n一直以来，商汤大装置都在致力于降低AI应用与开发门槛。 通过算法、数据和算力的协同优化，商汤大装置已构建起“算力-平台-方案-服务”的端到端系统化能力，并将这些技术能力沉淀为如“水电煤”般的基础设施，帮助企业能以更高的投入产出比拥抱AI变革。\n不仅在范式层面实现创新，Omdia认为，商汤大装置在以下多项核心能力维度上同样领跑全球原生AI云市场：\nl\n垂直行业落地能力：\n依托深厚的场景化方案能力和高响应专家服务体系，截至到目前，商汤大装置累计服务众多大模型公司及各行业客户，覆盖AIGC、具身智能、AI4S、产业智能化等多个领域。\nl\n算电协同能力：\n商汤临港AIDC算电协同平台整合能源大模型、宁德时代储能系统等，实现算力与能源的精准匹配，能源需求预测准确率已经达到88%以上，决策准确率已达到93%以上，整体PUE降低至1.265，年化电费成本节约7%、碳减排4000吨的运营成效，带来显著的经济与社会效益。\nl\n多元异构芯片混训与调度\n：商汤大装置适配20+国产AI芯片，并率先实现万卡国产GPU集群大规模异构混训，算力利用率高达80%，效率达同构训练的95%，成功突破单一GPU限制，推动国产算力规模化商用。\n03全球经验输出\nOmdia认为，真正塑造2030年AI工业市场格局的参与者，并非当下芯片采购量最大的企业，而是那些最早洞悉四层AI工厂架构、成功锁定生态位优势，并充分尊重物理世界限制条件的先行者。\n在这一判断框架下，商汤大装置的先发优势愈发凸显。早在2022年，商汤便率先提出“AI 数字工厂”构想，不仅对行业趋势形成前瞻洞察，也在多年的实践中为全球AI工厂的演进提供了可参考的实践范式。\n与此同时，商汤大装置正将这一能力体系转化为全球化竞争力。在沙特落地的中国首个出海国产算力集群项目中，其通过输出高度适配的软硬件协同能力，在异构环境下实现高效部署与稳定运行，验证了其卓越的工程交付能力与“轻资产出海”模式的商业潜力。\n未来，商汤大装置还将持续深化AI工厂体系建设，围绕算电协同、异构算力调度与垂直行业落地等关键能力，不断提升智能（Token）生产效率与成本优势，推动AI基础设施向规模化、产业化方向演进。\n转载来源：商汤科技\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 2267,
-    "content_excerpt": "从GPU到Token：AI基础设施竞争逻辑重构\n量子位的朋友们\n2026-04-22\n12:48:03\n来源：\n量子位\n近日，全球权威市场研究机构Omdia发布《2026全球AI工厂市场格局》报告。商汤大装置被重点推荐与引用，成为全球原生AI云厂商中的典型代表。\nOmdia高度评价商汤大装置，\n认为其开创了AI工厂“智能精炼”范式，并在多个维度领跑全球原生AI云市场。\n01商汤大装置AI数字工厂架构：领先行业三年的实践路径"
-  },
-  {
-    "id": "544e1fc5931a",
-    "title": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
-    "url": "https://www.qbitai.com/2026/04/404420.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-22T04:12:45",
-    "summary": "发布安全白皮书与全系AI新品",
-    "collected_at": "2026-04-22T06:06:35.454506",
-    "content_text": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花\n量子位的朋友们\n2026-04-22\n12:12:45\n来源：\n量子位\n4月21日，全球领先的安全智能生活品牌萤石在杭州正式举办2026品牌新品发布会。在这场以“驭智·向前”（Ahead with Intelligence）为主题的盛会上，萤石全景式展现了AI驱动下多点开花的创新成果：从AI硬件新品矩阵的集中亮相，到品牌使命的战略升维，再到安全白皮书与儿童公益项目的发布，全面勾勒出“以安全的智能科技共创美好生活”的新蓝图。在AI技术加速重塑生活方式的当下，萤石始终坚持将安全作为不变的基因与信任基石，以有边界、有责任的方式驾驭智能科技，驱动品牌与产品持续进化、稳健向前。\n从“守护安全”到“共创美好”，萤石品牌体系全面升维\n自2013年第一代智能摄像机“小熊猫”问世至今，萤石已构建起覆盖智能家居摄像机、智能入户、智能机器人、智能控制及智能穿戴的五大自研硬件矩阵，并依托萤石物联云平台与AI核心能力，形成了独具特色的“2+5+N”业务体系。如今，萤石已成长为贯通硬件研发、智能制造、云端服务与AI算法的全链路企业，以高比例的研发投入和超1600项专利积累，服务全球超1.9亿用户。\n萤石的技术路径始终清晰坚定：以守护为核心价值，以安全为初心，以智能视频视觉为技术基础，以萤石云为支撑，驱动智能从“被动防护”向“主动理解”跃迁，通过构建持续进化的“云-边-端”高效协同体系，来承载海量数据、实现复杂场景智能，为无限的应用创新提供了坚实支撑。\n面对AI技术浪潮的汹涌而至与用户需求的深刻演变，行业与用户对技术的责任感、安全感和边界感也提出了更高要求。萤石深刻洞察到，技术的飞跃必须与责任的担当同步。本次发布会上，萤石正式宣布了全新的品牌使命，从“致力于人人轻松享有安全的智能生活”，升级为“以安全的智能科技共创美好生活”。这一变化的而背后，是萤石品牌对未来发展逻辑的深化——“安全”是萤石不变的基因与信任基石；“智能科技”是持续创新、产品与服务升级的核心驱动力；“共创”则标志着萤石与用户、合作伙伴并肩而立，协同定义未来的新阶段；而“美好生活”，则是这一切努力的终极指向。\n萤石首席产品官陈冠兰在发布会上强调：“为人所用，是我们不变的初心。我们做智能视觉，不为炫技，只为守护万家平安，让科技真正融入用户生活，解决实际问题。”此次品牌升级，标志着萤石从“守护者”向“共创者”的战略升维，强化了技术自信与用户导向，坚定了成为一家有边界、有担当的长期主义品牌的决心。\n丰富品类创新，AI新品助力多场景创新突破\n本次发布会的核心亮点，在于萤石将视频/视觉AI技术深度融入硬件与场景。四大品类新品的集中发布，以“更强AI、更优体验、更稳安全”为内核，推动AI从技术概念走向真实生活。\n基于“用户为先”的价值理念，萤石深刻理解用户对数据隐私与响应速度的双重需求，并为此提供了灵活的选择：用户既可畅享云端强大的智能AI服务，也可选择本地端更私密、更迅捷的AI能力。为充分满足后者需求，萤石正式推出了部署于家庭的本地智慧中枢——智能大模型主机EZVIZ AI CoreX。作为萤石“云-边-端”协同架构中关键的边侧核心，EZVIZ AI CoreX搭载萤石蓝海大模型 2.0 与 Home Vita 智能体，以“有记忆、更懂你、会执行”为核心，打造集存储、计算、控制于一体的智慧家庭“中枢大脑”，推动本地 AI 能力全面落地。\nEZVIZ AI CoreX搭载了24G+128G超大内存与64T强悍算力，为家庭构建包含不同文件类型的线下存储空间。此外，针对智能摄像机等设备告警繁杂、录像回溯难等痛点，EZVIZ AI CoreX可对全屋设备推送的消息与图片进行深度理解、智能聚合推送，并自动生成每日、每周的录像精华摘要，更支持通过自然语言精准检索录像内容。依托Home Vita 智能体，EZVIZ AI CoreX兼容萤石全系设备与Matter 协议第三方产品，实现全屋设备一键统一管控；用户仅需下达语音指令即可触发复杂的自动化场景联动，未来它还将通过自主学习，实现从被动响应到主动服务的升级。该产品将率先在海外市场首发上市。\n经过多年的市场深耕，萤石智能家居摄像机已形成了能够满足室内外、Wi-Fi/4G等多样化场景需求的完善产品矩阵，并保持市场地位领先，据IDC相关报告显示，2025年出货量蝉联全球第一。在AI技术的驱动下，萤石智能家居摄像机正从基础的安防工具向家庭AI感知中心全面进化，需求也从固定看护，快速延伸至儿童陪伴、宠物看护、户外便携等多元化场景，并在产品的功能性需求以外逐步延伸出了更多情绪价值需求。\n本次发布会，萤石带来了四款各具特色的AI摄像机新品。其中，AI随身拍EZVIZ Pika是一款专为儿童设计的“人生第一台AI设备”。它搭载“AI双引擎”，不仅能通过摄像头拍识万物，还能以智能问答的方式满足孩子的好奇心。在拍摄性能上，其配备前后双4K摄像头能清晰记录每一个探索瞬间。产品在设计上充分考量了儿童使用的安全、舒适与连接便利性，机身仅重80克，内置GPS+北斗定位功能，并创新性地集成了电信/联通双4G卡，提供终身免费流量，确保随时随地在线。此外，设备还支持高清双向视频通话，便于亲子间的温情互动，让孩子的探索过程更安心、连接更自由、记录更出色。\n针对广阔的户外与移动安防场景，萤石“小魔方”系列再添新成员。小魔方CB60 Pro电池4G防水版在前代基础上，专项升级了雷达穿透侦测、GPS+北斗定位、防尘防水及可拆卸磁吸底座四大能力，可从容应对复杂的户外环境。另一款小魔方CB30“结界兽”，则以双500万像素镜头实现180°超广视角，兼具防水防尘、4G终流网络与长效续航功能，机身小巧便携，充分满足露营、临时看护等灵活布防需求。此外，萤石魔丸系列新品90f，凭借多镜头设计与智能追踪功能，服务对全景监控有更高要求的用户。\n值得关注的是，萤石作为4G终身流量摄像机的首创者，针对无网环境提出了行业领先的解决方案——Wi‑Fi/4G 双模网络，在多款产品上实现了双网智能备份与无缝切换，消除了对单一网络的依赖，引领行业迈入更可靠的双模时代。后续萤石还将在智能摄像机端侧上线本地版万物识别AI算法，比如支持重点物品关注与智能提醒，实现更精准的物品看护。\n凭借在视觉、AI与交互领域的长期技术沉淀，萤石智能锁在复杂行为理解、主动预警与智能对话等方面展现出了领先行业的能力，其产品创新与综合竞争力已获业界高度认可，被授予“AI智能锁引领者”及“AI智能屏交互门锁首创者”认证。在AI驱动下，萤石智能锁正从单一的物理安防工具进化为一个兼具安全、智能与情感交互的“家庭智慧入口”。本次发布会推出了全新的Y31系列AI人脸视频锁，包含Ultra、Pro以及Plus三个版本。\n作为该系列的旗舰款，AI全景大屏交互智能锁Y31 Ultra采用了革新性的外观设计，配备了4.4英寸OLED室外智慧大屏，用以取代传统密码区，科技感与质感显著提升。其搭载的全景镜头可实现门外360°几乎无死角的监控，并支持VR预览，适配各类户型的入户场景。在核心解锁识别技术上，它采用了毫秒级响应的AI人脸识别，并辅以高精度AI指纹识别，在安全与便捷之间实现了无感平衡。\n更重要的是，萤石Y31 Ultra也是一款真正的“AI生活方式硬件”，为用户提供出色的AI交互体验。基于萤石蓝海大模型2.0，Y31 Ultra的AI智能体交互升级为可互动的3D全身形象，并推出全新的“山海瑞兽”养成类智能体，支持每日抽卡、节日换装、旅行奇遇等趣味互动，镇宅纳福更具陪伴感。此外，它首次将生成式交互融入门锁，用户可自定义智能体形象，享受AI动态暖心提示、对话式自然语言交互等更具个性化”的小门神增值服务，让智能体真正成为每个家庭的“专属伙伴”。同时，它依旧支持设置个性化欢迎语、提供天气备忘提醒，并具备人形检测、儿童出门检测、宠物检测、门外包裹看护等全场景智能看护能力。\n此外，萤石还发布了智能门铃CP8 4G防水版，该产品支持4G终身免流量，彻底摆脱了对电源和Wi-Fi网络的布线依赖，凭借IP65级防水、5MP高清画质、全彩夜视与AI人形检测，实现了门前区域灵活、持久且清晰的安防看护。\n在智能清洁赛道，萤石全球首创AI双擎蒸汽洗地机器人，本次活动发布了该品类的突破性产品——Stella星辰10 系列AI蒸汽洗地机器人（含Pro/Master）。其中，星辰10 Master搭载了萤石自研的双擎双热活水洗地方案，其核心由BiCore Suction 双擎分区直吸系统与HotSteam Wash澎湃蒸洗双热系统两大核心技术构成。BiCore Suction系统创新性地采用36000pa高功率双风机独立运作，从源头实现干湿分离，高效解决干湿混合垃圾的清理难题；HotSteam Wash系统则融合了190℃双泵增压蒸汽与95℃热活水洗地，搭配100℃高温滚筒自清洁系统，精准解决凝固污渍及重度油污，清洁更彻底。\n此外，星辰10 Master创新搭载了终身净化自循环系统，实现终身免换水。其活水自平衡蒸馏系统通过95℃活水蒸馏技术加热废水，分离水蒸气与固体杂质，水蒸气冷凝后回收至清水箱，固体残渣则经自动烘干、粉碎后集中收集至尘袋。同时，空气自适应凝水系统可在室内空气湿度大于30%时，由基站自动启动除湿制水功能，从空气中萃取水分子补充至清水箱，双系统协同发力，使得清洁机器人摆脱对外部水源的依赖。同时，星辰10 Master还配备了五重全链路高温除菌系统与全天候免维护清洁系统，兼顾清洁效率与使用便捷性，确保流畅高效的清洁体验。\nAI能力层面，星辰10 Master搭载萤石星辰世界模型与EZVIZ Auto-vision 3.0多目视觉感知技术，不仅能精准识别障碍物与家具类型，更能深度理解不同区域的地面材质与脏污程度，进而智能规划清扫路径、调节清洁力度，实现“越用越懂家”的个性化深度清洁。\n筑牢产业安全基石，传递社会公益温度 萤石系统诠释企业责任\n一直以来，萤石将“安全”视为品牌与技术的核心基石。为将这一理念转化为可指引行业发展的实践准则，本次发布会上，萤石联合中国信通院上海华东电信研究院，共同发布了《立体信任：AI视觉物联网运营安全白皮书》（以下简称“白皮书”），筑牢全栈安全底座，彰显了行业标准制定者的领先 AI 责任。中国互联网协会数据安全与治理工作委员会副秘书长韩松、CSA大中华区研究院副院长贾良钰、萤石首席安全官郑鸿咚、萤石品牌总监张艺晨共同参与了发布仪式。\n该白皮书详细梳理了AI视觉物联网领域在设备安全、数据合规、全球运营等方面面临的挑战与行业级解决方案，为构建可信、可靠的产业发展框架提供了兼具实践性与前瞻性的重要参考，从标准与最佳实践层面助力AI视觉物联网产业行稳致远。中国信息通信研究院华东分院数据事业部副主任胡莉莉在白皮书专题演讲中指出：“这份白皮书不仅融合了领先企业的实践经验，更为AI视觉物联网这一重要领域的运营安全建设提供了关键指引，对产业生态的健康发展具有积极价值。”\n不仅如此，萤石响应全新的品牌使命并积极践行“让生活更美好，让环境更和谐，让社会更温暖”的ESG理念。在此次发布会现场，萤石联合全球儿童安全组织（中国）共同启动了“瞳心探世界——萤石·EZVIZ Care儿童安全成长公益项目”。全球儿童安全组织（中国）执行主任徐霞珺、萤石董事会秘书&ESG委员会主任曹静文共同见证了项目的启动。该项目以本次发布的新品AI随身拍Pika作为核心工具，计划通过在多地举办“线下亲子探索营”，鼓励并引导儿童在安全的前提下勇敢探索世界。\n以安全为边界负责任地“驭智”，以共创为路径坚定地“向前”。本次品牌新品发布会的一系列行动，是萤石对全新品牌使命“以安全的智能科技共创美好生活”的最佳诠释。在一个AI技术持续重塑万物交互方式的时代，萤石将坚持长期主义，基于全栈自研能力，继续深化软硬一体化战略，依托“云-边-端”协同进化的架构以及在智能视觉物联网垂直领域的深厚积累，最终构建出真正以人为中心、懂用户所需、可持续进化的个性化产品与服务生态。\n当AI从“装在设备里”的技术概念，走向“植入生活里”的场景化服务，相信在“驭智向前”的道路上，萤石将继续以安全为基石，以智能为引擎，与用户及合作伙伴一道，探索并共创一个技术普惠智能未来。\n转载来源：萤石\n本文为量子位获授权转载，观点仅为原作者所有。\n版权所有，未经授权不得以任何形式转载及使用，违者必究。",
-    "content_source": "readability",
-    "content_chars": 5275,
-    "content_excerpt": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花\n量子位的朋友们\n2026-04-22\n12:12:45\n来源：\n量子位\n4月21日，全球领先的安全智能生活品牌萤石在杭州正式举办2026品牌新品发布会。在这场以“驭智·向前”（Ahead with Intelligence）为主题的盛会上，萤石全景式展现了AI驱动下多点开花的创新成果：从AI硬件新品矩阵的集中亮相，到品牌使命的战略升维，再到安全白皮书与儿童公益项目的发布，全面勾勒出“以安全的智能科技共创美好生活”的新蓝图。在AI技术加速重塑生活方式的当下，萤石始终坚持将安全作为不变的基因与信任基石，以有边界、有责任的方式驾驭智能科技，驱动品牌与产品持续进化、稳健向前。\n从“守护安全”到“共创美好”，萤石品牌体系全面升维\n自2013年第一代智能摄像机“小熊猫”问世至今，萤石已构建起覆盖智能家居摄像机、智能入户、智能机器人、智能控制及智能穿戴的五大自研硬件矩阵，并依托萤石物联云平台与AI核心能力，形成了独具特色的“2+5+N”业务体系。如今，萤石已成长为贯通硬件研发、智能制造、云端服务与AI算法的全链路企业，以高比例的研发投入和超1600项专利积累，服务全球超1.9亿用户。\n萤石的技术路径始终清晰坚定：以守护为核心价值，以安全为初心，以智能视频视觉为技术基础，以萤石云为支撑，驱动智能从“被动防护”向“主动理解”跃迁，通过构建持续进化的“云-边-端”高效协同体系，来承载海量数据、实现复杂场景智能，为无限的应用创新提供了坚实支撑。"
   }
 ]
