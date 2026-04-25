@@ -1,5 +1,149 @@
 [
   {
+    "id": "08242fa6d60d",
+    "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
+    "url": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-25T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-25T02:44:45.211406"
+  },
+  {
+    "id": "46e3139da1ee",
+    "title": "浩思动力发布行业首个面向纯电原生平台的X-Range增程系统解决方案",
+    "url": "https://36kr.com/newsflashes/3781577271155971?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T02:00:14",
+    "summary": "36氪获悉，4月24日，浩思动力正式发布行业首个面向纯电原生平台的X-Range增程系统解决方案。本次展出的X-Range增程系列包含三款核心产品：HORSE C15超紧凑增程器、HORSE F15 Direct Drive未来混动系统以及全球首次亮相的HORSE C15 Direct Drive直驱系统，可灵活适配前置、后置等任意整车架构布置需求，覆盖B级家用车到D级豪华车及轻型商用车全品类。",
+    "collected_at": "2026-04-25T02:44:43.862854"
+  },
+  {
+    "id": "369d4383aaaa",
+    "title": "llm 0.31",
+    "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-24T23:35:07",
+    "summary": "Release: llm 0.31 New GPT-5.5 OpenAI model: llm -m gpt-5.5. #1418 New option to set the text verbosity level for GPT-5+ OpenAI models: -o verbosity low. Values are low, medium, high. New option for setting the image detail level used for image attachments to OpenAI models: -o image_detail low - valu",
+    "collected_at": "2026-04-25T02:44:40.628586"
+  },
+  {
+    "id": "fb59f0b2f69e",
+    "title": "“智用开物”完成近亿元天使+轮融资",
+    "url": "https://36kr.com/newsflashes/3781575122344966?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T01:48:55",
+    "summary": "36氪获悉，工业智能体及高价值应用公司“智用开物”已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。",
+    "collected_at": "2026-04-25T02:44:43.862886"
+  },
+  {
+    "id": "ef3dd662c469",
+    "title": "The people do not yearn for automation",
+    "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-24T22:38:49",
+    "summary": "The people do not yearn for automation This written and video essay by Nilay Patel explores why AI is unpopular with the general public even as usage numbers for ChatGPT continue to skyrocket. It’s a superb piece of commentary, and something I expect I’ll be thinking about for a long time to come. N",
+    "collected_at": "2026-04-25T02:44:40.628738"
+  },
+  {
+    "id": "15b7c8c9b9a3",
+    "title": "谷歌计划向Anthropic投资至多400亿美元，支持后者大幅扩展算力",
+    "url": "https://36kr.com/newsflashes/3781546314357767?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T01:40:41",
+    "summary": "谷歌将向Anthropic PBC投资100亿美元，并可能追加最高300亿美元，此举将强化两家公司之间既合作又竞争的关系。Anthropic周五表示，谷歌承诺现在将以现金形式投资100亿美元，对公司的估值为3500亿美元，与其2月融资时的估值相同（不包括近期新增融资）。此外，谷歌将在Anthropic达到业绩目标时再投资300亿美元，并支持其大幅扩展算力。（新浪财经）",
+    "collected_at": "2026-04-25T02:44:43.862928"
+  },
+  {
+    "id": "f01b2e7af403",
+    "title": "Three reasons why DeepSeek’s new model matters",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-24T21:40:58",
+    "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o",
+    "collected_at": "2026-04-25T02:44:34.986163"
+  },
+  {
+    "id": "61bb8b1b8ed3",
+    "title": "黑芝麻智能发布FAD天衍L3级自动驾驶平台",
+    "url": "https://36kr.com/newsflashes/3781525799672841?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T01:10:51",
+    "summary": "36氪获悉，4月24日，黑芝麻智能于2026北京车展现场正式发布基于FAD 2.0开放平台打造的“FAD天衍”L3级自动驾驶平台。这标志着FAD 2.0开放平台实现具体方案落地。",
+    "collected_at": "2026-04-25T02:44:43.863051"
+  },
+  {
+    "id": "9eee8ea8304c",
+    "title": "Meta’s loss is Thinking Machines’ gain",
+    "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-24T20:52:07",
+    "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+    "collected_at": "2026-04-25T02:44:34.688529"
+  },
+  {
+    "id": "edcdd1341935",
+    "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+    "url": "https://36kr.com/p/3781548853533959?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T01:10:38",
+    "summary": "作者丨欧雪 编辑丨袁斯来 硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。 这已是智用开物过去一年内的第三轮融资。2025年，公司先后完成由瑞枫资本、豫资涨泉及上市公司制造业数字化龙头企业赛意信息的投资。 智用开物2024年1月成立于广州，专注于通过“工业语义引擎+工业级多智能体系统”，将复杂的工业知识转化为AI可解析、可执行的逻辑，降低AI在工业场景的落地门槛。 硬氪获悉，智用开物的核",
+    "collected_at": "2026-04-25T02:44:43.861504"
+  },
+  {
+    "id": "cfe7bb1f35cf",
+    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-24T19:49:35",
+    "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+    "collected_at": "2026-04-25T02:44:34.688565"
+  },
+  {
+    "id": "22fa7c57dc1c",
+    "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+    "url": "https://36kr.com/p/3781532841581576?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-25T01:01:05",
+    "summary": "整理｜孟孟 今日热点导览 铁路部门将实行老年旅客购票优惠 哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元 网友称用豆包提前查到事业编成绩，官方回应 耐克将裁减1400个公司职位，主要集中在技术部门 中国再发现两种月球新矿物，嫦娥五号样品研究获新突破 TOP3大新闻 Kimi被曝泄露用户真实简历，用户翻译时收到陌生人完整个人信息 4月20日，用户张呈在使用Kimi翻译英文PPT时，系统竟返回一份陌生人的完整简历，包含姓名、电话、邮箱、工作经历等真实信息。张呈通过简历上的电话联系到当事人钟先生，所有信息均能对应。张呈称，自称Kimi工作人员的解释是“AI出现幻觉所致”。但浙江大学“百",
+    "collected_at": "2026-04-25T02:44:43.861708"
+  },
+  {
     "id": "40d1aae5b282",
     "title": "复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案",
     "url": "https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article",
@@ -12,16 +156,16 @@
     "collected_at": "2026-04-24T18:59:34.729603"
   },
   {
-    "id": "1b3680d029f5",
-    "title": "Google to invest up to $40B in Anthropic in cash and compute",
-    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    "source": "TechCrunch AI",
+    "id": "632dd6a22f8e",
+    "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+    "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
+    "source": "Ars Technica AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-04-24T18:00:03",
-    "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-    "collected_at": "2026-04-24T18:59:24.712657"
+    "priority": 2,
+    "published": "2026-04-24T19:00:39",
+    "summary": "Hundreds of subdomains from dozens of universities have been hijacked by scammers.",
+    "collected_at": "2026-04-25T02:44:35.160907"
   },
   {
     "id": "33e84a72ce61",
@@ -36,16 +180,16 @@
     "collected_at": "2026-04-24T18:59:34.729646"
   },
   {
-    "id": "858c1c84c8cc",
-    "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-    "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+    "id": "1b3680d029f5",
+    "title": "Google to invest up to $40B in Anthropic in cash and compute",
+    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-24T17:45:57",
-    "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;eco",
-    "collected_at": "2026-04-24T18:59:24.712761"
+    "published": "2026-04-24T18:00:03",
+    "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+    "collected_at": "2026-04-24T18:59:24.712657"
   },
   {
     "id": "64c3773dc988",
@@ -60,16 +204,16 @@
     "collected_at": "2026-04-24T18:59:34.729720"
   },
   {
-    "id": "2aecff3a36e2",
-    "title": "How Project Maven taught the military to love AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-    "source": "The Verge AI",
+    "id": "858c1c84c8cc",
+    "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+    "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-24T17:00:00",
-    "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart",
-    "collected_at": "2026-04-24T18:59:24.783933"
+    "published": "2026-04-24T17:45:57",
+    "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;eco",
+    "collected_at": "2026-04-24T18:59:24.712761"
   },
   {
     "id": "92d1b47d9b81",
@@ -84,16 +228,16 @@
     "collected_at": "2026-04-24T18:59:34.729748"
   },
   {
-    "id": "6d67a039dbfb",
-    "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-    "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-    "source": "TechCrunch AI",
+    "id": "2aecff3a36e2",
+    "title": "How Project Maven taught the military to love AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-24T16:42:19",
-    "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-    "collected_at": "2026-04-24T18:59:24.712809"
+    "published": "2026-04-24T17:00:00",
+    "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart",
+    "collected_at": "2026-04-24T18:59:24.783933"
   },
   {
     "id": "6aa5dbd36c01",
@@ -108,16 +252,16 @@
     "collected_at": "2026-04-24T18:59:34.729777"
   },
   {
-    "id": "77eb37233472",
-    "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
-    "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
-    "source": "The Verge AI",
+    "id": "6d67a039dbfb",
+    "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+    "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-24T14:43:07",
-    "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the",
-    "collected_at": "2026-04-24T18:59:24.783979"
+    "published": "2026-04-24T16:42:19",
+    "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+    "collected_at": "2026-04-24T18:59:24.712809"
   },
   {
     "id": "448d78bc8aad",
@@ -132,16 +276,16 @@
     "collected_at": "2026-04-24T18:59:34.729806"
   },
   {
-    "id": "d114e502f360",
-    "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三���跨越",
-    "url": "https://36kr.com/p/3780910411193602?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-24T14:21:58",
-    "summary": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。 有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。 要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。 在4月24日举办的“2026中国航天日”商业航天产业高质量发展论坛上，中科天塔正式发布了公司新一代星载激光通信终端。 中科天塔副总经理",
-    "collected_at": "2026-04-24T18:59:33.559033"
+    "id": "77eb37233472",
+    "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
+    "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-24T14:43:07",
+    "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year's succession could lead to some important changes at the",
+    "collected_at": "2026-04-24T18:59:24.783979"
   },
   {
     "id": "03d71421f6c9",
@@ -156,16 +300,16 @@
     "collected_at": "2026-04-24T18:59:34.729839"
   },
   {
-    "id": "015813f8cb4e",
-    "title": "Nothing introduces an AI-powered dictation tool",
-    "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-24T13:41:42",
-    "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
-    "collected_at": "2026-04-24T18:59:24.713033"
+    "id": "d114e502f360",
+    "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三���跨越",
+    "url": "https://36kr.com/p/3780910411193602?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-24T14:21:58",
+    "summary": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。 有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。 要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。 在4月24日举办的“2026中国航天日”商业航天产业高质量发展论坛上，中科天塔正式发布了公司新一代星载激光通信终端。 中科天塔副总经理",
+    "collected_at": "2026-04-24T18:59:33.559033"
   },
   {
     "id": "389589454569",
@@ -180,16 +324,16 @@
     "collected_at": "2026-04-24T18:59:34.729875"
   },
   {
-    "id": "b188ee617d05",
-    "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
-    "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+    "id": "015813f8cb4e",
+    "title": "Nothing introduces an AI-powered dictation tool",
+    "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-24T13:30:59",
-    "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
-    "collected_at": "2026-04-24T18:59:24.713084"
+    "published": "2026-04-24T13:41:42",
+    "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+    "collected_at": "2026-04-24T18:59:24.713033"
   },
   {
     "id": "c063edf68a38",
@@ -202,6 +346,18 @@
     "published": "2026-04-24T17:17:42",
     "summary": "点击查看原文>",
     "collected_at": "2026-04-24T18:59:34.729946"
+  },
+  {
+    "id": "b188ee617d05",
+    "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+    "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-24T13:30:59",
+    "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+    "collected_at": "2026-04-24T18:59:24.713084"
   },
   {
     "id": "0b78c269d319",
@@ -3561,175 +3717,5 @@
     "published": "2026-04-21T15:29:16",
     "summary": "https://www.brex.com/journal/building-crabtrap-open-source Comments URL: https://news.ycombinator.com/item?id=47850212 Points: 127 # Comments: 54",
     "collected_at": "2026-04-23T13:24:01.532542"
-  },
-  {
-    "id": "d3cb509cceb0",
-    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-    "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-21T15:24:29",
-    "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
-    "collected_at": "2026-04-21T19:03:08.000052",
-    "title_zh": "社交平台 Bond：用 AI 帮你摆脱沙发、重返线下社交",
-    "ai_summary": "Bond利用AI帮助用户建立线下社交关系，对抗社交媒体孤立",
-    "summary_zh": "邦德的创造者说，邦德希望你离开沙发，回到现实世界。新平台的人工智能系统旨在激励用户远离应用程序做一些事情"
-  },
-  {
-    "id": "b3c9c0a2e0a3",
-    "title": "构建可信数据智能体的上下文层 ｜ 技术趋势",
-    "url": "https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-21T15:06:43",
-    "summary": "构建可信数据智能体的上下文层 ｜ 技术趋势",
-    "collected_at": "2026-04-21T07:26:30.180921",
-    "ai_summary": "探讨构建可信数据智能体所需的上下文层架构，强调数据治理与智能体协同的技术趋势。"
-  },
-  {
-    "id": "2d537bc7c412",
-    "title": "YouTube expands its AI likeness detection technology to celebrities",
-    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-21T15:02:06",
-    "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
-    "collected_at": "2026-04-21T19:03:08.000070",
-    "title_zh": "YouTube AI 肖像检测技术扩展至名人保护",
-    "ai_summary": "YouTube将AI深度伪造检测范围扩大到名人肖像保护领域",
-    "summary_zh": "YouTube 正在将其人工智能相似度检测工具扩展到名人，为名人及其代表提供查找和删除深度伪造品的方法"
-  },
-  {
-    "id": "4de0d2dd0860",
-    "title": "Partnering with industry leaders to accelerate AI transformation",
-    "url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-    "source": "Google DeepMind",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-21T14:54:15",
-    "summary": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
-    "collected_at": "2026-04-23T13:52:36.944262"
-  },
-  {
-    "id": "d5c19f9f7a21",
-    "title": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
-    "url": "https://www.infoq.cn/article/TH0QVHpvVGZ7VP3hAEmm?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-21T14:14:32",
-    "summary": "Anthropic 发布 Claude Design，一句话生成 UI，设计圈变天了",
-    "collected_at": "2026-04-21T07:26:30.180995",
-    "ai_summary": "Anthropic推出Claude Design，可通过自然语言指令直接生成UI设计，挑战传统设计工具。"
-  },
-  {
-    "id": "ceeac7e45646",
-    "title": "Show HN: GoModel – an open-source AI gateway in Go",
-    "url": "https://github.com/ENTERPILOT/GOModel/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-21T14:11:53",
-    "summary": "Hi, I’m Jakub, a solo founder based in Warsaw.I’ve been building GoModel since December with a couple of contributors. It's an open-source AI gateway that sits between your app and model providers like OpenAI, Anthropic or others.I built it for my startup to solve a few problems: - track AI usage an",
-    "collected_at": "2026-04-21T19:03:10.472875",
-    "title_zh": "GoModel：Go 语言开源 AI 网关项目",
-    "ai_summary": "用Go语言编写的轻量级AI API网关，支持多模型路由",
-    "summary_zh": "大家好，我是 Jakub，一位居住在华沙的独立创始人。自 12 月以来，我一直与几个贡献者一起构建 GoModel。它是一个开源 AI 网关，位于您的应用程序和 OpenAI、Anthropic 等模型提供商之间。我为我的初创公司构建了它…"
-  },
-  {
-    "id": "7faac906f243",
-    "title": "John Ternus’ first big problem is AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-21T13:37:55",
-    "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtime CEO Tim Cook as chief executive - and the official release doesn't mention AI once. Ternus, curren",
-    "collected_at": "2026-04-21T19:03:08.055306",
-    "ai_summary": "不到一年前，苹果公司因在其年度 WWDC 活动上缺乏人工智能公告而成为头条新闻。十个月后，该公司宣布硬件高管约翰·特纳斯…",
-    "title_zh": "John Ternus 的第一个大问题是人工智能",
-    "summary_zh": "不到一年前，苹果公司因在其年度 WWDC 活动上缺乏人工智能公告而成为头条新闻。十个月后，该公司宣布硬件高管约翰·特纳斯 (John Ternus) 将接替长期担任首席执行官的蒂姆·库克 (Tim Cook) 担任首席执行官，而官方发布的消…"
-  },
-  {
-    "id": "14f356866e9c",
-    "title": "Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗",
-    "url": "https://www.infoq.cn/article/ho3Qjql4dzSwA1loVMMY?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-21T13:19:20",
-    "summary": "Claude封号潮失控！300 万用户企业一夜断供，无理由、无回应，受害者被迫抱团反抗",
-    "collected_at": "2026-04-21T07:26:30.181013",
-    "ai_summary": "Claude大规模封号风波持续，300万用户企业服务中断引发用户集体维权。"
-  },
-  {
-    "id": "1c1798db541e",
-    "title": "GRAI believes AI can make music more social, not replace artists",
-    "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-21T13:00:00",
-    "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
-    "collected_at": "2026-04-21T19:03:08.000092",
-    "title_zh": "GRAI：AI 让音乐更社交化，而非取代艺术家",
-    "ai_summary": "AI音乐创业公司GRAI认为粉丝更想混音创作而非被动听歌",
-    "summary_zh": "人工智能音乐初创公司 GRAI 表示，粉丝们想要重新混音曲目，而不是从头开始生成歌曲"
-  },
-  {
-    "id": "a224803feccd",
-    "title": "The Download: turning down human noise, and LA’s stunning subway upgrade",
-    "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-21T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The noise we make is hurting animals. Can we learn to shut up? As human society has expanded, animals have started struggling to hear one another. For",
-    "collected_at": "2026-04-21T13:07:30.054343",
-    "ai_summary": "MIT科技评论每日速递：降低人类噪声污染、洛杉矶地铁升级等科技要闻",
-    "title_zh": "MIT 每日速递：降低人类噪声污染、洛杉矶地铁惊艳升级",
-    "summary_zh": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。我们发出的噪音正在伤害动物。我们能学会闭嘴吗？随着人类社会的扩展，动物们开始努力倾听彼此的声音。为了"
-  },
-  {
-    "id": "534c41abb2b5",
-    "title": "5月20日，马上AI起来！中国AIGC产业峰会报名已启动｜首波嘉宾官宣",
-    "url": "https://www.qbitai.com/2026/04/404096.html",
-    "source": "量子位",
-    "lang": "zh",
-    "priority": 1,
-    "published": "2026-04-21T12:02:52",
-    "summary": "欢迎报名，北京线下见！",
-    "collected_at": "2026-04-21T13:05:15.134490",
-    "ai_summary": "2026中国AIGC产业峰会将于5月20日举办，首波嘉宾阵容官宣"
-  },
-  {
-    "id": "0d663c2bd36b",
-    "title": "Introducing ChatGPT Images 2.0",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-21T12:00:00",
-    "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
-    "collected_at": "2026-04-23T13:52:36.599808"
-  },
-  {
-    "id": "f5db886a8b45",
-    "title": "Yelp is making its AI chatbot way more useful",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
-    "source": "The Verge AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-21T11:00:00",
-    "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one of several AI-focused updates in recent months, is part of a broader industry push to make AI more re",
-    "collected_at": "2026-04-21T13:07:29.936309",
-    "ai_summary": "Yelp大幅升级AI聊天机器人，搜索和推荐体验显著提升",
-    "title_zh": "Yelp 大幅升级 AI 聊天机器人：搜索推荐体验质的飞跃",
-    "summary_zh": "Yelp 正在对其聊天机器人助手进行重大升级，将该平台转变为更接近数字礼宾服务的平台，并提供了一系列旨在“完成工作”的新功能。此举是近几个月来几项以人工智能为重点的更新之一，是更广泛的行业推动力的一部分，旨在使人工智能更加可靠"
   }
 ]

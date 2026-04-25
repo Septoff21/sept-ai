@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-04-24T19:00:23.383239",
-  "date": "2026-04-24",
+  "updated_at": "2026-04-25T02:45:41.479254",
+  "date": "2026-04-25",
   "spotlight": {
-    "id": "通义千问",
-    "name": "通义千问",
-    "url": "https://tongyi.aliyun.com",
+    "id": "文心一言",
+    "name": "文心一言",
+    "url": "https://yiyan.baidu.com",
     "type": "tool",
-    "description": "阿里巴巴出品的 AI 助手",
+    "description": "百度出品的 AI 助手",
     "pricing": "免费 + API 按量",
     "category": "对话"
   },
   "alternates": [
     {
-      "name": "Browser Use",
-      "url": "https://github.com/browser-use/browser-use",
+      "name": "WebVoyager",
+      "url": "https://github.com/MinorJerry/WebVoyager",
       "type": "agent",
-      "description": "让AI控制浏览器的Agent框架，Python实现",
+      "description": "基于GPT-4V的网页浏览Agent，视觉理解网页内容",
       "pricing": "开源免费",
       "category": "浏览器 Agent"
     },
     {
-      "id": "codeium",
-      "name": "Codeium",
-      "url": "https://codeium.com",
+      "id": "continue",
+      "name": "Continue",
+      "url": "https://continue.dev",
       "type": "tool",
-      "description": "免费 AI 代码补全和聊天，支持 70+ 编辑器",
-      "pricing": "个人免费 + Teams $12/月",
+      "description": "开源 AI 编程助手，可接入任意 LLM",
+      "pricing": "开源免费",
       "category": "编程"
     },
     {
-      "name": "Hermes Agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
+      "name": "Claude Code",
+      "url": "https://docs.anthropic.com/en/docs/claude-code",
       "type": "agent",
-      "description": "Nous Research 开源 AI Agent 框架，支持 Telegram/Discord/CLI，内置记忆和技能系统",
-      "pricing": "开源 + API费用",
-      "category": "助手 Agent"
+      "description": "Anthropic CLI编程智能体，终端内全自主编程",
+      "pricing": "API按量",
+      "category": "编程 Agent"
     }
   ]
 }
