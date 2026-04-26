@@ -1,15 +1,13 @@
 {
-  "date": "2026-04-25",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：TechCrunch AI, Simon Willison, InfoQ AI, 量子位, 36氪, Hacker News AI, Latent Space, ArXiv CS.AI",
+  "date": "2026-04-26",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 36氪, TechCrunch AI, Simon Willison, 量子位, Hacker News AI",
   "news_count": 20,
   "sources": {
-    "TechCrunch AI": 3,
-    "Simon Willison": 3,
-    "InfoQ AI": 2,
-    "量子位": 5,
-    "36氪": 4,
-    "Hacker News AI": 1,
-    "Latent Space": 1,
-    "ArXiv CS.AI": 1
+    "InfoQ AI": 3,
+    "36氪": 8,
+    "TechCrunch AI": 5,
+    "Simon Willison": 2,
+    "量子位": 1,
+    "Hacker News AI": 1
   }
 }

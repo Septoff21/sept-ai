@@ -3671,6 +3671,32 @@
     "collected_at": "2026-04-22T13:10:24.813725"
   },
   {
+    "id": "hf-Lightricks--LTX-2.3-22b-IC-LoRA-HDR",
+    "name": "Lightricks/LTX-2.3-22b-IC-LoRA-HDR",
+    "display_name": "LTX-2.3-22b-IC-LoRA-HDR",
+    "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-HDR",
+    "author": "Lightricks",
+    "pipeline_tag": "any-to-any",
+    "likes": 48,
+    "downloads": 0,
+    "tags": [
+      "ltx-video",
+      "image-to-video",
+      "text-to-video",
+      "any-to-any",
+      "en",
+      "arxiv:2601.03233",
+      "arxiv:2604.11788",
+      "base_model:Lightricks/LTX-2.3",
+      "base_model:finetune:Lightricks/LTX-2.3",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-04-20T09:46:13.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-04-26T03:04:11.592064"
+  },
+  {
     "id": "model-30",
     "name": "Rta-AILabs/Nandi-Mini-150M-Instruct",
     "display_name": "Nandi-Mini-150M-Instruct",
@@ -15268,5 +15294,997 @@
     "created_at": "2026-04-25T18:42:38.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-25T19:04:34.401491"
+  },
+  {
+    "id": "hf-bachthetrollface--kv-cache-var-training-logs",
+    "name": "bachthetrollface/kv-cache-var-training-logs",
+    "display_name": "kv-cache-var-training-logs",
+    "url": "https://huggingface.co/bachthetrollface/kv-cache-var-training-logs",
+    "author": "bachthetrollface",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:03:37.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649489"
+  },
+  {
+    "id": "hf-bachthetrollface--kv-cache-var-results",
+    "name": "bachthetrollface/kv-cache-var-results",
+    "display_name": "kv-cache-var-results",
+    "url": "https://huggingface.co/bachthetrollface/kv-cache-var-results",
+    "author": "bachthetrollface",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:03:34.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649497"
+  },
+  {
+    "id": "hf-kohantika--smart-calendar-qwen-0.5b-sft",
+    "name": "kohantika/smart-calendar-qwen-0.5b-sft",
+    "display_name": "smart-calendar-qwen-0.5b-sft",
+    "url": "https://huggingface.co/kohantika/smart-calendar-qwen-0.5b-sft",
+    "author": "kohantika",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:03:20.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649501"
+  },
+  {
+    "id": "hf-volkerbarth--v1",
+    "name": "volkerbarth/v1",
+    "display_name": "v1",
+    "url": "https://huggingface.co/volkerbarth/v1",
+    "author": "volkerbarth",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:03:13.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649504"
+  },
+  {
+    "id": "hf-A9Rawat--sql-repair-grpo",
+    "name": "A9Rawat/sql-repair-grpo",
+    "display_name": "sql-repair-grpo",
+    "url": "https://huggingface.co/A9Rawat/sql-repair-grpo",
+    "author": "A9Rawat",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "text-generation-inference",
+      "unsloth",
+      "qwen2",
+      "trl",
+      "en",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:03:07.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649508"
+  },
+  {
+    "id": "hf-TeamHuskyNU--lehome-submission-act-100k",
+    "name": "TeamHuskyNU/lehome-submission-act-100k",
+    "display_name": "lehome-submission-act-100k",
+    "url": "https://huggingface.co/TeamHuskyNU/lehome-submission-act-100k",
+    "author": "TeamHuskyNU",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:03:07.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649511"
+  },
+  {
+    "id": "hf-ryaluous--BlackSound",
+    "name": "ryaluous/BlackSound",
+    "display_name": "BlackSound",
+    "url": "https://huggingface.co/ryaluous/BlackSound",
+    "author": "ryaluous",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:01:54.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649514"
+  },
+  {
+    "id": "hf-Ethan159203--marian-finetuned-kde4-en-to-fr",
+    "name": "Ethan159203/marian-finetuned-kde4-en-to-fr",
+    "display_name": "marian-finetuned-kde4-en-to-fr",
+    "url": "https://huggingface.co/Ethan159203/marian-finetuned-kde4-en-to-fr",
+    "author": "Ethan159203",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:01:27.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649517"
+  },
+  {
+    "id": "hf-HelloOjasMutreja--driftdesk-grpo-adapter",
+    "name": "HelloOjasMutreja/driftdesk-grpo-adapter",
+    "display_name": "driftdesk-grpo-adapter",
+    "url": "https://huggingface.co/HelloOjasMutreja/driftdesk-grpo-adapter",
+    "author": "HelloOjasMutreja",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:01:19.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649520"
+  },
+  {
+    "id": "hf-Ethan159203--distilbert-base-uncased-finetuned-imdb",
+    "name": "Ethan159203/distilbert-base-uncased-finetuned-imdb",
+    "display_name": "distilbert-base-uncased-finetuned-imdb",
+    "url": "https://huggingface.co/Ethan159203/distilbert-base-uncased-finetuned-imdb",
+    "author": "Ethan159203",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:01:05.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649522"
+  },
+  {
+    "id": "hf-uieurfie--mano_model",
+    "name": "uieurfie/mano_model",
+    "display_name": "mano_model",
+    "url": "https://huggingface.co/uieurfie/mano_model",
+    "author": "uieurfie",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:00:50.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649525"
+  },
+  {
+    "id": "hf-ZechenBai--OpenVLA-OFT-RL-WM-SweepCup-R2",
+    "name": "ZechenBai/OpenVLA-OFT-RL-WM-SweepCup-R2",
+    "display_name": "OpenVLA-OFT-RL-WM-SweepCup-R2",
+    "url": "https://huggingface.co/ZechenBai/OpenVLA-OFT-RL-WM-SweepCup-R2",
+    "author": "ZechenBai",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:00:48.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649528"
+  },
+  {
+    "id": "hf-bpHigh--qwen3b-office-sft-kimi-long",
+    "name": "bpHigh/qwen3b-office-sft-kimi-long",
+    "display_name": "qwen3b-office-sft-kimi-long",
+    "url": "https://huggingface.co/bpHigh/qwen3b-office-sft-kimi-long",
+    "author": "bpHigh",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:00:11.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649530"
+  },
+  {
+    "id": "hf-Ethan159203--bert-finetuned-ner",
+    "name": "Ethan159203/bert-finetuned-ner",
+    "display_name": "bert-finetuned-ner",
+    "url": "https://huggingface.co/Ethan159203/bert-finetuned-ner",
+    "author": "Ethan159203",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T03:00:08.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649533"
+  },
+  {
+    "id": "hf-munish0838--cenv-trl-grpo-v14",
+    "name": "munish0838/cenv-trl-grpo-v14",
+    "display_name": "cenv-trl-grpo-v14",
+    "url": "https://huggingface.co/munish0838/cenv-trl-grpo-v14",
+    "author": "munish0838",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "safetensors",
+      "arxiv:1910.09700",
+      "base_model:Qwen/Qwen2.5-3B-Instruct",
+      "base_model:adapter:Qwen/Qwen2.5-3B-Instruct",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:59:13.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649536"
+  },
+  {
+    "id": "hf-ArnaudDev--symfony_ai_maker-V0.4-Qwen3-0.6B-GGUF",
+    "name": "ArnaudDev/symfony_ai_maker-V0.4-Qwen3-0.6B-GGUF",
+    "display_name": "symfony_ai_maker-V0.4-Qwen3-0.6B-GGUF",
+    "url": "https://huggingface.co/ArnaudDev/symfony_ai_maker-V0.4-Qwen3-0.6B-GGUF",
+    "author": "ArnaudDev",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "qwen3",
+      "llama.cpp",
+      "unsloth",
+      "endpoints_compatible",
+      "region:us",
+      "conversational"
+    ],
+    "created_at": "2026-04-26T02:59:12.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649539"
+  },
+  {
+    "id": "hf-iotaminer--person-pro-v1",
+    "name": "iotaminer/person-pro-v1",
+    "display_name": "person-pro-v1",
+    "url": "https://huggingface.co/iotaminer/person-pro-v1",
+    "author": "iotaminer",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "onnx",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:59:06.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649541"
+  },
+  {
+    "id": "hf-blmq--MyAwesomeModel-TestRepo",
+    "name": "blmq/MyAwesomeModel-TestRepo",
+    "display_name": "MyAwesomeModel-TestRepo",
+    "url": "https://huggingface.co/blmq/MyAwesomeModel-TestRepo",
+    "author": "blmq",
+    "pipeline_tag": "feature-extraction",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "pytorch",
+      "bert",
+      "feature-extraction",
+      "license:mit",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:58:44.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649544"
+  },
+  {
+    "id": "hf-toola--MyAwesomeModel-TestRepo",
+    "name": "toola/MyAwesomeModel-TestRepo",
+    "display_name": "MyAwesomeModel-TestRepo",
+    "url": "https://huggingface.co/toola/MyAwesomeModel-TestRepo",
+    "author": "toola",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:58:43.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649546"
+  },
+  {
+    "id": "hf-JHeisler--aloha_solo_left_act_removal_reversed_13k",
+    "name": "JHeisler/aloha_solo_left_act_removal_reversed_13k",
+    "display_name": "aloha_solo_left_act_removal_reversed_13k",
+    "url": "https://huggingface.co/JHeisler/aloha_solo_left_act_removal_reversed_13k",
+    "author": "JHeisler",
+    "pipeline_tag": "robotics",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "lerobot",
+      "safetensors",
+      "act",
+      "model_hub_mixin",
+      "pytorch_model_hub_mixin",
+      "robotics",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:58:43.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649549"
+  },
+  {
+    "id": "hf-shrango--lorem_advshape_qwen3-1.7b-base",
+    "name": "shrango/lorem_advshape_qwen3-1.7b-base",
+    "display_name": "lorem_advshape_qwen3-1.7b-base",
+    "url": "https://huggingface.co/shrango/lorem_advshape_qwen3-1.7b-base",
+    "author": "shrango",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "qwen3",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:57:59.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649552"
+  },
+  {
+    "id": "hf-Navigam--deepseek-r1-distill-qwen-14b_sft",
+    "name": "Navigam/deepseek-r1-distill-qwen-14b_sft",
+    "display_name": "deepseek-r1-distill-qwen-14b_sft",
+    "url": "https://huggingface.co/Navigam/deepseek-r1-distill-qwen-14b_sft",
+    "author": "Navigam",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "generated_from_trainer",
+      "unsloth",
+      "trl",
+      "sft",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:57:56.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649555"
+  },
+  {
+    "id": "hf-snehchrist--house-md-sft-gemma3-4b",
+    "name": "snehchrist/house-md-sft-gemma3-4b",
+    "display_name": "house-md-sft-gemma3-4b",
+    "url": "https://huggingface.co/snehchrist/house-md-sft-gemma3-4b",
+    "author": "snehchrist",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "text-generation-inference",
+      "unsloth",
+      "gemma3",
+      "trl",
+      "en",
+      "base_model:unsloth/gemma-3-4b-it-unsloth-bnb-4bit",
+      "base_model:finetune:unsloth/gemma-3-4b-it-unsloth-bnb-4bit",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:57:30.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649557"
+  },
+  {
+    "id": "hf-geocketa--88_Acht",
+    "name": "geocketa/88_Acht",
+    "display_name": "88_Acht",
+    "url": "https://huggingface.co/geocketa/88_Acht",
+    "author": "geocketa",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:57:08.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649560"
+  },
+  {
+    "id": "hf-furproxy--9b-128-gguf",
+    "name": "furproxy/9b-128-gguf",
+    "display_name": "9b-128-gguf",
+    "url": "https://huggingface.co/furproxy/9b-128-gguf",
+    "author": "furproxy",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "endpoints_compatible",
+      "region:us",
+      "conversational"
+    ],
+    "created_at": "2026-04-26T02:56:51.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649563"
+  },
+  {
+    "id": "hf-brodie1of1--war-room-sft-v1",
+    "name": "brodie1of1/war-room-sft-v1",
+    "display_name": "war-room-sft-v1",
+    "url": "https://huggingface.co/brodie1of1/war-room-sft-v1",
+    "author": "brodie1of1",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "safetensors",
+      "base_model:adapter:Qwen/Qwen2.5-7B-Instruct",
+      "lora",
+      "sft",
+      "transformers",
+      "trl",
+      "text-generation",
+      "conversational",
+      "arxiv:1910.09700",
+      "base_model:Qwen/Qwen2.5-7B-Instruct",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:56:30.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649566"
+  },
+  {
+    "id": "hf-Jatin997--Pulse-ER-env",
+    "name": "Jatin997/Pulse-ER-env",
+    "display_name": "Pulse-ER-env",
+    "url": "https://huggingface.co/Jatin997/Pulse-ER-env",
+    "author": "Jatin997",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:56:28.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649568"
+  },
+  {
+    "id": "hf-geocketa--Leoweeii",
+    "name": "geocketa/Leoweeii",
+    "display_name": "Leoweeii",
+    "url": "https://huggingface.co/geocketa/Leoweeii",
+    "author": "geocketa",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:56:18.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649571"
+  },
+  {
+    "id": "hf-ujjwalpardeshi--chakravyuh-scammer-lora-phase1",
+    "name": "ujjwalpardeshi/chakravyuh-scammer-lora-phase1",
+    "display_name": "chakravyuh-scammer-lora-phase1",
+    "url": "https://huggingface.co/ujjwalpardeshi/chakravyuh-scammer-lora-phase1",
+    "author": "ujjwalpardeshi",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "safetensors",
+      "lora",
+      "grpo",
+      "trl",
+      "red-team",
+      "adversarial",
+      "chakravyuh",
+      "upi",
+      "fraud-detection",
+      "base_model:Qwen/Qwen2.5-0.5B-Instruct",
+      "base_model:adapter:Qwen/Qwen2.5-0.5B-Instruct",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:56:03.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649573"
+  },
+  {
+    "id": "hf-Grimoors--orthorl-sft0-combined",
+    "name": "Grimoors/orthorl-sft0-combined",
+    "display_name": "orthorl-sft0-combined",
+    "url": "https://huggingface.co/Grimoors/orthorl-sft0-combined",
+    "author": "Grimoors",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "safetensors",
+      "base_model:adapter:unsloth/Qwen2.5-3B-Instruct-bnb-4bit",
+      "lora",
+      "sft",
+      "transformers",
+      "trl",
+      "unsloth",
+      "text-generation",
+      "conversational",
+      "base_model:unsloth/Qwen2.5-3B-Instruct-bnb-4bit",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:54:31.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649576"
+  },
+  {
+    "id": "hf-Solshine--biorefusalaudit-sae-gemma2-2b-l12-5000steps",
+    "name": "Solshine/biorefusalaudit-sae-gemma2-2b-l12-5000steps",
+    "display_name": "biorefusalaudit-sae-gemma2-2b-l12-5000steps",
+    "url": "https://huggingface.co/Solshine/biorefusalaudit-sae-gemma2-2b-l12-5000steps",
+    "author": "Solshine",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "sparse-autoencoder",
+      "mechanistic-interpretability",
+      "biosecurity",
+      "gemma-2",
+      "safety",
+      "contrastive-sae",
+      "biorefusalaudit",
+      "aixbio-hackathon-2026",
+      "en",
+      "base_model:google/gemma-2-2b-it",
+      "base_model:finetune:google/gemma-2-2b-it",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:54:14.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649579"
+  },
+  {
+    "id": "hf-NeerjaK--spice-qwen-1.5b-grpo",
+    "name": "NeerjaK/spice-qwen-1.5b-grpo",
+    "display_name": "spice-qwen-1.5b-grpo",
+    "url": "https://huggingface.co/NeerjaK/spice-qwen-1.5b-grpo",
+    "author": "NeerjaK",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:53:55.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649581"
+  },
+  {
+    "id": "hf-HeewonLee7--sorting_sd06_v2_0425_ckpt20k",
+    "name": "HeewonLee7/sorting_sd06_v2_0425_ckpt20k",
+    "display_name": "sorting_sd06_v2_0425_ckpt20k",
+    "url": "https://huggingface.co/HeewonLee7/sorting_sd06_v2_0425_ckpt20k",
+    "author": "HeewonLee7",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "AlinVLAv0",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:53:09.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649584"
+  },
+  {
+    "id": "hf-RyanLucas3--Qwen3-8B-Base__qwen3_8b_alt_asymmA_symmW_W6A6__20260425_175038__alt",
+    "name": "RyanLucas3/Qwen3-8B-Base__qwen3_8b_alt_asymmA_symmW_W6A6__20260425_175038__alt",
+    "display_name": "Qwen3-8B-Base__qwen3_8b_alt_asymmA_symmW_W6A6__20260425_175038__alt",
+    "url": "https://huggingface.co/RyanLucas3/Qwen3-8B-Base__qwen3_8b_alt_asymmA_symmW_W6A6__20260425_175038__alt",
+    "author": "RyanLucas3",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:52:57.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649587"
+  },
+  {
+    "id": "hf-ascerfcefc--sanskrit-poetry-qwen3-4b-modern-merged-v2-lora",
+    "name": "ascerfcefc/sanskrit-poetry-qwen3-4b-modern-merged-v2-lora",
+    "display_name": "sanskrit-poetry-qwen3-4b-modern-merged-v2-lora",
+    "url": "https://huggingface.co/ascerfcefc/sanskrit-poetry-qwen3-4b-modern-merged-v2-lora",
+    "author": "ascerfcefc",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "generated_from_trainer",
+      "trl",
+      "hf_jobs",
+      "sft",
+      "base_model:Qwen/Qwen3-4B-Instruct-2507",
+      "base_model:finetune:Qwen/Qwen3-4B-Instruct-2507",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:52:40.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649589"
+  },
+  {
+    "id": "hf-HeewonLee7--sorting_sd04_v2_0425_ckpt20k",
+    "name": "HeewonLee7/sorting_sd04_v2_0425_ckpt20k",
+    "display_name": "sorting_sd04_v2_0425_ckpt20k",
+    "url": "https://huggingface.co/HeewonLee7/sorting_sd04_v2_0425_ckpt20k",
+    "author": "HeewonLee7",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "AlinVLAv0",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:52:22.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649592"
+  },
+  {
+    "id": "hf-HeewonLee7--loading_do6_fd_ckpt20k",
+    "name": "HeewonLee7/loading_do6_fd_ckpt20k",
+    "display_name": "loading_do6_fd_ckpt20k",
+    "url": "https://huggingface.co/HeewonLee7/loading_do6_fd_ckpt20k",
+    "author": "HeewonLee7",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "AlinVLAv0",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:52:13.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649594"
+  },
+  {
+    "id": "hf-Ratrv--smolvla_so101_test_ruben",
+    "name": "Ratrv/smolvla_so101_test_ruben",
+    "display_name": "smolvla_so101_test_ruben",
+    "url": "https://huggingface.co/Ratrv/smolvla_so101_test_ruben",
+    "author": "Ratrv",
+    "pipeline_tag": "robotics",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "lerobot",
+      "safetensors",
+      "robotics",
+      "smolvla",
+      "dataset:Ratrv/so101_v2",
+      "arxiv:2506.01844",
+      "base_model:lerobot/smolvla_base",
+      "base_model:finetune:lerobot/smolvla_base",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:52:08.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649597"
+  },
+  {
+    "id": "hf-GaryNENE--nemotron-nano-8b-reasoning-lora",
+    "name": "GaryNENE/nemotron-nano-8b-reasoning-lora",
+    "display_name": "nemotron-nano-8b-reasoning-lora",
+    "url": "https://huggingface.co/GaryNENE/nemotron-nano-8b-reasoning-lora",
+    "author": "GaryNENE",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "arxiv:2505.00949",
+      "arxiv:2506.13284",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:50:55.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649600"
+  },
+  {
+    "id": "hf-qualia-robotics--smovla-mian-danducaiji-fa5db7b3",
+    "name": "qualia-robotics/smovla-mian-danducaiji-fa5db7b3",
+    "display_name": "smovla-mian-danducaiji-fa5db7b3",
+    "url": "https://huggingface.co/qualia-robotics/smovla-mian-danducaiji-fa5db7b3",
+    "author": "qualia-robotics",
+    "pipeline_tag": "robotics",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "lerobot",
+      "safetensors",
+      "robotics",
+      "smolvla",
+      "dataset:Lakesenberg/Seeed_rebot_miandanducaiji_real_1",
+      "arxiv:2506.01844",
+      "base_model:lerobot/smolvla_base",
+      "base_model:finetune:lerobot/smolvla_base",
+      "license:apache-2.0",
+      "region:eu"
+    ],
+    "created_at": "2026-04-26T02:50:17.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649603"
+  },
+  {
+    "id": "hf-Lakesenberg--smolvla_miandanducaiji",
+    "name": "Lakesenberg/smolvla_miandanducaiji",
+    "display_name": "smolvla_miandanducaiji",
+    "url": "https://huggingface.co/Lakesenberg/smolvla_miandanducaiji",
+    "author": "Lakesenberg",
+    "pipeline_tag": "robotics",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "lerobot",
+      "safetensors",
+      "robotics",
+      "smolvla",
+      "dataset:Lakesenberg/Seeed_rebot_miandanducaiji_real_1",
+      "arxiv:2506.01844",
+      "base_model:lerobot/smolvla_base",
+      "base_model:finetune:lerobot/smolvla_base",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:50:09.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649605"
+  },
+  {
+    "id": "hf-joynnayvedya--disaster-response-trained-merged",
+    "name": "joynnayvedya/disaster-response-trained-merged",
+    "display_name": "disaster-response-trained-merged",
+    "url": "https://huggingface.co/joynnayvedya/disaster-response-trained-merged",
+    "author": "joynnayvedya",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:50:00.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649608"
+  },
+  {
+    "id": "hf-Animesh31215--multi-agent-adaptive-os",
+    "name": "Animesh31215/multi-agent-adaptive-os",
+    "display_name": "multi-agent-adaptive-os",
+    "url": "https://huggingface.co/Animesh31215/multi-agent-adaptive-os",
+    "author": "Animesh31215",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "peft",
+      "safetensors",
+      "base_model:adapter:unsloth/qwen2.5-1.5b-instruct-unsloth-bnb-4bit",
+      "grpo",
+      "lora",
+      "transformers",
+      "trl",
+      "unsloth",
+      "text-generation",
+      "conversational",
+      "arxiv:2402.03300",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:49:48.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649610"
+  },
+  {
+    "id": "hf-minhhotboy9x--MMEB_model_grads",
+    "name": "minhhotboy9x/MMEB_model_grads",
+    "display_name": "MMEB_model_grads",
+    "url": "https://huggingface.co/minhhotboy9x/MMEB_model_grads",
+    "author": "minhhotboy9x",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:49:00.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649613"
+  },
+  {
+    "id": "hf-Realmbird--olmo-3-7b-instruct-sft-eval-aware-lora",
+    "name": "Realmbird/olmo-3-7b-instruct-sft-eval-aware-lora",
+    "display_name": "olmo-3-7b-instruct-sft-eval-aware-lora",
+    "url": "https://huggingface.co/Realmbird/olmo-3-7b-instruct-sft-eval-aware-lora",
+    "author": "Realmbird",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:48:47.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649616"
+  },
+  {
+    "id": "hf-jackf857--qwen3-8b-base-new-dpo-hh-harmless-4xh200-batch-64-q_t-0.45-s_star-0.85",
+    "name": "jackf857/qwen3-8b-base-new-dpo-hh-harmless-4xh200-batch-64-q_t-0.45-s_star-0.85",
+    "display_name": "qwen3-8b-base-new-dpo-hh-harmless-4xh200-batch-64-q_t-0.45-s_star-0.85",
+    "url": "https://huggingface.co/jackf857/qwen3-8b-base-new-dpo-hh-harmless-4xh200-batch-64-q_t-0.45-s_star-0.85",
+    "author": "jackf857",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:48:47.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649618"
+  },
+  {
+    "id": "hf-ezbay--CSE_251B_NanoGPT",
+    "name": "ezbay/CSE_251B_NanoGPT",
+    "display_name": "CSE_251B_NanoGPT",
+    "url": "https://huggingface.co/ezbay/CSE_251B_NanoGPT",
+    "author": "ezbay",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:48:16.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649621"
+  },
+  {
+    "id": "hf-FINAL-Bench--Darwin-28B-KR",
+    "name": "FINAL-Bench/Darwin-28B-KR",
+    "display_name": "Darwin-28B-KR",
+    "url": "https://huggingface.co/FINAL-Bench/Darwin-28B-KR",
+    "author": "FINAL-Bench",
+    "pipeline_tag": "text-generation",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "darwin",
+      "korean",
+      "reasoning",
+      "multimodal",
+      "qwen3.5",
+      "evolutionary-merge",
+      "text-generation",
+      "conversational",
+      "en",
+      "ko",
+      "base_model:FINAL-Bench/Darwin-27B-KR",
+      "base_model:finetune:FINAL-Bench/Darwin-27B-KR",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:48:14.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649624"
+  },
+  {
+    "id": "hf-Nanami14138--qwen3-4b-instruct-code-agent",
+    "name": "Nanami14138/qwen3-4b-instruct-code-agent",
+    "display_name": "qwen3-4b-instruct-code-agent",
+    "url": "https://huggingface.co/Nanami14138/qwen3-4b-instruct-code-agent",
+    "author": "Nanami14138",
+    "pipeline_tag": "",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "qwen3",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:48:13.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649626"
+  },
+  {
+    "id": "hf-SassyDiffusion--gemma-4-E4B-it-heretic",
+    "name": "SassyDiffusion/gemma-4-E4B-it-heretic",
+    "display_name": "gemma-4-E4B-it-heretic",
+    "url": "https://huggingface.co/SassyDiffusion/gemma-4-E4B-it-heretic",
+    "author": "SassyDiffusion",
+    "pipeline_tag": "any-to-any",
+    "likes": 0,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "gemma4",
+      "image-text-to-text",
+      "heretic",
+      "uncensored",
+      "decensored",
+      "abliterated",
+      "ara",
+      "any-to-any",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T02:47:52.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-04-26T03:04:11.649629"
   }
 ]

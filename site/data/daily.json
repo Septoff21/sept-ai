@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-04-25T19:05:23.306506",
-  "date": "2026-04-25",
+  "updated_at": "2026-04-26T03:04:57.624275",
+  "date": "2026-04-26",
   "spotlight": {
-    "id": "文心一言",
-    "name": "文心一言",
-    "url": "https://yiyan.baidu.com",
+    "id": "perplexity",
+    "name": "Perplexity",
+    "url": "https://perplexity.ai",
     "type": "tool",
-    "description": "百度出品的 AI 助手",
-    "pricing": "免费 + API 按量",
-    "category": "对话"
+    "description": "AI 搜索引擎，实时联网回答问题",
+    "pricing": "免费 + Pro $20/月",
+    "category": "搜索"
   },
   "alternates": [
     {
-      "name": "WebVoyager",
-      "url": "https://github.com/MinorJerry/WebVoyager",
+      "name": "Fabric",
+      "url": "https://github.com/danielmiessler/fabric",
       "type": "agent",
-      "description": "基于GPT-4V的网页浏览Agent，视觉理解网页内容",
+      "description": "AI增强人类能力的框架，内置海量Prompt模板",
       "pricing": "开源免费",
-      "category": "浏览器 Agent"
+      "category": "效率 Agent"
     },
     {
-      "id": "continue",
-      "name": "Continue",
-      "url": "https://continue.dev",
+      "id": "windsurf",
+      "name": "Windsurf",
+      "url": "https://codeium.com/windsurf",
       "type": "tool",
-      "description": "开源 AI 编程助手，可接入任意 LLM",
-      "pricing": "开源免费",
+      "description": "Codeium 出品的 AI IDE，内置 Cascade 智能体",
+      "pricing": "免费 + Pro $15/月",
       "category": "编程"
     },
     {
-      "name": "Claude Code",
-      "url": "https://docs.anthropic.com/en/docs/claude-code",
+      "name": "Cursor Agent",
+      "url": "https://cursor.sh",
       "type": "agent",
-      "description": "Anthropic CLI编程智能体，终端内全自主编程",
-      "pricing": "API按量",
+      "description": "Cursor内置Agent模式，后台自主完成复杂编码任务",
+      "pricing": "Pro $20/月",
       "category": "编程 Agent"
     }
   ]
