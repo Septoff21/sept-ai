@@ -12,16 +12,52 @@
     "collected_at": "2026-04-26T03:04:04.750910"
   },
   {
-    "id": "25afd27a9159",
-    "title": "超算互联网推出DeepSeek-V4限时免费对话服务",
-    "url": "https://36kr.com/newsflashes/3783020652518401?f=rss",
+    "id": "dea63a2a392e",
+    "title": "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
+    "url": "https://www.qbitai.com/2026/04/407486.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-26T05:24:56",
+    "summary": "开源，是最好的探针",
+    "collected_at": "2026-04-26T07:43:44.759963"
+  },
+  {
+    "id": "2f536d4923bb",
+    "title": "京东启动AI硬件孵化计划",
+    "url": "https://36kr.com/newsflashes/3783158630948103?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-04-26T02:40:31",
-    "summary": "36氪获悉，4月26日，国家超算互联网推出DeepSeek-V4限时免费对话服务。企业、科研机构及个人开发者只需登录超算互联网进入Chat页面，即可免费体验DeepSeek-V4的百万Token超长上下文实时、流畅对话。此外，开发者还可在超算互联网AI社区下载DeepSeek-V4模型文件，并基于众智FlagOS统一软件栈和超算互联网核心节点部署的万卡超集群系统进行快速部署、推理和开发。",
-    "collected_at": "2026-04-26T03:04:03.303074"
+    "published": "2026-04-26T05:02:53",
+    "summary": "36氪获悉，4月26日，京东宣布启动“Aidol创造营”计划，面向全球征集AI智能硬件项目，希望联合产业伙伴在今年孵化101个AI硬件标杆。据京东介绍，报名截止到5月15日，首期“Aidol创造营”活动将于5月25日至6月18日落地。",
+    "collected_at": "2026-04-26T07:50:41.558000"
+  },
+  {
+    "id": "38dcbaabf4a7",
+    "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
+    "url": "https://www.qbitai.com/2026/04/407465.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-26T04:16:23",
+    "summary": "V4作者之一",
+    "collected_at": "2026-04-26T07:43:44.760008"
+  },
+  {
+    "id": "20b49af35d2d",
+    "title": "国信证券：结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产",
+    "url": "https://36kr.com/newsflashes/3783131237653763?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-26T04:35:00",
+    "summary": "36氪获悉，国信证券发布研报称，年初以来AI相关板块领涨，传统板块明显跑输，4月反弹行情中结构分化愈加明显。综合持仓结构、交易热度、超额轮动三大视角看，目前AI硬件、电新拥挤度较高但或尚未达到极致，AI应用、资源品热度回落至适中水平，消费地产热度仍偏冷。该行认为，市场震荡向上趋势不改，结构上结合行业拥挤度均衡配置，重视科技成长主线、战略资源、以及白酒地产。",
+    "collected_at": "2026-04-26T07:50:41.558058"
   },
   {
     "id": "260990045df4",
@@ -34,6 +70,30 @@
     "published": "2026-04-25T21:43:37",
     "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
     "collected_at": "2026-04-26T03:03:46.562952"
+  },
+  {
+    "id": "25afd27a9159",
+    "title": "超算互联网推出DeepSeek-V4限时免费对话服务",
+    "url": "https://36kr.com/newsflashes/3783020652518401?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-26T02:40:31",
+    "summary": "36氪获悉，4月26日，国家超算互联网推出DeepSeek-V4限时免费对话服务。企业、科研机构及个人开发者只需登录超算互联网进入Chat页面，即可免费体验DeepSeek-V4的百万Token超长上下文实时、流畅对话。此外，开发者还可在超算互联网AI社区下载DeepSeek-V4模型文件，并基于众智FlagOS统一软件栈和超算互联网核心节点部署的万卡超集群系统进行快速部署、推理和开发。",
+    "collected_at": "2026-04-26T03:04:03.303074"
+  },
+  {
+    "id": "a10d9846a6d3",
+    "title": "The AI industry is discovering that the public hates it",
+    "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-25T21:11:11",
+    "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 234 # Comments: 316",
+    "collected_at": "2026-04-26T07:50:33.692948"
   },
   {
     "id": "e31098d4e799",
@@ -168,6 +228,18 @@
     "collected_at": "2026-04-25T19:04:06.907961"
   },
   {
+    "id": "9945f90092cd",
+    "title": "GPT‑5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-25T14:17:31",
+    "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 144 # Comments: 101",
+    "collected_at": "2026-04-26T07:50:33.693000"
+  },
+  {
     "id": "f0cdc78546d0",
     "title": "卡尔动力发布KargoBot Inside",
     "url": "https://36kr.com/newsflashes/3782201831742724?f=rss",
@@ -190,6 +262,18 @@
     "published": "2026-04-25T12:06:55",
     "summary": "Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore. GPT-5.5 takes this further, with strong gains in agentic coding, computer use, and any task on a computer. &mdash; Romain Huet, confirming OpenAI won't release a GPT-5.5-Codex mode",
     "collected_at": "2026-04-25T13:12:54.547815"
+  },
+  {
+    "id": "2483b89aea6b",
+    "title": "Lambda Calculus Benchmark for AI",
+    "url": "https://victortaelin.github.io/lambench/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-25T11:16:23",
+    "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 135 # Comments: 40",
+    "collected_at": "2026-04-26T07:50:33.693034"
   },
   {
     "id": "969926ac837b",
@@ -3505,18 +3589,6 @@
     "collected_at": "2026-04-22T13:10:12.144165"
   },
   {
-    "id": "4b39ffae2c53",
-    "title": "Kernel code removals driven by LLM-created security reports",
-    "url": "https://lwn.net/Articles/1068928/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-22T11:48:07",
-    "summary": "Article URL: https://lwn.net/Articles/1068928/ Comments URL: https://news.ycombinator.com/item?id=47862230 Points: 108 # Comments: 92",
-    "collected_at": "2026-04-23T13:24:01.532218"
-  },
-  {
     "id": "96dad15c27d8",
     "title": "Google Maps is about to get a big dose of AI",
     "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
@@ -3528,18 +3600,6 @@
     "collected_at": "2026-04-22T13:10:12.144186"
   },
   {
-    "id": "2447fb670a86",
-    "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-    "url": "https://deepmind.google/blog/decoupled-diloco/",
-    "source": "Google DeepMind",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-22T10:20:03",
-    "summary": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
-    "collected_at": "2026-04-23T19:17:14.429139"
-  },
-  {
     "id": "14717484ef98",
     "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
     "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
@@ -3549,67 +3609,5 @@
     "published": "2026-04-22T12:00:00",
     "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
     "collected_at": "2026-04-22T13:10:12.144211"
-  },
-  {
-    "id": "e48afa0ae309",
-    "title": "AI needs a strong data fabric to deliver business value",
-    "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-22T10:05:06",
-    "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t",
-    "collected_at": "2026-04-22T13:10:12.289254"
-  },
-  {
-    "id": "867781edbf71",
-    "title": "亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查",
-    "url": "https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "priority": 3,
-    "published": "2026-04-22T10:00:00",
-    "summary": "亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查",
-    "collected_at": "2026-04-22T06:06:45.899987",
-    "content_text": "亚马逊云科技宣布\nDevOps Agent 正式可用\n，这是一款由生成式 AI 驱动的智能助手，旨在帮助开发者和运维人员排查问题、分析部署，并在 AWS 环境中自动化执行运维任务。\n该服务在\n2025 年的 re:Invent 大会上预览发布\n，基于\nAmazon Bedrock AgentCore\n构建。DevOps Agent 通过学习应用关联关系并集成可观测性工具、运行手册、代码仓库和 CI/CD 管道来分析事件。\n该智能体\n可将遥测数据、代码和部署数据关联起来，自主完成问题分类与排查，加快故障解决，并从历史事件中识别规律、给出优化建议，助力防范后续故障。AWS 高级解决方案架构师\nMadhu Balaji\n在宣布正式可用时\n表示\n：\nSRE 在凌晨 2 点收到告警时往往需要手动整合多个来源的遥测数据，梳理跨服务依赖关系并进行问题假设，这一过程通常耗时数小时。随着系统复杂度的增加，对 AI 驱动的运维队友——SRE 智能体的需求变得日益迫切。\n正式可用版本的主要改进包括：支持对 Azure 及本地环境中的应用进行排查、支持通过自定义智能体 Skill 扩展能力，同时新增自定义图表与报告功能。Balaji 补充道：\nDevOps Agent 并非一个被动的问答工具，而是一个能自主行动的运维助手。当事件通过 CloudWatch 告警、PagerDuty 警报、Dynatrace 问题、ServiceNow 工单或通过 WebHook 配置的其他任意事件源触发时，该智能体无需人工干预即可立即启动排查工作。\n在另一篇文章中，Janardhan Molumuri、Bill Fine、Joe Alioto 和 Tipu Qureshi 以一个无服务器 URL 短链应用为例，解释了如何\n利用智能体式 AI 通过 DevOps Agent 实现自主事件响应\n。他们写道：\n借助 MCP 的可扩展性以及与 CloudWatch、Datadog、Dynatrace、New Relic、Splunk、Grafana、GitHub、GitLab 和 Azure DevOps 的内置集成，智能体可以从团队运维数据所在的任意位置获取监测信号。\n来源：AWS 博客\n亚马逊云科技表示，DevOps 团队通常会借助接入日志与监控系统的 AI 编码工具开展事件排查，但这类工具缺乏在大规模复杂生产环境中管理所需上下文信息和运维管控能力。Agentic Hamburg 联合创始人 Sebastian Korfmann\n写道\n：\n早期数据表现亮眼：预览阶段的平均故障恢复时间（MTTR）最高降低 75%，根因分析准确率达到 94%，可与 Datadog、Grafana、Splunk、PagerDuty、ServiceNow 等平台集成。\nThe Duckbill Group 首席云经济学家 Corey Quinn\n评论道\n：\n你花钱让 AI 去做凌晨两点值班工程师的活儿，只不过它事后不会在 Slack 上阴阳怪气地 @ 整个团队。平均故障恢复时间从小时级压缩到分钟级，而账单则从按分钟计费变成了按小时计费。\n在\nReddit 上的一个热门讨论帖\n中，不少开发者对其缺乏问责机制提出了质疑，用户 The_Flexing_Dude 问道：\n这和上个月搞崩生产环境的是同一个吗？\n随着该服务正式可用，\n不再提供免费使用\n，定价基于代理执行运维任务的累计时长，按秒计费。AWS Support 客户可根据上月支持服务支出，获得每月对应的 DevOps Agent 使用额度，可使用额度的百分比随支持级别而定。目前该服务已在六个区域上线，包括弗吉尼亚北部、爱尔兰和法兰克福。\n在另一项公告中，亚马逊云科技宣布\nSecurity Agent 按需渗透测试\n功能正式可用。这款 AI 驱动的智能体可持续分析应用设计、代码和运行时行为，自动执行按需渗透测试并识别可被利用的安全漏洞。\n【声明：本文由 InfoQ 翻译，未经许可禁止转载。】\n查看英文原文：\nhttps://www.infoq.com/news/2026/04/aws-devops-agent-ga/",
-    "content_source": "readability",
-    "content_chars": 1729,
-    "content_excerpt": "亚马逊云科技宣布\nDevOps Agent 正式可用\n，这是一款由生成式 AI 驱动的智能助手，旨在帮助开发者和运维人员排查问题、分析部署，并在 AWS 环境中自动化执行运维任务。\n该服务在\n2025 年的 re:Invent 大会上预览发布\n，基于\nAmazon Bedrock AgentCore\n构建。DevOps Agent 通过学习应用关联关系并集成可观测性工具、运行手册、代码仓库和 CI/CD 管道来分析事件。\n该智能体\n可将遥测数据、代码和部署数据关联起来，自主完成问题分类与排查，加快故障解决，并从历史事件中识别规律、给出优化建议，助力防范后续故障。AWS 高级解决方案架构师",
-    "ai_summary": "AWS 正式推出 DevOps Agent，想把故障排查从“人工拉日志”升级成智能体自动响应。",
-    "summary_zh": "亚马逊云科技宣布 DevOps Agent 正式可用，这个生成式 AI 助手能自动拉取遥测、代码、部署和工单数据，完成事件分类、故障排查与建议输出。相比只会答疑的 AI 工具，它更像一个能主动启动排障流程的运维智能体。"
-  },
-  {
-    "id": "2b392b39fba6",
-    "title": "There is no nature anymore",
-    "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-22T10:00:00",
-    "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scien",
-    "collected_at": "2026-04-22T13:10:12.289445"
-  },
-  {
-    "id": "23b8c7e12156",
-    "title": "Workspace agents",
-    "url": "https://openai.com/academy/workspace-agents",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-22T10:00:00",
-    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-    "collected_at": "2026-04-23T13:52:36.599652"
-  },
-  {
-    "id": "1b8bb1c5acaa",
-    "title": "Los Angeles is finally going underground",
-    "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "priority": 2,
-    "published": "2026-04-22T10:00:00",
-    "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolley",
-    "collected_at": "2026-04-22T13:10:12.289489"
   }
 ]
