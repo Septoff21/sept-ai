@@ -4,10 +4,10 @@
   "news_count": 20,
   "sources": {
     "InfoQ AI": 2,
-    "量子位": 3,
-    "36氪": 7,
-    "TechCrunch AI": 5,
-    "Hacker News AI": 2,
+    "量子位": 4,
+    "36氪": 8,
+    "TechCrunch AI": 4,
+    "Hacker News AI": 1,
     "Simon Willison": 1
   }
 }

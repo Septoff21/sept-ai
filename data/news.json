@@ -12,6 +12,30 @@
     "collected_at": "2026-04-26T03:04:04.750910"
   },
   {
+    "id": "d12d92a17948",
+    "title": "Claude终于认了！降智坐实，越聊越傻，3个bug全曝光",
+    "url": "https://www.qbitai.com/2026/04/407502.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-26T09:56:44",
+    "summary": "模型降智属实，所有使用额度均已重置。",
+    "collected_at": "2026-04-26T13:12:10.649530"
+  },
+  {
+    "id": "718f32ffcc59",
+    "title": "安波福发布“中国定义”核心战略",
+    "url": "https://36kr.com/newsflashes/3783419976391684?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-26T09:10:41",
+    "summary": "36氪获悉，安波福发布“中国定义”的核心战略，安波福中国及亚太区总裁杨晓明解读“中国定义”战略，是以中国创新能力承接全球项目，服务非中国市场。针对智驾出海，安波福计划采用软硬件拆分方式，硬件通用、软件区域适配，同时提供中国芯片与国际芯片方案，满足全球合规。",
+    "collected_at": "2026-04-26T13:19:12.058119"
+  },
+  {
     "id": "dea63a2a392e",
     "title": "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
     "url": "https://www.qbitai.com/2026/04/407486.html",
@@ -3587,27 +3611,5 @@
     "published": "2026-04-22T12:00:00",
     "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
     "collected_at": "2026-04-22T13:10:12.144165"
-  },
-  {
-    "id": "96dad15c27d8",
-    "title": "Google Maps is about to get a big dose of AI",
-    "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-22T12:00:00",
-    "summary": "Generative AI is being infused into Google's popular feature within Maps.",
-    "collected_at": "2026-04-22T13:10:12.144186"
-  },
-  {
-    "id": "14717484ef98",
-    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
-    "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "priority": 1,
-    "published": "2026-04-22T12:00:00",
-    "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
-    "collected_at": "2026-04-22T13:10:12.144211"
   }
 ]
