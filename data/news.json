@@ -12,16 +12,112 @@
     "collected_at": "2026-04-27T08:30:54.752629"
   },
   {
-    "id": "86d148703bef",
-    "title": "Announcing our partnership with the Republic of Korea",
-    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-    "source": "Google DeepMind",
+    "id": "705b1c5bdea9",
+    "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
+    "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-27T07:00:06",
-    "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
-    "collected_at": "2026-04-27T08:30:44.516315"
+    "published": "2026-04-27T13:16:55",
+    "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+    "collected_at": "2026-04-27T14:02:28.632235"
+  },
+  {
+    "id": "a47d3e3f135f",
+    "title": "Rebuilding the data stack for AI",
+    "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-27T13:00:00",
+    "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a",
+    "collected_at": "2026-04-27T14:02:28.813151"
+  },
+  {
+    "id": "d26cae5cca28",
+    "title": "OpenAI could be making a phone with AI agents replacing apps",
+    "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T13:08:59",
+    "summary": "The phone could go in mass production in 2028, an analyst says.",
+    "collected_at": "2026-04-27T14:02:28.632272"
+  },
+  {
+    "id": "cb70df53d4d0",
+    "title": "The next phase of the Microsoft OpenAI partnership",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T13:00:00",
+    "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+    "collected_at": "2026-04-27T14:03:39.550026"
+  },
+  {
+    "id": "2fb3248d42dd",
+    "title": "万兴科技：2025年营收15.3亿元，归母净利减亏44.2%",
+    "url": "https://36kr.com/newsflashes/3785054828911878?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-27T12:42:41",
+    "summary": "36氪获悉，万兴科技公告，2025年营业收入达15.33亿元，同比增长6.46%；归母净利同比减亏44.19%，销售费用率同比降1.87个百分点。其中，核心视频创意业务营收10.2亿元，移动产品收入同比增超60%，AI原生应用收入同比增超90%。",
+    "collected_at": "2026-04-27T14:03:46.378830"
+  },
+  {
+    "id": "459424b62f6d",
+    "title": "打工人五一自救指南：把活全甩给AI，准备免打扰出门",
+    "url": "https://www.qbitai.com/2026/04/408649.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-27T12:19:37",
+    "summary": "假期不想被@工作了",
+    "collected_at": "2026-04-27T14:00:09.035419"
+  },
+  {
+    "id": "5215e584b0cd",
+    "title": "盒马升级大区制，设立AI委员会",
+    "url": "https://36kr.com/newsflashes/3785032906546183?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-27T12:30:29",
+    "summary": "36氪获悉，盒马已内部完成盒马鲜生的管理组织升级，从以主要城市为基本管理单元的城市制，升级为在全国范围内划分的大区制，将以往的19个区域整合为上海大区、华北大区、华中、华南等9个大区。盒马正加紧推进AI时代的数字化变革，设立了由CTO牵头的AI委员会，配置AI BP岗位，优化原有产研工程化架构，实现AI能力与业务需求的直接对接。",
+    "collected_at": "2026-04-27T14:03:46.378862"
+  },
+  {
+    "id": "cbbc45a71bea",
+    "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+    "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-27T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Nota",
+    "collected_at": "2026-04-27T14:02:28.813220"
+  },
+  {
+    "id": "407f31615aa3",
+    "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
+    "url": "https://36kr.com/p/3784879395134465?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-27T11:41:44",
+    "summary": "作者｜黄楠 编辑｜袁斯来 近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。 在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与全球化布局的一次系统验证。从2021年发布第一款无边界智能割草机器人，到2026年累计量产突破100万台，未岚大陆的路径勾勒了一家中国庭院机器人公司的崛起曲线。 未岚大陆第100万台智能割草机器人下线 曲线增长背后是是赛道热度的迅猛攀升。据中国机电产品进出口商会数据，202",
+    "collected_at": "2026-04-27T14:03:46.377613"
   },
   {
     "id": "c6f1a04c1b5c",
@@ -36,16 +132,40 @@
     "collected_at": "2026-04-27T03:28:51.312051"
   },
   {
-    "id": "f623efeaf9c9",
-    "title": "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」",
-    "url": "https://www.qbitai.com/2026/04/407975.html",
+    "id": "3e4eeb47efbf",
+    "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
+    "url": "https://36kr.com/p/3784957482523648?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-27T11:25:19",
+    "summary": "大公司： 谷歌将在韩国新建人工智能园区，韩国总统府证实 韩国总统政策顾问金龙范于周一表示，韩国政府与谷歌达成协议，将在首尔共建一座人工智能园区，深化谷歌与韩国本土技术人才、初创企业的合作。金龙范介绍，韩国总统李在明当日在首尔会见了谷歌深度思维（DeepMind）首席执行官德米斯・哈萨比斯。韩国科学技术部与谷歌就此人工智能园区项目签署了合作谅解备忘录。 法国汽车零部件供应商Forvia 21亿美元出售汽车内饰业务 法国汽车零部件供应商Forvia达成协议，将旗下汽车内饰业务出售给阿波罗全球管理，含债务在内，该业务板块估值约21亿美元。该内饰业务依托覆盖欧洲、北美、亚洲的全球生产与研发基地网络，为",
+    "collected_at": "2026-04-27T14:03:46.377724"
+  },
+  {
+    "id": "f1dfb9eb8bd0",
+    "title": "The AI-designed car is taking shape",
+    "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T11:00:00",
+    "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the di",
+    "collected_at": "2026-04-27T14:02:28.721744"
+  },
+  {
+    "id": "916d22891d83",
+    "title": "量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力",
+    "url": "https://www.qbitai.com/2026/04/408578.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-04-27T06:46:41",
-    "summary": "机器人从“能思考”走向“能干活”",
-    "collected_at": "2026-04-27T08:30:26.400195"
+    "published": "2026-04-27T10:48:17",
+    "summary": "未来人该怎么和AI共存",
+    "collected_at": "2026-04-27T14:00:09.035457"
   },
   {
     "id": "4338cf2c99b4",
@@ -60,16 +180,16 @@
     "collected_at": "2026-04-27T03:28:51.312095"
   },
   {
-    "id": "5d2ef088fb50",
-    "title": "Token驱动未来，城市如何抢占算力新赛道？",
-    "url": "https://www.qbitai.com/2026/04/407960.html",
+    "id": "8fdc938dd211",
+    "title": "Claude第一款AI桌宠硬件，深圳制造",
+    "url": "https://www.qbitai.com/2026/04/408409.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-04-27T06:32:55",
-    "summary": "报名大会现场观摩",
-    "collected_at": "2026-04-27T08:30:26.400272"
+    "published": "2026-04-27T10:01:37",
+    "summary": "深圳供应链又赢了",
+    "collected_at": "2026-04-27T14:00:09.035485"
   },
   {
     "id": "97b41697c241",
@@ -84,16 +204,40 @@
     "collected_at": "2026-04-27T03:28:51.312175"
   },
   {
-    "id": "c3943e1dbab2",
-    "title": "B站官宣首届AI造物联赛 打破传统黑客马拉松模式",
-    "url": "https://www.qbitai.com/2026/04/407917.html",
+    "id": "f60c01e79940",
+    "title": "让孩子画作活起来，用放大镜识万物，给台灯装灵魂……京东JoyInside打造AI硬件时代“超级基础设施”",
+    "url": "https://www.qbitai.com/2026/04/408394.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-04-27T06:27:16",
-    "summary": "B站官宣首届AI造物联赛 打破传统黑客马拉松模式",
-    "collected_at": "2026-04-27T08:30:26.400299"
+    "published": "2026-04-27T09:47:02",
+    "summary": "依托京东JoyInside，这些充满科幻感的AI新物种正走进现实。",
+    "collected_at": "2026-04-27T14:00:09.035564"
+  },
+  {
+    "id": "86d148703bef",
+    "title": "Announcing our partnership with the Republic of Korea",
+    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "source": "Google DeepMind",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T07:00:06",
+    "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+    "collected_at": "2026-04-27T08:30:44.516315"
+  },
+  {
+    "id": "f309c1103bf6",
+    "title": "芒果传媒与爱诗科技达成战略合作，全栈AI视频能力接入芒果内容生态",
+    "url": "https://www.qbitai.com/2026/04/408390.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-27T09:28:36",
+    "summary": "AI视频技术能力进入产业应用阶段",
+    "collected_at": "2026-04-27T14:00:09.035590"
   },
   {
     "id": "28778d94ff7b",
@@ -108,16 +252,16 @@
     "collected_at": "2026-04-27T08:30:46.744402"
   },
   {
-    "id": "f257b4595b7e",
-    "title": "探索智能新边界！灵光在手机端上线“体验世界模型”功能",
-    "url": "https://www.qbitai.com/2026/04/407909.html",
+    "id": "ea5c19f043fb",
+    "title": "Meshy用户破千万后杀向新战场：ARR年翻14倍，头部厂商集体买单",
+    "url": "https://www.qbitai.com/2026/04/408049.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-04-27T06:03:17",
-    "summary": "一张照片，一部手机，你就能在AI造的世界里漫步。",
-    "collected_at": "2026-04-27T08:30:26.400397"
+    "published": "2026-04-27T08:27:53",
+    "summary": "最新上线创意工坊，打通“AI创意”",
+    "collected_at": "2026-04-27T14:00:09.035672"
   },
   {
     "id": "78f67eb1eb4a",
@@ -132,6 +276,18 @@
     "collected_at": "2026-04-27T08:30:46.744490"
   },
   {
+    "id": "f623efeaf9c9",
+    "title": "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」",
+    "url": "https://www.qbitai.com/2026/04/407975.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-27T06:46:41",
+    "summary": "机器人从“能思考”走向“能干活”",
+    "collected_at": "2026-04-27T08:30:26.400195"
+  },
+  {
     "id": "5dabdf035dc9",
     "title": "Focus Session: Hardware and Software Techniques for Accelerating Multimodal Foundation Models",
     "url": "https://arxiv.org/abs/2604.21952",
@@ -142,6 +298,18 @@
     "published": "2026-04-27T04:00:00",
     "summary": "arXiv:2604.21952v1 Announce Type: new Abstract: This work presents a multi-layered methodology for efficiently accelerating multimodal foundation models (MFMs). It combines hardware and software co-design of transformer blocks with an optimization pipeline that reduces computational and memory requi",
     "collected_at": "2026-04-27T08:30:47.027721"
+  },
+  {
+    "id": "5d2ef088fb50",
+    "title": "Token驱动未来，城市如何抢占算力新赛道？",
+    "url": "https://www.qbitai.com/2026/04/407960.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-27T06:32:55",
+    "summary": "报名大会现场观摩",
+    "collected_at": "2026-04-27T08:30:26.400272"
   },
   {
     "id": "57db0fbefa6b",
@@ -156,6 +324,18 @@
     "collected_at": "2026-04-27T08:30:46.744564"
   },
   {
+    "id": "c3943e1dbab2",
+    "title": "B站官宣首届AI造物联赛 打破传统黑客马拉松模式",
+    "url": "https://www.qbitai.com/2026/04/407917.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-27T06:27:16",
+    "summary": "B站官宣首届AI造物联赛 打破传统黑客马拉松模式",
+    "collected_at": "2026-04-27T08:30:26.400299"
+  },
+  {
     "id": "164e15a9040f",
     "title": "Performance Anomaly Detection in Athletics: A Benchmarking System with Visual Analytics",
     "url": "https://arxiv.org/abs/2604.21953",
@@ -166,6 +346,18 @@
     "published": "2026-04-27T04:00:00",
     "summary": "arXiv:2604.21953v1 Announce Type: new Abstract: Anti-doping programs rely on biological testing to detect performance-enhancing drugs, but such testing costs over $800 per sample and is limited by short detection windows for many prohibited substances. These constraints leave large portions of athle",
     "collected_at": "2026-04-27T08:30:47.027796"
+  },
+  {
+    "id": "f257b4595b7e",
+    "title": "探索智能新边界！灵光在手机端上线“体验世界模型”功能",
+    "url": "https://www.qbitai.com/2026/04/407909.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-27T06:03:17",
+    "summary": "一张照片，一部手机，你就能在AI造的世界里漫步。",
+    "collected_at": "2026-04-27T08:30:26.400397"
   },
   {
     "id": "65fd971fbb37",
@@ -1608,16 +1800,16 @@
     "collected_at": "2026-04-25T07:28:53.309941"
   },
   {
-    "id": "64c3773dc988",
-    "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
-    "url": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
+    "id": "6c675e87f2f0",
+    "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
+    "url": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-04-24T18:46:43",
+    "published": "2026-04-24T18:48:28",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-24T18:59:34.729720"
+    "collected_at": "2026-04-27T14:03:47.920369"
   },
   {
     "id": "e99027b0164d",
@@ -1632,16 +1824,16 @@
     "collected_at": "2026-04-25T07:28:53.310058"
   },
   {
-    "id": "92d1b47d9b81",
-    "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
-    "url": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article",
+    "id": "64c3773dc988",
+    "title": "Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了",
+    "url": "https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-04-24T18:39:14",
+    "published": "2026-04-24T18:46:43",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-24T18:59:34.729748"
+    "collected_at": "2026-04-24T18:59:34.729720"
   },
   {
     "id": "469b0fb9e00f",
@@ -1656,16 +1848,16 @@
     "collected_at": "2026-04-25T07:28:42.655230"
   },
   {
-    "id": "6aa5dbd36c01",
-    "title": "Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人",
-    "url": "https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP?utm_source=rss&utm_medium=article",
+    "id": "92d1b47d9b81",
+    "title": "当互联网用AI卷效率时，这家公司先问了一连串“能不能”",
+    "url": "https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-04-24T18:34:59",
+    "published": "2026-04-24T18:39:14",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-24T18:59:34.729777"
+    "collected_at": "2026-04-24T18:59:34.729748"
   },
   {
     "id": "bf3da348fb36",
@@ -1678,6 +1870,18 @@
     "published": "2026-04-24T18:06:05",
     "summary": "Article URL: https://arxiv.org/abs/2604.21691 Comments URL: https://news.ycombinator.com/item?id=47893779 Points: 205 # Comments: 81",
     "collected_at": "2026-04-25T07:28:42.655282"
+  },
+  {
+    "id": "6aa5dbd36c01",
+    "title": "Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人",
+    "url": "https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-24T18:34:59",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-24T18:59:34.729777"
   },
   {
     "id": "1b3680d029f5",
@@ -3394,209 +3598,5 @@
     "published": "2026-04-23T04:00:00",
     "summary": "arXiv:2604.19877v1 Announce Type: new Abstract: We release Super Apriel, a 15B-parameter supernet in which every decoder layer provides four trained mixer choices -- Full Attention (FA), Sliding Window Attention (SWA), Kimi Delta Attention (KDA), and Gated DeltaNet (GDN). A placement selects one mix",
     "collected_at": "2026-04-23T13:52:38.932890"
-  },
-  {
-    "id": "1e3c6ff42ae3",
-    "title": "AutomationBench",
-    "url": "https://arxiv.org/abs/2604.18934",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18934v1 Announce Type: new Abstract: Existing AI benchmarks for software automation rarely combine cross-application coordination, autonomous API discovery, and policy adherence. Real business workflows demand all three: a single task may span a CRM, inbox, calendar, and messaging platfor",
-    "collected_at": "2026-04-23T13:52:38.669449"
-  },
-  {
-    "id": "18e1969c2b7c",
-    "title": "A Multi-Plant Machine Learning Framework for Emission Prediction, Forecasting, and Control in Cement Manufacturing",
-    "url": "https://arxiv.org/abs/2604.19903",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19903v1 Announce Type: new Abstract: Cement production is among the largest contributors to industrial air pollution, emitting ~3 Mt NOx/year. The industry-standard mitigation approach, selective non-catalytic reduction (SNCR), exhibits low NH3 utilization efficiency, resulting in operati",
-    "collected_at": "2026-04-23T13:52:38.932967"
-  },
-  {
-    "id": "1e03a67e141b",
-    "title": "Personalized Benchmarking: Evaluating LLMs by Individual Preferences",
-    "url": "https://arxiv.org/abs/2604.18943",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18943v1 Announce Type: new Abstract: With the rise in capabilities of large language models (LLMs) and their deployment in real-world tasks, evaluating LLM alignment with human preferences has become an important challenge. Current benchmarks average preferences across all users to comput",
-    "collected_at": "2026-04-23T13:52:38.669525"
-  },
-  {
-    "id": "4c764eca0493",
-    "title": "Physics-Guided Dimension Reduction for Simulation-Free Operator Learning of Stiff Differential--Algebraic Systems",
-    "url": "https://arxiv.org/abs/2604.19930",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19930v1 Announce Type: new Abstract: Neural surrogates for stiff differential-algebraic equations (DAEs) face two key challenges: soft-constraint methods leave algebraic residuals that stiffness amplifies into large errors, while hard-constraint methods require trajectory data from comput",
-    "collected_at": "2026-04-23T13:52:38.933042"
-  },
-  {
-    "id": "580ce5b3a4a9",
-    "title": "Reasoning Structure Matters for Safety Alignment of Reasoning Models",
-    "url": "https://arxiv.org/abs/2604.18946",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18946v1 Announce Type: new Abstract: Large reasoning models (LRMs) achieve strong performance on complex reasoning tasks but often generate harmful responses to malicious user queries. This paper investigates the underlying cause of these safety risks and shows that the issue lies in the",
-    "collected_at": "2026-04-23T13:52:38.669608"
-  },
-  {
-    "id": "fb57b369516f",
-    "title": "Generalization and Membership Inference Attack a Practical Perspective",
-    "url": "https://arxiv.org/abs/2604.19936",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19936v1 Announce Type: new Abstract: With the emergence of new evaluation metrics and attack methodologies for Membership Inference Attacks (MIA), it becomes essential to reevaluate previously accepted assumptions. In this paper, we revisit the longstanding debate regarding the correlatio",
-    "collected_at": "2026-04-23T13:52:38.933122"
-  },
-  {
-    "id": "2d2f5eb3a305",
-    "title": "DW-Bench: Benchmarking LLMs on Data Warehouse Graph Topology Reasoning",
-    "url": "https://arxiv.org/abs/2604.18964",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18964v1 Announce Type: new Abstract: This paper introduces DW-Bench, a new benchmark that evaluates large language models (LLMs) on graph-topology reasoning over data warehouse schemas, explicitly integrating both foreign-key (FK) and data-lineage edges. The benchmark comprises 1,046 auto",
-    "collected_at": "2026-04-23T13:52:38.669650"
-  },
-  {
-    "id": "809e2aee240d",
-    "title": "Are LLM Uncertainty and Correctness Encoded by the Same Features? A Functional Dissociation via Sparse Autoencoders",
-    "url": "https://arxiv.org/abs/2604.19974",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19974v1 Announce Type: new Abstract: Large language models can be uncertain yet correct, or confident yet wrong, raising the question of whether their output-level uncertainty and their actual correctness are driven by the same internal mechanisms or by distinct feature populations. We in",
-    "collected_at": "2026-04-23T13:52:38.933201"
-  },
-  {
-    "id": "722e6684a441",
-    "title": "SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution",
-    "url": "https://arxiv.org/abs/2604.18982",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18982v1 Announce Type: new Abstract: Social intelligence, the ability to navigate complex interpersonal interactions, presents a fundamental challenge for language agents. Training such agents via reinforcement learning requires solving the credit assignment problem: determining how indiv",
-    "collected_at": "2026-04-23T13:52:38.669735"
-  },
-  {
-    "id": "395aa3ce5ded",
-    "title": "Fast Amortized Fitting of Scientific Signals Across Time and Ensembles via Transferable Neural Fields",
-    "url": "https://arxiv.org/abs/2604.19979",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19979v1 Announce Type: new Abstract: Neural fields, also known as implicit neural representations (INRs), offer a powerful framework for modeling continuous geometry, but their effectiveness in high-dimensional scientific settings is limited by slow convergence and scaling challenges. In",
-    "collected_at": "2026-04-23T13:52:38.933295"
-  },
-  {
-    "id": "a6839406ab7b",
-    "title": "On Accelerating Grounded Code Development for Research",
-    "url": "https://arxiv.org/abs/2604.19022",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19022v1 Announce Type: new Abstract: A major challenge for niche scientific and technical domains in leveraging coding agents is the lack of access to up-to-date, domain- specific knowledge. Foundational models often demonstrate limited reasoning capabilities in specialized fields and can",
-    "collected_at": "2026-04-23T13:52:38.669802"
-  },
-  {
-    "id": "4556f6f9cc3d",
-    "title": "Multi-Objective Reinforcement Learning for Generating Covalent Inhibitor Candidates",
-    "url": "https://arxiv.org/abs/2604.20019",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.20019v1 Announce Type: new Abstract: Rational design of covalent inhibitors requires simultaneously optimizing multiple properties, such as binding affinity, target selectivity, or electrophilic reactivity. This presents a multi-objective problem not easily addressed by screening alone. H",
-    "collected_at": "2026-04-23T13:52:38.933397"
-  },
-  {
-    "id": "168c799d5da2",
-    "title": "Plausible Reasoning and First-Order Plausible Logic",
-    "url": "https://arxiv.org/abs/2604.19036",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19036v1 Announce Type: new Abstract: Defeasible statements are statements that are likely, or probable, or usually true, but may occasionally be false. Plausible reasoning makes conclusions from statements that are either facts or defeasible statements without using numbers. So there are",
-    "collected_at": "2026-04-23T13:52:38.669895"
-  },
-  {
-    "id": "f8cee41fe6ee",
-    "title": "Continuous Semantic Caching for Low-Cost LLM Serving",
-    "url": "https://arxiv.org/abs/2604.20021",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.20021v1 Announce Type: new Abstract: As Large Language Models (LLMs) become increasingly popular, caching responses so that they can be reused by users with semantically similar queries has become a vital strategy for reducing inference costs and latency. Existing caching frameworks have",
-    "collected_at": "2026-04-23T13:52:38.933476"
-  },
-  {
-    "id": "670193f8e6d5",
-    "title": "Learning Lifted Action Models from Unsupervised Visual Traces",
-    "url": "https://arxiv.org/abs/2604.19043",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19043v1 Announce Type: new Abstract: Efficient construction of models capturing the preconditions and effects of actions is essential for applying AI planning in real-world domains. Extensive prior work has explored learning such models from high-level descriptions of state and/or action",
-    "collected_at": "2026-04-23T13:52:38.669959"
-  },
-  {
-    "id": "789cb7978700",
-    "title": "Statistics, Not Scale: Modular Medical Dialogue with Bayesian Belief Engine",
-    "url": "https://arxiv.org/abs/2604.20022",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.20022v1 Announce Type: new Abstract: Large language models are increasingly deployed as autonomous diagnostic agents, yet they conflate two fundamentally different capabilities: natural-language communication and probabilistic reasoning. We argue that this conflation is an architectural f",
-    "collected_at": "2026-04-23T13:52:38.933553"
-  },
-  {
-    "id": "92f0a423601f",
-    "title": "Reinforcement Learning Improves LLM Accuracy and Reasoning in Disease Classification from Radiology Reports",
-    "url": "https://arxiv.org/abs/2604.19060",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19060v1 Announce Type: new Abstract: Accurate disease classification from radiology reports is essential for many applications. While supervised fine-tuning (SFT) of lightweight LLMs improves accuracy, it can degrade reasoning. We propose a two-stage approach: SFT on disease labels follow",
-    "collected_at": "2026-04-23T13:52:38.670004"
   }
 ]

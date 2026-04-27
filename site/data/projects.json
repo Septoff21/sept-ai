@@ -3747,6 +3747,35 @@
     "collected_at": "2026-04-20T18:54:53.609604"
   },
   {
+    "id": "github-1222369300",
+    "name": "6551-Team/ai-auto-trading",
+    "display_name": "ai-auto-trading",
+    "url": "https://github.com/6551-Team/ai-auto-trading",
+    "description": "NexusQuant: AI-driven multi-strategy crypto trading on VoltAgent. Gate.io & Binance, adaptive risk, Node.js/TypeScript, AGPL-3.0.",
+    "stars": 73,
+    "forks": 0,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "artificial-intelligence",
+      "automated-trading",
+      "bitcoin",
+      "ccxt",
+      "cryptocurrency",
+      "gate-io",
+      "nexus-quant",
+      "nodejs",
+      "trading",
+      "typescript",
+      "voltagent"
+    ],
+    "created_at": "2026-04-27T09:48:43Z",
+    "updated_at": "2026-04-27T13:55:58Z",
+    "license": "AGPL-3.0",
+    "source": "github-search",
+    "collected_at": "2026-04-27T14:03:55.425618"
+  },
+  {
     "id": "github-1200802466",
     "name": "activeloopai/hivemind",
     "display_name": "hivemind",
@@ -3852,6 +3881,34 @@
     "license": "MIT",
     "source": "github-search",
     "collected_at": "2026-04-23T19:17:25.393405"
+  },
+  {
+    "id": "github-1222376200",
+    "name": "Udacity-ai/crypto-liquidity-ai-trading-bot",
+    "display_name": "crypto-liquidity-ai-trading-bot",
+    "url": "https://github.com/Udacity-ai/crypto-liquidity-ai-trading-bot",
+    "description": "AI trading bot: liquidity detection, order-book gaps, hidden walls, and sweeps. Signals for quants, firms, and algorithmic/AI execution. MIT. Order-book microstructure focus.",
+    "stars": 42,
+    "forks": 40,
+    "language": "JavaScript",
+    "topics": [
+      "algorithmic-trading",
+      "artificial-intelligence",
+      "crypto",
+      "cryptocurrency",
+      "defi",
+      "liquidity",
+      "market-microstructure",
+      "mongodb",
+      "nodejs",
+      "order-book",
+      "trading-bot"
+    ],
+    "created_at": "2026-04-27T09:57:19Z",
+    "updated_at": "2026-04-27T13:45:51Z",
+    "license": "",
+    "source": "github-search",
+    "collected_at": "2026-04-27T14:03:55.425639"
   },
   {
     "id": "github-1193342201",
