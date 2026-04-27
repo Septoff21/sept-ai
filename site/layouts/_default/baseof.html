@@ -340,14 +340,14 @@
 
         /* ─── Search box ─────────────────────────────────────── */
         .search-box {
-            width: 100%; padding: 10px 14px;
+            width: 100%; padding: 11px 80px 11px 16px;
             border-radius: var(--radius);
             border: 1px solid var(--border);
-            background: var(--bg); color: var(--text);
+            background: var(--bg2); color: var(--text);
             font-size: 14px; outline: none;
-            transition: border-color var(--transition);
+            transition: border-color var(--transition), box-shadow var(--transition);
         }
-        .search-box:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(204,120,92,0.12); }
+        .search-box:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(204,120,92,0.12); background: var(--bg); }
 
         /* ─── Random / CTA buttons ───────────────────────────── */
         .random-btn {
@@ -444,10 +444,20 @@
 
     <footer>
         <div class="container">
-            <p>Sept-AI — AI navigator refreshed every 6 hours &nbsp;·&nbsp;
-               <a href="{{ relURL "/" }}" style="color:var(--text3)">Home</a> &nbsp;·&nbsp;
-               <a href="{{ relURL "/me/" }}" style="color:var(--text3)">About</a>
-            </p>
+            <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px">
+                <div style="display:flex;align-items:center;gap:8px">
+                    <span style="color:var(--accent);font-weight:700;font-size:13px">SEPT-AI</span>
+                    <span style="color:var(--text3);font-size:12px">— AI navigator, refreshed every 6 h</span>
+                </div>
+                <div style="display:flex;gap:16px;font-size:12px">
+                    <a href="{{ relURL "/" }}"         style="color:var(--text3);text-decoration:none" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text3)'">Home</a>
+                    <a href="{{ relURL "/tools/" }}"   style="color:var(--text3);text-decoration:none" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text3)'">Tools</a>
+                    <a href="{{ relURL "/models/" }}"  style="color:var(--text3);text-decoration:none" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text3)'">Models</a>
+                    <a href="{{ relURL "/news/" }}"    style="color:var(--text3);text-decoration:none" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text3)'">News</a>
+                    <a href="{{ relURL "/me/" }}"      style="color:var(--text3);text-decoration:none" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text3)'">Me</a>
+                    <a href="https://github.com/Septoff21/sept-ai" target="_blank" rel="noopener" style="color:var(--text3);text-decoration:none" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text3)'">GitHub</a>
+                </div>
+            </div>
         </div>
     </footer>
 

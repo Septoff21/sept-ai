@@ -1,594 +1,405 @@
 {{ define "main" }}
 
-<h1 style="font-size:1px;color:transparent;position:absolute;pointer-events:none">Sept-AI — an AI navigator & knowledge hub, refreshed every 6 hours</h1>
+<!-- ── Stat bar ──────────────────────────────────────────── -->
+<div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:24px;padding:11px 16px;background:var(--bg2);border:1px solid var(--border);border-radius:10px;font-size:13px">
+    <span style="color:var(--accent);font-weight:800;letter-spacing:-0.3px">SEPT-AI</span>
+    <span style="color:var(--border2)">|</span>
+    <span style="color:var(--text2)">{{ len site.Data.tools }}+ tools</span>
+    <span style="color:var(--text3)">·</span>
+    <span style="color:var(--text2)">{{ len site.Data.models }}+ models</span>
+    <span style="color:var(--text3)">·</span>
+    <span style="color:var(--text2)">{{ len site.Data.news }} articles indexed</span>
+    <div style="margin-left:auto;display:flex;align-items:center;gap:6px;color:var(--green);font-size:12px;font-weight:500">
+        <span style="width:6px;height:6px;background:var(--green);border-radius:50%;display:inline-block;animation:pulse 2s infinite"></span>
+        Live · every 6 h
+    </div>
+</div>
 
+<!-- ── Search ─────────────────────────────────────────────── -->
+<div style="margin-bottom:24px;position:relative">
+    <input type="text" class="search-box" placeholder="Search tools, models, news…" id="searchInput" autocomplete="off">
+    <span style="position:absolute;right:12px;top:50%;transform:translateY(-50%);font-size:11px;color:var(--text3);background:var(--bg3);padding:2px 7px;border-radius:5px;pointer-events:none">Ctrl K</span>
+    <div id="searchResults"></div>
+</div>
+
+<!-- ── Quick access ───────────────────────────────────────── -->
+<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:24px">
+    <a href="{{ relURL "/tools/" }}"
+       style="display:flex;align-items:center;gap:10px;padding:14px;background:var(--bg2);border:1px solid var(--border);border-radius:10px;text-decoration:none;color:inherit;transition:border-color 0.18s,background 0.18s"
+       onmouseover="this.style.borderColor='var(--accent)';this.style.background='var(--bg3)'"
+       onmouseout="this.style.borderColor='var(--border)';this.style.background='var(--bg2)'">
+        <div style="width:36px;height:36px;background:rgba(204,120,92,0.12);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+            <svg data-lucide="wrench" style="width:17px;height:17px;color:var(--accent)"></svg>
+        </div>
+        <div>
+            <div style="font-size:13px;font-weight:700;color:var(--text)">Tools</div>
+            <div style="font-size:11px;color:var(--text3);margin-top:1px">{{ len site.Data.tools }}+ ready to use</div>
+        </div>
+    </a>
+    <a href="{{ relURL "/models/" }}"
+       style="display:flex;align-items:center;gap:10px;padding:14px;background:var(--bg2);border:1px solid var(--border);border-radius:10px;text-decoration:none;color:inherit;transition:border-color 0.18s,background 0.18s"
+       onmouseover="this.style.borderColor='var(--accent)';this.style.background='var(--bg3)'"
+       onmouseout="this.style.borderColor='var(--border)';this.style.background='var(--bg2)'">
+        <div style="width:36px;height:36px;background:rgba(124,58,237,0.12);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+            <svg data-lucide="brain" style="width:17px;height:17px;color:#7c3aed"></svg>
+        </div>
+        <div>
+            <div style="font-size:13px;font-weight:700;color:var(--text)">Models</div>
+            <div style="font-size:11px;color:var(--text3);margin-top:1px">Top LLMs ranked</div>
+        </div>
+    </a>
+    <a href="{{ relURL "/agents/" }}"
+       style="display:flex;align-items:center;gap:10px;padding:14px;background:var(--bg2);border:1px solid var(--border);border-radius:10px;text-decoration:none;color:inherit;transition:border-color 0.18s,background 0.18s"
+       onmouseover="this.style.borderColor='var(--accent)';this.style.background='var(--bg3)'"
+       onmouseout="this.style.borderColor='var(--border)';this.style.background='var(--bg2)'">
+        <div style="width:36px;height:36px;background:rgba(6,182,212,0.12);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0">
+            <svg data-lucide="bot" style="width:17px;height:17px;color:var(--neon-cyan)"></svg>
+        </div>
+        <div>
+            <div style="font-size:13px;font-weight:700;color:var(--text)">Agents</div>
+            <div style="font-size:11px;color:var(--text3);margin-top:1px">Coding · browser · multi</div>
+        </div>
+    </a>
+</div>
+
+<!-- ── Main 2-col grid ────────────────────────────────────── -->
 <div class="grid">
 <div>
-    <!-- Search box -->
-    <div style="margin-bottom:20px">
-        <input type="text" class="search-box" placeholder="🔍 Search tools, models, news... (Ctrl+K)" id="searchInput">
-        <div id="searchResults"></div>
-    </div>
 
-    <!-- Newcomer guide -->
-    <div class="card" style="margin-bottom:24px;background:linear-gradient(135deg,rgba(255,107,53,0.08),rgba(99,102,241,0.06));border-color:rgba(255,107,53,0.25)">
-        <div class="card-title">🧭 Where to start?</div>
-        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px">
-            <a href="{{ relURL "/tools/" }}" style="text-decoration:none;color:inherit;padding:14px;border:1px solid var(--border);border-radius:10px;background:var(--bg2)">
-                <div style="font-weight:700;color:var(--text1);margin-bottom:6px">New here — show me usable AI tools</div>
-                <div style="font-size:13px;color:var(--text2)">Hit the tools directory first: hot picks, free tiers, ready to use today.</div>
-            </a>
-            <a href="{{ relURL "/models/" }}" style="text-decoration:none;color:inherit;padding:14px;border:1px solid var(--border);border-radius:10px;background:var(--bg2)">
-                <div style="font-weight:700;color:var(--text1);margin-bottom:6px">Show me the top models right now</div>
-                <div style="font-size:13px;color:var(--text2)">Curated shortlist of top generalists, best-for-coding picks, and leading multimodal models.</div>
-            </a>
-            <a href="{{ relURL "/agents/" }}" style="text-decoration:none;color:inherit;padding:14px;border:1px solid var(--border);border-radius:10px;background:var(--bg2)">
-                <div style="font-weight:700;color:var(--text1);margin-bottom:6px">I'm looking for agents & automation</div>
-                <div style="font-size:13px;color:var(--text2)">Coding agents, browser agents, and multi-agent frameworks — all in one place.</div>
-            </a>
-        </div>
+<!-- Trending ───────────────────────────────────────────── -->
+<div class="card" style="border-top:2px solid var(--accent)">
+    <div class="card-title">
+        <svg data-lucide="flame" style="width:16px;height:16px;color:var(--accent)"></svg>
+        Today's Trending
+        <span class="hot-badge fire" style="margin-left:4px">Every 6 h</span>
+        <a href="{{ relURL "/news/" }}" style="margin-left:auto;font-size:12px;color:var(--text3);font-weight:400;text-decoration:none" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text3)'">All news →</a>
     </div>
-
-    <!-- Today's Trending -->
-    <div class="card" style="border-color:var(--accent)">
-        <div class="card-title">🔥 Today's Trending <span class="hot-badge fire">Every 6h</span></div>
-        {{ $hot := site.Data.hot }}
-        {{ if $hot }}
-            {{ $items := $hot.items }}
-            {{ if not $items }}{{ $items = $hot.top_20 }}{{ end }}
-            {{ if not $items }}{{ $items = $hot.hot_list }}{{ end }}
-            {{ $newsData := site.Data.news }}
-            {{ range $index, $item := $items }}
-            {{ $itemUrl := $item.url | default "" }}
-            {{ $itemUrlNorm := replaceRE "/$" "" $itemUrl }}
-            {{ $itemTitleNorm := lower ($item.title | default "") }}
-            {{ $matchedNews := dict }}
-            {{ if eq $item.type "news" }}
-                {{ if $itemUrl }}
-                    {{ $byUrl := where $newsData "url" $itemUrl }}
-                    {{ if gt (len $byUrl) 0 }}
-                        {{ $matchedNews = index $byUrl 0 }}
-                    {{ else }}
-                        {{ range $newsData }}
-                            {{ if and (not ($matchedNews.id)) (eq (replaceRE "/$" "" (.url | default "")) $itemUrlNorm) }}
-                                {{ $matchedNews = . }}
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-                {{ end }}
-                {{ if and (not ($matchedNews.id)) $itemTitleNorm }}
+    {{ $hot := site.Data.hot }}
+    {{ if $hot }}
+        {{ $items := $hot.items }}
+        {{ if not $items }}{{ $items = $hot.top_20 }}{{ end }}
+        {{ if not $items }}{{ $items = $hot.hot_list }}{{ end }}
+        {{ $newsData := site.Data.news }}
+        {{ range $index, $item := $items }}
+        {{ $itemUrl := $item.url | default "" }}
+        {{ $itemUrlNorm := replaceRE "/$" "" $itemUrl }}
+        {{ $itemTitleNorm := lower ($item.title | default "") }}
+        {{ $matchedNews := dict }}
+        {{ if eq $item.type "news" }}
+            {{ if $itemUrl }}
+                {{ $byUrl := where $newsData "url" $itemUrl }}
+                {{ if gt (len $byUrl) 0 }}
+                    {{ $matchedNews = index $byUrl 0 }}
+                {{ else }}
                     {{ range $newsData }}
-                        {{ $newsTitleZhNorm := lower (.title_zh | default "") }}
-                        {{ $newsTitleNorm := lower (.title | default "") }}
-                        {{ if and (not ($matchedNews.id)) (or (and $newsTitleZhNorm (or (in $itemTitleNorm $newsTitleZhNorm) (in $newsTitleZhNorm $itemTitleNorm))) (and $newsTitleNorm (or (in $itemTitleNorm $newsTitleNorm) (in $newsTitleNorm $itemTitleNorm)))) }}
+                        {{ if and (not ($matchedNews.id)) (eq (replaceRE "/$" "" (.url | default "")) $itemUrlNorm) }}
                             {{ $matchedNews = . }}
                         {{ end }}
                     {{ end }}
                 {{ end }}
             {{ end }}
-            {{ $hotHref := $item.url }}
-            {{ $hotTarget := "_blank" }}
-            {{ $hotRel := "noopener" }}
-            {{ if $matchedNews.id }}
-                {{ $hotHref = printf "/news/%s/" $matchedNews.id | relURL }}
-                {{ $hotTarget = "_self" }}
-                {{ $hotRel = "" }}
-            {{ end }}
-            <a href="{{ $hotHref }}"{{ if $hotTarget }} target="{{ $hotTarget }}"{{ end }}{{ if $hotRel }} rel="{{ $hotRel }}"{{ end }} class="hot-item" style="text-decoration:none;color:inherit">
-                <div class="hot-rank {{ if lt $index 3 }}top3{{ else }}normal{{ end }}">{{ add $index 1 }}</div>
-                <div class="hot-content">
-                    <div class="hot-title">{{ $item.title }}</div>
-                    {{ if and $matchedNews.id (or $matchedNews.ai_summary $matchedNews.summary_zh $matchedNews.summary) }}
-                    <div class="hot-meta" style="color:var(--text2);margin-top:4px;line-height:1.6">⚡ {{ or $matchedNews.ai_summary $matchedNews.summary_zh $matchedNews.summary }}</div>
-                    {{ else if $item.subtitle }}
-                    <div class="hot-meta" style="color:var(--text2);margin-top:4px;line-height:1.5">{{ $item.subtitle }}</div>
+            {{ if and (not ($matchedNews.id)) $itemTitleNorm }}
+                {{ range $newsData }}
+                    {{ $newsTitleZhNorm := lower (.title_zh | default "") }}
+                    {{ $newsTitleNorm := lower (.title | default "") }}
+                    {{ if and (not ($matchedNews.id)) (or (and $newsTitleZhNorm (or (in $itemTitleNorm $newsTitleZhNorm) (in $newsTitleZhNorm $itemTitleNorm))) (and $newsTitleNorm (or (in $itemTitleNorm $newsTitleNorm) (in $newsTitleNorm $itemTitleNorm)))) }}
+                        {{ $matchedNews = . }}
                     {{ end }}
-                    <div class="hot-meta" style="margin-top:6px">
-                        {{ with $item.source }}<span class="hot-badge">{{ . }}</span>{{ end }}
-                        {{ with $item.time }}<span style="color:var(--text3);margin-left:4px">{{ . }}</span>{{ end }}
-                        {{ if $matchedNews.id }}<span class="hot-badge" style="background:rgba(255,107,53,0.12);color:var(--accent);margin-left:4px">On-site</span>{{ end }}
-                        {{ range $item.tags }}<span class="hot-badge" style="background:rgba(255,107,53,0.12);color:var(--accent);margin-left:4px">{{ . }}</span>{{ end }}
-                    </div>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+        {{ $hotHref := $item.url }}
+        {{ $hotTarget := "_blank" }}
+        {{ $hotRel := "noopener" }}
+        {{ if $matchedNews.id }}
+            {{ $hotHref = printf "/news/%s/" $matchedNews.id | relURL }}
+            {{ $hotTarget = "_self" }}
+            {{ $hotRel = "" }}
+        {{ end }}
+        <a href="{{ $hotHref }}"{{ if $hotTarget }} target="{{ $hotTarget }}"{{ end }}{{ if $hotRel }} rel="{{ $hotRel }}"{{ end }} class="hot-item" style="text-decoration:none;color:inherit">
+            <div class="hot-rank {{ if lt $index 3 }}top3{{ else }}normal{{ end }}">{{ add $index 1 }}</div>
+            <div class="hot-content">
+                <div class="hot-title">{{ $item.title }}</div>
+                {{ if and $matchedNews.id (or $matchedNews.ai_summary $matchedNews.summary_zh $matchedNews.summary) }}
+                <div class="hot-meta" style="color:var(--text2);margin-top:3px;line-height:1.55">{{ or $matchedNews.ai_summary $matchedNews.summary_zh $matchedNews.summary }}</div>
+                {{ else if $item.subtitle }}
+                <div class="hot-meta" style="color:var(--text2);margin-top:3px;line-height:1.5">{{ $item.subtitle }}</div>
+                {{ end }}
+                <div class="hot-meta" style="margin-top:5px;display:flex;align-items:center;gap:4px;flex-wrap:wrap">
+                    {{ with $item.source }}<span class="hot-badge">{{ . }}</span>{{ end }}
+                    {{ with $item.time }}<span style="color:var(--text3)">{{ . }}</span>{{ end }}
+                    {{ if $matchedNews.id }}<span class="hot-badge fire">On-site</span>{{ end }}
                 </div>
+            </div>
+        </a>
+        {{ end }}
+    {{ else }}
+        <div class="hot-item">
+            <div class="hot-content">
+                <div class="hot-title" style="color:var(--text3)">Collecting data — check back in a few minutes.</div>
+            </div>
+        </div>
+    {{ end }}
+</div>
+
+<!-- AI News ─────────────────────────────────────────────── -->
+<div class="card" style="border-top:2px solid var(--neon-cyan)">
+    <div class="card-title">
+        <svg data-lucide="newspaper" style="width:16px;height:16px;color:var(--neon-cyan)"></svg>
+        AI News
+        <a href="{{ relURL "/news/" }}" style="margin-left:auto;font-size:12px;color:var(--text3);font-weight:400;text-decoration:none" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text3)'">All →</a>
+    </div>
+    {{ $news := site.Data.news }}
+    {{ if $news }}
+        {{ $count := 0 }}
+        {{ range $news }}
+            {{ $title := lower .title }}
+            {{ $noise := or (in $title "大会") (in $title "开幕") (in $title "峰会") (in $title "论坛") (in $title "招聘") (in $title "实习生") }}
+            {{ if and (lt $count 10) (not $noise) }}
+            <a href="{{ relURL "/news/" }}{{ .id }}/" class="news-row" style="display:flex;align-items:flex-start;gap:12px;padding:11px 0;border-bottom:1px solid var(--border);text-decoration:none;color:inherit"
+               onmouseover="this.style.background='var(--bg3)';this.style.marginLeft='-8px';this.style.marginRight='-8px';this.style.paddingLeft='8px';this.style.paddingRight='8px';this.style.borderRadius='6px'"
+               onmouseout="this.style.background='';this.style.marginLeft='';this.style.marginRight='';this.style.paddingLeft='';this.style.paddingRight='';this.style.borderRadius=''">
+                <div style="flex:1;min-width:0">
+                    <div style="font-size:13px;font-weight:500;line-height:1.45;color:var(--text);margin-bottom:3px">{{ with .title_zh }}{{ . }}{{ else }}{{ .title }}{{ end }}</div>
+                    <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap">
+                        <span style="font-size:11px;padding:1px 7px;background:var(--bg3);border-radius:4px;color:var(--text3)">{{ .source }}</span>
+                        {{ with .published }}<span style="font-size:11px;color:var(--text3)">{{ replace . "T" " " | truncate 10 "" }}</span>{{ end }}
+                    </div>
+                    {{ if .ai_summary }}{{ if gt (len .ai_summary) 30 }}
+                    <div style="font-size:12px;color:var(--text2);margin-top:4px;line-height:1.5">{{ .ai_summary | truncate 120 "…" }}</div>
+                    {{ end }}{{ end }}
+                </div>
+            </a>
+            {{ $count = add $count 1 }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    <div style="padding-top:12px">
+        <a href="{{ relURL "/news/" }}" style="font-size:13px;color:var(--accent);font-weight:500;text-decoration:none">Browse all news →</a>
+    </div>
+</div>
+
+</div><!-- /main col -->
+
+<!-- ── Sidebar ────────────────────────────────────────────── -->
+<div>
+
+<!-- Today's Spotlight -->
+{{ $daily := site.Data.daily }}
+{{ if $daily }}
+<div class="spotlight" style="margin-bottom:20px">
+    <div style="font-size:11px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:0.5px">⭐ Today's Spotlight · {{ $daily.date }}</div>
+    <div class="spotlight-name">{{ $daily.spotlight.name }}</div>
+    <div class="spotlight-desc">{{ $daily.spotlight.description }}</div>
+    {{ if $daily.spotlight.pricing }}<div style="font-size:12px;color:var(--text3);margin-top:6px">{{ $daily.spotlight.pricing }}</div>{{ end }}
+    {{ if $daily.spotlight.id }}
+    <a href="{{ relURL "/tools/" }}{{ $daily.spotlight.id }}/" class="spotlight-btn">Try it →</a>
+    {{ else }}
+    <a href="{{ $daily.spotlight.url }}" class="spotlight-btn" target="_blank" rel="noopener">Try it →</a>
+    {{ end }}
+</div>
+{{ end }}
+
+<!-- Daily AI Brief -->
+{{ $briefing := site.Data.briefing }}
+{{ if and $briefing $briefing.content }}
+<div class="card" style="border-left:3px solid var(--accent);margin-bottom:20px">
+    <div class="card-title">
+        <svg data-lucide="bot" style="width:15px;height:15px;color:var(--accent)"></svg>
+        Daily Brief
+        <span class="hot-badge fire" style="margin-left:4px;font-size:10px">AI-generated</span>
+    </div>
+    <div style="font-size:13px;line-height:1.75;color:var(--text2)">{{ $briefing.content }}</div>
+    {{ if $briefing.date }}<div style="font-size:11px;color:var(--text3);margin-top:8px">{{ $briefing.date }}</div>{{ end }}
+</div>
+{{ end }}
+
+<!-- Rising Fast -->
+<div class="card" style="margin-bottom:20px">
+    <div class="card-title">
+        <svg data-lucide="trending-up" style="width:15px;height:15px;color:var(--green)"></svg>
+        Rising Fast
+    </div>
+    {{ $tools := site.Data.tools }}
+    {{ if $tools }}
+        {{ $trending_tools := slice }}
+        {{ range $tools }}
+            {{ if .trending }}
+                {{ $trending_tools = $trending_tools | append . }}
+            {{ end }}
+        {{ end }}
+        {{ if gt (len $trending_tools) 0 }}
+            {{ range first 6 $trending_tools }}
+            <a href="{{ relURL "/tools/" }}{{ .id }}/" class="trend-item" style="text-decoration:none;color:inherit">
+                <div style="min-width:0;flex:1">
+                    <div style="font-size:13px;font-weight:500;color:var(--text)">{{ .name }}</div>
+                    <div style="color:var(--text3);font-size:11px;margin-top:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ .description | truncate 55 "…" }}</div>
+                </div>
+                <svg data-lucide="arrow-up-right" style="width:13px;height:13px;color:var(--text3);flex-shrink:0;margin-left:8px"></svg>
             </a>
             {{ end }}
         {{ else }}
-            <div class="hot-item"><div class="hot-content"><div class="hot-title" style="color:var(--text3)">Collecting data...</div></div></div>
+            <div style="color:var(--text3);font-size:13px;padding:8px 0">No data yet</div>
         {{ end }}
-    </div>
-
-    <!-- Latest news (interleaved across sources, not stacked) -->
-    <div class="card">
-        <div class="card-title">📰 AI News</div>
-        {{ $news := site.Data.news }}
-        {{ if $news }}
-            {{ $count := 0 }}
-            {{ range $news }}
-                {{ $title := lower .title }}
-                {{ $summary := lower .summary }}
-                {{ $mustReadSource := or (eq .source "机器之心") (eq .source "量子位") (eq .source "新智元") (eq .source "TechCrunch AI") (eq .source "The Verge AI") (eq .source "MIT Tech Review") (eq .source "VentureBeat AI") (eq .source "InfoQ AI") (eq .source "Hacker News") (eq .source "Hacker News AI") }}
-                {{ $noise := or (in $title "大会") (in $title "开幕") (in $title "峰会") (in $title "论坛") (in $title "学者") (in $title "实习生") (in $title "招聘") (in $title "品牌") (in $title "发布会") (in $summary "大会") (in $summary "峰会") (in $summary "论坛") (in $summary "学者") (in $summary "实习生") (in $summary "招聘") }}
-                {{ if and (lt $count 8) $mustReadSource (not $noise) }}
-                <div class="hot-item">
-                    <div class="hot-content">
-                        <div class="hot-title">
-                            <a href="{{ relURL "/news/" }}{{ .id }}/">{{ with .title_zh }}{{ . }}{{ else }}{{ .title }}{{ end }}</a>
-                        </div>
-                        <div class="hot-meta">
-                            {{ .source }}
-                            {{ with .published }} · {{ replace . "T" " " | truncate 16 "" }}{{ end }}
-                        </div>
-                        {{ if .ai_summary }}
-                            {{ if gt (len .ai_summary) 50 }}
-                            <div class="hot-meta" style="color:var(--accent);margin-top:2px">🤖 {{ .ai_summary }}</div>
-                            {{ else if .summary }}
-                            <div class="hot-meta" style="color:var(--text3)">{{ .summary | truncate 100 "..." }}</div>
-                            {{ end }}
-                        {{ else if .summary }}
-                        <div class="hot-meta" style="color:var(--text3)">{{ .summary | truncate 100 "..." }}</div>
-                        {{ end }}
-                    </div>
-                </div>
-                {{ $count = add $count 1 }}
-                {{ end }}
-            {{ end }}
-        {{ end }}
-        <div style="margin-top:12px"><a href="{{ relURL "/news/" }}" class="tag" style="text-decoration:none">More AI news →</a></div>
-    </div>
-</div>
-
-<!-- Sidebar -->
-<div>
-    <!-- Daily AI Brief -->
-    {{ $briefing := site.Data.briefing }}
-    {{ if $briefing }}
-    <div class="card" style="border-left:3px solid var(--accent)">
-        <div class="card-title">🤖 Daily AI Brief <span class="hot-badge fire">AI-generated</span></div>
-        <div style="font-size:13px;line-height:1.7;color:var(--text2)">{{ $briefing.content }}</div>
-        <div style="font-size:11px;color:var(--text3);margin-top:8px">Based on {{ $briefing.news_count }} articles · {{ $briefing.date }}</div>
-    </div>
     {{ end }}
+</div>
 
-    <!-- Daily Spotlight -->
-    {{ $daily := site.Data.daily }}
-    {{ if $daily }}
-    <div class="spotlight">
-        <div style="font-size:13px;color:var(--text2);margin-bottom:8px">⭐ Today's Spotlight — {{ $daily.date }}</div>
-        <div class="spotlight-name">{{ $daily.spotlight.name }}</div>
-        <div class="spotlight-desc">{{ $daily.spotlight.description }}</div>
-        {{ if $daily.spotlight.pricing }}<div class="hot-meta" style="margin-top:6px">💰 {{ $daily.spotlight.pricing }}</div>{{ end }}
-        {{ if $daily.spotlight.id }}
-        <a href="{{ relURL "/tools/" }}{{ $daily.spotlight.id }}/" class="spotlight-btn">Try it →</a>
-        {{ else }}
-        <a href="{{ $daily.spotlight.url }}" class="spotlight-btn" target="_blank">Try it →</a>
+<!-- Browse -->
+<div class="card" style="margin-bottom:20px">
+    <div class="card-title">
+        <svg data-lucide="grid" style="width:15px;height:15px;color:var(--accent)"></svg>
+        Browse
+    </div>
+    <div style="display:flex;flex-direction:column;gap:6px">
+        <a href="{{ relURL "/tools/" }}" style="display:flex;justify-content:space-between;align-items:center;padding:8px 10px;background:var(--bg3);border-radius:7px;text-decoration:none;color:var(--text2);font-size:13px;transition:color 0.18s" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'">
+            <span>🛠 Tools</span><span style="font-size:11px;color:var(--text3)">{{ len site.Data.tools }}</span>
+        </a>
+        <a href="{{ relURL "/models/" }}" style="display:flex;justify-content:space-between;align-items:center;padding:8px 10px;background:var(--bg3);border-radius:7px;text-decoration:none;color:var(--text2);font-size:13px;transition:color 0.18s" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'">
+            <span>🧠 Models</span><span style="font-size:11px;color:var(--text3)">{{ len site.Data.models }}</span>
+        </a>
+        <a href="{{ relURL "/agents/" }}" style="display:flex;justify-content:space-between;align-items:center;padding:8px 10px;background:var(--bg3);border-radius:7px;text-decoration:none;color:var(--text2);font-size:13px;transition:color 0.18s" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'">
+            <span>🤖 Agents</span><span style="font-size:11px;color:var(--text3)">{{ len site.Data.agents }}</span>
+        </a>
+        <a href="{{ relURL "/news/" }}" style="display:flex;justify-content:space-between;align-items:center;padding:8px 10px;background:var(--bg3);border-radius:7px;text-decoration:none;color:var(--text2);font-size:13px;transition:color 0.18s" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'">
+            <span>📰 News</span><span style="font-size:11px;color:var(--text3)">{{ len site.Data.news }}</span>
+        </a>
+        <a href="{{ relURL "/providers/" }}" style="display:flex;justify-content:space-between;align-items:center;padding:8px 10px;background:var(--bg3);border-radius:7px;text-decoration:none;color:var(--text2);font-size:13px;transition:color 0.18s" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'">
+            <span>🏢 Providers</span><span style="font-size:11px;color:var(--text3)">{{ len site.Data.providers }}</span>
+        </a>
+    </div>
+</div>
+
+<!-- Trending Keywords -->
+{{ $seo := site.Data.seo }}
+{{ if $seo }}
+<div class="card" style="margin-bottom:20px">
+    <div class="card-title">
+        <svg data-lucide="hash" style="width:15px;height:15px;color:var(--accent)"></svg>
+        Trending Keywords
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:5px">
+        {{ range $seo.hot_keywords }}
+        <a href="{{ relURL "/search/" }}?q={{ . | urlquery }}" class="tag" style="background:rgba(204,120,92,0.12);color:var(--accent);text-decoration:none">{{ . }}</a>
+        {{ end }}
+        {{ range first 8 $seo.homepage_keywords }}
+        <a href="{{ relURL "/search/" }}?q={{ . | urlquery }}" class="tag" style="text-decoration:none">{{ . }}</a>
         {{ end }}
     </div>
+</div>
+{{ end }}
+
+<!-- Update status -->
+<div class="card">
+    <div class="card-title">
+        <svg data-lucide="clock" style="width:15px;height:15px;color:var(--text3)"></svg>
+        Status
+    </div>
+    {{ $meta := site.Data.meta }}
+    {{ if $meta }}
+    <div style="font-size:12px;color:var(--text2);margin-bottom:6px">Last updated: <span style="color:var(--text)">{{ $meta.last_update }}</span></div>
     {{ end }}
-
-    <!-- Rising fast -->
-    <div class="card">
-        <div class="card-title">📈 Rising Fast</div>
-        {{ $tools := site.Data.tools }}
-        {{ if $tools }}
-            {{ $trending_tools := slice }}
-            {{ range $tools }}
-                {{ if .trending }}
-                    {{ $trending_tools = $trending_tools | append . }}
-                {{ end }}
-            {{ end }}
-            {{ if gt (len $trending_tools) 0 }}
-                {{ range first 5 $trending_tools }}
-                <div class="trend-item">
-                    <div style="min-width:0;flex:1">
-                        <a href="{{ relURL "/tools/" }}{{ .id }}/">{{ .name }}</a>
-                        <div style="color:var(--text3);font-size:11px;margin-top:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ .description }}</div>
-                    </div>
-                    <div class="trend-up">🔥</div>
-                </div>
-                {{ end }}
-            {{ else }}
-                <div class="trend-item">
-                    <div style="color:var(--text3);font-size:13px">No data yet</div>
-                </div>
-            {{ end }}
-        {{ end }}
-    </div>
-
-    <!-- Browse categories -->
-    <div class="card">
-        <div class="card-title">📂 Browse Categories</div>
-        <div style="display:flex;flex-wrap:wrap;gap:8px">
-            <a href="{{ relURL "/tools/" }}" class="tag">🛠️ Tools ({{ len site.Data.tools }})</a>
-            <a href="{{ relURL "/models/" }}" class="tag">🧠 Models ({{ len site.Data.models }})</a>
-            <a href="{{ relURL "/agents/" }}" class="tag">🤖 Agents ({{ len site.Data.agents }})</a>
-            <a href="{{ relURL "/news/" }}" class="tag">📰 News ({{ len site.Data.news }})</a>
-            <a href="{{ relURL "/providers/" }}" class="tag">🏢 Providers ({{ len site.Data.providers }})</a>
-        </div>
-    </div>
-
-    <!-- Random discover -->
-    <div class="card">
-        <div class="card-title">🎲 Discover Random</div>
-        <button class="random-btn" onclick="randomTool()">🎲 Shuffle</button>
-        <div id="randomResult" style="margin-top:12px"></div>
-    </div>
-
-    <!-- Daily check-in -->
-    <div class="card" style="border-left:3px solid var(--green)">
-        <div class="card-title">📅 Daily Check-in</div>
-        <div id="checkinStatus" style="margin-bottom:12px">
-            <button id="checkinBtn" onclick="dailyCheckin()" style="width:100%;padding:12px;background:var(--accent);border:none;border-radius:8px;color:white;font-size:14px;font-weight:600;cursor:pointer;transition:all 0.2s">
-                ✅ Check in
-            </button>
-        </div>
-        <div style="display:flex;gap:12px;font-size:12px;color:var(--text3)">
-            <div>🔥 Streak: <span id="checkinStreak" style="color:var(--accent);font-weight:600">0</span> days</div>
-            <div>📊 Total: <span id="totalCheckins" style="color:var(--green);font-weight:600">0</span> days</div>
-        </div>
-        <div id="checkinReward" style="margin-top:8px;font-size:12px;color:var(--green);display:none"></div>
-    </div>
-
-    <!-- Share -->
-    <div class="card">
-        <div class="card-title">📢 Share</div>
-        <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <button onclick="shareToTwitter()" style="padding:8px 16px;background:#1DA1F2;border:none;border-radius:6px;color:white;font-size:12px;cursor:pointer">Twitter / X</button>
-            <button onclick="shareToLinkedIn()" style="padding:8px 16px;background:#0A66C2;border:none;border-radius:6px;color:white;font-size:12px;cursor:pointer">LinkedIn</button>
-            <button onclick="copyLink()" style="padding:8px 16px;background:var(--bg3);border:1px solid var(--border);border-radius:6px;color:var(--text2);font-size:12px;cursor:pointer">📋 Copy link</button>
-        </div>
-    </div>
-
-    <!-- Recently added -->
-    <div class="card">
-        <div class="card-title">🆕 Recently Added</div>
-        {{ $tools := site.Data.tools }}
-        {{ if $tools }}
-            {{ $count := 0 }}
-            {{ range $tools }}
-                {{ if and (lt $count 5) .trending }}
-                <div class="trend-item">
-                    <div style="min-width:0;flex:1">
-                        <a href="{{ relURL "/tools/" }}{{ .id }}/">{{ .name }}</a>
-                        <div style="color:var(--text3);font-size:11px;margin-top:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ .description }}</div>
-                    </div>
-                    <span class="hot-badge" style="background:rgba(63,185,80,0.15);color:var(--green)">NEW</span>
-                </div>
-                {{ $count = add $count 1 }}
-                {{ end }}
-            {{ end }}
-            {{ if eq $count 0 }}
-            <div style="color:var(--text3);font-size:13px;padding:12px 0">No new tools yet</div>
-            {{ end }}
-        {{ end }}
-    </div>
-
-    <!-- Weekly summary -->
-    <div class="card" id="weeklyDigest" style="display:none;border-left:3px solid var(--green)">
-        <div class="card-title">📊 Weekly Summary</div>
-        <div id="weeklyContent" style="font-size:13px;color:var(--text2);line-height:1.8"></div>
-    </div>
-
-    <!-- Trending keywords -->
-    <div class="card">
-        <div class="card-title">🔑 Trending Keywords</div>
-        {{ $seo := site.Data.seo }}
-        {{ if $seo }}
-            <div style="display:flex;flex-wrap:wrap;gap:6px">
-                {{ range $seo.hot_keywords }}
-                <a href="{{ relURL "/search/" }}?q={{ . | urlquery }}" class="tag" style="background:rgba(255,107,53,0.15);color:var(--accent)">{{ . }}</a>
-                {{ end }}
-                {{ range first 8 $seo.homepage_keywords }}
-                <a href="{{ relURL "/search/" }}?q={{ . | urlquery }}" class="tag">{{ . }}</a>
-                {{ end }}
-            </div>
-            <div style="font-size:12px;color:var(--text3);margin-top:10px">Click any keyword to search across Sept-AI</div>
-        {{ end }}
-    </div>
-
-    <!-- Update status -->
-    <div class="card">
-        <div class="card-title">🕐 Update Status</div>
-        {{ $meta := site.Data.meta }}
-        {{ if $meta }}
-        <div style="font-size:13px;color:var(--text2)">
-            <p>🕐 Last updated: {{ $meta.last_update }}</p>
-        </div>
-        {{ end }}
-        <div style="font-size:12px;color:var(--text3);margin-top:8px">
-            <p>Auto-refresh every 6 hours</p>
-            <p>08:00 / 14:00 / 20:00 / 02:00 UTC</p>
-        </div>
+    <div style="font-size:11px;color:var(--text3);line-height:1.7">
+        Auto-refresh every 6 h<br>
+        08:00 · 14:00 · 20:00 · 02:00 UTC
     </div>
 </div>
-</div>
+
+</div><!-- /sidebar -->
+</div><!-- /grid -->
+
+<style>
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+}
+</style>
 
 <script>
-function randomTool() {
-    const tools = {{ site.Data.tools | jsonify | safeJS }} || [];
-    const models = {{ site.Data.models | jsonify | safeJS }} || [];
-    const agents = {{ site.Data.agents | jsonify | safeJS }} || [];
-    const all = [...tools, ...models, ...agents];
-    if(all.length === 0) return;
-    const item = all[Math.floor(Math.random() * all.length)];
-    const name = item.display_name || item.name;
-    const desc = item.description || '';
-    const price = item.pricing || '';
-    document.getElementById('randomResult').innerHTML =
-        '<div style="padding:12px;background:var(--bg);border-radius:6px">' +
-        '<a href="' + (item.url||'#') + '" target="_blank" style="font-weight:600">' + name + '</a>' +
-        (desc ? '<div style="font-size:12px;color:var(--text2);margin-top:4px">' + desc + '</div>' : '') +
-        (price ? '<div style="font-size:11px;color:var(--accent);margin-top:2px">💰 ' + price + '</div>' : '') +
-        '</div>';
-}
-
-// Search data
+/* ── Search ──────────────────────────────────────────────── */
 const searchData = {
-    tools: {{ site.Data.tools | jsonify | safeJS }} || [],
+    tools:  {{ site.Data.tools  | jsonify | safeJS }} || [],
     models: {{ site.Data.models | jsonify | safeJS }} || [],
     agents: {{ site.Data.agents | jsonify | safeJS }} || [],
-    news: {{ site.Data.news | jsonify | safeJS }} || []
+    news:   {{ site.Data.news   | jsonify | safeJS }} || []
 };
 
-function searchAll(query) {
-    if (!query || query.trim().length === 0) return [];
-    const q = query.toLowerCase().trim();
+function searchAll(q) {
+    if (!q || q.trim().length < 2) return [];
+    q = q.toLowerCase().trim();
     const results = [];
 
-    // Search tools
-    searchData.tools.forEach(item => {
-        const text = [item.name, item.description, item.category, item.pricing, ...(item.tags || [])].join(' ').toLowerCase();
-        if (text.includes(q)) {
-            results.push({ type: 'tool', emoji: '🛠️', name: item.name, desc: item.description, url: '{{ relURL "/tools/" }}' + encodeURIComponent(item.id) + '/', price: item.pricing });
+    searchData.tools.forEach(i => {
+        if ([i.name, i.description, i.category, ...(i.tags||[])].join(' ').toLowerCase().includes(q))
+            results.push({ type:'tool', emoji:'🛠️', name:i.name, desc:i.description, url:'{{ relURL "/tools/" }}'+encodeURIComponent(i.id)+'/', price:i.pricing });
+    });
+    searchData.models.forEach(i => {
+        if ([i.name, i.display_name, i.author].join(' ').toLowerCase().includes(q))
+            results.push({ type:'model', emoji:'🧠', name:i.display_name||i.name, desc:i.author, url:i.url });
+    });
+    searchData.agents.forEach(i => {
+        if ([i.name, i.description].join(' ').toLowerCase().includes(q))
+            results.push({ type:'agent', emoji:'🤖', name:i.name, desc:i.description, url:'https://'+i.url });
+    });
+    let nc = 0;
+    searchData.news.forEach(i => {
+        if (nc >= 5) return;
+        if ([i.title, i.summary, i.source].join(' ').toLowerCase().includes(q)) {
+            results.push({ type:'news', emoji:'📰', name:i.title, desc:i.source+' · '+(i.published||'').slice(0,10), url:'{{ relURL "/news/" }}'+i.id+'/' });
+            nc++;
         }
     });
-
-    // Search models
-    searchData.models.forEach(item => {
-        const text = [item.name, item.display_name, item.author, item.pipeline_tag].join(' ').toLowerCase();
-        if (text.includes(q)) {
-            results.push({ type: 'model', emoji: '🧠', name: item.display_name || item.name, desc: item.author + ' · ' + (item.pipeline_tag || ''), url: item.url });
-        }
-    });
-
-    // Search agents
-    searchData.agents.forEach(item => {
-        const text = [item.name, item.description, item.type, item.pricing].join(' ').toLowerCase();
-        if (text.includes(q)) {
-            results.push({ type: 'agent', emoji: '🤖', name: item.name, desc: item.description, url: 'https://' + item.url, price: item.pricing });
-        }
-    });
-
-    // Search news (cap at 5)
-    let newsCount = 0;
-    searchData.news.forEach(item => {
-        if (newsCount >= 5) return;
-        const text = [item.title, item.summary, item.source].join(' ').toLowerCase();
-        if (text.includes(q)) {
-            results.push({ type: 'news', emoji: '📰', name: item.title, desc: item.source + ' · ' + (item.published || '').slice(0, 10), url: item.url });
-            newsCount++;
-        }
-    });
-
-    return results.slice(0, 20);
+    return results.slice(0, 18);
 }
 
-function renderSearchResults(results) {
-    const container = document.getElementById('searchResults');
-    if (!results || results.length === 0) {
-        container.innerHTML = '';
-        container.style.display = 'none';
-        return;
-    }
-
-    let html = '<div style="background:var(--bg2);border:1px solid var(--border);border-radius:8px;margin-top:8px;max-height:400px;overflow-y:auto">';
-    html += '<div style="padding:8px 12px;font-size:12px;color:var(--text3);border-bottom:1px solid var(--border)">' + results.length + ' result' + (results.length === 1 ? '' : 's') + '</div>';
-
-    results.forEach(item => {
-        html += '<a href="' + item.url + '" target="_blank" style="display:block;padding:10px 12px;border-bottom:1px solid var(--border);text-decoration:none;color:inherit">';
-        html += '<div style="display:flex;align-items:center;gap:8px">';
-        html += '<span>' + item.emoji + '</span>';
-        html += '<div style="flex:1;min-width:0">';
-        html += '<div style="font-size:14px;font-weight:500;color:var(--blue)">' + item.name + '</div>';
-        if (item.desc) html += '<div style="font-size:12px;color:var(--text2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis">' + item.desc + '</div>';
-        html += '</div>';
-        if (item.price) html += '<span style="font-size:11px;color:var(--accent)">' + item.price + '</span>';
-        html += '</div></a>';
+function renderSearch(results) {
+    const c = document.getElementById('searchResults');
+    if (!results.length) { c.innerHTML=''; c.style.display='none'; return; }
+    let h = '<div style="position:absolute;left:0;right:0;top:calc(100% + 4px);background:var(--bg2);border:1px solid var(--border);border-radius:10px;box-shadow:var(--shadow-lg);overflow:hidden;z-index:200;max-height:380px;overflow-y:auto">';
+    h += '<div style="padding:7px 12px;font-size:11px;color:var(--text3);border-bottom:1px solid var(--border)">' + results.length + ' results</div>';
+    results.forEach(i => {
+        h += '<a href="'+i.url+'" style="display:flex;align-items:center;gap:10px;padding:10px 14px;border-bottom:1px solid var(--border);text-decoration:none;color:inherit;transition:background 0.15s" onmouseover="this.style.background=\'var(--bg3)\'" onmouseout="this.style.background=\'\'">';
+        h += '<span style="font-size:15px;flex-shrink:0">'+i.emoji+'</span>';
+        h += '<div style="flex:1;min-width:0"><div style="font-size:13px;font-weight:500;color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+i.name+'</div>';
+        if (i.desc) h += '<div style="font-size:11px;color:var(--text3)">'+i.desc+'</div>';
+        h += '</div>';
+        if (i.price) h += '<span style="font-size:11px;color:var(--accent);flex-shrink:0">'+i.price+'</span>';
+        h += '</a>';
     });
-
-    html += '</div>';
-    container.innerHTML = html;
-    container.style.display = 'block';
+    h += '</div>';
+    c.innerHTML = h;
+    c.style.display = 'block';
 }
 
-// Search input (debounced)
-let searchTimeout;
-document.getElementById('searchInput').addEventListener('input', function(e) {
-    clearTimeout(searchTimeout);
-    const query = e.target.value;
-    searchTimeout = setTimeout(() => {
-        const results = searchAll(query);
-        renderSearchResults(results);
-    }, 200);
+let st;
+const inp = document.getElementById('searchInput');
+inp.addEventListener('input', e => {
+    clearTimeout(st);
+    st = setTimeout(() => renderSearch(searchAll(e.target.value)), 180);
 });
-
-// Close search results on outside click
-document.addEventListener('click', function(e) {
-    if (!e.target.closest('#searchInput') && !e.target.closest('#searchResults')) {
+document.addEventListener('click', e => {
+    if (!e.target.closest('#searchInput') && !e.target.closest('#searchResults'))
         document.getElementById('searchResults').style.display = 'none';
-    }
+});
+document.addEventListener('keydown', e => {
+    if ((e.ctrlKey||e.metaKey) && e.key==='k') { e.preventDefault(); inp.focus(); }
+    if (e.key==='Escape') { document.getElementById('searchResults').style.display='none'; inp.blur(); }
+});
+inp.addEventListener('keydown', e => {
+    if (e.key==='Enter') { const q=e.target.value.trim(); if(q) location.href='{{ relURL "/search/" }}?q='+encodeURIComponent(q); }
 });
 
-// Ctrl+K to focus search
-document.addEventListener('keydown', function(e) {
-    if((e.ctrlKey || e.metaKey) && e.key === 'k') {
-        e.preventDefault();
-        document.getElementById('searchInput').focus();
-    }
-    if(e.key === 'Escape') {
-        document.getElementById('searchResults').style.display = 'none';
-        document.getElementById('searchInput').blur();
-    }
-});
-
-// Enter → go to full search page
-document.getElementById('searchInput').addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') {
-        const q = e.target.value.trim();
-        if (q) window.location.href = '{{ relURL "/search/" }}?q=' + encodeURIComponent(q);
-    }
-});
-
-// Streak + milestones
+/* ── Streak badge ────────────────────────────────────────── */
 (function(){
-    const key = 'septai_streak';
-    const today = new Date().toISOString().slice(0,10);
-    let data = JSON.parse(localStorage.getItem(key) || '{"streak":0,"last":"","milestones":[]}');
-    let milestone = '';
-
-    if(data.last !== today) {
-        const yesterday = new Date(Date.now()-86400000).toISOString().slice(0,10);
-        if(data.last === yesterday) { data.streak++; }
-        else { data.streak = 1; }
-        data.last = today;
-        localStorage.setItem(key, JSON.stringify(data));
+    const key='septai_streak', today=new Date().toISOString().slice(0,10);
+    let d=JSON.parse(localStorage.getItem(key)||'{"streak":0,"last":""}');
+    if(d.last!==today){
+        const yest=new Date(Date.now()-86400000).toISOString().slice(0,10);
+        d.streak = d.last===yest ? d.streak+1 : 1;
+        d.last=today; localStorage.setItem(key,JSON.stringify(d));
     }
-
-    // Milestones
-    const ms = [3, 7, 14, 30, 60, 100];
-    for (const m of ms) {
-        if (data.streak === m && !(data.milestones||[]).includes(m)) {
-            milestone = '🎉 ' + m + '-day streak!';
-            if (!data.milestones) data.milestones = [];
-            data.milestones.push(m);
-            localStorage.setItem(key, JSON.stringify(data));
-            break;
-        }
-    }
-
-    const el = document.getElementById('streak');
-    if(data.streak > 0) {
-        let text = '🔥 ' + data.streak + '-day streak';
-        if (data.streak >= 100) text = '👑 ' + text + ' · Legend';
-        else if (data.streak >= 30) text = '💎 ' + text + ' · Core';
-        else if (data.streak >= 7) text = '⭐ ' + text;
-        el.textContent = text;
-    }
-
-    if (milestone) {
-        const div = document.createElement('div');
-        div.style.cssText = 'position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:var(--bg2);border:2px solid var(--accent);border-radius:12px;padding:32px 48px;z-index:9999;text-align:center;box-shadow:0 8px 32px rgba(0,0,0,0.5)';
-        div.innerHTML = '<div style="font-size:48px;margin-bottom:12px">🎉</div><div style="font-size:20px;font-weight:700;color:var(--accent);margin-bottom:8px">' + milestone + '</div><div style="font-size:13px;color:var(--text2);margin-bottom:16px">Thanks for being here!</div><button onclick="this.parentElement.remove()" style="padding:8px 24px;background:var(--accent);border:none;border-radius:6px;color:#fff;cursor:pointer;font-size:14px">Keep exploring →</button>';
-        document.body.appendChild(div);
-        setTimeout(() => div.remove(), 5000);
-    }
+    const el=document.getElementById('streak');
+    if(d.streak>0&&el){el.textContent='🔥 '+d.streak+' day streak';el.style.display='';}
 })();
-
-// Weekly summary
-(function(){
-    const tools = {{ site.Data.tools | jsonify | safeJS }} || [];
-    const models = {{ site.Data.models | jsonify | safeJS }} || [];
-    const news = {{ site.Data.news | jsonify | safeJS }} || [];
-
-    const trending = tools.filter(t => t.trending).length;
-    const freeTools = tools.filter(t => t.free_quota && (t.free_quota.toLowerCase().includes('free') || t.free_quota.includes('免费'))).length;
-    const el = document.getElementById('weeklyDigest');
-    const content = document.getElementById('weeklyContent');
-
-    if (tools.length > 0) {
-        el.style.display = '';
-        content.innerHTML = '📊 Cataloged <strong style="color:var(--accent)">' + tools.length + '</strong> AI tools · '
-            + '<strong style="color:var(--accent)">' + models.length + '</strong> models · '
-            + '<strong style="color:var(--accent)">' + news.length + '</strong> articles<br>'
-            + '🔥 including <strong>' + trending + '</strong> hot picks · '
-            + '🎁 <strong>' + freeTools + '</strong> with a free tier<br>'
-            + '📰 Auto-refreshed every 6h · all data open-source';
-    }
-})();
-
-// Daily check-in
-function dailyCheckin() {
-    const key = 'septai_checkin';
-    const today = new Date().toISOString().slice(0, 10);
-    let data = JSON.parse(localStorage.getItem(key) || '{"streak":0,"last":"","total":0,"history":[]}');
-
-    if (data.last === today) {
-        document.getElementById('checkinReward').textContent = '⏰ Already checked in today';
-        document.getElementById('checkinReward').style.display = 'block';
-        document.getElementById('checkinReward').style.color = 'var(--text3)';
-        return;
-    }
-
-    const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
-    if (data.last === yesterday) {
-        data.streak++;
-    } else {
-        data.streak = 1;
-    }
-
-    data.last = today;
-    data.total++;
-    if (!data.history) data.history = [];
-    data.history.push(today);
-
-    localStorage.setItem(key, JSON.stringify(data));
-    updateCheckinUI();
-
-    let reward = '';
-    if (data.streak === 7) reward = '🎉 7-day streak! "Consistent" badge unlocked';
-    else if (data.streak === 30) reward = '🏆 30-day streak! "AI Explorer" badge unlocked';
-    else if (data.streak === 100) reward = '👑 100-day streak! "Legend" badge unlocked';
-    else if (data.streak % 10 === 0) reward = '🔥 ' + data.streak + '-day streak! Keep going!';
-    else reward = '✅ Checked in! ' + data.streak + '-day streak';
-
-    document.getElementById('checkinReward').textContent = reward;
-    document.getElementById('checkinReward').style.display = 'block';
-    document.getElementById('checkinReward').style.color = 'var(--green)';
-
-    const btn = document.getElementById('checkinBtn');
-    btn.textContent = '✅ Checked in';
-    btn.style.background = 'var(--green)';
-    btn.disabled = true;
-}
-
-function updateCheckinUI() {
-    const key = 'septai_checkin';
-    const today = new Date().toISOString().slice(0, 10);
-    let data = JSON.parse(localStorage.getItem(key) || '{"streak":0,"last":"","total":0}');
-
-    document.getElementById('checkinStreak').textContent = data.streak || 0;
-    document.getElementById('totalCheckins').textContent = data.total || 0;
-
-    if (data.last === today) {
-        const btn = document.getElementById('checkinBtn');
-        btn.textContent = '✅ Checked in';
-        btn.style.background = 'var(--green)';
-        btn.disabled = true;
-    }
-}
-
-// Init check-in state
-updateCheckinUI();
-
-// Share functions
-function shareToTwitter() {
-    const url = encodeURIComponent(window.location.href);
-    const text = encodeURIComponent('Sept-AI — a curated AI navigator, refreshed every 6h. Tools, models, agents, news.');
-    window.open('https://twitter.com/intent/tweet?url=' + url + '&text=' + text + '&hashtags=AI,LLM', '_blank');
-}
-
-function shareToLinkedIn() {
-    const url = encodeURIComponent(window.location.href);
-    window.open('https://www.linkedin.com/sharing/share-offsite/?url=' + url, '_blank');
-}
-
-function copyLink() {
-    navigator.clipboard.writeText(window.location.href).then(() => {
-        const btn = event.target;
-        const originalText = btn.textContent;
-        btn.textContent = '✅ Copied';
-        setTimeout(() => btn.textContent = originalText, 2000);
-    });
-}
 </script>
 
 {{ end }}
