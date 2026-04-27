@@ -1,51 +1,169 @@
 {{ define "main" }}
-<!-- ── Daily Brief ──────────────────────────────────── -->
+<!-- ── Daily Brief ─────────────────────────────────────── -->
 
-<div class="card-neon" style="margin-bottom:24px;text-align:center;padding:32px">
-    <div style="font-size:40px;margin-bottom:10px">📋</div>
-    <h1 style="font-size:24px;font-weight:800;margin-bottom:8px">Daily AI Brief</h1>
-    <div style="color:var(--text2);font-size:14px;line-height:1.7;max-width:480px;margin:0 auto">
-        A curated, AI-generated summary of the most important AI developments — shipped each morning.
+{{ $briefing := site.Data.briefing }}
+{{ $daily    := site.Data.daily }}
+{{ $hot      := site.Data.hot }}
+{{ $meta     := site.Data.meta }}
+{{ $news     := site.Data.news }}
+
+{{ $today := now.Format "2006-01-02" }}
+{{ $dateLabel := $today }}
+{{ if $briefing }}{{ if $briefing.date }}{{ $dateLabel = $briefing.date }}{{ end }}{{ end }}
+
+<!-- Page header -->
+<div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:24px">
+    <div>
+        <h1 style="font-size:22px;font-weight:800;color:var(--text)">Daily Brief</h1>
+        <div style="font-size:13px;color:var(--text3);margin-top:2px">{{ $dateLabel }} · auto-compiled every 6 h from 40+ sources</div>
+    </div>
+    <div style="display:flex;align-items:center;gap:8px">
+        <span style="width:7px;height:7px;background:var(--green);border-radius:50%;display:inline-block;animation:pulse 2s infinite"></span>
+        <span style="font-size:12px;color:var(--green);font-weight:500">Live</span>
+        {{ if $meta }}{{ if $meta.last_update }}<span style="font-size:12px;color:var(--text3)">· {{ $meta.last_update }}</span>{{ end }}{{ end }}
     </div>
 </div>
 
-<!-- Coming soon -->
-<div class="card" style="text-align:center;padding:40px">
-    <div style="font-size:48px;margin-bottom:14px">🚧</div>
-    <div style="font-weight:700;font-size:18px;margin-bottom:8px">Coming in the next update</div>
-    <div style="color:var(--text2);font-size:14px;line-height:1.7;max-width:440px;margin:0 auto 20px">
-        Daily Brief will auto-generate a structured summary from the last 24 h of collected news — top stories, emerging tools, model releases, and community highlights.
-    </div>
-    <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin-bottom:24px">
-        <span class="tag">🤖 AI-generated</span>
-        <span class="tag">📰 40+ sources</span>
-        <span class="tag">🕕 Updated daily</span>
-        <span class="tag">🌍 EN + CN</span>
-    </div>
-    <a href="{{ relURL "/" }}" class="spotlight-btn">View today's trending news →</a>
-</div>
+<div class="grid" style="grid-template-columns:1fr 300px;gap:24px">
+<div>
 
-<!-- Latest news as fallback -->
-<div class="card">
+<!-- AI Brief -->
+{{ if and $briefing $briefing.content }}
+<div class="card-neon" style="margin-bottom:24px">
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:14px">
+        <svg data-lucide="bot" style="width:16px;height:16px;color:var(--accent)"></svg>
+        <span style="font-size:15px;font-weight:700;color:var(--text)">AI Summary</span>
+        <span class="hot-badge fire">AI-generated</span>
+        {{ if $briefing.news_count }}<span style="font-size:11px;color:var(--text3);margin-left:auto">Based on {{ $briefing.news_count }} articles</span>{{ end }}
+    </div>
+    <div style="font-size:14px;line-height:1.85;color:var(--text2)">{{ $briefing.content }}</div>
+</div>
+{{ end }}
+
+<!-- Top Stories -->
+{{ $hotItems := slice }}
+{{ if $hot }}
+    {{ $hotItems = $hot.items }}
+    {{ if not $hotItems }}{{ $hotItems = $hot.top_20 }}{{ end }}
+    {{ if not $hotItems }}{{ $hotItems = $hot.hot_list }}{{ end }}
+{{ end }}
+
+{{ if gt (len $hotItems) 0 }}
+<div class="card" style="margin-bottom:24px;border-top:2px solid var(--accent)">
     <div class="card-title">
-        <svg data-lucide="newspaper" style="width:16px;height:16px;color:var(--accent)"></svg>
-        Latest from all sources
+        <svg data-lucide="flame" style="width:16px;height:16px;color:var(--accent)"></svg>
+        Top Stories Today
     </div>
-    {{ range first 15 site.Data.news }}
-    <div class="hot-item">
-        <div class="hot-content">
-            <div class="hot-title">
-                <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
-                <span class="hot-badge">{{ .source }}</span>
+    {{ range first 8 $hotItems }}
+    <div style="display:flex;gap:12px;padding:11px 0;border-bottom:1px solid var(--border)">
+        <div style="font-size:13px;font-weight:600;color:var(--text2);min-width:20px;flex-shrink:0;padding-top:1px">{{ add (index (seq 1 20) 0) 0 }}</div>
+        <div style="flex:1;min-width:0">
+            <a href="{{ .url | default "#" }}" target="_blank" rel="noopener"
+               style="font-size:14px;font-weight:500;color:var(--text);text-decoration:none;line-height:1.4;display:block"
+               onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text)'">
+                {{ .title }}
+            </a>
+            {{ if .subtitle }}<div style="font-size:12px;color:var(--text2);margin-top:3px;line-height:1.5">{{ .subtitle }}</div>{{ end }}
+            <div style="margin-top:5px">
+                {{ with .source }}<span class="hot-badge">{{ . }}</span>{{ end }}
+                {{ with .time }}<span style="font-size:11px;color:var(--text3);margin-left:6px">{{ . }}</span>{{ end }}
             </div>
-            {{ with .published }}<div class="hot-meta">{{ replace . "T" " " | truncate 16 "" }}</div>{{ end }}
-            {{ if .ai_summary }}<div class="hot-meta" style="color:var(--accent)">🤖 {{ .ai_summary }}</div>
-            {{ else if .summary }}<div class="hot-meta">{{ .summary | truncate 120 "…" }}</div>{{ end }}
         </div>
     </div>
     {{ end }}
-    <div style="margin-top:14px;padding-top:14px;border-top:1px solid var(--border)">
-        <a href="{{ relURL "/news/" }}" style="font-size:13px;color:var(--accent)">View all news →</a>
+</div>
+{{ end }}
+
+<!-- Latest News -->
+<div class="card" style="border-top:2px solid var(--neon-cyan)">
+    <div class="card-title">
+        <svg data-lucide="newspaper" style="width:16px;height:16px;color:var(--neon-cyan)"></svg>
+        Latest from all sources
+        <a href="{{ relURL "/news/" }}" style="margin-left:auto;font-size:12px;color:var(--text3);font-weight:400;text-decoration:none" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text3)'">All news →</a>
+    </div>
+    {{ range first 20 $news }}
+    <a href="{{ relURL "/news/" }}{{ .id }}/"
+       style="display:flex;align-items:flex-start;gap:12px;padding:10px 0;border-bottom:1px solid var(--border);text-decoration:none;color:inherit;transition:background 0.15s"
+       onmouseover="this.style.background='var(--bg3)';this.style.marginLeft='-8px';this.style.marginRight='-8px';this.style.paddingLeft='8px';this.style.paddingRight='8px';this.style.borderRadius='6px'"
+       onmouseout="this.style.background='';this.style.marginLeft='';this.style.marginRight='';this.style.paddingLeft='';this.style.paddingRight='';this.style.borderRadius=''">
+        <div style="flex:1;min-width:0">
+            <div style="font-size:13px;font-weight:500;color:var(--text);line-height:1.4;margin-bottom:3px">{{ with .title_zh }}{{ . | truncate 90 "…" }}{{ else }}{{ .title | truncate 90 "…" }}{{ end }}</div>
+            <div style="display:flex;align-items:center;gap:8px">
+                <span style="font-size:11px;padding:1px 7px;background:var(--bg3);border-radius:4px;color:var(--text3)">{{ .source }}</span>
+                {{ with .published }}<span style="font-size:11px;color:var(--text3)">{{ replace . "T" " " | truncate 10 "" }}</span>{{ end }}
+            </div>
+        </div>
+    </a>
+    {{ end }}
+    <div style="padding-top:12px">
+        <a href="{{ relURL "/news/" }}" style="font-size:13px;color:var(--accent);font-weight:500;text-decoration:none">Browse all news →</a>
     </div>
 </div>
+
+</div><!-- /main -->
+
+<!-- Sidebar -->
+<div>
+
+<!-- Today's Spotlight -->
+{{ if and $daily $daily.spotlight }}
+<div class="spotlight" style="margin-bottom:20px">
+    <div style="font-size:11px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:0.5px">⭐ Tool of the Day · {{ $daily.date }}</div>
+    <div class="spotlight-name">{{ $daily.spotlight.name }}</div>
+    <div class="spotlight-desc">{{ $daily.spotlight.description }}</div>
+    {{ if $daily.spotlight.pricing }}<div style="font-size:12px;color:var(--text3);margin-top:6px">{{ $daily.spotlight.pricing }}</div>{{ end }}
+    {{ if $daily.spotlight.id }}
+    <a href="{{ relURL "/tools/" }}{{ $daily.spotlight.id }}/" class="spotlight-btn">Try it →</a>
+    {{ else if $daily.spotlight.url }}
+    <a href="{{ $daily.spotlight.url }}" class="spotlight-btn" target="_blank" rel="noopener">Try it →</a>
+    {{ end }}
+</div>
+{{ end }}
+
+<!-- Stats strip -->
+<div class="card" style="margin-bottom:20px">
+    <div class="card-title">
+        <svg data-lucide="bar-chart-2" style="width:15px;height:15px;color:var(--accent)"></svg>
+        In the index
+    </div>
+    <div style="display:flex;flex-direction:column;gap:10px">
+        <div style="display:flex;justify-content:space-between;align-items:center">
+            <span style="font-size:13px;color:var(--text2)">🛠 Tools</span>
+            <span style="font-size:14px;font-weight:700;color:var(--accent)">{{ len site.Data.tools }}+</span>
+        </div>
+        <div style="display:flex;justify-content:space-between;align-items:center">
+            <span style="font-size:13px;color:var(--text2)">🧠 Models</span>
+            <span style="font-size:14px;font-weight:700;color:var(--accent)">{{ len site.Data.models }}+</span>
+        </div>
+        <div style="display:flex;justify-content:space-between;align-items:center">
+            <span style="font-size:13px;color:var(--text2)">📰 Articles</span>
+            <span style="font-size:14px;font-weight:700;color:var(--accent)">{{ len $news }}</span>
+        </div>
+        <div style="display:flex;justify-content:space-between;align-items:center">
+            <span style="font-size:13px;color:var(--text2)">🤖 Agents</span>
+            <span style="font-size:14px;font-weight:700;color:var(--accent)">{{ len site.Data.agents }}+</span>
+        </div>
+    </div>
+</div>
+
+<!-- Quick nav -->
+<div class="card" style="margin-bottom:20px">
+    <div class="card-title">
+        <svg data-lucide="compass" style="width:15px;height:15px;color:var(--accent)"></svg>
+        Explore
+    </div>
+    <div style="display:flex;flex-direction:column;gap:6px">
+        <a href="{{ relURL "/tools/" }}" style="display:flex;justify-content:space-between;align-items:center;padding:8px 10px;background:var(--bg3);border-radius:7px;text-decoration:none;color:var(--text2);font-size:13px;transition:color 0.18s" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'"><span>AI Tools</span><svg data-lucide="arrow-right" style="width:12px;height:12px"></svg></a>
+        <a href="{{ relURL "/models/" }}" style="display:flex;justify-content:space-between;align-items:center;padding:8px 10px;background:var(--bg3);border-radius:7px;text-decoration:none;color:var(--text2);font-size:13px;transition:color 0.18s" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'"><span>Models</span><svg data-lucide="arrow-right" style="width:12px;height:12px"></svg></a>
+        <a href="{{ relURL "/agents/" }}" style="display:flex;justify-content:space-between;align-items:center;padding:8px 10px;background:var(--bg3);border-radius:7px;text-decoration:none;color:var(--text2);font-size:13px;transition:color 0.18s" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'"><span>Agents</span><svg data-lucide="arrow-right" style="width:12px;height:12px"></svg></a>
+        <a href="{{ relURL "/me/" }}" style="display:flex;justify-content:space-between;align-items:center;padding:8px 10px;background:var(--bg3);border-radius:7px;text-decoration:none;color:var(--text2);font-size:13px;transition:color 0.18s" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'"><span>About Septoff21</span><svg data-lucide="arrow-right" style="width:12px;height:12px"></svg></a>
+    </div>
+</div>
+
+</div><!-- /sidebar -->
+</div><!-- /grid -->
+
+<style>
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.35} }
+</style>
 {{ end }}
