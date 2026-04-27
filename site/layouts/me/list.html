@@ -7,7 +7,7 @@
         <div style="width:72px;height:72px;border-radius:50%;background:linear-gradient(135deg,var(--neon-amber),var(--neon-violet));display:flex;align-items:center;justify-content:center;font-size:32px;flex-shrink:0">🧑‍💻</div>
         <div>
             <h1 style="font-size:26px;font-weight:800;line-height:1.2">Septoff21</h1>
-            <div style="color:var(--text2);font-size:14px;margin-top:4px">Builder · AI enthusiast · Shipping in public</div>
+            <div style="color:var(--text2);font-size:14px;margin-top:4px">混吃等死的 AI vibe coder · Working from home · 减熵协议运行中</div>
             <div style="display:flex;gap:10px;margin-top:10px;flex-wrap:wrap">
                 <a href="https://github.com/Septoff21" target="_blank" rel="noopener"
                    style="display:flex;align-items:center;gap:6px;font-size:13px;color:var(--text2);padding:5px 12px;background:var(--bg3);border:1px solid var(--border);border-radius:8px;text-decoration:none;transition:all 0.18s"
@@ -37,9 +37,52 @@
         About
     </div>
     <div style="font-size:14px;color:var(--text2);line-height:1.8">
-        <p style="margin-bottom:12px">Hey — I'm the person behind <strong style="color:var(--text)">Sept-AI</strong>, an auto-updating navigator for AI tools, models, agents, and news. It refreshes every 6 hours so I don't have to manually curate feeds.</p>
-        <p style="margin-bottom:12px">I focus on <strong style="color:var(--text)">Claude, Gemini, Codex, and Cursor</strong> but try to keep the full picture — open-source models, agent frameworks, inference engines, everything that's actually moving the space.</p>
-        <p>When I'm not building this, I'm documenting Claude workflows and prompts in my personal knowledge vault (<a href="https://github.com/Septoff21/claude-learning" target="_blank" rel="noopener">claude-learning</a>), which auto-syncs into this repo's <code style="background:var(--bg3);padding:2px 6px;border-radius:4px;font-size:12px">my-content/</code> folder.</p>
+        <p style="margin-bottom:12px">AI vibe coder. I build things I actually want to exist — usually with Claude telling me what I'm doing wrong — and then I ship them and move on.</p>
+        <p style="margin-bottom:12px"><strong style="color:var(--text)">Sept-AI</strong> is my attempt at a living navigator for the AI space. It pulls from 40+ sources every 6 hours so I don't have to scroll Twitter to know what dropped. The whole pipeline runs on GitHub Actions + Netlify for free.</p>
+        <p>Outside of this, I'm building <strong style="color:var(--text)">system-ai</strong> — a fully local Jarvis-style desktop assistant (Gemma 4 + Ollama + Electron), and maintaining <strong style="color:var(--text)">openclaw-newbie-baseline</strong>, a reference site for getting started with OpenClaw.</p>
+    </div>
+</div>
+
+<!-- Tools I actually use -->
+<div class="card">
+    <div class="card-title">
+        <svg data-lucide="zap" style="width:16px;height:16px;color:var(--accent)"></svg>
+        AI Tools I Actually Use
+    </div>
+    <div style="display:flex;flex-direction:column;gap:12px">
+
+        <div style="display:flex;align-items:center;gap:14px;padding:14px;background:var(--bg3);border:1px solid var(--border);border-radius:10px">
+            <div style="width:40px;height:40px;background:linear-gradient(135deg,#d4956a,#c56a3e);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0">🤖</div>
+            <div>
+                <div style="font-weight:700;font-size:14px;color:var(--text)">Claude</div>
+                <div style="font-size:12px;color:var(--text3);margin-top:2px">My main coding pair. Claude Code for terminal, claude.ai for thinking through problems.</div>
+            </div>
+        </div>
+
+        <div style="display:flex;align-items:center;gap:14px;padding:14px;background:var(--bg3);border:1px solid var(--border);border-radius:10px">
+            <div style="width:40px;height:40px;background:linear-gradient(135deg,#6e8efb,#a777e3);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0">🚀</div>
+            <div>
+                <div style="font-weight:700;font-size:14px;color:var(--text)">Antigravity</div>
+                <div style="font-size:12px;color:var(--text3);margin-top:2px">Vibe coding companion. Makes the impossible feel obvious.</div>
+            </div>
+        </div>
+
+        <div style="display:flex;align-items:center;gap:14px;padding:14px;background:var(--bg3);border:1px solid var(--border);border-radius:10px">
+            <div style="width:40px;height:40px;background:linear-gradient(135deg,#4285f4,#34a853);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0">✨</div>
+            <div>
+                <div style="font-weight:700;font-size:14px;color:var(--text)">Gemini</div>
+                <div style="font-size:12px;color:var(--text3);margin-top:2px">Long context work and cross-checking Claude's answers. Good for big file analysis.</div>
+            </div>
+        </div>
+
+        <div style="display:flex;align-items:center;gap:14px;padding:14px;background:var(--bg3);border:1px solid var(--border);border-radius:10px">
+            <div style="width:40px;height:40px;background:linear-gradient(135deg,#ff6b6b,#ffa94d);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0">🦅</div>
+            <div>
+                <div style="font-weight:700;font-size:14px;color:var(--text)">OpenClaw</div>
+                <div style="font-size:12px;color:var(--text3);margin-top:2px">AI workflow automation. I built a beginner reference site for it — see projects below.</div>
+            </div>
+        </div>
+
     </div>
 </div>
 
@@ -51,6 +94,7 @@
     </div>
     <div style="display:flex;flex-direction:column;gap:14px">
 
+        <!-- sept-ai -->
         <a href="https://github.com/Septoff21/sept-ai" target="_blank" rel="noopener"
            style="display:block;padding:16px;background:var(--bg3);border:1px solid var(--border);border-radius:10px;text-decoration:none;transition:all 0.18s"
            onmouseover="this.style.borderColor='var(--accent)';this.style.transform='translateY(-1px)'"
@@ -59,31 +103,70 @@
                 <div style="width:36px;height:36px;background:linear-gradient(135deg,var(--neon-amber),var(--neon-violet));border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:18px">🧭</div>
                 <div>
                     <div style="font-weight:700;font-size:15px;color:var(--text)">Sept-AI</div>
-                    <div style="font-size:12px;color:var(--text3)">This site</div>
+                    <div style="font-size:12px;color:var(--text3)">You're looking at it</div>
                 </div>
                 <svg data-lucide="arrow-up-right" style="width:14px;height:14px;color:var(--text3);margin-left:auto"></svg>
             </div>
-            <div style="font-size:13px;color:var(--text2);line-height:1.55">Auto-updating AI navigator — 170+ tools, 40+ sources, refreshed every 6 h via GitHub Actions. Built on Hugo + Python.</div>
+            <div style="font-size:13px;color:var(--text2);line-height:1.55">Auto-updating AI navigator — 170+ tools, 40+ sources, refreshed every 6 h. Hugo + Python + GitHub Actions, zero cost.</div>
             <div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap">
                 <span class="tag">Hugo</span><span class="tag">Python</span><span class="tag">GitHub Actions</span><span class="tag">Netlify</span>
             </div>
         </a>
 
+        <!-- openclaw-newbie-baseline -->
+        <a href="https://claw-baseline.vercel.app" target="_blank" rel="noopener"
+           style="display:block;padding:16px;background:var(--bg3);border:1px solid var(--border);border-radius:10px;text-decoration:none;transition:all 0.18s"
+           onmouseover="this.style.borderColor='var(--accent)';this.style.transform='translateY(-1px)'"
+           onmouseout="this.style.borderColor='var(--border)';this.style.transform='none'">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:6px">
+                <div style="width:36px;height:36px;background:linear-gradient(135deg,#ff6b6b,#ffa94d);border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:18px">🦅</div>
+                <div>
+                    <div style="font-weight:700;font-size:15px;color:var(--text)">openclaw-newbie-baseline</div>
+                    <div style="font-size:12px;color:var(--text3)">claw-baseline.vercel.app</div>
+                </div>
+                <svg data-lucide="arrow-up-right" style="width:14px;height:14px;color:var(--text3);margin-left:auto"></svg>
+            </div>
+            <div style="font-size:13px;color:var(--text2);line-height:1.55">Beginner-first OpenClaw reference site. Copy-ready prompts, verified workflows, and forkable templates for new users.</div>
+            <div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap">
+                <span class="tag">TypeScript</span><span class="tag">OpenClaw</span><span class="tag">Vercel</span>
+            </div>
+        </a>
+
+        <!-- system-ai -->
+        <a href="https://github.com/Septoff21/system-ai" target="_blank" rel="noopener"
+           style="display:block;padding:16px;background:var(--bg3);border:1px solid var(--border);border-radius:10px;text-decoration:none;transition:all 0.18s"
+           onmouseover="this.style.borderColor='var(--accent)';this.style.transform='translateY(-1px)'"
+           onmouseout="this.style.borderColor='var(--border)';this.style.transform='none'">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:6px">
+                <div style="width:36px;height:36px;background:linear-gradient(135deg,var(--neon-cyan),var(--neon-green));border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:18px">🖥️</div>
+                <div>
+                    <div style="font-weight:700;font-size:15px;color:var(--text)">system-ai</div>
+                    <div style="font-size:12px;color:var(--text3)">Local AI desktop assistant</div>
+                </div>
+                <svg data-lucide="arrow-up-right" style="width:14px;height:14px;color:var(--text3);margin-left:auto"></svg>
+            </div>
+            <div style="font-size:13px;color:var(--text2);line-height:1.55">Jarvis / Friday-style transparent HUD with voice conversation. 100% local — Gemma 4 + Ollama + Electron. No data leaves your machine.</div>
+            <div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap">
+                <span class="tag">TypeScript</span><span class="tag">Electron</span><span class="tag">Ollama</span><span class="tag">Gemma 4</span>
+            </div>
+        </a>
+
+        <!-- claude-learning -->
         <a href="https://github.com/Septoff21/claude-learning" target="_blank" rel="noopener"
            style="display:block;padding:16px;background:var(--bg3);border:1px solid var(--border);border-radius:10px;text-decoration:none;transition:all 0.18s"
            onmouseover="this.style.borderColor='var(--accent)';this.style.transform='translateY(-1px)'"
            onmouseout="this.style.borderColor='var(--border)';this.style.transform='none'">
             <div style="display:flex;align-items:center;gap:10px;margin-bottom:6px">
-                <div style="width:36px;height:36px;background:linear-gradient(135deg,var(--neon-cyan),var(--neon-green));border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:18px">🧠</div>
+                <div style="width:36px;height:36px;background:linear-gradient(135deg,#d4956a,#a06040);border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:18px">🧠</div>
                 <div>
                     <div style="font-weight:700;font-size:15px;color:var(--text)">claude-learning</div>
                     <div style="font-size:12px;color:var(--text3)">Personal knowledge vault</div>
                 </div>
                 <svg data-lucide="arrow-up-right" style="width:14px;height:14px;color:var(--text3);margin-left:auto"></svg>
             </div>
-            <div style="font-size:13px;color:var(--text2);line-height:1.55">Self-updating vault for everything Claude — skills, prompts, workflows, patterns. Daily digest via GitHub Actions. Published to GitHub Pages with Quartz.</div>
+            <div style="font-size:13px;color:var(--text2);line-height:1.55">Everything I've learned about Claude — skills, prompts, workflows, patterns. Auto-synced into this site's knowledge layer.</div>
             <div style="display:flex;gap:6px;margin-top:10px;flex-wrap:wrap">
-                <span class="tag">Obsidian</span><span class="tag">Quartz</span><span class="tag">Claude Code</span><span class="tag">Python</span>
+                <span class="tag">Obsidian</span><span class="tag">Python</span><span class="tag">Claude Code</span>
             </div>
         </a>
 
@@ -97,7 +180,7 @@
         Get in touch
     </div>
     <div style="font-size:14px;color:var(--text2);line-height:1.7;margin-bottom:16px">
-        Open to interesting conversations about AI tooling, knowledge workflows, and shipping in public. No spam.
+        Open to interesting conversations about AI tooling, vibe coding, and things that probably shouldn't work but do.
     </div>
     <a href="mailto:septoff21@gmail.com" class="spotlight-btn" style="display:inline-flex;align-items:center;gap:8px">
         <svg data-lucide="mail" style="width:15px;height:15px"></svg>
@@ -120,13 +203,32 @@
     <div style="font-size:22px;margin-bottom:6px">☕</div>
     <div style="font-weight:700;font-size:17px;margin-bottom:6px">Buy me a coffee</div>
     <div style="font-size:13px;color:var(--text2);margin-bottom:18px;line-height:1.6">
-        If Sept-AI saves you time or helps you discover something useful, you can buy me a coffee via TNG eWallet.
+        If Sept-AI saves you time, you can buy me a coffee via TNG eWallet. Keeps the 6-hour refresh alive.
     </div>
     <button onclick="document.getElementById('tng-modal').style.display='flex'"
             style="width:100%;padding:11px;background:var(--accent);color:#fff;border:none;border-radius:9px;font-size:14px;font-weight:700;cursor:pointer;transition:opacity 0.18s"
             onmouseover="this.style.opacity='0.88'" onmouseout="this.style.opacity='1'">
-        Scan TNG QR to support ☕
+        Scan TNG QR ☕
     </button>
+</div>
+
+<!-- Tech stack -->
+<div class="card" style="margin-bottom:20px">
+    <div class="card-title">
+        <svg data-lucide="wrench" style="width:16px;height:16px;color:var(--accent)"></svg>
+        Build stack
+    </div>
+    <div style="display:flex;flex-wrap:wrap;gap:6px">
+        <span class="tag">Hugo</span>
+        <span class="tag">Python</span>
+        <span class="tag">TypeScript</span>
+        <span class="tag">Electron</span>
+        <span class="tag">Ollama</span>
+        <span class="tag">GitHub Actions</span>
+        <span class="tag">Netlify</span>
+        <span class="tag">Vercel</span>
+        <span class="tag">Obsidian</span>
+    </div>
 </div>
 
 <!-- Vault info card -->
@@ -136,12 +238,12 @@
         Knowledge Vault
     </div>
     <div style="font-size:13px;color:var(--text2);line-height:1.7;margin-bottom:14px">
-        My personal Obsidian vault lives inside this repo at <code style="background:var(--bg3);padding:2px 6px;border-radius:4px;font-size:11px">my-content/</code>. It has three layers:
+        My Obsidian vault lives inside this repo at <code style="background:var(--bg3);padding:2px 6px;border-radius:4px;font-size:11px">my-content/</code>. Three layers:
     </div>
     <div style="display:flex;flex-direction:column;gap:10px">
         <div style="display:flex;gap:10px;align-items:flex-start">
             <div style="width:8px;height:8px;border-radius:50%;background:#60a5fa;margin-top:5px;flex-shrink:0"></div>
-            <div><strong style="font-size:13px">00-Scraped/EN</strong><br><span style="font-size:12px;color:var(--text3)">Auto-collected EN news</span></div>
+            <div><strong style="font-size:13px">00-Scraped/EN</strong><br><span style="font-size:12px;color:var(--text3)">Auto-collected EN news (40+ sources)</span></div>
         </div>
         <div style="display:flex;gap:10px;align-items:flex-start">
             <div style="width:8px;height:8px;border-radius:50%;background:#f87171;margin-top:5px;flex-shrink:0"></div>
@@ -149,28 +251,8 @@
         </div>
         <div style="display:flex;gap:10px;align-items:flex-start">
             <div style="width:8px;height:8px;border-radius:50%;background:#4ade80;margin-top:5px;flex-shrink:0"></div>
-            <div><strong style="font-size:13px">50-My-Knowledge</strong><br><span style="font-size:12px;color:var(--text3)">Hand-curated notes, prompts, workflows</span></div>
+            <div><strong style="font-size:13px">50-My-Knowledge</strong><br><span style="font-size:12px;color:var(--text3)">Hand-curated notes, prompts, claude-learning</span></div>
         </div>
-    </div>
-</div>
-
-<!-- Stack / tools I use -->
-<div class="card">
-    <div class="card-title">
-        <svg data-lucide="wrench" style="width:16px;height:16px;color:var(--accent)"></svg>
-        Stack I use daily
-    </div>
-    <div style="display:flex;flex-wrap:wrap;gap:6px">
-        <span class="tag">Claude Code</span>
-        <span class="tag">Cursor</span>
-        <span class="tag">Obsidian</span>
-        <span class="tag">Hugo</span>
-        <span class="tag">Netlify</span>
-        <span class="tag">GitHub Actions</span>
-        <span class="tag">Python</span>
-        <span class="tag">feedparser</span>
-        <span class="tag">Quartz</span>
-        <span class="tag">Lucide</span>
     </div>
 </div>
 
@@ -189,7 +271,6 @@
         <div style="font-weight:800;font-size:18px;margin-bottom:4px">Buy me a coffee</div>
         <div style="font-size:13px;color:var(--text2);margin-bottom:20px">Scan with TNG eWallet to support Sept-AI</div>
 
-        <!-- QR image -->
         <div style="background:#fff;padding:12px;border-radius:12px;display:inline-block;margin-bottom:18px">
             <img src="/assets/tng-qr.png" alt="TNG eWallet QR code"
                  style="width:200px;height:200px;display:block;object-fit:contain"
