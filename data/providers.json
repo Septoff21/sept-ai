@@ -122,16 +122,16 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Qwen3.6 27B",
       "Qwen3.6 Plus",
-      "Qwen3.5-9B",
-      "Qwen3.5-35B-A3B"
+      "Qwen3.5-9B"
     ],
-    "model_count": 48,
-    "last_updated": "2026-04-02",
+    "model_count": 49,
+    "last_updated": "2026-04-27",
     "modalities": [
       "视频"
     ],
-    "live_summary": "OpenRouter 已收录 48 个该作者/厂商相关模型，最近更新为 Qwen3.6 Plus",
+    "live_summary": "OpenRouter 已收录 49 个该作者/厂商相关模型，最近更新为 Qwen3.6 27B",
     "provider_kind": "model_author"
   },
   {

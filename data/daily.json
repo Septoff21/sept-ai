@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-04-26T19:04:45.194892",
-  "date": "2026-04-26",
+  "updated_at": "2026-04-27T03:29:39.112793",
+  "date": "2026-04-27",
   "spotlight": {
-    "id": "perplexity",
-    "name": "Perplexity",
-    "url": "https://perplexity.ai",
+    "id": "秘塔搜索",
+    "name": "秘塔 AI 搜索",
+    "url": "https://metaso.cn",
     "type": "tool",
-    "description": "AI 搜索引擎，实时联网回答问题",
-    "pricing": "免费 + Pro $20/月",
+    "description": "国产 AI 搜索引擎，中文体验优秀",
+    "pricing": "免费",
     "category": "搜索"
   },
   "alternates": [
     {
-      "name": "Fabric",
-      "url": "https://github.com/danielmiessler/fabric",
+      "name": "Aider",
+      "url": "https://github.com/Aider-AI/aider",
       "type": "agent",
-      "description": "AI增强人类能力的框架，内置海量Prompt模板",
+      "description": "终端AI结对编程工具，支持多模型",
       "pricing": "开源免费",
-      "category": "效率 Agent"
+      "category": "编程 Agent"
     },
     {
-      "id": "windsurf",
-      "name": "Windsurf",
-      "url": "https://codeium.com/windsurf",
+      "id": "trae",
+      "name": "Trae",
+      "url": "https://trae.ai",
       "type": "tool",
-      "description": "Codeium 出品的 AI IDE，内置 Cascade 智能体",
-      "pricing": "免费 + Pro $15/月",
+      "description": "字节跳动出品的 AI IDE，中文友好",
+      "pricing": "免费",
       "category": "编程"
     },
     {
-      "name": "Cursor Agent",
-      "url": "https://cursor.sh",
+      "name": "Codex (ChatGPT)",
+      "url": "https://chatgpt.com",
       "type": "agent",
-      "description": "Cursor内置Agent模式，后台自主完成复杂编码任务",
-      "pricing": "Pro $20/月",
+      "description": "OpenAI内置编程智能体，可在沙盒中执行代码",
+      "pricing": "ChatGPT Pro $200/月",
       "category": "编程 Agent"
     }
   ]
