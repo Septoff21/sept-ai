@@ -1,5 +1,101 @@
 [
   {
+    "id": "35b19ebc7468",
+    "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+    "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-27T18:38:17",
+    "summary": "For many years, Microsoft and OpenAI's relationship has included a weird clause saying that, should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null and void. That clause appeared to end today. I decided to try and track its expression over time on openai.com. O",
+    "collected_at": "2026-04-27T19:27:34.680442"
+  },
+  {
+    "id": "b674898a18bb",
+    "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T18:17:12",
+    "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, d",
+    "collected_at": "2026-04-27T19:27:23.485056"
+  },
+  {
+    "id": "cd10cd32bf8a",
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T17:40:38",
+    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+    "collected_at": "2026-04-27T19:27:23.334394"
+  },
+  {
+    "id": "6e3a722854c9",
+    "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
+    "url": "https://36kr.com/p/3784806758243587?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-27T16:27:19",
+    "summary": "在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。 爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，正进入正常的开发周期”，2026年将逐步导入多款车型，成为业绩增长的重要引擎。目前，传统终端计算产品仍占爱芯元智收入的超80%，车载和边缘计算业务的收入占比较低，仇肖莘预计未来三年内，这一局面将被改写。 仇肖莘对M97的性能表现颇为信心，她表示：“当前主流高阶辅助驾驶芯片有比较大的问题，就是带宽不够。我",
+    "collected_at": "2026-04-27T19:27:37.930443"
+  },
+  {
+    "id": "7b2e4a2048b5",
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T17:24:21",
+    "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+    "collected_at": "2026-04-27T19:27:23.334451"
+  },
+  {
+    "id": "0147e1017b65",
+    "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T16:15:47",
+    "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-st",
+    "collected_at": "2026-04-27T19:27:23.485122"
+  },
+  {
+    "id": "c4880d927b46",
+    "title": "The missing step between hype and profit",
+    "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-27T16:13:41",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B",
+    "collected_at": "2026-04-27T19:27:23.741885"
+  },
+  {
+    "id": "82d5d55d2c74",
+    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T16:13:02",
+    "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+    "collected_at": "2026-04-27T19:27:23.334493"
+  },
+  {
     "id": "e65e2348a6c5",
     "title": "数据分析师如何快速建立在 AI 时代最值钱的能力：一份可落地的行动路线图",
     "url": "https://www.infoq.cn/article/JB3gFJKZfDASpaXWqwHE?utm_source=rss&utm_medium=article",
@@ -10,6 +106,54 @@
     "published": "2026-04-27T15:50:35",
     "summary": "点击查看原文>",
     "collected_at": "2026-04-27T08:30:54.752629"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T15:50:29",
+    "summary": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech’s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes forward his 2024 lawsuit that accuses OpenAI of abandoning its founding mission of developing AI to",
+    "collected_at": "2026-04-27T19:27:23.485184"
+  },
+  {
+    "id": "a933455fdd08",
+    "title": "Language models know what matters and the foundations of ethics better than you",
+    "url": "https://www.alignmentforum.org/posts/cmaJ76Sy9DfZ4EHaZ/language-models-know-what-matters-and-the-foundations-of",
+    "source": "AI Alignment Forum",
+    "lang": "en",
+    "channel": "en",
+    "priority": 3,
+    "published": "2026-04-27T14:00:14",
+    "summary": "… maybe! I tried to think of less provocative titles, but this one is to the point and also kind of true.This post looks long but the essential part is right below. Most of the post is just a collection of copy-pasted input-output pairs from language models: you’ll probably want to read just a few a",
+    "collected_at": "2026-04-27T19:27:35.809952"
+  },
+  {
+    "id": "01d2196eff05",
+    "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T14:29:23",
+    "summary": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn't supposed to make visible alterations to user designs, but it was found by X user @ros_ie9 to autom",
+    "collected_at": "2026-04-27T19:27:23.485240"
+  },
+  {
+    "id": "93c0123cd348",
+    "title": "From nothing to important actions: agents that act morally",
+    "url": "https://www.alignmentforum.org/posts/9qkTDDEZ23HN3d6su/from-nothing-to-important-actions-agents-that-act-morally",
+    "source": "AI Alignment Forum",
+    "lang": "en",
+    "channel": "en",
+    "priority": 3,
+    "published": "2026-04-27T13:59:16",
+    "summary": "You may start reading here, or jump to the “Comment” section or to the “Takeaways”. If none of these starting points seem interesting to you, the entire post probably won’t either.Posted also on the EA Forum.SeeingLet’s consider visual experiences. It seems uncontestable that some visual experiences",
+    "collected_at": "2026-04-27T19:27:35.811915"
   },
   {
     "id": "705b1c5bdea9",
@@ -180,6 +324,18 @@
     "collected_at": "2026-04-27T03:28:51.312095"
   },
   {
+    "id": "ad3671296432",
+    "title": "Mistral built a $14B AI empire by not being American",
+    "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-27T10:14:15",
+    "summary": "Article URL: https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/ Comments URL: https://news.ycombinator.com/item?id=47919725 Points: 193 # Comments: 152",
+    "collected_at": "2026-04-27T19:27:25.118046"
+  },
+  {
     "id": "8fdc938dd211",
     "title": "Claude第一款AI桌宠硬件，深圳制造",
     "url": "https://www.qbitai.com/2026/04/408409.html",
@@ -202,6 +358,18 @@
     "published": "2026-04-27T10:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-04-27T03:28:51.312175"
+  },
+  {
+    "id": "464b82a8a36d",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "url": "https://app.oravys.com/blog/mercor-breach-2026",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-27T09:57:10",
+    "summary": "Article URL: https://app.oravys.com/blog/mercor-breach-2026 Comments URL: https://news.ycombinator.com/item?id=47919630 Points: 339 # Comments: 126",
+    "collected_at": "2026-04-27T19:27:25.118082"
   },
   {
     "id": "f60c01e79940",
@@ -828,16 +996,16 @@
     "collected_at": "2026-04-27T03:28:50.196357"
   },
   {
-    "id": "ed462f34bd31",
-    "title": "派早报：X 推出聊天软件 XChat",
-    "url": "https://sspai.com/post/109114",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-26T23:40:49",
-    "summary": "X 推出聊天软件 XChat美国要求外交人员向他国警告中国 AI 蒸馏行为国内 AI 公司被要求不接受未经批准的美国投资香港在黄金周前加强电子烟禁令的内地宣传FILCO 键盘母公司关停官方回应豆包提前查到 2026 山东事业编成绩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-    "collected_at": "2026-04-27T03:28:55.371538"
+    "id": "c66bc8653389",
+    "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+    "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-27T00:34:30",
+    "summary": "Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 105 # Comments: 107",
+    "collected_at": "2026-04-27T19:27:25.118114"
   },
   {
     "id": "0ec3697325ce",
@@ -852,16 +1020,16 @@
     "collected_at": "2026-04-27T03:28:50.196667"
   },
   {
-    "id": "8b3cee7d36dd",
-    "title": "AI should elevate your thinking, not replace it",
-    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-    "source": "Hacker News AI",
+    "id": "6cf5cb128bee",
+    "title": "An open-source spec for orchestration: Symphony",
+    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-04-26T20:03:12",
-    "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 313 # Comments: 262",
-    "collected_at": "2026-04-27T03:28:38.963254"
+    "priority": 1,
+    "published": "2026-04-27T00:00:00",
+    "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+    "collected_at": "2026-04-27T19:27:30.573344"
   },
   {
     "id": "3379457e4d20",
@@ -876,16 +1044,52 @@
     "collected_at": "2026-04-27T03:28:50.196913"
   },
   {
-    "id": "f6f35946da20",
-    "title": "An AI agent deleted our production database. The agent's confession is below",
-    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "id": "329b8042445f",
+    "title": "Choco automates food distribution with AI agents",
+    "url": "https://openai.com/index/choco",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T00:00:00",
+    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "collected_at": "2026-04-27T19:27:30.573391"
+  },
+  {
+    "id": "100e89029424",
+    "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-27T00:00:00",
+    "summary": "How to build scalable web apps with OpenAI's Privacy Filter",
+    "collected_at": "2026-04-27T19:27:34.458479"
+  },
+  {
+    "id": "ed462f34bd31",
+    "title": "派早报：X 推出聊天软件 XChat",
+    "url": "https://sspai.com/post/109114",
+    "source": "少数派",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-26T23:40:49",
+    "summary": "X 推出聊天软件 XChat美国要求外交人员向他国警告中国 AI 蒸馏行为国内 AI 公司被要求不接受未经批准的美国投资香港在黄金周前加强电子烟禁令的内地宣传FILCO 键盘母公司关停官方回应豆包提前查到 2026 山东事业编成绩看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+    "collected_at": "2026-04-27T03:28:55.371538"
+  },
+  {
+    "id": "8b3cee7d36dd",
+    "title": "AI should elevate your thinking, not replace it",
+    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
     "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-04-26T16:27:29",
-    "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 509 # Comments: 664",
-    "collected_at": "2026-04-27T03:28:38.963296"
+    "published": "2026-04-26T20:03:12",
+    "summary": "Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 313 # Comments: 262",
+    "collected_at": "2026-04-27T03:28:38.963254"
   },
   {
     "id": "1ba739b09513",
@@ -898,6 +1102,18 @@
     "published": "2026-04-26T16:00:00",
     "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
     "collected_at": "2026-04-27T03:28:44.441442"
+  },
+  {
+    "id": "f6f35946da20",
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-26T16:27:29",
+    "summary": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 509 # Comments: 664",
+    "collected_at": "2026-04-27T03:28:38.963296"
   },
   {
     "id": "17968030620c",
@@ -3382,221 +3598,5 @@
     "published": "2026-04-23T04:25:44",
     "summary": "36氪获悉，针对投资者关于“ 据说公司腱绳海外送样被否决了，是不是真的？”的提问，恒辉安防4月23日在互动平台回应称，“公司腱绳海外送样被否决”的信息不实。目前，公司超高分子量聚乙烯纤维腱绳产品正持续向国内外多家机器人本体及灵巧手企业开展多轮送样与适配验证，相关合作处于稳步推进的技术对接与性能优化阶段，不存在“被否决”或“被踢出合作”的情况。机器人核心部件行业的客户验证本就是一个需多轮迭代、持续沟通优化的过程，公司将根据客户反馈持续精进产品性能，推动合作深入落地。",
     "collected_at": "2026-04-23T13:24:05.086393"
-  },
-  {
-    "id": "b0a8db414aa8",
-    "title": "Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations",
-    "url": "https://arxiv.org/abs/2604.18724",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18724v1 Announce Type: new Abstract: Users typically interact with and evaluate language models via single outputs, but each output is just one sample from a broad distribution of possible completions. This interaction hides distributional structure such as modes, uncommon edge cases, and",
-    "collected_at": "2026-04-23T13:52:38.668792"
-  },
-  {
-    "id": "f757b56b31b3",
-    "title": "WorkflowGen:an adaptive workflow generation mechanism driven by trajectory experience",
-    "url": "https://arxiv.org/abs/2604.19756",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19756v1 Announce Type: new Abstract: Large language model (LLM) agents often suffer from high reasoning overhead, excessive token consumption, unstable execution, and inability to reuse past experiences in complex tasks like business queries, tool use, and workflow orchestration. Traditio",
-    "collected_at": "2026-04-23T13:52:38.932204"
-  },
-  {
-    "id": "e5d4867fac0e",
-    "title": "ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System",
-    "url": "https://arxiv.org/abs/2604.18789",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18789v1 Announce Type: new Abstract: Reinforcement Learning from Human Feedback (RLHF) is central to aligning Large Language Models (LLMs), yet it introduces a critical vulnerability: an imperfect Reward Model (RM) can become a single point of failure when it fails to penalize unsafe beha",
-    "collected_at": "2026-04-23T13:52:38.668877"
-  },
-  {
-    "id": "8b17380e6315",
-    "title": "Transparent Screening for LLM Inference and Training Impacts",
-    "url": "https://arxiv.org/abs/2604.19757",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19757v1 Announce Type: new Abstract: This paper presents a transparent screening framework for estimating inference and training impacts of current large language models under limited observability. The framework converts natural-language application descriptions into bounded environmenta",
-    "collected_at": "2026-04-23T13:52:38.932260"
-  },
-  {
-    "id": "12fb65383bf8",
-    "title": "AI scientists produce results without reasoning scientifically",
-    "url": "https://arxiv.org/abs/2604.18805",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18805v1 Announce Type: new Abstract: Large language model (LLM)-based systems are increasingly deployed to conduct scientific research autonomously, yet whether their reasoning adheres to the epistemic norms that make scientific inquiry self-correcting is poorly understood. Here, we evalu",
-    "collected_at": "2026-04-23T13:52:38.668962"
-  },
-  {
-    "id": "dfe3bfa1b42c",
-    "title": "Accelerating PayPal's Commerce Agent with Speculative Decoding: An Empirical Study on EAGLE3 with Fine-Tuned Nemotron Models",
-    "url": "https://arxiv.org/abs/2604.19767",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19767v1 Announce Type: new Abstract: We evaluate speculative decoding with EAGLE3 as an inference-time optimization for PayPal's Commerce Agent, powered by a fine-tuned llama3.1-nemotron-nano-8B-v1 model. Building on prior work (NEMO-4-PAYPAL) that reduced latency and cost through domain-",
-    "collected_at": "2026-04-23T13:52:38.932327"
-  },
-  {
-    "id": "543263abcee0",
-    "title": "Quantum inspired qubit qutrit neural networks for real time financial forecasting",
-    "url": "https://arxiv.org/abs/2604.18838",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18838v1 Announce Type: new Abstract: This research investigates the performance and efficacy of machine learning models in stock prediction, comparing Artificial Neural Networks (ANNs), Quantum Qubit-based Neural Networks (QQBNs), and Quantum Qutrit-based Neural Networks (QQTNs). By outli",
-    "collected_at": "2026-04-23T13:52:38.669046"
-  },
-  {
-    "id": "4f9418096eeb",
-    "title": "On-Meter Graph Machine Learning: A Case Study of PV Power Forecasting for Grid Edge Intelligence",
-    "url": "https://arxiv.org/abs/2604.19800",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19800v1 Announce Type: new Abstract: This paper presents a detailed study of how graph neural networks can be used on edge intelligent meters in a microgrid to forecast photovoltaic power generation. The problem background and the adopted technologies are introduced, including ONNX and ON",
-    "collected_at": "2026-04-23T13:52:38.932387"
-  },
-  {
-    "id": "2ee3b8fd5b38",
-    "title": "Human-Guided Harm Recovery for Computer Use Agents",
-    "url": "https://arxiv.org/abs/2604.18847",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18847v1 Announce Type: new Abstract: As LM agents gain the ability to execute actions on real computer systems, we need ways to not only prevent harmful actions at scale but also effectively remediate harm when prevention fails. We formalize a solution to this neglected challenge in post-",
-    "collected_at": "2026-04-23T13:52:38.669119"
-  },
-  {
-    "id": "00dcbe00b32e",
-    "title": "Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts",
-    "url": "https://arxiv.org/abs/2604.19835",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19835v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) has become the dominant architecture for scaling large language models: frontier models routinely decouple total parameters from per-token computation through sparse expert routing. Scaling laws show that under fixed active com",
-    "collected_at": "2026-04-23T13:52:38.932508"
-  },
-  {
-    "id": "23fffd80c19b",
-    "title": "From Natural Language to Executable Narsese: A Neuro-Symbolic Benchmark and Pipeline for Reasoning with NARS",
-    "url": "https://arxiv.org/abs/2604.18873",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18873v1 Announce Type: new Abstract: Large language models (LLMs) are highly capable at language generation, but they remain unreliable when reasoning requires explicit symbolic structure, multi-step inference, and interpretable uncertainty. This paper presents a neuro-symbolic framework",
-    "collected_at": "2026-04-23T13:52:38.669197"
-  },
-  {
-    "id": "13f6e9d25ef5",
-    "title": "Graph-Theoretic Models for the Prediction of Molecular Measurements",
-    "url": "https://arxiv.org/abs/2604.19840",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19840v1 Announce Type: new Abstract: Graph-theoretic approaches offer simplicity, interpretability, and low computational cost for molecular property prediction. Among these, the model proposed by Mukwembi and Nyabadza, based on the external activity $D(G)$ and internal activity $\\zeta(G)",
-    "collected_at": "2026-04-23T13:52:38.932623"
-  },
-  {
-    "id": "11574b9bc480",
-    "title": "How Adversarial Environments Mislead Agentic AI?",
-    "url": "https://arxiv.org/abs/2604.18874",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18874v1 Announce Type: new Abstract: Tool-integrated agents are deployed on the premise that external tools ground their outputs in reality. Yet this very reliance creates a critical attack surface. Current evaluations benchmark capability in benign settings, asking \"can the agent use too",
-    "collected_at": "2026-04-23T13:52:38.669265"
-  },
-  {
-    "id": "47ae275eaef9",
-    "title": "Rethinking Reinforcement Fine-Tuning in LVLM: Convergence, Reward Decomposition, and Generalization",
-    "url": "https://arxiv.org/abs/2604.19857",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19857v1 Announce Type: new Abstract: Reinforcement fine-tuning with verifiable rewards (RLVR) has emerged as a powerful paradigm for equipping large vision-language models (LVLMs) with agentic capabilities such as tool use and multi-step reasoning. Despite striking empirical successes, mo",
-    "collected_at": "2026-04-23T13:52:38.932723"
-  },
-  {
-    "id": "5ba2feb36bb1",
-    "title": "Formally Verified Patent Analysis via Dependent Type Theory: Machine-Checkable Certificates from a Hybrid AI + Lean 4 Pipeline",
-    "url": "https://arxiv.org/abs/2604.18882",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18882v1 Announce Type: new Abstract: We present a formally verified framework for patent analysis as a hybrid AI + Lean 4 pipeline. The DAG-coverage core (Algorithm 1b) is fully machine-verified once bounded match scores are fixed. Freedom-to-operate, claim-construction sensitivity, cross",
-    "collected_at": "2026-04-23T13:52:38.669348"
-  },
-  {
-    "id": "157cfe46f896",
-    "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
-    "url": "https://arxiv.org/abs/2604.19859",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19859v1 Announce Type: new Abstract: Edge-scale deep research agents based on small language models are attractive for real-world deployment due to their advantages in cost, latency, and privacy. In this work, we study how to train a strong small deep research agent under limited open-dat",
-    "collected_at": "2026-04-23T13:52:38.932812"
-  },
-  {
-    "id": "7fae288440c8",
-    "title": "Error-free Training for MedMNIST Datasets",
-    "url": "https://arxiv.org/abs/2604.18916",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.18916v1 Announce Type: new Abstract: In this paper, we introduce a new concept called Artificial Special Intelligence by which Machine Learning models for the classification problem can be trained error-free, thus acquiring the capability of not making repeated mistakes. The method is app",
-    "collected_at": "2026-04-23T13:52:38.669388"
-  },
-  {
-    "id": "86cfc8d5551d",
-    "title": "Super Apriel: One Checkpoint, Many Speeds",
-    "url": "https://arxiv.org/abs/2604.19877",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T04:00:00",
-    "summary": "arXiv:2604.19877v1 Announce Type: new Abstract: We release Super Apriel, a 15B-parameter supernet in which every decoder layer provides four trained mixer choices -- Full Attention (FA), Sliding Window Attention (SWA), Kimi Delta Attention (KDA), and Gated DeltaNet (GDN). A placement selects one mix",
-    "collected_at": "2026-04-23T13:52:38.932890"
   }
 ]
