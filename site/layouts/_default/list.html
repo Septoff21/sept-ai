@@ -1,30 +1,232 @@
 {{ define "main" }}
-<div style="margin-bottom:20px">
-    <a href="{{ relURL "/" }}" style="color:var(--text2);font-size:13px">← Back to Trending</a>
-</div>
-
 {{ $slug := .RelPermalink }}
 
-<!-- 模型页 -->
-{{ if in $slug "/models/" }}
-{{ $curated := site.Data.models_curated }}
-<h1 style="font-size:1px;color:transparent;position:absolute;pointer-events:none">Curated AI Models - {{ $curated.total }} of the most advanced, popular, and practical models</h1>
+<!-- ════════════════════════════════════════════════════
+     TOOLS PAGE
+════════════════════════════════════════════════════ -->
+{{ if in $slug "/tools/" }}
 
-<div class="card" style="margin-bottom:16px">
-    <div class="card-title">🧠 Curated AI Models <span class="hot-badge">{{ $curated.total }}</span></div>
-    <div class="hot-meta">Not a dumping ground — a shortlist filtered by real usefulness, popularity, and adoption.</div>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:12px">
-        <span class="tool-tag hot">New here: 🔥 Top general-purpose models</span>
-        <span class="tool-tag">Developers: 💻 Best coding models</span>
-        <span class="tool-tag">Vision & media: 👁️ Leading multimodal models</span>
+{{ $catMap := dict
+    "编程"    (dict "en" "Coding"       "icon" "code-2"       "color" "#cc785c")
+    "对话"    (dict "en" "Chat"         "icon" "message-circle" "color" "#7c3aed")
+    "绘画"    (dict "en" "Image"        "icon" "image"         "color" "#ec4899")
+    "写作"    (dict "en" "Writing"      "icon" "pen-line"      "color" "#06b6d4")
+    "视频"    (dict "en" "Video"        "icon" "video"         "color" "#f59e0b")
+    "Agent"   (dict "en" "Agent"        "icon" "bot"           "color" "#10b981")
+    "办公"    (dict "en" "Productivity" "icon" "briefcase"     "color" "#60a5fa")
+    "搜索"    (dict "en" "Search"       "icon" "search"        "color" "#a78bfa")
+    "本地模型" (dict "en" "Local"        "icon" "cpu"           "color" "#34d399")
+    "推理引擎" (dict "en" "Inference"    "icon" "zap"           "color" "#fbbf24")
+    "语音"    (dict "en" "Voice"        "icon" "mic"           "color" "#f87171")
+    "音乐"    (dict "en" "Music"        "icon" "music"         "color" "#c084fc")
+}}
+
+{{ $tools := site.Data.tools }}
+{{ $total  := len $tools }}
+
+<!-- Page header -->
+<div style="margin-bottom:20px">
+    <div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">
+        <h1 style="font-size:22px;font-weight:800;color:var(--text)">AI Tools</h1>
+        <span style="font-size:13px;color:var(--text3)">{{ $total }} curated — start with what you actually want to do</span>
     </div>
 </div>
 
-<div class="category-nav" style="position:sticky;top:100px;z-index:50;background:var(--bg);padding:12px 0;margin-bottom:16px;border-bottom:1px solid var(--border)">
-    <div style="display:flex;flex-wrap:wrap;gap:8px">
+<!-- Filter + Sort bar -->
+<div style="position:sticky;top:57px;z-index:90;background:var(--bg);padding:10px 0 12px;margin-bottom:16px;border-bottom:1px solid var(--border)">
+    <!-- Category pills -->
+    <div id="filterBar" style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px">
+        <button onclick="filterTools('all',this)"
+            class="filter-pill active-pill"
+            data-cat="all">
+            All <span class="pill-count">{{ $total }}</span>
+        </button>
+        {{ range $cat, $info := $catMap }}
+        {{ $catTools := where $tools "category" $cat }}
+        {{ if gt (len $catTools) 0 }}
+        <button onclick="filterTools('{{ $cat }}',this)"
+            class="filter-pill"
+            data-cat="{{ $cat }}">
+            {{ $info.en }} <span class="pill-count">{{ len $catTools }}</span>
+        </button>
+        {{ end }}
+        {{ end }}
+    </div>
+    <!-- Sort row -->
+    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+        <span style="font-size:12px;color:var(--text3)">Sort:</span>
+        <button onclick="sortTools('trending',this)" class="sort-btn sort-active">🔥 Trending</button>
+        <button onclick="sortTools('free',this)"     class="sort-btn">🎁 Free first</button>
+        <button onclick="sortTools('stars',this)"    class="sort-btn">⭐ Stars</button>
+        <button onclick="sortTools('az',this)"       class="sort-btn">A–Z</button>
+        <div style="margin-left:auto">
+            <input id="toolSearch" type="text" placeholder="Filter…"
+                style="padding:5px 10px;border-radius:7px;border:1px solid var(--border);background:var(--bg3);color:var(--text);font-size:12px;outline:none;width:140px;transition:border-color 0.18s"
+                oninput="filterSearch(this.value)"
+                onfocus="this.style.borderColor='var(--accent)'"
+                onblur="this.style.borderColor='var(--border)'">
+        </div>
+    </div>
+</div>
+
+<!-- Tool grid — rendered by JS from data -->
+<div id="toolGrid" class="tools-grid"></div>
+<div id="toolEmpty" style="display:none;text-align:center;padding:48px 0;color:var(--text3)">
+    <svg data-lucide="search-x" style="width:32px;height:32px;margin:0 auto 12px;display:block;opacity:0.4"></svg>
+    <div style="font-size:14px">No tools match — try another filter</div>
+</div>
+
+<style>
+.filter-pill {
+    padding: 5px 13px; border-radius: 20px; font-size: 12px; font-weight: 500;
+    border: 1px solid var(--border); background: var(--bg2); color: var(--text2);
+    cursor: pointer; transition: all 0.18s; white-space: nowrap;
+}
+.filter-pill:hover { border-color: var(--accent); color: var(--accent); }
+.active-pill { background: var(--accent) !important; color: #fff !important; border-color: var(--accent) !important; }
+.pill-count { font-size: 10px; opacity: 0.75; margin-left: 3px; }
+.sort-btn {
+    padding: 4px 10px; border-radius: 6px; font-size: 11px;
+    border: 1px solid var(--border); background: var(--bg3); color: var(--text3);
+    cursor: pointer; transition: all 0.18s;
+}
+.sort-btn:hover { color: var(--text); border-color: var(--border2); }
+.sort-active { border-color: var(--accent) !important; color: var(--accent) !important; background: rgba(204,120,92,0.08) !important; }
+</style>
+
+<script>
+const RAW_TOOLS = {{ $tools | jsonify | safeJS }} || [];
+
+// Normalise each tool
+const TOOLS = RAW_TOOLS.map(t => ({
+    ...t,
+    _free: !!(t.free_quota && t.free_quota.trim()),
+    _stars: parseInt(t.stars) || 0,
+    _trending: !!t.trending,
+    _name_lc: (t.name||'').toLowerCase(),
+    _desc_lc: (t.description||'').toLowerCase(),
+}));
+
+let currentCat = 'all';
+let currentSort = 'trending';
+let currentSearch = '';
+
+const CAT_MAP = {{ $catMap | jsonify | safeJS }};
+
+function formatStars(n) {
+    if (n >= 100000) return (n/1000).toFixed(0)+'K';
+    if (n >= 1000)   return (n/1000).toFixed(1)+'K';
+    return n;
+}
+
+function renderTools() {
+    let list = TOOLS.filter(t => {
+        const catOk  = currentCat === 'all' || t.category === currentCat;
+        const srchOk = !currentSearch || t._name_lc.includes(currentSearch) || t._desc_lc.includes(currentSearch);
+        return catOk && srchOk;
+    });
+
+    // Sort
+    if (currentSort === 'trending') list.sort((a,b) => b._trending - a._trending || b._stars - a._stars);
+    if (currentSort === 'free')     list.sort((a,b) => b._free - a._free || b._trending - a._trending);
+    if (currentSort === 'stars')    list.sort((a,b) => b._stars - a._stars);
+    if (currentSort === 'az')       list.sort((a,b) => a._name_lc.localeCompare(b._name_lc));
+
+    const grid = document.getElementById('toolGrid');
+    const empty = document.getElementById('toolEmpty');
+
+    if (!list.length) {
+        grid.innerHTML = '';
+        empty.style.display = '';
+        if (window.lucide) lucide.createIcons();
+        return;
+    }
+    empty.style.display = 'none';
+
+    grid.innerHTML = list.map(t => {
+        const tags = [];
+        if (t._trending) tags.push(`<span class="tool-tag hot">🔥 Trending</span>`);
+        if (t._stars)    tags.push(`<span class="tool-tag">⭐ ${formatStars(t._stars)}</span>`);
+        if (t._free)     tags.push(`<span class="tool-tag free">${t.free_quota}</span>`);
+
+        const domain = (() => { try { return new URL(t.url||'').hostname; } catch(e){ return ''; } })();
+        const favicon = domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=64` : '';
+
+        return `<a href="${t.url||'#'}" target="_blank" rel="noopener" class="tool-card" style="text-decoration:none;color:inherit">
+            <div class="tool-header">
+                <div class="tool-icon" style="overflow:hidden;padding:0">
+                    ${favicon ? `<img src="${favicon}" alt="" style="width:38px;height:38px;border-radius:9px;display:block" onerror="this.style.display='none';this.parentElement.innerHTML='${(t.icon||'🛠️').replace(/'/g,"\\'")} '">` : (t.icon||'🛠️')}
+                </div>
+                <div style="flex:1;min-width:0">
+                    <div class="tool-name">${t.name||''}</div>
+                    ${t.pricing ? `<div style="font-size:11px;color:var(--accent);margin-top:1px">${t.pricing}</div>` : ''}
+                </div>
+            </div>
+            <div class="tool-desc">${(t.description||'').slice(0,100)}${(t.description||'').length>100?'…':''}</div>
+            <div class="tool-footer">
+                <div class="tool-tags">${tags.join('')}</div>
+            </div>
+        </a>`;
+    }).join('');
+
+    if (window.lucide) lucide.createIcons();
+}
+
+function filterTools(cat, btn) {
+    currentCat = cat;
+    document.querySelectorAll('.filter-pill').forEach(b => b.classList.remove('active-pill'));
+    btn.classList.add('active-pill');
+    renderTools();
+}
+
+function sortTools(by, btn) {
+    currentSort = by;
+    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('sort-active'));
+    btn.classList.add('sort-active');
+    renderTools();
+}
+
+let searchTimer;
+function filterSearch(val) {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => {
+        currentSearch = val.toLowerCase().trim();
+        renderTools();
+    }, 180);
+}
+
+// Initial render
+document.addEventListener('DOMContentLoaded', renderTools);
+// Handle ?q= param
+(function(){
+    const q = new URLSearchParams(location.search).get('q');
+    if (q) { const el = document.getElementById('toolSearch'); if(el){ el.value=q; } currentSearch = q.toLowerCase(); }
+})();
+</script>
+
+
+<!-- ════════════════════════════════════════════════════
+     MODELS PAGE
+════════════════════════════════════════════════════ -->
+{{ else if in $slug "/models/" }}
+{{ $curated := site.Data.models_curated }}
+
+<div style="margin-bottom:20px">
+    <div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">
+        <h1 style="font-size:22px;font-weight:800;color:var(--text)">AI Models</h1>
+        <span style="font-size:13px;color:var(--text3)">{{ $curated.total }} curated — not a dumping ground</span>
+    </div>
+</div>
+
+<!-- Category nav -->
+<div style="position:sticky;top:57px;z-index:90;background:var(--bg);padding:10px 0 12px;margin-bottom:16px;border-bottom:1px solid var(--border)">
+    <div style="display:flex;flex-wrap:wrap;gap:6px">
         {{ range $curated.categories }}
-        <a href="#model-{{ .id }}" class="category-tag" style="padding:6px 12px;background:var(--bg2);border:1px solid var(--border);border-radius:16px;font-size:13px;color:var(--text2);text-decoration:none;transition:all 0.2s">
-            {{ .name }} {{ .count }}
+        <a href="#model-{{ .id }}"
+           style="padding:5px 13px;border-radius:20px;font-size:12px;font-weight:500;border:1px solid var(--border);background:var(--bg2);color:var(--text2);text-decoration:none;transition:all 0.18s;white-space:nowrap"
+           onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'"
+           onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text2)'">
+            {{ .name }} <span style="font-size:10px;opacity:0.6">{{ .count }}</span>
         </a>
         {{ end }}
     </div>
@@ -32,331 +234,370 @@
 
 {{ range $curated.categories }}
 {{ $catId := .id }}
-<div class="card" id="model-{{ .id }}">
-    <div class="card-title">{{ .name }} <span class="hot-badge">{{ .count }}</span></div>
-    <div class="hot-meta" style="margin-bottom:14px">{{ .subtitle }}</div>
+<div class="card" id="model-{{ .id }}" style="margin-bottom:20px;border-top:2px solid var(--accent)">
+    <div class="card-title">
+        {{ .name }}
+        <span class="hot-badge" style="margin-left:4px">{{ .count }}</span>
+        <span style="font-size:12px;font-weight:400;color:var(--text3);margin-left:8px">{{ .subtitle }}</span>
+    </div>
     <div class="tools-grid">
         {{ range where $curated.items "category" $catId }}
-        <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
+        <a href="{{ .url }}" target="_blank" rel="noopener" class="tool-card" style="text-decoration:none;color:inherit">
             <div class="tool-header">
-                <div class="tool-icon">{{ if eq .source "OpenRouter" }}⚡{{ else }}🌍{{ end }}</div>
-                <div>
-                    <div class="tool-name">{{ .name }}</div>
-                    <div class="hot-meta" style="font-size:12px;margin-top:2px">{{ .provider }}{{ if .freshness }} · {{ .freshness }}{{ end }}</div>
+                <div class="tool-icon" style="font-size:20px;background:linear-gradient(135deg,rgba(204,120,92,0.15),rgba(124,58,237,0.15))">
+                    {{ if eq .source "OpenRouter" }}⚡{{ else }}🌍{{ end }}
                 </div>
+                <div style="flex:1;min-width:0">
+                    <div class="tool-name">{{ .name }}</div>
+                    <div style="font-size:11px;color:var(--text3);margin-top:2px">{{ .provider }}{{ if .freshness }} · {{ .freshness }}{{ end }}</div>
+                </div>
+                <span style="flex-shrink:0;font-size:11px;padding:2px 8px;border-radius:10px;background:rgba(204,120,92,0.12);color:var(--accent);font-weight:600">{{ .badge }}</span>
             </div>
             <div class="tool-desc">{{ .why }}</div>
-            <div class="tool-tags" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:6px">
-                <span class="tool-tag hot">{{ .badge }}</span>
-                <span class="tool-tag">{{ .source }}</span>
+            <div style="margin-top:10px;display:flex;flex-wrap:wrap;gap:5px">
                 {{ range .tags }}<span class="tool-tag">{{ . }}</span>{{ end }}
+                <span class="tool-tag">{{ .source }}</span>
             </div>
-            <div class="tool-footer" style="margin-top:12px">
-                <div class="tool-tags"></div>
-                <div class="tool-price">{{ .meta }}</div>
-            </div>
-        </a>
-        {{ end }}
-    </div>
-</div>
-{{ end }}
-
-<!-- 工具页 -->
-{{ else if in $slug "/tools/" }}
-{{/* 按分类分组 */}}
-{{ $categories := dict "编程" "🛠️" "绘画" "🎨" "视频" "🎬" "对话" "💬" "搜索" "🔍" "写作" "✍️" "办公" "📊" "Agent" "🤖" "本地模型" "💻" "推理引擎" "⚡" "语音" "🎤" "音乐" "🎵" }}
-{{ $categoryNames := dict "编程" "Coding" "绘画" "Image" "视频" "Video" "对话" "Chat" "搜索" "Search" "写作" "Writing" "办公" "Productivity" "Agent" "Agent" "本地模型" "Local Models" "推理引擎" "Inference Engines" "语音" "Voice" "音乐" "Music" }}
-
-<div class="card" style="margin-bottom:16px">
-    <div class="card-title">🛠️ AI Tools Navigator <span class="hot-badge">{{ len site.Data.tools }}</span></div>
-    <div class="hot-meta">Not every tool is worth your first click — start from what you actually want to do.</div>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:12px">
-        <span class="tool-tag hot">New here: 💬 Chat / 🛠️ Coding</span>
-        <span class="tool-tag">Free-tier hunters: tools with free quota</span>
-        <span class="tool-tag">Creators: 🎨 Image / 🎬 Video / ✍️ Writing</span>
-        <span class="tool-tag">By popularity: check ⭐ GitHub projects first</span>
-    </div>
-</div>
-
-{{ $githubTools := where site.Data.tools "stars" "ne" nil }}
-{{ $hotGithubTools := first 5 (sort $githubTools "stars" "desc") }}
-{{ if gt (len $hotGithubTools) 0 }}
-<div class="card" style="margin-bottom:16px;border-left:3px solid var(--accent)">
-    <div class="card-title">🔥 Trending GitHub Projects</div>
-    <div class="hot-meta" style="margin-bottom:12px">Start here if you want to see the open-source projects the community rates most highly.</div>
-    <div style="display:flex;flex-wrap:wrap;gap:8px">
-        {{ range $hotGithubTools }}
-        <a href="{{ .url }}" target="_blank" class="tag" style="text-decoration:none">
-            {{ .name }} · ⭐ {{ if ge .stars 100000 }}{{ printf "%.0fK" (div (float .stars) 1000.0) }}{{ else if ge .stars 1000 }}{{ printf "%.1fK" (div (float .stars) 1000.0) }}{{ else }}{{ .stars }}{{ end }}
-        </a>
-        {{ end }}
-    </div>
-</div>
-{{ end }}
-
-
-<!-- 分类快速导航 -->
-<div class="category-nav" style="position:sticky;top:100px;z-index:50;background:var(--bg);padding:12px 0;margin-bottom:16px;border-bottom:1px solid var(--border)">
-    <div style="display:flex;flex-wrap:wrap;gap:8px">
-        {{ range $cat, $emoji := $categories }}
-        <a href="#cat-{{ $cat }}" class="category-tag" style="padding:6px 12px;background:var(--bg2);border:1px solid var(--border);border-radius:16px;font-size:13px;color:var(--text2);text-decoration:none;transition:all 0.2s">
-            {{ $emoji }} {{ index $categoryNames $cat | default $cat }}
-        </a>
-        {{ end }}
-    </div>
-</div>
-
-{{ range $cat, $emoji := $categories }}
-{{ $tools := where site.Data.tools "category" $cat }}
-{{ if gt (len $tools) 0 }}
-<div class="card" id="cat-{{ $cat }}">
-    <div class="card-title">{{ $emoji }} {{ index $categoryNames $cat | default $cat }} <span class="hot-badge">{{ len $tools }}</span></div>
-    <div class="tools-grid">
-        {{ range $tools }}
-        <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
-            <div class="tool-header">
-                {{ $iconPath := printf "/icons/%s.png" .id }}
-                <img src="{{ $iconPath }}" alt="" style="width:32px;height:32px;border-radius:6px" onerror="this.src='https://www.google.com/s2/favicons?domain={{ .url }}&sz=64';this.onerror=function(){this.style.display='none';this.nextElementSibling.style.display='flex'}">
-                <div class="tool-icon" style="display:none">{{ with .icon }}{{ . }}{{ else }}{{ $emoji }}{{ end }}</div>
-                <div class="tool-name">{{ .name }}</div>
-            </div>
-            <div class="tool-desc">{{ .description }}</div>
-            <div class="tool-footer">
-                <div class="tool-tags">
-                    {{ if .trending }}<span class="tool-tag hot">🔥 Trending</span>{{ end }}
-                    {{ if .stars }}<span class="tool-tag">⭐ {{ if ge .stars 100000 }}{{ printf "%.0fK" (div (float .stars) 1000.0) }}{{ else if ge .stars 1000 }}{{ printf "%.1fK" (div (float .stars) 1000.0) }}{{ else }}{{ .stars }}{{ end }}</span>{{ end }}
-                    {{ if .free_quota }}<span class="tool-tag free">{{ .free_quota }}</span>{{ end }}
-                </div>
-                <div class="tool-price">💰 {{ .pricing }}</div>
+            <div class="tool-footer" style="margin-top:10px">
+                <div></div>
+                <div style="font-size:12px;color:var(--text2)">{{ .meta }}</div>
             </div>
         </a>
         {{ end }}
     </div>
 </div>
 {{ end }}
-{{ end }}
 
-<!-- Agent 页 -->
-{{ else if in $slug "/agents/" }}
-{{ $types := dict "编程 Agent" "🛠️" "研究 Agent" "📚" "自动化 Agent" "⚡" "多 Agent" "👥" "效率 Agent" "🚀" "助手 Agent" "🤖" "浏览器 Agent" "🌐" "平台 Agent" "🏗️" "通用 Agent" "⭐" "创作 Agent" "✍️" "安全 Agent" "🔒" }}
-{{ $typeNames := dict "编程 Agent" "Coding Agents" "研究 Agent" "Research Agents" "自动化 Agent" "Automation Agents" "多 Agent" "Multi-Agent" "效率 Agent" "Productivity Agents" "助手 Agent" "Assistant Agents" "浏览器 Agent" "Browser Agents" "平台 Agent" "Platform Agents" "通用 Agent" "General Agents" "创作 Agent" "Creative Agents" "安全 Agent" "Security Agents" }}
-{{ $sortedTypeItems := site.Data.agent_type_order }}
 
-<div class="card" style="margin-bottom:16px">
-    <div class="card-title">🤖 AI Agents Navigator <span class="hot-badge">{{ len site.Data.agents }}</span></div>
-    <div class="hot-meta">Don't get overwhelmed — pick by the task type you care about.</div>
-    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:12px">
-        <span class="tool-tag hot">Developers: 🛠️ Coding Agents</span>
-        <span class="tool-tag">Automation: ⚡ Automation Agents</span>
-        <span class="tool-tag">Web tasks: 🌐 Browser Agents</span>
-        <span class="tool-tag">By popularity: sorted by GitHub ⭐ descending</span>
-    </div>
-</div>
-
-{{ $hotGithubAgents := first 5 (sort (where site.Data.agents "stars" "ne" nil) "stars" "desc") }}
-{{ if gt (len $hotGithubAgents) 0 }}
-<div class="card" style="margin-bottom:16px;border-left:3px solid var(--accent)">
-    <div class="card-title">🔥 Trending GitHub Projects</div>
-    <div class="hot-meta" style="margin-bottom:12px">Start here for the hottest Agent projects right now.</div>
-    <div style="display:flex;flex-wrap:wrap;gap:8px">
-        {{ range $hotGithubAgents }}
-        <a href="{{ .url }}" target="_blank" class="tag" style="text-decoration:none">
-            {{ .name }} · ⭐ {{ if ge .stars 100000 }}{{ printf "%.0fK" (div (float .stars) 1000.0) }}{{ else if ge .stars 1000 }}{{ printf "%.1fK" (div (float .stars) 1000.0) }}{{ else }}{{ .stars }}{{ end }}
-        </a>
-        {{ end }}
-    </div>
-</div>
-{{ end }}
-
-<!-- 分类快速导航 -->
-<div class="category-nav" style="position:sticky;top:100px;z-index:50;background:var(--bg);padding:12px 0;margin-bottom:16px;border-bottom:1px solid var(--border)">
-    <div style="display:flex;flex-wrap:wrap;gap:8px">
-        {{ range $sortedTypeItems }}
-        {{ $type := .type }}
-        {{ $emoji := index $types $type }}
-        <a href="#agent-{{ $type }}" class="category-tag" style="padding:6px 12px;background:var(--bg2);border:1px solid var(--border);border-radius:16px;font-size:13px;color:var(--text2);text-decoration:none;transition:all 0.2s">
-            {{ $emoji }} {{ index $typeNames $type | default $type }}
-        </a>
-        {{ end }}
-    </div>
-</div>
-
-{{ range $sortedTypeItems }}
-{{ $type := .type }}
-{{ $emoji := index $types $type }}
-{{ $agents := where site.Data.agents "type" $type }}
-{{ if gt (len $agents) 0 }}
-{{ $sortedAgents := sort $agents "stars" "desc" }}
-<div class="card" id="agent-{{ $type }}">
-    <div class="card-title">{{ $emoji }} {{ index $typeNames $type | default $type }} <span class="hot-badge">{{ len $agents }}</span></div>
-    <div class="tools-grid">
-        {{ range $sortedAgents }}
-        <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
-            <div class="tool-header">
-                {{ $iconPath := printf "/icons/%s.png" .id }}
-                <img src="{{ $iconPath }}" alt="" style="width:32px;height:32px;border-radius:6px" onerror="this.src='https://www.google.com/s2/favicons?domain={{ .url }}&sz=64';this.onerror=function(){this.style.display='none';this.nextElementSibling.style.display='flex'}">
-                <div class="tool-icon" style="display:none">{{ with .icon }}{{ . }}{{ else }}{{ $emoji }}{{ end }}</div>
-                <div class="tool-name">{{ .name }}</div>
-            </div>
-            <div class="tool-desc">{{ .description }}</div>
-            <div class="tool-footer">
-                <div class="tool-tags">
-                    {{ if .trending }}<span class="tool-tag hot">🔥 Trending</span>{{ end }}
-                    {{ if .stars }}<span class="tool-tag">⭐ {{ if ge .stars 100000 }}{{ printf "%.0fK" (div (float .stars) 1000.0) }}{{ else if ge .stars 1000 }}{{ printf "%.1fK" (div (float .stars) 1000.0) }}{{ else }}{{ .stars }}{{ end }}</span>{{ end }}
-                    {{ if .free_quota }}<span class="tool-tag free">{{ .free_quota }}</span>{{ end }}
-                </div>
-                <div class="tool-price">💰 {{ .pricing }}</div>
-            </div>
-        </a>
-        {{ end }}
-    </div>
-</div>
-{{ end }}
-{{ end }}
-
-<!-- 新闻页 -->
+<!-- ════════════════════════════════════════════════════
+     NEWS PAGE
+════════════════════════════════════════════════════ -->
 {{ else if in $slug "/news/" }}
-<div class="card">
-    <div class="card-title">📰 AI News <span class="hot-badge">{{ len site.Data.news }}</span></div>
-    <div id="newsList">
-    {{ range $index, $item := site.Data.news }}
-    <div class="hot-item news-item" data-page="{{ div $index 10 }}">
-        <div class="hot-content">
-            <div class="hot-title">
-                <a href="{{ relURL "/news/" }}{{ $item.id }}/">{{ with $item.title_zh }}{{ . }}{{ else }}{{ $item.title }}{{ end }}</a>
-                <span class="hot-badge">{{ $item.source }}</span>
-            </div>
-            {{ with $item.published }}<div class="hot-meta">{{ replace . "T" " " | truncate 16 "" }}</div>{{ end }}
-            {{ if $item.ai_summary }}<div class="hot-meta" style="color:var(--accent)">🤖 {{ $item.ai_summary }}</div>
-            {{ else if $item.summary }}<div class="hot-meta" style="color:var(--text3)">{{ $item.summary }}</div>{{ end }}
-        </div>
-    </div>
-    {{ end }}
-    </div>
-    <div id="newsPagination" style="display:flex;align-items:center;justify-content:center;gap:12px;margin-top:20px;padding-top:16px;border-top:1px solid var(--border)">
-        <button id="prevPage" onclick="newsPage(-1)" style="padding:8px 16px;background:var(--bg3);border:1px solid var(--border);border-radius:6px;color:var(--text2);cursor:pointer;font-size:13px">← Previous</button>
-        <span id="pageInfo" style="font-size:13px;color:var(--text2)"></span>
-        <button id="nextPage" onclick="newsPage(1)" style="padding:8px 16px;background:var(--bg3);border:1px solid var(--border);border-radius:6px;color:var(--text2);cursor:pointer;font-size:13px">Next →</button>
+
+{{ $news := site.Data.news }}
+
+<!-- Source color map -->
+{{ $srcColors := dict
+    "Anthropic"       "#d4956a"
+    "OpenAI Blog"     "#10a37f"
+    "Google DeepMind" "#4285f4"
+    "HuggingFace"     "#ff9d00"
+    "TechCrunch AI"   "#0dbb00"
+    "The Verge AI"    "#fa4136"
+    "Hacker News"     "#ff6600"
+    "机器之心"          "#e74c3c"
+    "量子位"            "#3498db"
+    "新智元"            "#9b59b6"
+    "MIT Tech Review" "#a31f34"
+    "VentureBeat AI"  "#c0392b"
+}}
+
+<div style="margin-bottom:20px">
+    <div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">
+        <h1 style="font-size:22px;font-weight:800;color:var(--text)">AI News</h1>
+        <span style="font-size:13px;color:var(--text3)">{{ len $news }} articles · auto-refreshed every 6 h</span>
     </div>
 </div>
+
+<!-- Filter bar -->
+<div style="position:sticky;top:57px;z-index:90;background:var(--bg);padding:10px 0 12px;margin-bottom:16px;border-bottom:1px solid var(--border)">
+    <div style="display:flex;gap:6px;flex-wrap:wrap">
+        <button onclick="filterNews('all',this)"  class="filter-pill active-pill" data-ch="all">All <span class="pill-count">{{ len $news }}</span></button>
+        <button onclick="filterNews('en',this)"   class="filter-pill" data-ch="en">EN</button>
+        <button onclick="filterNews('cn',this)"   class="filter-pill" data-ch="cn">中文</button>
+        <div style="width:1px;background:var(--border);margin:0 4px"></div>
+        {{ $sources := slice }}
+        {{ range $news }}{{ if not (in $sources .source) }}{{ $sources = $sources | append .source }}{{ end }}{{ end }}
+        {{ range first 8 $sources }}
+        {{ $col := index $srcColors . }}
+        <button onclick="filterSource('{{ . }}',this)" class="filter-pill source-pill" data-src="{{ . }}"
+            {{ if $col }}style="border-color:{{ $col }}20;color:{{ $col }}"{{ end }}>
+            {{ . }}
+        </button>
+        {{ end }}
+    </div>
+</div>
+
+<!-- Must-read pinned row -->
+{{ $mustRead := slice }}
+{{ range $news }}
+    {{ $isMust := or (eq .source "Anthropic") (eq .source "OpenAI Blog") (eq .source "Google DeepMind") (eq .source "MIT Tech Review") }}
+    {{ if and $isMust (lt (len $mustRead) 3) }}
+        {{ $mustRead = $mustRead | append . }}
+    {{ end }}
+{{ end }}
+{{ if gt (len $mustRead) 0 }}
+<div style="margin-bottom:20px">
+    <div style="font-size:11px;font-weight:700;color:var(--accent);text-transform:uppercase;letter-spacing:0.8px;margin-bottom:10px">📌 Must Read</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:10px">
+        {{ range $mustRead }}
+        {{ $srcColor := index $srcColors .source | default "var(--accent)" }}
+        <a href="{{ relURL "/news/" }}{{ .id }}/"
+           style="display:block;padding:16px;background:var(--bg2);border:1px solid var(--border);border-top:3px solid {{ $srcColor }};border-radius:10px;text-decoration:none;color:inherit;transition:all 0.18s"
+           onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='var(--shadow-lg)'"
+           onmouseout="this.style.transform='';this.style.boxShadow=''">
+            <div style="font-size:11px;color:{{ $srcColor }};font-weight:600;margin-bottom:6px">{{ .source }}</div>
+            <div style="font-size:14px;font-weight:600;line-height:1.4;color:var(--text);margin-bottom:6px">{{ with .title_zh }}{{ . | truncate 80 "…" }}{{ else }}{{ .title | truncate 80 "…" }}{{ end }}</div>
+            {{ if .ai_summary }}<div style="font-size:12px;color:var(--text2);line-height:1.5">{{ .ai_summary | truncate 100 "…" }}</div>{{ end }}
+        </a>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
+
+<!-- News card grid -->
+<div id="newsGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px">
+{{ range $index, $item := $news }}
+{{ $srcColor := index $srcColors $item.source | default "var(--border2)" }}
+{{ $ch := $item.channel | default "en" }}
+<a href="{{ relURL "/news/" }}{{ $item.id }}/"
+   class="news-card-item"
+   data-ch="{{ $ch }}"
+   data-src="{{ $item.source }}"
+   style="display:block;padding:16px;background:var(--bg2);border:1px solid var(--border);border-left:3px solid {{ $srcColor }};border-radius:10px;text-decoration:none;color:inherit;transition:all 0.18s"
+   onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='var(--shadow-lg)'"
+   onmouseout="this.style.transform='';this.style.boxShadow=''">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:7px;gap:8px">
+        <span style="font-size:11px;padding:2px 7px;border-radius:4px;background:{{ $srcColor }}18;color:{{ $srcColor }};font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60%">{{ $item.source }}</span>
+        {{ with $item.published }}<span style="font-size:11px;color:var(--text3);white-space:nowrap">{{ replace . "T" " " | truncate 10 "" }}</span>{{ end }}
+    </div>
+    <div style="font-size:13px;font-weight:600;line-height:1.45;color:var(--text);margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden">
+        {{ with $item.title_zh }}{{ . }}{{ else }}{{ $item.title }}{{ end }}
+    </div>
+    {{ if $item.ai_summary }}
+    <div style="font-size:12px;color:var(--text2);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden">{{ $item.ai_summary }}</div>
+    {{ else if $item.summary }}
+    <div style="font-size:12px;color:var(--text3);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden">{{ $item.summary }}</div>
+    {{ end }}
+</a>
+{{ end }}
+</div>
+
+<!-- Load more -->
+<div id="newsLoadMore" style="text-align:center;padding:28px 0">
+    <button onclick="newsShowMore()" style="padding:10px 28px;background:var(--bg2);border:1px solid var(--border);border-radius:8px;color:var(--text2);font-size:13px;cursor:pointer;transition:all 0.18s"
+        onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'"
+        onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text2)'">
+        Load more
+    </button>
+</div>
+
 <script>
 (function(){
-    const items = document.querySelectorAll('.news-item');
-    const perPage = 10;
-    const totalPages = Math.ceil(items.length / perPage);
-    let current = 0;
+    const PER_PAGE = 30;
+    let currentCh = 'all', currentSrc = 'all', shown = PER_PAGE;
+    const cards = Array.from(document.querySelectorAll('.news-card-item'));
 
-    function show(p) {
-        items.forEach(el => {
-            el.style.display = parseInt(el.dataset.page) === p ? '' : 'none';
-        });
-        document.getElementById('pageInfo').textContent = (p+1) + ' / ' + totalPages;
-        document.getElementById('prevPage').disabled = p === 0;
-        document.getElementById('prevPage').style.opacity = p === 0 ? '0.4' : '1';
-        document.getElementById('nextPage').disabled = p === totalPages - 1;
-        document.getElementById('nextPage').style.opacity = p === totalPages - 1 ? '0.4' : '1';
-        current = p;
+    function visible(c) {
+        const chOk  = currentCh  === 'all' || (c.dataset.ch  || 'en') === currentCh;
+        const srcOk = currentSrc === 'all' || c.dataset.src === currentSrc;
+        return chOk && srcOk;
     }
 
-    window.newsPage = function(dir) {
-        const next = current + dir;
-        if (next >= 0 && next < totalPages) {
-            show(next);
-            document.querySelector('.card').scrollIntoView({behavior:'smooth', block:'start'});
-        }
+    function render() {
+        let count = 0;
+        cards.forEach(c => {
+            if (visible(c) && count < shown) { c.style.display = ''; count++; }
+            else c.style.display = 'none';
+        });
+        const total = cards.filter(visible).length;
+        document.getElementById('newsLoadMore').style.display = count < total ? '' : 'none';
+    }
+
+    window.filterNews = function(ch, btn) {
+        currentCh = ch; currentSrc = 'all'; shown = PER_PAGE;
+        document.querySelectorAll('.filter-pill').forEach(b => b.classList.remove('active-pill'));
+        btn.classList.add('active-pill');
+        render();
     };
 
-    // 解析URL参数 ?p=2
-    const params = new URLSearchParams(location.search);
-    const startPage = Math.min(Math.max(0, parseInt(params.get('p')||'1')-1), totalPages-1);
-    show(startPage);
+    window.filterSource = function(src, btn) {
+        currentSrc = currentSrc === src ? 'all' : src;
+        currentCh = 'all'; shown = PER_PAGE;
+        document.querySelectorAll('.filter-pill').forEach(b => b.classList.remove('active-pill'));
+        if (currentSrc !== 'all') btn.classList.add('active-pill');
+        else document.querySelector('[data-ch="all"]').classList.add('active-pill');
+        render();
+    };
+
+    window.newsShowMore = function() { shown += PER_PAGE; render(); };
+
+    render();
 })();
 </script>
 
-<!-- 提供商页 -->
-{{ else if in $slug "/providers/" }}
-<div class="card">
-    <div class="card-title">🏢 AI Providers <span class="hot-badge">{{ len site.Data.providers }}</span></div>
-    <div class="hot-meta" style="margin-bottom:16px">Split into two groups: for model authors, focus on what they've just shipped; for platforms, focus on what they can plug into and which scenarios they cover.</div>
+<style>
+.source-pill { font-size: 11px !important; padding: 3px 10px !important; }
+</style>
 
-    <div class="card" style="padding:16px;margin-bottom:16px;background:var(--bg3)">
-        <div class="card-title">🧠 Model Authors</div>
-        <div class="hot-meta" style="margin-bottom:12px">Pay attention to what they've just released, whether they're still on the frontier, and which modalities they cover.</div>
-        <div class="tools-grid">
-            {{ range where site.Data.providers "provider_kind" "model_author" }}
-            <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
-                <div class="tool-header">
-                    <img src="https://www.google.com/s2/favicons?domain={{ .url }}&sz=32" alt="" style="width:32px;height:32px;border-radius:6px" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-                    <div class="tool-icon" style="display:none">🏢</div>
-                    <div>
-                        <div class="tool-name">{{ .name }}</div>
-                        <div class="hot-meta" style="font-size:12px;margin-top:2px">{{ .type }}{{ if .last_updated }} · Latest release {{ .last_updated }}{{ end }}</div>
-                    </div>
-                </div>
-                <div class="tool-desc">{{ with .live_summary }}{{ . }}{{ else }}{{ .pricing }}{{ end }}</div>
-                {{ if .latest_models }}
-                <div class="tool-tags" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:6px">
-                    {{ range first 3 .latest_models }}
-                    <span class="tool-tag">{{ . }}</span>
-                    {{ end }}
-                </div>
-                {{ end }}
-                <div class="tool-footer" style="margin-top:12px;align-items:flex-start;gap:8px;flex-direction:column">
-                    <div class="tool-tags">
-                        <span class="tool-tag free">{{ if .model_count }}{{ .model_count }} models{{ else }}Hand-curated{{ end }}</span>
-                        <span class="tool-tag">Model author</span>
-                        {{ if .source }}<span class="tool-tag">{{ if eq .source "openrouter" }}OpenRouter{{ else }}Sept-AI data{{ end }}</span>{{ end }}
-                        {{ range first 3 .modalities }}<span class="tool-tag">{{ . }}</span>{{ end }}
-                    </div>
-                    <div class="tool-price">💰 {{ .pricing }}</div>
-                </div>
-            </a>
-            {{ end }}
-        </div>
+
+<!-- ════════════════════════════════════════════════════
+     AGENTS PAGE
+════════════════════════════════════════════════════ -->
+{{ else if in $slug "/agents/" }}
+
+{{ $typeNames := dict
+    "编程 Agent" "Coding Agents"  "研究 Agent" "Research Agents"
+    "自动化 Agent" "Automation"   "多 Agent"   "Multi-Agent"
+    "效率 Agent" "Productivity"   "助手 Agent" "Assistant"
+    "浏览器 Agent" "Browser"      "平台 Agent" "Platform"
+    "通用 Agent" "General"        "创作 Agent" "Creative"
+    "安全 Agent" "Security"
+}}
+{{ $typeIcons := dict
+    "编程 Agent" "code-2"  "研究 Agent" "book-open"
+    "自动化 Agent" "zap"   "多 Agent"   "users"
+    "效率 Agent" "briefcase" "助手 Agent" "bot"
+    "浏览器 Agent" "globe" "平台 Agent" "layers"
+    "通用 Agent" "star"   "创作 Agent" "pen-line"
+    "安全 Agent" "shield"
+}}
+{{ $sortedTypes := site.Data.agent_type_order }}
+
+<div style="margin-bottom:20px">
+    <div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">
+        <h1 style="font-size:22px;font-weight:800;color:var(--text)">AI Agents</h1>
+        <span style="font-size:13px;color:var(--text3)">{{ len site.Data.agents }} agents — pick by task type</span>
     </div>
+</div>
 
-    <div class="card" style="padding:16px;margin-bottom:0;background:var(--bg3)">
-        <div class="card-title">🏗️ Platforms / Aggregators</div>
-        <div class="hot-meta" style="margin-bottom:12px">Focus on callable capabilities, ecosystem integrations, and fit — don't mistake them for single model authors.</div>
-        <div class="tools-grid">
-            {{ range where site.Data.providers "provider_kind" "platform" }}
-            <a href="{{ .url }}" target="_blank" class="tool-card" style="text-decoration:none;color:inherit">
-                <div class="tool-header">
-                    <img src="https://www.google.com/s2/favicons?domain={{ .url }}&sz=32" alt="" style="width:32px;height:32px;border-radius:6px" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-                    <div class="tool-icon" style="display:none">🏢</div>
-                    <div>
-                        <div class="tool-name">{{ .name }}</div>
-                        <div class="hot-meta" style="font-size:12px;margin-top:2px">{{ .type }} · Platform capability view</div>
-                    </div>
+<!-- Category nav -->
+<div style="position:sticky;top:57px;z-index:90;background:var(--bg);padding:10px 0 12px;margin-bottom:16px;border-bottom:1px solid var(--border)">
+    <div style="display:flex;flex-wrap:wrap;gap:6px">
+        {{ range $sortedTypes }}
+        {{ $type := .type }}
+        <a href="#agent-{{ $type | urlize }}"
+           style="display:flex;align-items:center;gap:5px;padding:5px 13px;border-radius:20px;font-size:12px;font-weight:500;border:1px solid var(--border);background:var(--bg2);color:var(--text2);text-decoration:none;transition:all 0.18s;white-space:nowrap"
+           onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'"
+           onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text2)'">
+            <svg data-lucide="{{ index $typeIcons $type | default "bot" }}" style="width:12px;height:12px"></svg>
+            {{ index $typeNames $type | default $type }}
+        </a>
+        {{ end }}
+    </div>
+</div>
+
+{{ range $sortedTypes }}
+{{ $type := .type }}
+{{ $agents := where site.Data.agents "type" $type }}
+{{ if gt (len $agents) 0 }}
+{{ $icon := index $typeIcons $type | default "bot" }}
+<div class="card" id="agent-{{ $type | urlize }}" style="margin-bottom:20px;border-top:2px solid var(--neon-cyan)">
+    <div class="card-title">
+        <svg data-lucide="{{ $icon }}" style="width:16px;height:16px;color:var(--neon-cyan)"></svg>
+        {{ index $typeNames $type | default $type }}
+        <span class="hot-badge" style="margin-left:4px">{{ len $agents }}</span>
+    </div>
+    <div class="tools-grid">
+        {{ range sort $agents "stars" "desc" }}
+        <a href="{{ .url }}" target="_blank" rel="noopener" class="tool-card" style="text-decoration:none;color:inherit">
+            <div class="tool-header">
+                <div class="tool-icon" style="overflow:hidden;padding:0">
+                    {{ $domain := "" }}
+                    {{ with .url }}{{ $domain = . }}{{ end }}
+                    <img src="https://www.google.com/s2/favicons?domain={{ $domain }}&sz=64" alt=""
+                        style="width:38px;height:38px;border-radius:9px;display:block"
+                        onerror="this.style.display='none';this.parentElement.innerHTML='🤖'">
                 </div>
-                <div class="tool-desc">{{ with .live_summary }}{{ . }}{{ else }}{{ .pricing }}{{ end }}</div>
-                {{ if .latest_models }}
-                <div class="tool-tags" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:6px">
-                    {{ range first 3 .latest_models }}
-                    <span class="tool-tag">{{ . }}</span>
-                    {{ end }}
+                <div style="flex:1;min-width:0">
+                    <div class="tool-name">{{ .name }}</div>
+                    {{ if .stars }}<div style="font-size:11px;color:var(--text3);margin-top:1px">⭐ {{ if ge .stars 1000 }}{{ printf "%.1fK" (div (float .stars) 1000.0) }}{{ else }}{{ .stars }}{{ end }}</div>{{ end }}
                 </div>
-                {{ else if .models }}
-                <div class="tool-tags" style="margin-top:10px;display:flex;flex-wrap:wrap;gap:6px">
-                    {{ range first 3 .models }}
-                    <span class="tool-tag">{{ . }}</span>
-                    {{ end }}
+                {{ if .trending }}<span style="font-size:10px;padding:2px 6px;border-radius:8px;background:rgba(204,120,92,0.15);color:var(--accent);flex-shrink:0">HOT</span>{{ end }}
+            </div>
+            <div class="tool-desc">{{ .description | truncate 100 "…" }}</div>
+            <div class="tool-footer" style="margin-top:10px">
+                <div class="tool-tags">
+                    {{ if .free_quota }}<span class="tool-tag free">{{ .free_quota }}</span>{{ end }}
+                    {{ with .pricing }}<span class="tool-tag">{{ . }}</span>{{ end }}
                 </div>
-                {{ end }}
-                <div class="tool-footer" style="margin-top:12px;align-items:flex-start;gap:8px;flex-direction:column">
-                    <div class="tool-tags">
-                        <span class="tool-tag free">Platform / Aggregator</span>
-                        <span class="tool-tag">Integration view</span>
-                        {{ if .api }}<span class="tool-tag">API</span>{{ end }}
-                        {{ if .free_tier }}<span class="tool-tag">Free tier</span>{{ end }}
-                    </div>
-                    <div class="tool-price">💰 {{ .pricing }}</div>
-                </div>
-            </a>
-            {{ end }}
-        </div>
+            </div>
+        </a>
+        {{ end }}
     </div>
 </div>
 {{ end }}
+{{ end }}
 
+
+<!-- ════════════════════════════════════════════════════
+     PROVIDERS PAGE
+════════════════════════════════════════════════════ -->
+{{ else if in $slug "/providers/" }}
+
+<div style="margin-bottom:20px">
+    <div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">
+        <h1 style="font-size:22px;font-weight:800;color:var(--text)">AI Providers</h1>
+        <span style="font-size:13px;color:var(--text3)">{{ len site.Data.providers }} providers — model authors vs platforms</span>
+    </div>
+</div>
+
+<div class="card" style="margin-bottom:20px;border-top:2px solid var(--accent)">
+    <div class="card-title">
+        <svg data-lucide="brain" style="width:16px;height:16px;color:var(--accent)"></svg>
+        Model Authors
+        <span class="hot-badge">{{ len (where site.Data.providers "provider_kind" "model_author") }}</span>
+    </div>
+    <div style="font-size:13px;color:var(--text2);margin-bottom:14px">What they've just shipped, whether they're still on the frontier, which modalities they cover.</div>
+    <div class="tools-grid">
+        {{ range where site.Data.providers "provider_kind" "model_author" }}
+        <a href="{{ .url }}" target="_blank" rel="noopener" class="tool-card" style="text-decoration:none;color:inherit">
+            <div class="tool-header">
+                <div class="tool-icon" style="overflow:hidden;padding:0">
+                    <img src="https://www.google.com/s2/favicons?domain={{ .url }}&sz=64" alt="" style="width:38px;height:38px;border-radius:9px;display:block" onerror="this.style.display='none';this.parentElement.innerHTML='🏢'">
+                </div>
+                <div style="flex:1;min-width:0">
+                    <div class="tool-name">{{ .name }}</div>
+                    <div style="font-size:11px;color:var(--text3);margin-top:1px">{{ .type }}{{ if .last_updated }} · {{ .last_updated }}{{ end }}</div>
+                </div>
+            </div>
+            <div class="tool-desc">{{ with .live_summary }}{{ . }}{{ else }}{{ .pricing }}{{ end }}</div>
+            {{ if .latest_models }}<div style="margin-top:8px;display:flex;flex-wrap:wrap;gap:4px">{{ range first 3 .latest_models }}<span class="tool-tag">{{ . }}</span>{{ end }}</div>{{ end }}
+            <div class="tool-footer" style="margin-top:10px">
+                <div class="tool-tags">
+                    <span class="tool-tag free">{{ if .model_count }}{{ .model_count }} models{{ else }}Curated{{ end }}</span>
+                    {{ range first 2 .modalities }}<span class="tool-tag">{{ . }}</span>{{ end }}
+                </div>
+                <div style="font-size:12px;color:var(--accent)">{{ .pricing }}</div>
+            </div>
+        </a>
+        {{ end }}
+    </div>
+</div>
+
+<div class="card" style="border-top:2px solid var(--neon-violet)">
+    <div class="card-title">
+        <svg data-lucide="layers" style="width:16px;height:16px;color:var(--neon-violet)"></svg>
+        Platforms & Aggregators
+        <span class="hot-badge">{{ len (where site.Data.providers "provider_kind" "platform") }}</span>
+    </div>
+    <div style="font-size:13px;color:var(--text2);margin-bottom:14px">Callable capabilities, ecosystem integrations, fit — don't mistake them for single model authors.</div>
+    <div class="tools-grid">
+        {{ range where site.Data.providers "provider_kind" "platform" }}
+        <a href="{{ .url }}" target="_blank" rel="noopener" class="tool-card" style="text-decoration:none;color:inherit">
+            <div class="tool-header">
+                <div class="tool-icon" style="overflow:hidden;padding:0">
+                    <img src="https://www.google.com/s2/favicons?domain={{ .url }}&sz=64" alt="" style="width:38px;height:38px;border-radius:9px;display:block" onerror="this.style.display='none';this.parentElement.innerHTML='🏗️'">
+                </div>
+                <div style="flex:1;min-width:0">
+                    <div class="tool-name">{{ .name }}</div>
+                    <div style="font-size:11px;color:var(--text3);margin-top:1px">Platform · Aggregator</div>
+                </div>
+            </div>
+            <div class="tool-desc">{{ with .live_summary }}{{ . }}{{ else }}{{ .pricing }}{{ end }}</div>
+            {{ $mods := or .latest_models .models }}
+            {{ if $mods }}<div style="margin-top:8px;display:flex;flex-wrap:wrap;gap:4px">{{ range first 3 $mods }}<span class="tool-tag">{{ . }}</span>{{ end }}</div>{{ end }}
+            <div class="tool-footer" style="margin-top:10px">
+                <div class="tool-tags">
+                    {{ if .api }}<span class="tool-tag">API</span>{{ end }}
+                    {{ if .free_tier }}<span class="tool-tag free">Free tier</span>{{ end }}
+                </div>
+                <div style="font-size:12px;color:var(--accent)">{{ .pricing }}</div>
+            </div>
+        </a>
+        {{ end }}
+    </div>
+</div>
+
+{{ end }}
 {{ end }}
