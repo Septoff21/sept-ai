@@ -1,60 +1,153 @@
 {{ define "main" }}
 {{ $articleId := .Params.id }}
-{{ $articles := site.Data.news }}
-{{ $article := index (where $articles "id" $articleId) 0 }}
+{{ $articles  := site.Data.news }}
+{{ $article   := index (where $articles "id" $articleId) 0 }}
+
 {{ if not $article }}
-<div class="card" style="text-align:center;padding:40px">
-    <div style="font-size:48px;margin-bottom:12px">📰</div>
-    <div style="color:var(--text2)">Article not found</div>
-    <a href="{{ relURL "/news/" }}" style="color:var(--accent);font-size:14px;margin-top:12px;display:inline-block">Back to news</a>
+<div class="card" style="text-align:center;padding:48px">
+    <svg data-lucide="file-x" style="width:40px;height:40px;margin:0 auto 14px;display:block;color:var(--text3)"></svg>
+    <div style="font-size:16px;font-weight:600;margin-bottom:8px">Article not found</div>
+    <div style="color:var(--text2);font-size:13px;margin-bottom:20px">It may have been removed or the URL is incorrect.</div>
+    <a href="{{ relURL "/news/" }}" class="spotlight-btn">Browse all news →</a>
 </div>
 {{ else }}
+
 {{ $displayTitle := or .Title .Params.name $article.title_zh $article.title }}
-{{ $titleEn := or .Params.title_en $article.title }}
-{{ $intro := or .Params.intro .Params.ai_summary .Params.summary_zh .Params.summary }}
+{{ $titleEn      := or .Params.title_en $article.title }}
+{{ $intro        := or .Params.intro $article.ai_summary $article.summary_zh $article.summary }}
 
-<div style="margin-bottom:20px">
-    <a href="{{ relURL "/news/" }}" style="color:var(--text2);font-size:13px">← Back to news</a>
-</div>
-
-<nav style="font-size:12px;color:var(--text3);margin-bottom:14px">
-    <a href="{{ relURL "/" }}">Home</a> / <a href="{{ relURL "/news/" }}">AI News</a> / <span>{{ $displayTitle }}</span>
+<!-- Breadcrumb -->
+<nav style="font-size:12px;color:var(--text3);margin-bottom:16px;display:flex;align-items:center;gap:6px;flex-wrap:wrap">
+    <a href="{{ relURL "/" }}" class="back-link" style="font-size:12px">Home</a>
+    <span>/</span>
+    <a href="{{ relURL "/news/" }}" class="back-link" style="font-size:12px">AI News</a>
+    <span>/</span>
+    <span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:300px">{{ $displayTitle }}</span>
 </nav>
 
-<article class="card news-article-card" style="border-left:3px solid var(--accent)">
-    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;align-items:center">
-        <span class="hot-badge">{{ $article.source }}</span>
-        {{ with $article.published }}<span class="tool-tag">🗓️ {{ replace . "T" " " | truncate 16 "" }}</span>{{ end }}
-        {{ if eq $article.lang "en" }}<span class="tool-tag">🌍 Original (EN)</span>{{ end }}
+<!-- Article + sidebar -->
+<div style="display:grid;grid-template-columns:1fr 260px;gap:24px;align-items:start">
+
+<article>
+    <!-- Meta row -->
+    <div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;align-items:center">
+        {{ $srcColor := "var(--accent)" }}
+        <span style="font-size:12px;padding:3px 10px;border-radius:6px;background:rgba(204,120,92,0.12);color:{{ $srcColor }};font-weight:600">{{ $article.source }}</span>
+        {{ with $article.published }}<span style="font-size:12px;color:var(--text3)">{{ replace . "T" " " | truncate 16 "" }}</span>{{ end }}
+        {{ if eq $article.lang "en" }}<span style="font-size:11px;padding:2px 7px;border-radius:5px;background:var(--bg3);color:var(--text3)">EN Original</span>{{ end }}
     </div>
 
-    <h1 style="font-size:32px;line-height:1.35;margin-bottom:12px">{{ $displayTitle }}</h1>
+    <!-- Title -->
+    <h1 style="font-size:26px;line-height:1.35;font-weight:800;margin-bottom:10px;color:var(--text)">{{ $displayTitle }}</h1>
     {{ if and $titleEn $displayTitle (ne $titleEn $displayTitle) }}
-    <div style="font-size:14px;color:var(--text3);margin-bottom:16px">Original title: {{ $titleEn }}</div>
+    <div style="font-size:13px;color:var(--text3);margin-bottom:16px;font-style:italic">{{ $titleEn }}</div>
     {{ end }}
 
+    <!-- TL;DR -->
     {{ if $intro }}
-    <div style="font-size:18px;line-height:1.9;color:var(--text1);margin:0 0 26px;font-weight:700;padding:16px 18px;border-radius:16px;background:rgba(255,255,255,.03)">⚡ TL;DR: {{ $intro }}</div>
+    <div style="margin:0 0 24px;padding:16px 18px;border-radius:12px;background:rgba(204,120,92,0.06);border-left:3px solid var(--accent)">
+        <div style="font-size:11px;font-weight:700;color:var(--accent);text-transform:uppercase;letter-spacing:0.6px;margin-bottom:6px">⚡ TL;DR</div>
+        <div style="font-size:15px;line-height:1.7;color:var(--text)">{{ $intro }}</div>
+    </div>
     {{ end }}
 
-    <div class="news-article-body" style="font-size:17px;line-height:2;color:var(--text1)">
-        {{ .Content }}
+    <!-- Body (from .md content) -->
+    {{ if .Content }}
+    <div class="article-body">{{ .Content }}</div>
+    {{ end }}
+
+    <!-- Source link -->
+    {{ with $article.url }}
+    <div style="margin-top:28px;padding-top:20px;border-top:1px solid var(--border)">
+        <a href="{{ . }}" target="_blank" rel="noopener"
+           style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;background:var(--bg3);border:1px solid var(--border);border-radius:9px;font-size:13px;color:var(--text2);text-decoration:none;transition:all 0.18s"
+           onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'"
+           onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text2)'">
+            <svg data-lucide="external-link" style="width:14px;height:14px"></svg>
+            Read original at {{ $article.source }}
+        </a>
+    </div>
+    {{ end }}
+
+    <!-- Back link -->
+    <div style="margin-top:24px">
+        <a href="{{ relURL "/news/" }}" class="back-link">
+            <svg data-lucide="arrow-left" style="width:14px;height:14px"></svg>
+            Back to news
+        </a>
     </div>
 </article>
 
+<!-- Sidebar -->
+<aside style="position:sticky;top:80px">
+    <!-- Related news (same source) -->
+    {{ $related := slice }}
+    {{ range $articles }}
+        {{ if and (eq .source $article.source) (ne .id $articleId) (lt (len $related) 5) }}
+            {{ $related = $related | append . }}
+        {{ end }}
+    {{ end }}
+    {{ if gt (len $related) 0 }}
+    <div class="card" style="margin-bottom:16px">
+        <div class="card-title" style="font-size:13px">
+            <svg data-lucide="layers" style="width:14px;height:14px;color:var(--accent)"></svg>
+            More from {{ $article.source }}
+        </div>
+        {{ range $related }}
+        <a href="{{ relURL "/news/" }}{{ .id }}/"
+           style="display:block;padding:9px 0;border-bottom:1px solid var(--border);font-size:12px;line-height:1.45;color:var(--text2);text-decoration:none;transition:color 0.15s"
+           onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'">
+            {{ with .title_zh }}{{ . | truncate 70 "…" }}{{ else }}{{ .title | truncate 70 "…" }}{{ end }}
+        </a>
+        {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- Latest news -->
+    <div class="card">
+        <div class="card-title" style="font-size:13px">
+            <svg data-lucide="clock" style="width:14px;height:14px;color:var(--text3)"></svg>
+            Latest
+        </div>
+        {{ range first 6 $articles }}
+        {{ if ne .id $articleId }}
+        <a href="{{ relURL "/news/" }}{{ .id }}/"
+           style="display:block;padding:8px 0;border-bottom:1px solid var(--border);font-size:12px;line-height:1.4;color:var(--text2);text-decoration:none;transition:color 0.15s"
+           onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--text2)'">
+            {{ with .title_zh }}{{ . | truncate 65 "…" }}{{ else }}{{ .title | truncate 65 "…" }}{{ end }}
+        </a>
+        {{ end }}
+        {{ end }}
+        <div style="padding-top:10px">
+            <a href="{{ relURL "/news/" }}" style="font-size:12px;color:var(--accent);text-decoration:none">All news →</a>
+        </div>
+    </div>
+</aside>
+
+</div><!-- /grid -->
+
 <style>
-.news-article-card{padding:28px 26px}
-.news-article-body h2{font-size:18px;line-height:1.5;margin:28px 0 12px;font-weight:700}
-.news-article-body p{margin:0 0 18px;color:var(--text1)}
-.news-article-body ul{margin:0 0 20px 1.2em}
-.news-article-body li{margin:0 0 10px}
-.news-article-body strong{color:#fff}
-.news-article-body a{color:var(--accent)}
-.news-article-body blockquote{margin:18px 0;padding:14px 16px;border-left:3px solid var(--accent);background:rgba(255,255,255,.03);border-radius:12px;color:var(--text2)}
-@media (max-width: 768px){
-  .news-article-card{padding:22px 18px}
-  .news-article-body{font-size:16px!important;line-height:1.9!important}
+.article-body { font-size: 16px; line-height: 1.9; color: var(--text1); }
+.article-body h2 { font-size: 18px; font-weight: 700; margin: 28px 0 12px; color: var(--text); }
+.article-body h3 { font-size: 16px; font-weight: 600; margin: 22px 0 10px; color: var(--text); }
+.article-body p  { margin: 0 0 16px; }
+.article-body ul, .article-body ol { margin: 0 0 18px 1.4em; }
+.article-body li { margin: 0 0 8px; }
+.article-body strong { color: var(--text); font-weight: 600; }
+.article-body a { color: var(--accent); }
+.article-body a:hover { text-decoration: underline; }
+.article-body blockquote {
+    margin: 20px 0; padding: 14px 18px;
+    border-left: 3px solid var(--accent);
+    background: rgba(204,120,92,0.06);
+    border-radius: 0 8px 8px 0;
+    color: var(--text2); font-style: italic;
+}
+@media (max-width: 768px) {
+    .article-body { font-size: 15px !important; line-height: 1.8 !important; }
+    aside { display: none; }
 }
 </style>
+
 {{ end }}
 {{ end }}

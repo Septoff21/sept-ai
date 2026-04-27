@@ -396,6 +396,78 @@
             .tools-grid { grid-template-columns: repeat(2, 1fr); }
         }
 
+        /* ─── V5 Polish ──────────────────────────────────────── */
+
+        /* Global lazy load */
+        img { loading: lazy; }
+
+        /* Text selection */
+        ::selection { background: rgba(204,120,92,0.28); color: var(--text); }
+
+        /* Custom scrollbar (webkit) */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: var(--bg); }
+        ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+        /* Card micro-lift on hover */
+        .card:hover {
+            border-color: var(--border2);
+        }
+        .tool-card:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg), 0 0 0 1px rgba(204,120,92,0.2);
+        }
+
+        /* Card-neon glow pulse on hover */
+        .card-neon:hover::before { opacity: 0.75; }
+        [data-theme="light"] .card-neon:hover::before { opacity: 0.5; }
+
+        /* Code blocks */
+        code {
+            font-family: "JetBrains Mono", "Fira Code", "Cascadia Code", monospace;
+            font-size: 0.875em;
+            padding: 2px 6px;
+            background: var(--bg3);
+            border-radius: 4px;
+            color: var(--accent);
+        }
+        pre {
+            background: var(--bg3);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 16px;
+            overflow-x: auto;
+            font-size: 13px;
+            line-height: 1.7;
+            margin-bottom: 16px;
+        }
+        pre code { background: none; padding: 0; color: var(--text); }
+
+        /* Skip to content (a11y) */
+        .skip-link {
+            position: absolute; top: -100%; left: 8px;
+            background: var(--accent); color: #fff;
+            padding: 8px 16px; border-radius: 0 0 8px 8px;
+            font-size: 13px; font-weight: 600; z-index: 9999;
+        }
+        .skip-link:focus { top: 0; }
+
+        /* Focus ring */
+        a:focus-visible, button:focus-visible, input:focus-visible {
+            outline: 2px solid var(--accent);
+            outline-offset: 2px;
+        }
+
+        /* Back link */
+        .back-link {
+            display: inline-flex; align-items: center; gap: 6px;
+            color: var(--text2); font-size: 13px; text-decoration: none;
+            transition: color var(--transition);
+        }
+        .back-link:hover { color: var(--accent); text-decoration: none; }
+
         /* ─── Transitions ────────────────────────────────────── */
         .card, .tool-card, header, footer,
         .tag, .hot-badge, .spotlight {
@@ -405,6 +477,7 @@
     </style>
 </head>
 <body>
+    <a href="#main-content" class="skip-link">Skip to content</a>
     <header>
         <div class="container header-inner">
             <a href="{{ relURL "/" }}" class="logo" style="text-decoration:none">
@@ -438,7 +511,7 @@
         <hr class="neon-divider">
     </header>
 
-    <main class="container">
+    <main class="container" id="main-content">
         {{ block "main" . }}{{ end }}
     </main>
 
