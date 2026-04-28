@@ -1,5 +1,29 @@
 [
   {
+    "id": "395ec23c5e04",
+    "title": "用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践",
+    "url": "https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-28T15:36:43",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-28T08:36:05.362763"
+  },
+  {
+    "id": "4a0bf9af03fb",
+    "title": "AI真能搞钱了！这家公司把大模型玩成闭环赚钱机器",
+    "url": "https://www.qbitai.com/2026/04/410294.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-28T07:21:21",
+    "summary": "跑通AI盈利正循环，还教你躺着用Agent赚钱。",
+    "collected_at": "2026-04-28T08:29:07.042078"
+  },
+  {
     "id": "807ab81e66ad",
     "title": "Cloudflare Sandboxes 正式发布，为 AI 代理提供持久化隔离环境",
     "url": "https://www.infoq.cn/article/Vtb1hXgxEAEueGtcAlUj?utm_source=rss&utm_medium=article",
@@ -12,16 +36,16 @@
     "collected_at": "2026-04-28T03:33:32.490160"
   },
   {
-    "id": "fdd36fd8de9c",
-    "title": "支付宝“AI收”上线",
-    "url": "https://36kr.com/newsflashes/3785919174614273?f=rss",
-    "source": "36氪",
+    "id": "0876864b8943",
+    "title": "DeepSeek不惜代价保住它！V4关键特性被挖出来了",
+    "url": "https://www.qbitai.com/2026/04/409896.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T03:16:08",
-    "summary": "36氪获悉，支付宝“AI收”正式上线。提供AI服务的商家、个人开发者，不需要自建支付和结算系统，经过入驻签约、创建应用、安装SDK三步接入后，被以OpenClaw为代表的AI Agent调用服务时可自动结算，“来一单收一单”，按次按用收款。",
-    "collected_at": "2026-04-28T03:33:31.481776"
+    "priority": 1,
+    "published": "2026-04-28T06:15:23",
+    "summary": "技术报告越挖越有",
+    "collected_at": "2026-04-28T08:29:07.042257"
   },
   {
     "id": "5cbd28b436df",
@@ -36,16 +60,16 @@
     "collected_at": "2026-04-28T03:33:32.490190"
   },
   {
-    "id": "700155a030ac",
-    "title": "“磐石100”模型体系发布，为科学研究提供智能支撑",
-    "url": "https://36kr.com/newsflashes/3785906428894464?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T03:03:10",
-    "summary": "今天（4月28日），中国科学院发布“磐石100”模型体系，该体系将推动人工智能驱动的科学研究从分散的单点探索迈向协同高效的平台化创新阶段，为各领域的前沿科学研究提供智能支撑。“磐石100”模型体系以“磐石·科学基础大模型”为根基，搭配各个专业学科的专属模型作为主力支撑，同时针对各类具体科研场景，开发出细分应用模型和智能工具。整套系统组合在一起，形成了覆盖面广、协同高效的智能化科研服务平台。（央视新闻）",
-    "collected_at": "2026-04-28T03:33:31.481876"
+    "id": "77ae3579bbbd",
+    "title": "[AINews] ImageGen is on the Path to AGI",
+    "url": "https://www.latent.space/p/ainews-imagegen-is-on-the-path-to",
+    "source": "Latent Space",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T05:38:19",
+    "summary": "reflecting on the continued GPT-Image-2 explosion",
+    "collected_at": "2026-04-28T08:36:00.557714"
   },
   {
     "id": "ca1e53a86983",
@@ -60,16 +84,16 @@
     "collected_at": "2026-04-28T03:33:32.490216"
   },
   {
-    "id": "62692bb4ed08",
-    "title": "百度发全员信通知职级体系大调整",
-    "url": "https://36kr.com/newsflashes/3785900568812802?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T02:57:12",
-    "summary": "百度今日发布全员信，通知职级体系大调整，其将中管层以下的专业通道与管理通道全面打通，原有职级字母标签（T、P、E、Band、M）统一为5级至12级的数字职级体系，于2026年5月1日正式生效。通知中称，AI时代需要的恰恰是复合型人才——同时具备专业力和领导力，能独当一面。基于这个判断，公司决定将现有中管层以下的专业通道和管理通道打通，合并成一个职业发展通道。（财联社）",
-    "collected_at": "2026-04-28T03:33:31.481905"
+    "id": "75a0da6d370f",
+    "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+    "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T05:23:05",
+    "summary": "What&#x27;s new in pip 26.1 - lockfiles and dependency cooldowns! Richard Si describes an excellent set of upgrades to Python's default pip tool for installing dependencies. This version drops support for Python 3.9 - fair enough, since it's been EOL since October. macOS still ships with python3 as",
+    "collected_at": "2026-04-28T08:36:00.089099"
   },
   {
     "id": "ccd9e6b50d78",
@@ -84,6 +108,138 @@
     "collected_at": "2026-04-28T03:33:32.490239"
   },
   {
+    "id": "6f11983beca1",
+    "title": "The Spectral Lifecycle of Transformer Training: Transient Compression Waves, Persistent Spectral Gradients, and the Q/K--V Asymmetry",
+    "url": "https://arxiv.org/abs/2604.22778",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22778v1 Announce Type: new Abstract: We present the first systematic study of weight matrix singular value spectra \\emph{during} transformer pretraining, tracking full SVD decompositions of every weight matrix at 25-step intervals across three model scales (30M--285M parameters). We disco",
+    "collected_at": "2026-04-28T08:35:58.178153"
+  },
+  {
+    "id": "5613a9ad6071",
+    "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
+    "url": "https://36kr.com/p/3785955616152839?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-28T03:53:31",
+    "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。 昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行业痛点有深刻理解。 昇视唯盛的核心技术优势在于其“AI算法+焊接工艺+机器人本体”三合一的自主核心能力。公司于2022年收购哈工现代机器人有限公司，控股子公司哈",
+    "collected_at": "2026-04-28T08:36:04.139557"
+  },
+  {
+    "id": "696c55943813",
+    "title": "KARL: Mitigating Hallucinations in LLMs via Knowledge-Boundary-Aware Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2604.22779",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22779v1 Announce Type: new Abstract: Enabling large language models (LLMs) to appropriately abstain from answering questions beyond their knowledge is crucial for mitigating hallucinations. While existing reinforcement learning methods foster autonomous abstention, they often compromise a",
+    "collected_at": "2026-04-28T08:35:58.178231"
+  },
+  {
+    "id": "6d044935cb58",
+    "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+    "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T03:39:33",
+    "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto",
+    "collected_at": "2026-04-28T08:35:52.289046"
+  },
+  {
+    "id": "03591375fdef",
+    "title": "BiTA: Bidirectional Gated Recurrent Unit-Transformer Aggregator in a Temporal Graph Network Framework for Alert Prediction in Computer Networks",
+    "url": "https://arxiv.org/abs/2604.22781",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22781v1 Announce Type: new Abstract: Proactive alert prediction in computer networks is critical for mitigating evolving cyber threats and enabling timely defensive actions. Temporal Graph Neural Networks (TGNs) provide a principled framework for modeling time-evolving interactions; howev",
+    "collected_at": "2026-04-28T08:35:58.178322"
+  },
+  {
+    "id": "fdd36fd8de9c",
+    "title": "支付宝“AI收”上线",
+    "url": "https://36kr.com/newsflashes/3785919174614273?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-28T03:16:08",
+    "summary": "36氪获悉，支付宝“AI收”正式上线。提供AI服务的商家、个人开发者，不需要自建支付和结算系统，经过入驻签约、创建应用、安装SDK三步接入后，被以OpenClaw为代表的AI Agent调用服务时可自动结算，“来一单收一单”，按次按用收款。",
+    "collected_at": "2026-04-28T03:33:31.481776"
+  },
+  {
+    "id": "f5593480bcd7",
+    "title": "Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing",
+    "url": "https://arxiv.org/abs/2604.22782",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22782v1 Announce Type: new Abstract: Serving transformer language models with high throughput requires caching Key-Values (KVs) to avoid redundant computation during autoregressive generation. The memory footprint of KV caching is significant and heavily impacts serving costs. This work p",
+    "collected_at": "2026-04-28T08:35:58.178407"
+  },
+  {
+    "id": "700155a030ac",
+    "title": "“磐石100”模型体系发布，为科学研究提供智能支撑",
+    "url": "https://36kr.com/newsflashes/3785906428894464?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-28T03:03:10",
+    "summary": "今天（4月28日），中国科学院发布“磐石100”模型体系，该体系将推动人工智能驱动的科学研究从分散的单点探索迈向协同高效的平台化创新阶段，为各领域的前沿科学研究提供智能支撑。“磐石100”模型体系以“磐石·科学基础大模型”为根基，搭配各个专业学科的专属模型作为主力支撑，同时针对各类具体科研场景，开发出细分应用模型和智能工具。整套系统组合在一起，形成了覆盖面广、协同高效的智能化科研服务平台。（央视新闻）",
+    "collected_at": "2026-04-28T03:33:31.481876"
+  },
+  {
+    "id": "1c7734901cf9",
+    "title": "Parameter Efficiency Is Not Memory Efficiency: Rethinking Fine-Tuning for On-Device LLM Adaptation",
+    "url": "https://arxiv.org/abs/2604.22783",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22783v1 Announce Type: new Abstract: Parameter-Efficient Fine-Tuning (PEFT) has become the standard for adapting large language models (LLMs). In this work we challenge the wide-spread assumption that parameter efficiency equates memory efficiency and on-device adaptability. We show that",
+    "collected_at": "2026-04-28T08:35:58.178480"
+  },
+  {
+    "id": "62692bb4ed08",
+    "title": "百度发全员信通知职级体系大调整",
+    "url": "https://36kr.com/newsflashes/3785900568812802?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-28T02:57:12",
+    "summary": "百度今日发布全员信，通知职级体系大调整，其将中管层以下的专业通道与管理通道全面打通，原有职级字母标签（T、P、E、Band、M）统一为5级至12级的数字职级体系，于2026年5月1日正式生效。通知中称，AI时代需要的恰恰是复合型人才——同时具备专业力和领导力，能独当一面。基于这个判断，公司决定将现有中管层以下的专业通道和管理通道打通，合并成一个职业发展通道。（财联社）",
+    "collected_at": "2026-04-28T03:33:31.481905"
+  },
+  {
+    "id": "33a96e2b2ece",
+    "title": "Learning Without Adversarial Training: A Physics-Informed Neural Network for Secure Power System State Estimation under False Data Injection Attacks",
+    "url": "https://arxiv.org/abs/2604.22784",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22784v1 Announce Type: new Abstract: State estimation is a cornerstone of power system control-center operations, and its robust operation is increasingly a cyber-physical security concern as modern grids become more digitalized and communication-intensive. Neural network-based approaches",
+    "collected_at": "2026-04-28T08:35:58.178551"
+  },
+  {
     "id": "0af0b995ae72",
     "title": "Introducing talkie: a 13B vintage language model from 1930",
     "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
@@ -94,6 +250,18 @@
     "published": "2026-04-28T02:47:42",
     "summary": "Introducing talkie: a 13B vintage language model from 1930 New project from Nick Levine, David Duvenaud, and Alec Radford (of GPT, GPT-2, Whisper fame). talkie-1930-13b-base (53.1 GB) is a \"13B language model trained on 260B tokens of historical pre-1931 English text\". talkie-1930-13b-it (26.6 GB) i",
     "collected_at": "2026-04-28T03:33:29.325127"
+  },
+  {
+    "id": "fc00e2220698",
+    "title": "CoFi-PGMA: Counterfactual Policy Gradients under Filtered Feedback for Multi-Agent LLMs",
+    "url": "https://arxiv.org/abs/2604.22785",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22785v1 Announce Type: new Abstract: Large language model (LLM) deployments increasingly rely on multi-agent architectures in which multiple models either compete through routing mechanisms or collaborate to produce a final answer. In both settings, the learning signal received by each ag",
+    "collected_at": "2026-04-28T08:35:58.178625"
   },
   {
     "id": "e6edc63e59df",
@@ -108,16 +276,16 @@
     "collected_at": "2026-04-28T03:28:50.476728"
   },
   {
-    "id": "c1219940c582",
-    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-    "source": "HuggingFace Blog",
+    "id": "3d11eeb77cda",
+    "title": "AutoCompress: Critical Layer Isolation for Efficient Transformer Compression",
+    "url": "https://arxiv.org/abs/2604.22786",
+    "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T00:28:13",
-    "summary": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-    "collected_at": "2026-04-28T03:33:29.197562"
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22786v1 Announce Type: new Abstract: We present AutoCompress, a transformer compression method motivated by an empirical finding: in small transformers, Layer 0 carries disproportionately high task-critical information, with an NTK-based importance score of 3.6 compared to a maximum of 0.",
+    "collected_at": "2026-04-28T08:35:58.178693"
   },
   {
     "id": "6bf96ce9f922",
@@ -132,16 +300,16 @@
     "collected_at": "2026-04-28T03:28:50.476760"
   },
   {
-    "id": "f0cc7a9e8b3a",
-    "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
-    "url": "https://36kr.com/p/3785730095127817?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T00:04:02",
-    "summary": "TOP3大新闻 DeepSeek 输入缓存降价 多家美国廉价航空公司寻求政府资金纾困 东方甄选回应大量用户申请退会员 穿西装开空调太费电，日本东京鼓励公务员穿短裤 印度移动支付平台MobiKwik获央行批准 TOP3大事件 国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定 据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。 2025年12月30日，全球首款通用人工智能体Manus发布公告称，Manus即将加入美国科技巨头Meta。Manus将继续通过app和网站为用户提",
-    "collected_at": "2026-04-28T03:33:31.480915"
+    "id": "669ec0ed4ebb",
+    "title": "Conformal PM2.5 Mapping Under Spatial Covariate Shift: Satellite-Reanalysis Fusion for Africa's Green Industrial Transition",
+    "url": "https://arxiv.org/abs/2604.22787",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22787v1 Announce Type: new Abstract: Africa's green industrialization imperative demands reliable infrastructure for monitoring air quality. We present a satellite-reanalysis PM2.5 fusion system trained on 2,068,901 records from 404 monitoring locations in 29 African countries (OpenAQ, 20",
+    "collected_at": "2026-04-28T08:35:58.178762"
   },
   {
     "id": "8cd24346d84c",
@@ -156,6 +324,66 @@
     "collected_at": "2026-04-28T03:28:50.476819"
   },
   {
+    "id": "6b3ca84b5bf6",
+    "title": "Avionic Main Fuel Pump Simulation and Fault-Diagnosis Benchmark",
+    "url": "https://arxiv.org/abs/2604.22869",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22869v1 Announce Type: new Abstract: In many cyber-physical systems, especially in critical applications such as aeroplanes, data to train anomaly detection and diagnosis algorithms is lacking due to data protection issues and partial observability. To combat this inherent lack of data, w",
+    "collected_at": "2026-04-28T08:35:58.178812"
+  },
+  {
+    "id": "c1219940c582",
+    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T00:28:13",
+    "summary": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+    "collected_at": "2026-04-28T03:33:29.197562"
+  },
+  {
+    "id": "1f3af10927fd",
+    "title": "Towards Understanding the Expressive Power of GNNs with Global Readout",
+    "url": "https://arxiv.org/abs/2604.22870",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22870v1 Announce Type: new Abstract: We study the expressive power of message-passing aggregate-combine-readout graph neural networks (ACR-GNNs). Particularly, we focus on the first-order (FO) properties expressible by this formalism. While a tight logical characterisation remains a diffi",
+    "collected_at": "2026-04-28T08:35:58.178901"
+  },
+  {
+    "id": "f0cc7a9e8b3a",
+    "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
+    "url": "https://36kr.com/p/3785730095127817?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-28T00:04:02",
+    "summary": "TOP3大新闻 DeepSeek 输入缓存降价 多家美国廉价航空公司寻求政府资金纾困 东方甄选回应大量用户申请退会员 穿西装开空调太费电，日本东京鼓励公务员穿短裤 印度移动支付平台MobiKwik获央行批准 TOP3大事件 国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定 据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。 2025年12月30日，全球首款通用人工智能体Manus发布公告称，Manus即将加入美国科技巨头Meta。Manus将继续通过app和网站为用户提",
+    "collected_at": "2026-04-28T03:33:31.480915"
+  },
+  {
+    "id": "fce90c9dc1a2",
+    "title": "When Policies Cannot Be Retrained: A Unified Closed-Form View of Post-Training Steering in Offline Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2604.22873",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22873v1 Announce Type: new Abstract: Offline reinforcement learning (RL) can learn effective policies from fixed datasets, but deployment objectives may change after training, and in many applications the trained actor cannot be retrained because of data, cost, or governance constraints.",
+    "collected_at": "2026-04-28T08:35:58.178983"
+  },
+  {
     "id": "f0f9e683648b",
     "title": "Google is testing AI chatbot search for YouTube",
     "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
@@ -166,6 +394,18 @@
     "published": "2026-04-28T00:01:54",
     "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now",
     "collected_at": "2026-04-28T03:33:22.117392"
+  },
+  {
+    "id": "dcab58b5b4eb",
+    "title": "MTServe: Efficient Serving for Generative Recommendation Models with Hierarchical Caches",
+    "url": "https://arxiv.org/abs/2604.22881",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22881v1 Announce Type: new Abstract: Generative recommendation (GR) offers superior modeling capabilities but suffers from prohibitive inference costs due to the repeated encoding of long user histories. While cross-request Key-Value (KV) cache reuse presents a significant optimization op",
+    "collected_at": "2026-04-28T08:35:58.179057"
   },
   {
     "id": "2b3a5e03bc55",
@@ -180,16 +420,16 @@
     "collected_at": "2026-04-28T03:33:31.480987"
   },
   {
-    "id": "10e2fcea5ceb",
-    "title": "microsoft/VibeVoice",
-    "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
-    "source": "Simon Willison",
+    "id": "f2cff67609eb",
+    "title": "Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling",
+    "url": "https://arxiv.org/abs/2604.22882",
+    "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-04-27T23:46:56",
-    "summary": "microsoft/VibeVoice VibeVoice is Microsoft's Whisper-style audio model for speech-to-text, MIT licensed and with speaker diarization built into the model. Microsoft released it on January 21st, 2026 but I hadn't tried it until today. Here's a one-liner to run it on a Mac with uv, mlx-audio (by Princ",
-    "collected_at": "2026-04-28T03:33:29.325266"
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22882v1 Announce Type: new Abstract: Modern container ships face higher wind loads due to increased windage areas, making accurate predictions of wind loads essential for mooring design. Existing empirical models, largely developed for container ships with smaller windage areas and simple",
+    "collected_at": "2026-04-28T08:35:58.179134"
   },
   {
     "id": "9718caf249b2",
@@ -204,6 +444,42 @@
     "collected_at": "2026-04-28T03:33:31.481057"
   },
   {
+    "id": "86330b5e34e4",
+    "title": "Quantifying and Mitigating Self-Preference Bias of LLM Judges",
+    "url": "https://arxiv.org/abs/2604.22891",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22891v1 Announce Type: new Abstract: LLM-as-a-Judge has become a dominant approach in automated evaluation systems, playing critical roles in model alignment, leaderboard construction, quality control, and so on. However, the scalability and trustworthiness of this approach can be substan",
+    "collected_at": "2026-04-28T08:35:58.179200"
+  },
+  {
+    "id": "10e2fcea5ceb",
+    "title": "microsoft/VibeVoice",
+    "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-27T23:46:56",
+    "summary": "microsoft/VibeVoice VibeVoice is Microsoft's Whisper-style audio model for speech-to-text, MIT licensed and with speaker diarization built into the model. Microsoft released it on January 21st, 2026 but I hadn't tried it until today. Here's a one-liner to run it on a Mac with uv, mlx-audio (by Princ",
+    "collected_at": "2026-04-28T03:33:29.325266"
+  },
+  {
+    "id": "a0cc452a4e64",
+    "title": "StackFeat RL: Reinforcement Learning over Iterative Dual Criterion Feature Selection for Stable Biomarker Discovery",
+    "url": "https://arxiv.org/abs/2604.22892",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22892v1 Announce Type: new Abstract: Feature selection in high-dimensional genomic data ($d \\gg n$) demands methods that are simultaneously accurate, sparse, and stable. Existing approaches either require manual threshold specification (mRMR, stability selection), produce unstable selecti",
+    "collected_at": "2026-04-28T08:35:58.179296"
+  },
+  {
     "id": "5eab88a3515a",
     "title": "Physical AI that Moves the World — Qasar Younis & Peter Ludwig, Applied Intuition",
     "url": "https://www.latent.space/p/appliedintuition",
@@ -214,6 +490,18 @@
     "published": "2026-04-27T23:02:37",
     "summary": "Applied Intuition puts the AI in mining rigs, drones, trucks, warships and physical vehicles in the most adversarial environments imaginable. We dive in with their CEO and CTO as they emerge.",
     "collected_at": "2026-04-28T03:33:29.621057"
+  },
+  {
+    "id": "705a8b0cf167",
+    "title": "Utility-Aware Data Pricing: Token-Level Quality and Empirical Training Gain for LLMs",
+    "url": "https://arxiv.org/abs/2604.22893",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22893v1 Announce Type: new Abstract: Traditional data valuation methods based on ``row-count $\\times$ quality coefficient'' paradigms fail to capture the nuanced, nonlinear contributions that data makes to Large Language Model (LLM) capabilities. This paper presents a dynamic data valuati",
+    "collected_at": "2026-04-28T08:35:58.179361"
   },
   {
     "id": "370be1499991",
@@ -228,6 +516,18 @@
     "collected_at": "2026-04-28T03:33:22.248535"
   },
   {
+    "id": "2645bd3c8a3d",
+    "title": "Accelerating Frequency Domain Diffusion Models with Error-Feedback Event-Driven Caching",
+    "url": "https://arxiv.org/abs/2604.22901",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22901v1 Announce Type: new Abstract: Diffusion models achieve remarkable success in time series generation. However, slow inference limits their practical deployment. We propose E$^2$-CRF (Error-Feedback Event-Driven Cumulative Residual Feature caching) to accelerate frequency domain diff",
+    "collected_at": "2026-04-28T08:35:58.179426"
+  },
+  {
     "id": "5c286e0b1694",
     "title": "Canonical lays out a plan for AI in Ubuntu Linux",
     "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
@@ -240,6 +540,18 @@
     "collected_at": "2026-04-28T03:33:22.117429"
   },
   {
+    "id": "b07a77c3b483",
+    "title": "Deep Clustering for Climate: Analyzing Teleconnections through Learned Categorical States",
+    "url": "https://arxiv.org/abs/2604.22909",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22909v1 Announce Type: new Abstract: Understanding and representing complex climate variability is essential for both scientific analysis and predictive modeling. However, identifying meaningful climate regimes from raw variables is challenging, as they exhibit high noise and nonlinear de",
+    "collected_at": "2026-04-28T08:35:58.179516"
+  },
+  {
     "id": "35b19ebc7468",
     "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
     "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
@@ -250,6 +562,18 @@
     "published": "2026-04-27T18:38:17",
     "summary": "For many years, Microsoft and OpenAI's relationship has included a weird clause saying that, should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null and void. That clause appeared to end today. I decided to try and track its expression over time on openai.com. O",
     "collected_at": "2026-04-27T19:27:34.680442"
+  },
+  {
+    "id": "ebdc3506fef0",
+    "title": "Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces",
+    "url": "https://arxiv.org/abs/2604.22948",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T04:00:00",
+    "summary": "arXiv:2604.22948v1 Announce Type: new Abstract: History-dependent sampling can reduce long-run Monte Carlo variance by discouraging redundant revisits, but existing schemes typically encode history through empirical measure on finite state spaces, which is infeasible in high-dimensional discrete con",
+    "collected_at": "2026-04-28T08:35:58.179601"
   },
   {
     "id": "b674898a18bb",
@@ -3192,18 +3516,6 @@
     "collected_at": "2026-04-24T08:11:00.646915"
   },
   {
-    "id": "eadad007fe43",
-    "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T22:27:11",
-    "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber",
-    "collected_at": "2026-04-24T02:53:36.218619"
-  },
-  {
     "id": "958b88de4b28",
     "title": "Data-Driven Open-Loop Simulation for Digital-Twin Operator Decision Support in Wastewater Treatment",
     "url": "https://arxiv.org/abs/2604.20935",
@@ -3214,18 +3526,6 @@
     "published": "2026-04-24T04:00:00",
     "summary": "arXiv:2604.20935v1 Announce Type: new Abstract: Wastewater treatment plants (WWTPs) need digital-twin-style decision support tools that can simulate plant response under prescribed control plans, tolerate irregular and missing sensing, and remain informative over 12-36 h planning horizons. Meeting t",
     "collected_at": "2026-04-24T08:11:00.646997"
-  },
-  {
-    "id": "b3dd4452cf8e",
-    "title": "Extract PDF text in your browser with LiteParse for the web",
-    "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T21:54:24",
-    "summary": "LlamaIndex have a most excellent open source project called LiteParse, which provides a Node.js CLI tool for extracting text from PDFs. I got a version of LiteParse working entirely in the browser, using most of the same libraries that LiteParse uses to run in Node.js. Spatial text parsing Refreshin",
-    "collected_at": "2026-04-24T02:53:43.052612"
   },
   {
     "id": "678a86c31edb",
@@ -3240,18 +3540,6 @@
     "collected_at": "2026-04-24T08:11:00.647082"
   },
   {
-    "id": "13d3ab524fe7",
-    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-    "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T21:00:00",
-    "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-    "collected_at": "2026-04-24T02:53:36.000527"
-  },
-  {
     "id": "eee7d1a01cac",
     "title": "HARBOR: Automated Harness Optimization",
     "url": "https://arxiv.org/abs/2604.20938",
@@ -3262,18 +3550,6 @@
     "published": "2026-04-24T04:00:00",
     "summary": "arXiv:2604.20938v1 Announce Type: new Abstract: Long-horizon language-model agents are dominated, in lines of code and in operational complexity, not by their underlying model but by the harness that wraps it: context compaction, tool caching, semantic memory, trajectory reuse, speculative tool pred",
     "collected_at": "2026-04-24T08:11:00.647166"
-  },
-  {
-    "id": "24fdeb9c254a",
-    "title": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
-    "url": "https://www.qbitai.com/2026/04/406221.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-23T20:44:39",
-    "summary": "与上个版本GPT5.4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位",
-    "collected_at": "2026-04-24T02:51:22.115176"
   },
   {
     "id": "d510a1d7e9f0",
@@ -3288,18 +3564,6 @@
     "collected_at": "2026-04-24T08:11:00.647277"
   },
   {
-    "id": "aae0ce63fd7f",
-    "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
-    "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T19:59:47",
-    "summary": "GPT-5.5 is out. It's available in OpenAI Codex and is rolling out to paid ChatGPT subscribers. I've had some preview access and found it to be a fast, effective and highly capable model. As is usually the case these days, it's hard to put into words what's good about it - I ask it to build things an",
-    "collected_at": "2026-04-24T02:53:43.052898"
-  },
-  {
     "id": "a739f65f558b",
     "title": "LAF-Based Evaluation and UTTL-Based Learning Strategies with MIATTs",
     "url": "https://arxiv.org/abs/2604.20944",
@@ -3310,18 +3574,6 @@
     "published": "2026-04-24T04:00:00",
     "summary": "arXiv:2604.20944v1 Announce Type: new Abstract: In many real-world machine learning (ML) applications, the true target cannot be precisely defined due to ambiguity or subjectivity information. To address this challenge, under the assumption that the true target for a given ML task is not assumed to",
     "collected_at": "2026-04-24T08:11:00.647380"
-  },
-  {
-    "id": "4dab914eae2b",
-    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-    "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T19:38:25",
-    "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
-    "collected_at": "2026-04-24T02:53:36.000565"
   },
   {
     "id": "850173d519fd",
@@ -3336,18 +3588,6 @@
     "collected_at": "2026-04-24T08:11:00.647477"
   },
   {
-    "id": "466b625a302a",
-    "title": "AIE Europe Debrief + Agent Labs Thesis: Unsupervised Learning x Latent Space Crossover Special (2026)",
-    "url": "https://www.latent.space/p/unsupervised-learning-2026",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T19:37:19",
-    "summary": "Note: This episode was recorded just after AIE Europe, but before the Cursor-xAI deal.",
-    "collected_at": "2026-04-24T02:53:43.472191"
-  },
-  {
     "id": "1a836c4fdb97",
     "title": "Differentially Private Model Merging",
     "url": "https://arxiv.org/abs/2604.20985",
@@ -3358,245 +3598,5 @@
     "published": "2026-04-24T04:00:00",
     "summary": "arXiv:2604.20985v1 Announce Type: new Abstract: In machine learning applications, privacy requirements during inference or deployment time could change constantly due to varying policies, regulations, or user experience. In this work, we aim to generate a magnitude of models to satisfy any target di",
     "collected_at": "2026-04-24T08:11:00.647540"
-  },
-  {
-    "id": "2e631685ef60",
-    "title": "llm-openai-via-codex 0.1a0",
-    "url": "https://simonwillison.net/2026/Apr/23/llm-openai-via-codex/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T19:22:29",
-    "summary": "Release: llm-openai-via-codex 0.1a0 Hijacks your Codex CLI credentials to make API calls with LLM, as described in my post about GPT-5.5. Tags: openai, llm, codex-cli",
-    "collected_at": "2026-04-24T08:11:02.138853"
-  },
-  {
-    "id": "878578bdc973",
-    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’",
-    "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T18:29:29",
-    "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
-    "collected_at": "2026-04-23T19:17:04.770199"
-  },
-  {
-    "id": "b9e12d990a83",
-    "title": "Anthropic&#8217;s Mythos breach was humiliating",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T18:24:56",
-    "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release publicly, it appears the model fell into the wrong hands anyway. According to Bloomberg, a \"small group of",
-    "collected_at": "2026-04-23T19:17:04.879302"
-  },
-  {
-    "id": "67eef0dd333b",
-    "title": "GPT-5.5",
-    "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T18:01:39",
-    "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 448 # Comments: 159",
-    "collected_at": "2026-04-23T19:17:10.188300"
-  },
-  {
-    "id": "f8291224eee8",
-    "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T18:00:00",
-    "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI just released GPT-5.4 last month, but says that the new GPT-5.5 \"excels\" at tasks like writing and de",
-    "collected_at": "2026-04-23T19:17:04.879352"
-  },
-  {
-    "id": "5086395d0605",
-    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-    "url": "https://blog.meshcore.io/2026/04/23/the-split",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T16:55:13",
-    "summary": "Article URL: https://blog.meshcore.io/2026/04/23/the-split Comments URL: https://news.ycombinator.com/item?id=47878117 Points: 161 # Comments: 96",
-    "collected_at": "2026-04-24T02:53:37.148824"
-  },
-  {
-    "id": "ef50ca256f28",
-    "title": "Era raises $11M to build a software platform for AI gadgets",
-    "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T16:00:00",
-    "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
-    "collected_at": "2026-04-23T19:17:04.770239"
-  },
-  {
-    "id": "8ffe72fbcc8a",
-    "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
-    "url": "https://www.qbitai.com/2026/04/406020.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-23T14:28:57",
-    "summary": "百万Token要降到1分钱",
-    "collected_at": "2026-04-23T19:14:47.984042"
-  },
-  {
-    "id": "5c1601703b1d",
-    "title": "美国百年太妃糖易手，Roca乐家被全资收购",
-    "url": "https://36kr.com/p/3779468716938499?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-23T14:01:47",
-    "summary": "作者 | 钟艺璇 编辑 | 乔芊 36氪获悉，BHM集团已完成对美国百年糖巧制造商Brown & Haley公司的全资收购，Brown & Haley是一家总部位于美国，成立于1912年的百年糖巧制造商，旗下拥有Almond ROCA、Mountain等糖巧品牌。交易于2026年4月17日正式完成交割。本次收购不会对Brown & Haley位于塔科马的总部生产基地造成影响，其原有生产运营将保持稳定。 据悉，孟一烽（Sam Meng）将会出任Brown & Haley全球CEO，他同时也是Brown & Haley旗下核心品牌Almond ROCA（下称“ROCA乐家”）过去十余年大中华区独家",
-    "collected_at": "2026-04-23T19:17:19.602055"
-  },
-  {
-    "id": "8fd90b168446",
-    "title": "Another customer of troubled startup Delve suffered a big security incident",
-    "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T14:00:00",
-    "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
-    "collected_at": "2026-04-23T19:17:04.770356"
-  },
-  {
-    "id": "8ff7a956079c",
-    "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
-    "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T14:00:00",
-    "summary": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calling it software brain, and it&#8217;s a particular way of seeing the world that fits everything into",
-    "collected_at": "2026-04-23T19:17:04.879395"
-  },
-  {
-    "id": "6cfdf10c9086",
-    "title": "AI galaxy hunters are adding to the global GPU crunch",
-    "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T13:00:00",
-    "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
-    "collected_at": "2026-04-23T13:52:29.665923"
-  },
-  {
-    "id": "837d359fb638",
-    "title": "You’re about to feel the AI money squeeze",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T13:45:00",
-    "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthropic. Anthropic, like other leading AI labs, was under immense pressure to lessen the strain on its s",
-    "collected_at": "2026-04-23T13:52:29.788105"
-  },
-  {
-    "id": "fd1f09174e8f",
-    "title": "Anthropic拟高薪招聘专员洽谈数据中心合作，助力欧洲AI业务扩张",
-    "url": "https://36kr.com/newsflashes/3779388327629831?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-23T12:49:32",
-    "summary": "Anthropic正积极推进在欧洲达成数据中心合作协议，为其人工智能模型提供算力支撑。这家AI巨头正招聘一个六位数薪酬的岗位，负责在该地区洽谈算力容量相关协议。（新浪财经）",
-    "collected_at": "2026-04-23T13:52:44.391674"
-  },
-  {
-    "id": "f10c6db6f9ea",
-    "title": "The Download: introducing the Nature issue",
-    "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-23T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.&#160;",
-    "collected_at": "2026-04-23T13:52:29.878827"
-  },
-  {
-    "id": "fc09156aafdf",
-    "title": "昆仑万维：2025年营收81.98亿元，同比增长44.78%",
-    "url": "https://36kr.com/newsflashes/3779382230062340?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-23T12:39:53",
-    "summary": "4月23日，昆仑万维发布2025年度财报。财报显示，公司实现营业总收入81.98亿元，同比增长44.78%。其中，海外业务收入规模提升至77.23亿元，同比增长49.91%。2026年3月，公司在中关村论坛正式发布2026昆仑万维AGI战略，全新升级“4+3战略”。以“视频模型、音乐音频模型、世界模型、基座文本与多模态模型”四大SOTA级人工智能模型为技术底座，支撑“AI短剧、AI音乐、AI游戏”三大AI Native平台经济体。",
-    "collected_at": "2026-04-23T13:52:44.391804"
-  },
-  {
-    "id": "4668d77fec77",
-    "title": "印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」",
-    "url": "https://www.qbitai.com/2026/04/406036.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-23T11:37:24",
-    "summary": "L2+上车46万辆",
-    "collected_at": "2026-04-23T13:50:12.849390"
-  },
-  {
-    "id": "0b7f5c69fb16",
-    "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
-    "url": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T11:34:18",
-    "summary": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version of the Copilot experience in Office that Microsoft has been trying to sell to businesses. \"When we f",
-    "collected_at": "2026-04-23T13:52:29.788181"
-  },
-  {
-    "id": "4a40c83c1c06",
-    "title": "Gemini CLI 引入子代理机制，实现任务委派与并行代理工作流",
-    "url": "https://www.infoq.cn/article/50eZYcehCtQuxKoTcLhS?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-23T11:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-23T13:24:07.034545"
-  },
-  {
-    "id": "3aa1538062af",
-    "title": "Introducing GPT-5.5",
-    "url": "https://openai.com/index/introducing-gpt-5-5",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-23T11:00:00",
-    "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-    "collected_at": "2026-04-23T19:17:13.925660"
   }
 ]
