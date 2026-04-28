@@ -1,5 +1,113 @@
 [
   {
+    "id": "9ac17987a01d",
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T19:48:02",
+    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "collected_at": "2026-04-28T19:51:39.595068"
+  },
+  {
+    "id": "21149ecd89ea",
+    "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T19:00:13",
+    "summary": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38 million early on before the co-founders' relationship soured over disagreements",
+    "collected_at": "2026-04-28T19:51:39.728083"
+  },
+  {
+    "id": "a1231f5b46cc",
+    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T18:49:54",
+    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "collected_at": "2026-04-28T19:51:39.595106"
+  },
+  {
+    "id": "26cf36bbfab8",
+    "title": "Claude.ai unavailable and elevated errors on the API",
+    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T18:01:21",
+    "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 160 # Comments: 134",
+    "collected_at": "2026-04-28T19:51:40.985198"
+  },
+  {
+    "id": "8dcbd07fb3ff",
+    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T18:15:00",
+    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+    "collected_at": "2026-04-28T19:51:39.595156"
+  },
+  {
+    "id": "b1c3714a01b0",
+    "title": "Recursive forecasting: Eliciting long-term forecasts from myopic fitness-seekers",
+    "url": "https://www.alignmentforum.org/posts/q2zYtNsh62SCphitt/recursive-forecasting-eliciting-long-term-forecasts-from",
+    "source": "AI Alignment Forum",
+    "lang": "en",
+    "channel": "en",
+    "priority": 3,
+    "published": "2026-04-28T18:00:44",
+    "summary": "We’d like to use powerful AIs to answer questions that may take a long time to resolve. But if a model only cares about performing well in ways that are verifiable shortly after answering (e.g., a myopic fitness seeker), it may be difficult to get useful work from it on questions that resolve much l",
+    "collected_at": "2026-04-28T19:51:47.320095"
+  },
+  {
+    "id": "591f0318c5fb",
+    "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T16:49:08",
+    "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its laun",
+    "collected_at": "2026-04-28T19:51:39.728127"
+  },
+  {
+    "id": "cab39fd8e9ba",
+    "title": "AI's Economics Don't Make Sense",
+    "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-28T16:39:53",
+    "summary": "Article URL: https://www.wheresyoured.at/ais-economics-dont-make-sense/ Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 146 # Comments: 110",
+    "collected_at": "2026-04-28T19:51:40.985241"
+  },
+  {
+    "id": "3fabcf9934d1",
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T15:58:57",
+    "summary": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio a",
+    "collected_at": "2026-04-28T19:51:46.063829"
+  },
+  {
     "id": "395ec23c5e04",
     "title": "用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践",
     "url": "https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN?utm_source=rss&utm_medium=article",
@@ -10,6 +118,18 @@
     "published": "2026-04-28T15:36:43",
     "summary": "点击查看原文>",
     "collected_at": "2026-04-28T08:36:05.362763"
+  },
+  {
+    "id": "fa8209145f39",
+    "title": "Musk and Altman go to court",
+    "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T14:47:21",
+    "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're likely to spend the next few weeks hearing a lot of important people's secrets made [&#8230;]",
+    "collected_at": "2026-04-28T19:51:39.728168"
   },
   {
     "id": "35ffafd44de0",
@@ -82,6 +202,18 @@
     "published": "2026-04-28T12:18:14",
     "summary": "36氪获悉，长芯博创公告，公司拟以现金1.96亿元收购控股子公司长芯盛2.20%股份，交易完成后持股比例将升至62.65%。长芯盛是光通信解决方案提供商，主要产品应用于数据通信、消费及工业互联领域，产品包括用于数据中心内部互联的各类高速线缆、无源预端接跳线等，用于消费、工业以及医疗等行业互联的高速有源光缆（AOC）以及广泛应用于不同场景的各类处理器接口的高速模拟芯片、高速光电模组组件等。本公司控股股东、实际控制人长飞光纤光缆股份有限公司持有目标公司37.35%的股份。",
     "collected_at": "2026-04-28T14:20:31.900641"
+  },
+  {
+    "id": "a661bb0d21fb",
+    "title": "Otter’s new feature lets users search across their enterprise tools",
+    "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T12:00:00",
+    "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
+    "collected_at": "2026-04-28T19:51:39.595410"
   },
   {
     "id": "104b57e9a431",
@@ -612,16 +744,16 @@
     "collected_at": "2026-04-28T08:35:58.179200"
   },
   {
-    "id": "10e2fcea5ceb",
-    "title": "microsoft/VibeVoice",
-    "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
-    "source": "Simon Willison",
+    "id": "d0682fe009b6",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-04-27T23:46:56",
-    "summary": "microsoft/VibeVoice VibeVoice is Microsoft's Whisper-style audio model for speech-to-text, MIT licensed and with speaker diarization built into the model. Microsoft released it on January 21st, 2026 but I hadn't tried it until today. Here's a one-liner to run it on a Mac with uv, mlx-audio (by Princ",
-    "collected_at": "2026-04-28T03:33:29.325266"
+    "priority": 1,
+    "published": "2026-04-28T00:00:00",
+    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "collected_at": "2026-04-28T19:51:42.551677"
   },
   {
     "id": "a0cc452a4e64",
@@ -636,16 +768,16 @@
     "collected_at": "2026-04-28T08:35:58.179296"
   },
   {
-    "id": "5eab88a3515a",
-    "title": "Physical AI that Moves the World — Qasar Younis & Peter Ludwig, Applied Intuition",
-    "url": "https://www.latent.space/p/appliedintuition",
-    "source": "Latent Space",
+    "id": "10e2fcea5ceb",
+    "title": "microsoft/VibeVoice",
+    "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-04-27T23:02:37",
-    "summary": "Applied Intuition puts the AI in mining rigs, drones, trucks, warships and physical vehicles in the most adversarial environments imaginable. We dive in with their CEO and CTO as they emerge.",
-    "collected_at": "2026-04-28T03:33:29.621057"
+    "priority": 2,
+    "published": "2026-04-27T23:46:56",
+    "summary": "microsoft/VibeVoice VibeVoice is Microsoft's Whisper-style audio model for speech-to-text, MIT licensed and with speaker diarization built into the model. Microsoft released it on January 21st, 2026 but I hadn't tried it until today. Here's a one-liner to run it on a Mac with uv, mlx-audio (by Princ",
+    "collected_at": "2026-04-28T03:33:29.325266"
   },
   {
     "id": "705a8b0cf167",
@@ -660,16 +792,16 @@
     "collected_at": "2026-04-28T08:35:58.179361"
   },
   {
-    "id": "370be1499991",
-    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-    "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-    "source": "MIT Tech Review",
+    "id": "5eab88a3515a",
+    "title": "Physical AI that Moves the World — Qasar Younis & Peter Ludwig, Applied Intuition",
+    "url": "https://www.latent.space/p/appliedintuition",
+    "source": "Latent Space",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-04-27T22:52:57",
-    "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris",
-    "collected_at": "2026-04-28T03:33:22.248535"
+    "priority": 1,
+    "published": "2026-04-27T23:02:37",
+    "summary": "Applied Intuition puts the AI in mining rigs, drones, trucks, warships and physical vehicles in the most adversarial environments imaginable. We dive in with their CEO and CTO as they emerge.",
+    "collected_at": "2026-04-28T03:33:29.621057"
   },
   {
     "id": "2645bd3c8a3d",
@@ -684,16 +816,16 @@
     "collected_at": "2026-04-28T08:35:58.179426"
   },
   {
-    "id": "5c286e0b1694",
-    "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-    "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-    "source": "The Verge AI",
+    "id": "370be1499991",
+    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+    "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+    "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-04-27T20:47:45",
-    "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the",
-    "collected_at": "2026-04-28T03:33:22.117429"
+    "priority": 2,
+    "published": "2026-04-27T22:52:57",
+    "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris",
+    "collected_at": "2026-04-28T03:33:22.248535"
   },
   {
     "id": "b07a77c3b483",
@@ -708,16 +840,16 @@
     "collected_at": "2026-04-28T08:35:58.179516"
   },
   {
-    "id": "35b19ebc7468",
-    "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-    "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
-    "source": "Simon Willison",
+    "id": "5c286e0b1694",
+    "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+    "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-04-27T18:38:17",
-    "summary": "For many years, Microsoft and OpenAI's relationship has included a weird clause saying that, should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null and void. That clause appeared to end today. I decided to try and track its expression over time on openai.com. O",
-    "collected_at": "2026-04-27T19:27:34.680442"
+    "priority": 1,
+    "published": "2026-04-27T20:47:45",
+    "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the",
+    "collected_at": "2026-04-28T03:33:22.117429"
   },
   {
     "id": "ebdc3506fef0",
@@ -730,6 +862,18 @@
     "published": "2026-04-28T04:00:00",
     "summary": "arXiv:2604.22948v1 Announce Type: new Abstract: History-dependent sampling can reduce long-run Monte Carlo variance by discouraging redundant revisits, but existing schemes typically encode history through empirical measure on finite state spaces, which is infeasible in high-dimensional discrete con",
     "collected_at": "2026-04-28T08:35:58.179601"
+  },
+  {
+    "id": "35b19ebc7468",
+    "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
+    "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-27T18:38:17",
+    "summary": "For many years, Microsoft and OpenAI's relationship has included a weird clause saying that, should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null and void. That clause appeared to end today. I decided to try and track its expression over time on openai.com. O",
+    "collected_at": "2026-04-27T19:27:34.680442"
   },
   {
     "id": "b674898a18bb",
@@ -3454,149 +3598,5 @@
     "published": "2026-04-24T04:00:00",
     "summary": "arXiv:2604.20920v1 Announce Type: new Abstract: Scaling large language models to long contexts is challenging due to the quadratic computational cost of full attention. Mitigation approaches include KV-cache selection or compression techniques. We instead provide an effective and end-to-end learnabl",
     "collected_at": "2026-04-24T08:11:00.646392"
-  },
-  {
-    "id": "e7dfb80fd3f1",
-    "title": "Validating a Deep Learning Algorithm to Identify Patients with Glaucoma using Systemic Electronic Health Records",
-    "url": "https://arxiv.org/abs/2604.20921",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20921v1 Announce Type: new Abstract: We evaluated whether a glaucoma risk assessment (GRA) model trained on All of Us national data can identify patients at high probability of glaucoma using only systemic electronic health records (EHR) at an independent institution. In this cross-sectio",
-    "collected_at": "2026-04-24T08:11:00.646456"
-  },
-  {
-    "id": "16c25163bada",
-    "title": "ILDR: Geometric Early Detection of Grokking",
-    "url": "https://arxiv.org/abs/2604.20923",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20923v1 Announce Type: new Abstract: Grokking describes a delayed generalization phenomenon in which a neural network achieves perfect training accuracy long before validation accuracy improves, followed by an abrupt transition to strong generalization. Existing detection signals are indi",
-    "collected_at": "2026-04-24T08:11:00.646546"
-  },
-  {
-    "id": "abbe45b5a964",
-    "title": "Clinically Interpretable Sepsis Early Warning via LLM-Guided Simulation of Temporal Physiological Dynamics",
-    "url": "https://arxiv.org/abs/2604.20924",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20924v1 Announce Type: new Abstract: Timely and interpretable early warning of sepsis remains a major clinical challenge due to the complex temporal dynamics of physiological deterioration. Traditional data-driven models often provide accurate yet opaque predictions, limiting physicians'",
-    "collected_at": "2026-04-24T08:11:00.646621"
-  },
-  {
-    "id": "f29d37569f6d",
-    "title": "Unsupervised Learning of Inter-Object Relationships via Group Homomorphism",
-    "url": "https://arxiv.org/abs/2604.20925",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20925v1 Announce Type: new Abstract: While current deep learning models achieve high performance by learning statistical correlations from vast datasets,which stands in stark contrast to human learning. They lack the flexibility of humans-particularly preverbal infants-to autonomously acq",
-    "collected_at": "2026-04-24T08:11:00.646723"
-  },
-  {
-    "id": "4fe9083a2eff",
-    "title": "Domain-Aware Hierarchical Contrastive Learning for Semi-Supervised Generalization Fault Diagnosis",
-    "url": "https://arxiv.org/abs/2604.20928",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20928v1 Announce Type: new Abstract: Fault diagnosis under unseen operating conditions remains highly challenging when labeled data are scarce. Semi-supervised domain generalization fault diagnosis (SSDGFD) provides a practical solution by jointly exploiting labeled and unlabeled source d",
-    "collected_at": "2026-04-24T08:11:00.646807"
-  },
-  {
-    "id": "db3467a79291",
-    "title": "IRIS: Interpolative R\\'enyi Iterative Self-play for Large Language Model Fine-Tuning",
-    "url": "https://arxiv.org/abs/2604.20933",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20933v1 Announce Type: new Abstract: Self-play fine-tuning enables large language models to improve beyond supervised fine-tuning without additional human annotations by contrasting annotated responses with self-generated ones. Many existing methods rely on a fixed divergence regime. SPIN",
-    "collected_at": "2026-04-24T08:11:00.646915"
-  },
-  {
-    "id": "958b88de4b28",
-    "title": "Data-Driven Open-Loop Simulation for Digital-Twin Operator Decision Support in Wastewater Treatment",
-    "url": "https://arxiv.org/abs/2604.20935",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20935v1 Announce Type: new Abstract: Wastewater treatment plants (WWTPs) need digital-twin-style decision support tools that can simulate plant response under prescribed control plans, tolerate irregular and missing sensing, and remain informative over 12-36 h planning horizons. Meeting t",
-    "collected_at": "2026-04-24T08:11:00.646997"
-  },
-  {
-    "id": "678a86c31edb",
-    "title": "Sink-Token-Aware Pruning for Fine-Grained Video Understanding in Efficient Video LLMs",
-    "url": "https://arxiv.org/abs/2604.20937",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20937v1 Announce Type: new Abstract: Video Large Language Models (Video LLMs) incur high inference latency due to a large number of visual tokens provided to LLMs. To address this, training-free visual token pruning has emerged as a solution to reduce computational costs; however, existin",
-    "collected_at": "2026-04-24T08:11:00.647082"
-  },
-  {
-    "id": "eee7d1a01cac",
-    "title": "HARBOR: Automated Harness Optimization",
-    "url": "https://arxiv.org/abs/2604.20938",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20938v1 Announce Type: new Abstract: Long-horizon language-model agents are dominated, in lines of code and in operational complexity, not by their underlying model but by the harness that wraps it: context compaction, tool caching, semantic memory, trajectory reuse, speculative tool pred",
-    "collected_at": "2026-04-24T08:11:00.647166"
-  },
-  {
-    "id": "d510a1d7e9f0",
-    "title": "SCM: Sleep-Consolidated Memory with Algorithmic Forgetting for Large Language Models",
-    "url": "https://arxiv.org/abs/2604.20943",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20943v1 Announce Type: new Abstract: We present SCM (Sleep-Consolidated Memory), a research preview of a memory architecture for large language models that draws on neuroscientific principles to address a fundamental limitation in current systems: the absence of persistent, structured, an",
-    "collected_at": "2026-04-24T08:11:00.647277"
-  },
-  {
-    "id": "a739f65f558b",
-    "title": "LAF-Based Evaluation and UTTL-Based Learning Strategies with MIATTs",
-    "url": "https://arxiv.org/abs/2604.20944",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20944v1 Announce Type: new Abstract: In many real-world machine learning (ML) applications, the true target cannot be precisely defined due to ambiguity or subjectivity information. To address this challenge, under the assumption that the true target for a given ML task is not assumed to",
-    "collected_at": "2026-04-24T08:11:00.647380"
-  },
-  {
-    "id": "850173d519fd",
-    "title": "Early Detection of Latent Microstructure Regimes in Limit Order Books",
-    "url": "https://arxiv.org/abs/2604.20949",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-24T04:00:00",
-    "summary": "arXiv:2604.20949v1 Announce Type: new Abstract: Limit order books can transition rapidly from stable to stressed conditions, yet standard early-warning signals such as order flow imbalance and short-term volatility are inherently reactive. We formalise this limitation via a three-regime causal data-",
-    "collected_at": "2026-04-24T08:11:00.647477"
   }
 ]

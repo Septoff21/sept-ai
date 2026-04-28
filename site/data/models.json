@@ -3587,6 +3587,31 @@
     "collected_at": "2026-04-22T13:10:24.612431"
   },
   {
+    "id": "hf-poolside--Laguna-XS.2",
+    "name": "poolside/Laguna-XS.2",
+    "display_name": "Laguna-XS.2",
+    "url": "https://huggingface.co/poolside/Laguna-XS.2",
+    "author": "poolside",
+    "pipeline_tag": "text-generation",
+    "likes": 55,
+    "downloads": 15,
+    "tags": [
+      "vllm",
+      "safetensors",
+      "laguna",
+      "laguna-xs.2",
+      "text-generation",
+      "conversational",
+      "custom_code",
+      "license:apache-2.0",
+      "eval-results",
+      "region:us"
+    ],
+    "created_at": "2026-04-23T20:50:45.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-04-28T19:51:59.646472"
+  },
+  {
     "id": "hf-tencent--Hy3-preview",
     "name": "tencent/Hy3-preview",
     "display_name": "Hy3-preview",
@@ -4075,6 +4100,32 @@
     "collected_at": "2026-04-22T13:10:24.813706"
   },
   {
+    "id": "hf-sbintuitions--sarashina2.2-tts",
+    "name": "sbintuitions/sarashina2.2-tts",
+    "display_name": "sarashina2.2-tts",
+    "url": "https://huggingface.co/sbintuitions/sarashina2.2-tts",
+    "author": "sbintuitions",
+    "pipeline_tag": "text-to-speech",
+    "likes": 44,
+    "downloads": 19,
+    "tags": [
+      "safetensors",
+      "llama",
+      "text-to-speech",
+      "tts",
+      "japanese-tts",
+      "speech-synthesis",
+      "ja",
+      "en",
+      "base_model:sbintuitions/sarashina2.2-0.5b-instruct-v0.1",
+      "base_model:finetune:sbintuitions/sarashina2.2-0.5b-instruct-v0.1",
+      "region:us"
+    ],
+    "created_at": "2026-04-16T00:53:48.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-04-28T19:51:59.646496"
+  },
+  {
     "id": "hf-lordx64--Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
     "name": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
     "display_name": "Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
@@ -4340,6 +4391,43 @@
     "created_at": "2026-04-24T06:06:58.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-25T02:45:02.408530"
+  },
+  {
+    "id": "hf-unsloth--NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+    "name": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+    "display_name": "NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+    "url": "https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+    "author": "unsloth",
+    "pipeline_tag": "text-generation",
+    "likes": 27,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "nvidia",
+      "unsloth",
+      "nemotron-3",
+      "multimodal",
+      "text-generation",
+      "en",
+      "fr",
+      "es",
+      "it",
+      "de",
+      "ja",
+      "zh",
+      "dataset:nvidia/nemotron-post-training-v3",
+      "dataset:nvidia/nemotron-pre-training-datasets",
+      "base_model:nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "base_model:quantized:nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "license:other",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "created_at": "2026-04-27T21:42:38.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-04-28T19:51:59.888925"
   },
   {
     "id": "hf-z-lab--Qwen3.6-27B-DFlash",
@@ -22869,63 +22957,5 @@
     "created_at": "2026-04-27T13:56:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T14:03:58.301644"
-  },
-  {
-    "id": "hf-mradermacher--Qwen3.5-27B-imabari-v2-GGUF",
-    "name": "mradermacher/Qwen3.5-27B-imabari-v2-GGUF",
-    "display_name": "Qwen3.5-27B-imabari-v2-GGUF",
-    "url": "https://huggingface.co/mradermacher/Qwen3.5-27B-imabari-v2-GGUF",
-    "author": "mradermacher",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "gguf",
-      "endpoints_compatible",
-      "region:us",
-      "conversational"
-    ],
-    "created_at": "2026-04-27T13:55:55.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T14:03:58.301647"
-  },
-  {
-    "id": "hf-zeraaak--pi0_stack_black_cube_green_cube_yellow_lego_100demo",
-    "name": "zeraaak/pi0_stack_black_cube_green_cube_yellow_lego_100demo",
-    "display_name": "pi0_stack_black_cube_green_cube_yellow_lego_100demo",
-    "url": "https://huggingface.co/zeraaak/pi0_stack_black_cube_green_cube_yellow_lego_100demo",
-    "author": "zeraaak",
-    "pipeline_tag": "robotics",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "lerobot",
-      "safetensors",
-      "robotics",
-      "pi05",
-      "dataset:zeraaak/stacke_the_object_in_order_black.Cube_green.cube_Yellow.lego_200Demoneuee",
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T13:55:09.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T14:03:58.301651"
-  },
-  {
-    "id": "hf-robotneu--pi0.5_libero_spatial_n_12_250000",
-    "name": "robotneu/pi0.5_libero_spatial_n_12_250000",
-    "display_name": "pi0.5_libero_spatial_n_12_250000",
-    "url": "https://huggingface.co/robotneu/pi0.5_libero_spatial_n_12_250000",
-    "author": "robotneu",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T13:54:39.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T14:03:58.301654"
   }
 ]
