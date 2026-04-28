@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-04-27T19:28:23.897706",
-  "date": "2026-04-27",
+  "updated_at": "2026-04-28T03:34:18.272048",
+  "date": "2026-04-28",
   "spotlight": {
-    "id": "秘塔搜索",
-    "name": "秘塔 AI 搜索",
-    "url": "https://metaso.cn",
+    "id": "gamma",
+    "name": "Gamma",
+    "url": "https://gamma.app",
     "type": "tool",
-    "description": "国产 AI 搜索引擎，中文体验优秀",
-    "pricing": "免费",
-    "category": "搜索"
+    "description": "AI 一键生成 PPT/演示文稿",
+    "pricing": "免费 + Plus $10/月",
+    "category": "办公"
   },
   "alternates": [
     {
-      "name": "Aider",
-      "url": "https://github.com/Aider-AI/aider",
+      "name": "OpenCode",
+      "url": "https://github.com/opencode-ai/opencode",
       "type": "agent",
-      "description": "终端AI结对编程工具，支持多模型",
+      "description": "终端AI编码助手，支持多模型多Provider",
       "pricing": "开源免费",
       "category": "编程 Agent"
     },
     {
-      "id": "trae",
-      "name": "Trae",
-      "url": "https://trae.ai",
+      "id": "midjourney",
+      "name": "Midjourney",
+      "url": "https://midjourney.com",
       "type": "tool",
-      "description": "字节跳动出品的 AI IDE，中文友好",
-      "pricing": "免费",
-      "category": "编程"
+      "description": "最强 AI 绘画工具，生成质量极高",
+      "pricing": "$10/月 起",
+      "category": "绘画"
     },
     {
-      "name": "Codex (ChatGPT)",
-      "url": "https://chatgpt.com",
+      "name": "Devin",
+      "url": "https://devin.ai",
       "type": "agent",
-      "description": "OpenAI内置编程智能体，可在沙盒中执行代码",
-      "pricing": "ChatGPT Pro $200/月",
+      "description": "全球首个AI软件工程师，能独立完成编程任务",
+      "pricing": "$500/月",
       "category": "编程 Agent"
     }
   ]

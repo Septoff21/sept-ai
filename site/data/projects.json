@@ -3653,6 +3653,34 @@
     "collected_at": "2026-04-20T18:54:53.609589"
   },
   {
+    "id": "github-1222376231",
+    "name": "Udacity-ai/pumpfun-ai-trading-bot",
+    "display_name": "pumpfun-ai-trading-bot",
+    "url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot",
+    "description": "TypeScript CLI: OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC.",
+    "stars": 166,
+    "forks": 18,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "automation",
+      "cli",
+      "defi",
+      "memecoin",
+      "openai",
+      "pumpfun",
+      "solana",
+      "solana-web3",
+      "trading-bot",
+      "typescript"
+    ],
+    "created_at": "2026-04-27T09:57:22Z",
+    "updated_at": "2026-04-28T03:30:55Z",
+    "license": "",
+    "source": "github-search",
+    "collected_at": "2026-04-28T03:33:37.216261"
+  },
+  {
     "id": "github-1205204739",
     "name": "kklt92/awesome-ai-extensions",
     "display_name": "awesome-ai-extensions",
@@ -4643,6 +4671,36 @@
     "license": "MIT",
     "source": "github-search",
     "collected_at": "2026-04-24T18:59:40.225326"
+  },
+  {
+    "id": "github-1211544888",
+    "name": "QuinkGL/quinkgl-framework",
+    "display_name": "quinkgl-framework",
+    "url": "https://github.com/QuinkGL/quinkgl-framework",
+    "description": "research-based, fully open-source, peer-to-peer gossip learning framework",
+    "stars": 8,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "decentralized",
+      "deep-learning",
+      "fedavg",
+      "fedprox",
+      "gossip-learning",
+      "machine-learning",
+      "model-collaboration",
+      "peer-to-peer",
+      "python",
+      "pytorch",
+      "quinkgl",
+      "tensorflow"
+    ],
+    "created_at": "2026-04-15T13:53:43Z",
+    "updated_at": "2026-04-27T22:20:58Z",
+    "license": "Apache-2.0",
+    "source": "github-search",
+    "collected_at": "2026-04-28T03:33:37.216290"
   },
   {
     "id": "github-1201368235",
