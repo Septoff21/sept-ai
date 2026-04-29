@@ -1,5 +1,221 @@
 [
   {
+    "id": "f73251f6e97f",
+    "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
+    "url": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T18:59:11",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809323"
+  },
+  {
+    "id": "33c9f2d538e7",
+    "title": "Larry’s risky business",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T13:57:16",
+    "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthrop",
+    "collected_at": "2026-04-29T14:10:38.956212"
+  },
+  {
+    "id": "c13a536af5f2",
+    "title": "百度文库网盘发布GenFlow 4.0：月活用户超1亿，要把网盘变成全端AI工作台",
+    "url": "https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T18:18:29",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809407"
+  },
+  {
+    "id": "358b8403be54",
+    "title": "Firestorm Labs raises $82M to take drone factories into the field",
+    "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T13:10:57",
+    "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+    "collected_at": "2026-04-29T14:10:38.872182"
+  },
+  {
+    "id": "91ff657006c5",
+    "title": "Altman 投的 Agent 终端 Warp 开源了！斩获3.5万star",
+    "url": "https://www.infoq.cn/article/ArGDWKczgdQlQ3G6shk7?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T18:15:14",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809465"
+  },
+  {
+    "id": "590c28931c3d",
+    "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+    "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T13:00:00",
+    "summary": "Think Discord chats, but with AI characters in addition to humans.",
+    "collected_at": "2026-04-29T14:10:38.872218"
+  },
+  {
+    "id": "b80089f7eb9f",
+    "title": "从开发到生产：为什么越来越多的机器学习团队纷纷迁移到 Snowflake ｜ BUILD 2025",
+    "url": "https://www.infoq.cn/video/wV4Nmb5vpxaChAdobOUl?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T16:56:03",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809540"
+  },
+  {
+    "id": "f2f442e7b709",
+    "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T13:00:00",
+    "summary": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate re",
+    "collected_at": "2026-04-29T14:10:38.956261"
+  },
+  {
+    "id": "4718670db86e",
+    "title": "探索多智能体工作流：LangGraph Snowflake Cortex AI ｜ BUILD 2025",
+    "url": "https://www.infoq.cn/video/sQoiGqlgSeJNzDlfk5Zq?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T16:47:39",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809572"
+  },
+  {
+    "id": "fe034fb06fc8",
+    "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+    "url": "https://36kr.com/p/3787748082293766?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-29T12:44:39",
+    "summary": "大公司： 魔法原子：目标到2036年营收达140亿美元 36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目标：到2036年，公司将向140亿美元营收规模迈进，并宣布未来五年将持续投入10亿美元，打造面向机器人二次开发的专属生态。 吉利汽车：第一季度营收首破800亿元，核心归母净利润同比增长31% 36氪获悉，吉利汽车公布2026年第一季度业绩报告。2026第一季度，录得总销量709358辆，同比增长1%",
+    "collected_at": "2026-04-29T14:11:02.515209"
+  },
+  {
+    "id": "de9664ec6bad",
+    "title": "腾讯云分布式缓存数据库：AI Agent - 从提示词工程到 Harness 工程 | 腾讯云数据库 DBTalk",
+    "url": "https://www.infoq.cn/video/JAs7bgXPGx8ibDQQw98A?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T16:47:06",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809604"
+  },
+  {
+    "id": "116329f7e2e2",
+    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+    "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T12:38:50",
+    "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 154 # Comments: 181",
+    "collected_at": "2026-04-29T14:10:55.505013"
+  },
+  {
+    "id": "2d92769862fd",
+    "title": "基于 Streamlit 为 CSV 数据构建分析智能体 ｜ BUILD 2025",
+    "url": "https://www.infoq.cn/video/TGuw62wOrDdxG9UcjvDM?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T16:43:28",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809637"
+  },
+  {
+    "id": "b4de6e79eba9",
+    "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
+    "url": "https://36kr.com/newsflashes/3787882892631302?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-29T12:33:44",
+    "summary": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具。（财联社）",
+    "collected_at": "2026-04-29T14:11:02.516581"
+  },
+  {
+    "id": "fec8deb6ddb0",
+    "title": "AI 智能体：告别文档缺漏 ｜ BUILD 2025",
+    "url": "https://www.infoq.cn/video/xzP1usT6PvgoaNt7T0Bo?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T16:29:33",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809666"
+  },
+  {
+    "id": "f6e9fc2af9bf",
+    "title": "The Download: storing nuclear waste and orchestrating agents",
+    "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Bi",
+    "collected_at": "2026-04-29T14:10:39.098523"
+  },
+  {
+    "id": "122b7649fe3f",
+    "title": "构建 AI 驱动的数据管道：深度探讨 Snowflake Openflow 与非结构化数据 | BUILD 2025",
+    "url": "https://www.infoq.cn/video/Lm5IqHMcXAP2RoQNcOri?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T16:20:37",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809697"
+  },
+  {
+    "id": "dc28630cd03a",
+    "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+    "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T11:00:24",
+    "summary": "Security firms find themselves especially exposed.",
+    "collected_at": "2026-04-29T14:10:39.215641"
+  },
+  {
     "id": "ab927b60243e",
     "title": "云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作",
     "url": "https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&utm_medium=article",
@@ -12,16 +228,16 @@
     "collected_at": "2026-04-29T08:30:20.532283"
   },
   {
-    "id": "5c2f657f1c73",
-    "title": "湖南芒果数智增资至4亿元",
-    "url": "https://36kr.com/newsflashes/3787643296603139?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T08:30:00",
-    "summary": "36氪获悉，爱企查App显示，近日，湖南芒果数智艺术科技有限责任公司发生工商变更，新增湖南数据产业集团有限公司为股东，同时，注册资本由1亿元人民币增至4亿元人民币，增幅300%。湖南芒果数智艺术科技有限责任公司成立于2024年4月，法定代表人为蔡怀军，经营范围包括网络文化经营、互联网信息服务、食品互联网销售、区块链技术相关软件和服务、数字技术服务、人工智能应用软件开发、大数据服务、人工智能公共数据平台等。股东信息显示，该公司现由湖南数据产业集团有限公司、湖南广播影视集团有限公司共同持股。",
-    "collected_at": "2026-04-29T08:30:18.903320"
+    "id": "805fe2d33884",
+    "title": "China freezes new robotaxi licenses after Baidu chaos",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T10:39:21",
+    "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent co",
+    "collected_at": "2026-04-29T14:10:38.956304"
   },
   {
     "id": "5a072659feb0",
@@ -36,16 +252,16 @@
     "collected_at": "2026-04-29T08:30:20.532326"
   },
   {
-    "id": "2610d07be694",
-    "title": "LG电子据悉将与英伟达合作，提升物理人工智能能力",
-    "url": "https://36kr.com/newsflashes/3787635266739208?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T08:21:50",
-    "summary": "4月29日消息，据报道，LG电子正与英伟达合作，以加强其物理人工智能业务，包括推进其家用机器人CLOiD的研发，双方的合作涵盖机器人技术和下一代AI模型开发等多个领域。（界面）",
-    "collected_at": "2026-04-29T08:30:18.903437"
+    "id": "bb864aa9ccab",
+    "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
+    "url": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T10:04:25",
+    "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our s",
+    "collected_at": "2026-04-29T14:10:38.956345"
   },
   {
     "id": "57e61b79f13d",
@@ -60,16 +276,16 @@
     "collected_at": "2026-04-29T08:30:20.532406"
   },
   {
-    "id": "3cbb7a0d4270",
-    "title": "视觉中国：受益于投资稀宇科技，一季度净利润同比增长1240.47%",
-    "url": "https://36kr.com/newsflashes/3787628033088770?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T08:14:28",
-    "summary": "36氪获悉，视觉中国披露一季报，公司2026年一季度实现营业收入1.85亿元，同比下降2.15%；归属于上市公司股东的净利润2.39亿元，同比增长1240.47%，基本每股收益0.3423元。报告期内，业绩变动主要系公司投资的MiniMax（稀宇科技）股价波动产生的公允价值变动损益。",
-    "collected_at": "2026-04-29T08:30:18.903561"
+    "id": "3878bff6e6ce",
+    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+    "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T09:45:00",
+    "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+    "collected_at": "2026-04-29T14:10:38.872269"
   },
   {
     "id": "b50ceb874248",
@@ -84,16 +300,16 @@
     "collected_at": "2026-04-29T08:30:20.532481"
   },
   {
-    "id": "230be135c0b3",
-    "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
-    "url": "https://sspai.com/post/109062",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T07:00:00",
-    "summary": "我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。查看全文",
-    "collected_at": "2026-04-29T08:30:24.464387"
+    "id": "4e8406e13512",
+    "title": "General Motors is adding Gemini to four million cars",
+    "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T09:14:38",
+    "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates",
+    "collected_at": "2026-04-29T14:10:38.956384"
   },
   {
     "id": "876b34c58687",
@@ -108,16 +324,16 @@
     "collected_at": "2026-04-29T08:30:20.532511"
   },
   {
-    "id": "1affcfbf1535",
-    "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
-    "url": "https://www.qbitai.com/2026/04/411133.html",
+    "id": "18ef6feb9434",
+    "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
+    "url": "https://www.qbitai.com/2026/04/411205.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-04-29T06:56:15",
-    "summary": "“全球最强开源”的含金量还在上升",
-    "collected_at": "2026-04-29T08:23:22.817953"
+    "published": "2026-04-29T09:08:25",
+    "summary": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。",
+    "collected_at": "2026-04-29T14:03:53.479900"
   },
   {
     "id": "866777ec9f84",
@@ -132,16 +348,16 @@
     "collected_at": "2026-04-29T08:30:20.532584"
   },
   {
-    "id": "0cc3791869dd",
-    "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
-    "url": "https://www.qbitai.com/2026/04/410791.html",
-    "source": "量子位",
+    "id": "5c2f657f1c73",
+    "title": "湖南芒果数智增资至4亿元",
+    "url": "https://36kr.com/newsflashes/3787643296603139?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-29T04:20:49",
-    "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计",
-    "collected_at": "2026-04-29T08:23:22.818036"
+    "priority": 4,
+    "published": "2026-04-29T08:30:00",
+    "summary": "36氪获悉，爱企查App显示，近日，湖南芒果数智艺术科技有限责任公司发生工商变更，新增湖南数据产业集团有限公司为股东，同时，注册资本由1亿元人民币增至4亿元人民币，增幅300%。湖南芒果数智艺术科技有限责任公司成立于2024年4月，法定代表人为蔡怀军，经营范围包括网络文化经营、互联网信息服务、食品互联网销售、区块链技术相关软件和服务、数字技术服务、人工智能应用软件开发、大数据服务、人工智能公共数据平台等。股东信息显示，该公司现由湖南数据产业集团有限公司、湖南广播影视集团有限公司共同持股。",
+    "collected_at": "2026-04-29T08:30:18.903320"
   },
   {
     "id": "3d973eba62d5",
@@ -156,16 +372,16 @@
     "collected_at": "2026-04-29T08:30:20.532614"
   },
   {
-    "id": "84af30a03d43",
-    "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
-    "url": "https://www.qbitai.com/2026/04/410772.html",
-    "source": "量子位",
+    "id": "2610d07be694",
+    "title": "LG电子据悉将与英伟达合作，提升物理人工智能能力",
+    "url": "https://36kr.com/newsflashes/3787635266739208?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-29T04:10:59",
-    "summary": "GPT-5.5马上也能用了",
-    "collected_at": "2026-04-29T08:23:22.818112"
+    "priority": 4,
+    "published": "2026-04-29T08:21:50",
+    "summary": "4月29日消息，据报道，LG电子正与英伟达合作，以加强其物理人工智能业务，包括推进其家用机器人CLOiD的研发，双方的合作涵盖机器人技术和下一代AI模型开发等多个领域。（界面）",
+    "collected_at": "2026-04-29T08:30:18.903437"
   },
   {
     "id": "422291fbe7fd",
@@ -180,16 +396,16 @@
     "collected_at": "2026-04-29T08:30:20.532659"
   },
   {
-    "id": "984299f84dc2",
-    "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
-    "url": "https://arxiv.org/abs/2604.24766",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24766v1 Announce Type: new Abstract: With the rise of time-of-use and tiered electricity pricing, energy consumers are encouraged to adopt peak-shifting strategies by automatically controlling high-power appliances. These help lower energy costs while enhancing the power grid's stability.",
-    "collected_at": "2026-04-29T08:30:14.362491"
+    "id": "3cbb7a0d4270",
+    "title": "视觉中国：受益于投资稀宇科技，一季度净利润同比增长1240.47%",
+    "url": "https://36kr.com/newsflashes/3787628033088770?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-29T08:14:28",
+    "summary": "36氪获悉，视觉中国披露一季报，公司2026年一季度实现营业收入1.85亿元，同比下降2.15%；归属于上市公司股东的净利润2.39亿元，同比增长1240.47%，基本每股收益0.3423元。报告期内，业绩变动主要系公司投资的MiniMax（稀宇科技）股价波动产生的公允价值变动损益。",
+    "collected_at": "2026-04-29T08:30:18.903561"
   },
   {
     "id": "bba5a0e92975",
@@ -204,16 +420,16 @@
     "collected_at": "2026-04-29T08:30:20.532687"
   },
   {
-    "id": "2931839c5b1e",
-    "title": "Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion",
-    "url": "https://arxiv.org/abs/2604.24767",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24767v1 Announce Type: new Abstract: Congenital heart disease (CHD) is the most common type of birth defect, impacting about 1% of live births worldwide. Echocardiography, the gold-standard diagnostic method, is costly and inaccessible in low-resource settings. Diagnosis is delayed due to",
-    "collected_at": "2026-04-29T08:30:14.362615"
+    "id": "230be135c0b3",
+    "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+    "url": "https://sspai.com/post/109062",
+    "source": "少数派",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-29T07:00:00",
+    "summary": "我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。查看全文",
+    "collected_at": "2026-04-29T08:30:24.464387"
   },
   {
     "id": "ca51ad69b357",
@@ -228,16 +444,16 @@
     "collected_at": "2026-04-29T08:30:20.532808"
   },
   {
-    "id": "9ee526cbcc31",
-    "title": "Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam",
-    "url": "https://arxiv.org/abs/2604.24768",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24768v1 Announce Type: new Abstract: In this chapter, we investigate the bending behavior of a perforated nanobeam subjected to sinusoidal loading using an efficient and computationally robust Physics-Informed Functional Link Constrained Framework with Domain Mapping (DFL-TFC) method. Our",
-    "collected_at": "2026-04-29T08:30:14.362701"
+    "id": "1affcfbf1535",
+    "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+    "url": "https://www.qbitai.com/2026/04/411133.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-29T06:56:15",
+    "summary": "“全球最强开源”的含金量还在上升",
+    "collected_at": "2026-04-29T08:23:22.817953"
   },
   {
     "id": "489b5b6b158e",
@@ -252,16 +468,16 @@
     "collected_at": "2026-04-29T08:30:20.532840"
   },
   {
-    "id": "8526a9808096",
-    "title": "Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting",
-    "url": "https://arxiv.org/abs/2604.24788",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24788v1 Announce Type: new Abstract: Natural gas is undoubtedly an essential component of the global energy system. Accurate short-term forecasting of natural gas price is challenging due to pronounced volatility driven by seasonal demand patterns, geopolitical developments, and shifting",
-    "collected_at": "2026-04-29T08:30:14.362783"
+    "id": "0cc3791869dd",
+    "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+    "url": "https://www.qbitai.com/2026/04/410791.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-29T04:20:49",
+    "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计",
+    "collected_at": "2026-04-29T08:23:22.818036"
   },
   {
     "id": "9c3a8b28bc10",
@@ -276,16 +492,16 @@
     "collected_at": "2026-04-29T03:34:06.614499"
   },
   {
-    "id": "00878cffa41c",
-    "title": "Architecture Determines Observability in Transformers",
-    "url": "https://arxiv.org/abs/2604.24801",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24801v1 Announce Type: new Abstract: Autoregressive transformers make confident errors, but activation monitoring can catch them only if the model preserves an internal signal that output confidence does not expose. This preservation is determined by architecture and training recipe. We d",
-    "collected_at": "2026-04-29T08:30:14.362875"
+    "id": "84af30a03d43",
+    "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
+    "url": "https://www.qbitai.com/2026/04/410772.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-29T04:10:59",
+    "summary": "GPT-5.5马上也能用了",
+    "collected_at": "2026-04-29T08:23:22.818112"
   },
   {
     "id": "c2f8e58d4ea4",
@@ -300,16 +516,16 @@
     "collected_at": "2026-04-29T03:34:06.614538"
   },
   {
-    "id": "0992a919a537",
-    "title": "Query-Efficient Quantum Approximate Optimization via Graph-Conditioned Trust Regions",
-    "url": "https://arxiv.org/abs/2604.24803",
+    "id": "984299f84dc2",
+    "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+    "url": "https://arxiv.org/abs/2604.24766",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24803v1 Announce Type: new Abstract: In low-depth implementations of the Quantum Approximate Optimization Algorithm (QAOA), the dominant cost is often the number of objective evaluations rather than circuit depth. We introduce a graph-conditioned trust-region method for reducing this quer",
-    "collected_at": "2026-04-29T08:30:14.362994"
+    "summary": "arXiv:2604.24766v1 Announce Type: new Abstract: With the rise of time-of-use and tiered electricity pricing, energy consumers are encouraged to adopt peak-shifting strategies by automatically controlling high-power appliances. These help lower energy costs while enhancing the power grid's stability.",
+    "collected_at": "2026-04-29T08:30:14.362491"
   },
   {
     "id": "7d4c4c3aa751",
@@ -324,16 +540,16 @@
     "collected_at": "2026-04-29T03:34:06.614572"
   },
   {
-    "id": "089098c0cd18",
-    "title": "Intrinsic Mutual Information as a Modulator for Preference Optimization",
-    "url": "https://arxiv.org/abs/2604.24804",
+    "id": "2931839c5b1e",
+    "title": "Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion",
+    "url": "https://arxiv.org/abs/2604.24767",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24804v1 Announce Type: new Abstract: Offline preference optimization methods, such as Direct Preference Optimization (DPO), offer significant advantages in aligning Large Language Models (LLMs) with human values. However, achieving optimal performance with these methods typically involves",
-    "collected_at": "2026-04-29T08:30:14.363057"
+    "summary": "arXiv:2604.24767v1 Announce Type: new Abstract: Congenital heart disease (CHD) is the most common type of birth defect, impacting about 1% of live births worldwide. Echocardiography, the gold-standard diagnostic method, is costly and inaccessible in low-resource settings. Diagnosis is delayed due to",
+    "collected_at": "2026-04-29T08:30:14.362615"
   },
   {
     "id": "eb9a1fff7501",
@@ -348,16 +564,16 @@
     "collected_at": "2026-04-29T03:34:06.614646"
   },
   {
-    "id": "c40c94bce6d3",
-    "title": "minAction.net: Energy-First Neural Architecture Design -- From Biological Principles to Systematic Validation",
-    "url": "https://arxiv.org/abs/2604.24805",
+    "id": "9ee526cbcc31",
+    "title": "Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam",
+    "url": "https://arxiv.org/abs/2604.24768",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24805v1 Announce Type: new Abstract: Modern machine learning optimizes for accuracy without explicitly accounting for internal computational cost, even though physical and biological systems operate under intrinsic energy constraints. We evaluate energy-aware learning across 2,203 experim",
-    "collected_at": "2026-04-29T08:30:14.363137"
+    "summary": "arXiv:2604.24768v1 Announce Type: new Abstract: In this chapter, we investigate the bending behavior of a perforated nanobeam subjected to sinusoidal loading using an efficient and computationally robust Physics-Informed Functional Link Constrained Framework with Domain Mapping (DFL-TFC) method. Our",
+    "collected_at": "2026-04-29T08:30:14.362701"
   },
   {
     "id": "322d871773fd",
@@ -372,16 +588,40 @@
     "collected_at": "2026-04-29T03:34:06.614682"
   },
   {
-    "id": "eacf90c76342",
-    "title": "Nautile-370M: Spectral Memory Meets Attention in a Small Reasoning Model",
-    "url": "https://arxiv.org/abs/2604.24809",
+    "id": "8526a9808096",
+    "title": "Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting",
+    "url": "https://arxiv.org/abs/2604.24788",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24809v1 Announce Type: new Abstract: We present Nautile-370M, a 371-million-parameter small language model designed for efficient reasoning under strict parameter and inference budgets. Nautile-370M uses a hybrid backbone in which two SeqCond Attention (SCA) layers, a linear-time spectral",
-    "collected_at": "2026-04-29T08:30:14.363226"
+    "summary": "arXiv:2604.24788v1 Announce Type: new Abstract: Natural gas is undoubtedly an essential component of the global energy system. Accurate short-term forecasting of natural gas price is challenging due to pronounced volatility driven by seasonal demand patterns, geopolitical developments, and shifting",
+    "collected_at": "2026-04-29T08:30:14.362783"
+  },
+  {
+    "id": "ad57812b466e",
+    "title": "Cybersecurity in the Intelligence Age",
+    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T04:00:00",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "collected_at": "2026-04-29T14:10:56.327504"
+  },
+  {
+    "id": "00878cffa41c",
+    "title": "Architecture Determines Observability in Transformers",
+    "url": "https://arxiv.org/abs/2604.24801",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T04:00:00",
+    "summary": "arXiv:2604.24801v1 Announce Type: new Abstract: Autoregressive transformers make confident errors, but activation monitoring can catch them only if the model preserves an internal signal that output confidence does not expose. This preservation is determined by architecture and training recipe. We d",
+    "collected_at": "2026-04-29T08:30:14.362875"
   },
   {
     "id": "bd5ca2210cd1",
@@ -396,16 +636,16 @@
     "collected_at": "2026-04-29T08:30:24.464472"
   },
   {
-    "id": "715e207d4920",
-    "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
-    "url": "https://arxiv.org/abs/2604.24810",
+    "id": "0992a919a537",
+    "title": "Query-Efficient Quantum Approximate Optimization via Graph-Conditioned Trust Regions",
+    "url": "https://arxiv.org/abs/2604.24803",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24810v1 Announce Type: new Abstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational co",
-    "collected_at": "2026-04-29T08:30:14.363321"
+    "summary": "arXiv:2604.24803v1 Announce Type: new Abstract: In low-depth implementations of the Quantum Approximate Optimization Algorithm (QAOA), the dominant cost is often the number of objective evaluations rather than circuit depth. We introduce a graph-conditioned trust-region method for reducing this quer",
+    "collected_at": "2026-04-29T08:30:14.362994"
   },
   {
     "id": "9d009974524c",
@@ -420,16 +660,16 @@
     "collected_at": "2026-04-29T03:34:05.462994"
   },
   {
-    "id": "8ffdde2a5663",
-    "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
-    "url": "https://arxiv.org/abs/2604.24811",
+    "id": "089098c0cd18",
+    "title": "Intrinsic Mutual Information as a Modulator for Preference Optimization",
+    "url": "https://arxiv.org/abs/2604.24804",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24811v1 Announce Type: new Abstract: Graph neural Ordinary Differential Equations (ODE) combine neural ODE with the message passing mechanism of Graph Neural Networks (GNN), providing a continuous-time modeling method for graph representation learning. However, in dynamic graph scenarios,",
-    "collected_at": "2026-04-29T08:30:14.363420"
+    "summary": "arXiv:2604.24804v1 Announce Type: new Abstract: Offline preference optimization methods, such as Direct Preference Optimization (DPO), offer significant advantages in aligning Large Language Models (LLMs) with human values. However, achieving optimal performance with these methods typically involves",
+    "collected_at": "2026-04-29T08:30:14.363057"
   },
   {
     "id": "8190b57568b1",
@@ -444,16 +684,16 @@
     "collected_at": "2026-04-29T08:23:22.818148"
   },
   {
-    "id": "2956eb10f60c",
-    "title": "Heterogeneous Variational Inference for Markov Degradation Hazard Models: Discretized Mixture with Interpretable Clusters",
-    "url": "https://arxiv.org/abs/2604.24818",
+    "id": "c40c94bce6d3",
+    "title": "minAction.net: Energy-First Neural Architecture Design -- From Biological Principles to Systematic Validation",
+    "url": "https://arxiv.org/abs/2604.24805",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24818v1 Announce Type: new Abstract: Bayesian finite mixture models can identify discrete risk clusters (low-risk vs. high-risk equipment), but face three critical bottlenecks: (1) insufficient degradation signals from coarse state discretization, (2) unstable cluster identification when",
-    "collected_at": "2026-04-29T08:30:14.363534"
+    "summary": "arXiv:2604.24805v1 Announce Type: new Abstract: Modern machine learning optimizes for accuracy without explicitly accounting for internal computational cost, even though physical and biological systems operate under intrinsic energy constraints. We evaluate energy-aware learning across 2,203 experim",
+    "collected_at": "2026-04-29T08:30:14.363137"
   },
   {
     "id": "c28c5985b359",
@@ -468,16 +708,16 @@
     "collected_at": "2026-04-29T03:34:05.463109"
   },
   {
-    "id": "15262fa16c1d",
-    "title": "Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision",
-    "url": "https://arxiv.org/abs/2604.24824",
+    "id": "eacf90c76342",
+    "title": "Nautile-370M: Spectral Memory Meets Attention in a Small Reasoning Model",
+    "url": "https://arxiv.org/abs/2604.24809",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24824v1 Announce Type: new Abstract: This article philosophically examines how shifts in assumptions regarding the existence and non-existence of the true target (TT) give rise to new perspectives and insights for machine learning (ML)-based predictive modeling and, correspondingly, propo",
-    "collected_at": "2026-04-29T08:30:14.363624"
+    "summary": "arXiv:2604.24809v1 Announce Type: new Abstract: We present Nautile-370M, a 371-million-parameter small language model designed for efficient reasoning under strict parameter and inference budgets. Nautile-370M uses a hybrid backbone in which two SeqCond Attention (SCA) layers, a linear-time spectral",
+    "collected_at": "2026-04-29T08:30:14.363226"
   },
   {
     "id": "bcd8f9e38325",
@@ -492,16 +732,16 @@
     "collected_at": "2026-04-29T03:34:05.463192"
   },
   {
-    "id": "ca276398953a",
-    "title": "Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity",
-    "url": "https://arxiv.org/abs/2604.24827",
+    "id": "715e207d4920",
+    "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
+    "url": "https://arxiv.org/abs/2604.24810",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24827v1 Announce Type: new Abstract: Closed-source frontier labs do not disclose parameter counts, and the standard alternative -- inference economics -- carries $2\\times$+ uncertainty from hardware, batching, and serving-stack assumptions external to the model. We exploit a tighter intri",
-    "collected_at": "2026-04-29T08:30:14.363715"
+    "summary": "arXiv:2604.24810v1 Announce Type: new Abstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational co",
+    "collected_at": "2026-04-29T08:30:14.363321"
   },
   {
     "id": "c82d8007aad0",
@@ -516,16 +756,16 @@
     "collected_at": "2026-04-29T03:34:05.463278"
   },
   {
-    "id": "ac5f8bde52c2",
-    "title": "On the Trainability of Masked Diffusion Language Models via Blockwise Locality",
-    "url": "https://arxiv.org/abs/2604.24832",
+    "id": "8ffdde2a5663",
+    "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
+    "url": "https://arxiv.org/abs/2604.24811",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24832v1 Announce Type: new Abstract: Masked diffusion language models (MDMs) have recently emerged as a promising alternative to standard autoregressive large language models (AR-LLMs), yet their optimization can be substantially less stable. We study blockwise MDMs and compare them with",
-    "collected_at": "2026-04-29T08:30:14.363781"
+    "summary": "arXiv:2604.24811v1 Announce Type: new Abstract: Graph neural Ordinary Differential Equations (ODE) combine neural ODE with the message passing mechanism of Graph Neural Networks (GNN), providing a continuous-time modeling method for graph representation learning. However, in dynamic graph scenarios,",
+    "collected_at": "2026-04-29T08:30:14.363420"
   },
   {
     "id": "47e910bbe05c",
@@ -540,16 +780,16 @@
     "collected_at": "2026-04-29T03:34:05.463382"
   },
   {
-    "id": "3331e458ebc2",
-    "title": "Transformer Approximations from ReLUs",
-    "url": "https://arxiv.org/abs/2604.24878",
+    "id": "2956eb10f60c",
+    "title": "Heterogeneous Variational Inference for Markov Degradation Hazard Models: Discretized Mixture with Interpretable Clusters",
+    "url": "https://arxiv.org/abs/2604.24818",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24878v1 Announce Type: new Abstract: We provide a systematic recipe for translating ReLU approximation results to softmax attention mechanism. This recipe covers many common approximation targets. Importantly, it yields target-specific, economic resource bounds beyond universal approximat",
-    "collected_at": "2026-04-29T08:30:14.363827"
+    "summary": "arXiv:2604.24818v1 Announce Type: new Abstract: Bayesian finite mixture models can identify discrete risk clusters (low-risk vs. high-risk equipment), but face three critical bottlenecks: (1) insufficient degradation signals from coarse state discretization, (2) unstable cluster identification when",
+    "collected_at": "2026-04-29T08:30:14.363534"
   },
   {
     "id": "208292a68770",
@@ -564,16 +804,16 @@
     "collected_at": "2026-04-29T08:23:22.818176"
   },
   {
-    "id": "4b6cdfaaeaec",
-    "title": "Contrastive Image-Metadata Pre-Training for Materials Transmission Electron Microscopy",
-    "url": "https://arxiv.org/abs/2604.24909",
+    "id": "15262fa16c1d",
+    "title": "Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision",
+    "url": "https://arxiv.org/abs/2604.24824",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24909v1 Announce Type: new Abstract: The vast majority of transmission electron microscopy (TEM) data never gets published and ends up on a backup drive until deleted to free up space. These left-over datasets are rich in detail and variation, often paired with automatically saved metadat",
-    "collected_at": "2026-04-29T08:30:14.363885"
+    "summary": "arXiv:2604.24824v1 Announce Type: new Abstract: This article philosophically examines how shifts in assumptions regarding the existence and non-existence of the true target (TT) give rise to new perspectives and insights for machine learning (ML)-based predictive modeling and, correspondingly, propo",
+    "collected_at": "2026-04-29T08:30:14.363624"
   },
   {
     "id": "c7c36f416f31",
@@ -588,16 +828,16 @@
     "collected_at": "2026-04-29T03:33:59.113628"
   },
   {
-    "id": "1009386092b0",
-    "title": "Learning with Embedded Linear Equality Constraints via Variational Bayesian Inference",
-    "url": "https://arxiv.org/abs/2604.24911",
+    "id": "ca276398953a",
+    "title": "Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity",
+    "url": "https://arxiv.org/abs/2604.24827",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24911v1 Announce Type: new Abstract: Machine Learning is becoming more prevalent in science and engineering, but many approaches do not provide meaningful uncertainty estimates and predictions may also violate known physical knowledge. We propose a Bayesian framework to embed linear relat",
-    "collected_at": "2026-04-29T08:30:14.363936"
+    "summary": "arXiv:2604.24827v1 Announce Type: new Abstract: Closed-source frontier labs do not disclose parameter counts, and the standard alternative -- inference economics -- carries $2\\times$+ uncertainty from hardware, batching, and serving-stack assumptions external to the model. We exploit a tighter intri",
+    "collected_at": "2026-04-29T08:30:14.363715"
   },
   {
     "id": "0f6602172130",
@@ -612,16 +852,16 @@
     "collected_at": "2026-04-29T03:34:05.461778"
   },
   {
-    "id": "ebb972d68dc4",
-    "title": "Generative diffusion models for spatiotemporal influenza forecasting",
-    "url": "https://arxiv.org/abs/2604.24913",
+    "id": "ac5f8bde52c2",
+    "title": "On the Trainability of Masked Diffusion Language Models via Blockwise Locality",
+    "url": "https://arxiv.org/abs/2604.24832",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24913v1 Announce Type: new Abstract: Forecasting infectious disease incidence can provide important information to guide public health planning, yet is difficult because epidemic dynamics are complex. Current mechanistic and statistical approaches often struggle to capture multimodal unce",
-    "collected_at": "2026-04-29T08:30:14.364024"
+    "summary": "arXiv:2604.24832v1 Announce Type: new Abstract: Masked diffusion language models (MDMs) have recently emerged as a promising alternative to standard autoregressive large language models (AR-LLMs), yet their optimization can be substantially less stable. We study blockwise MDMs and compare them with",
+    "collected_at": "2026-04-29T08:30:14.363781"
   },
   {
     "id": "a3cba74b894c",
@@ -636,16 +876,16 @@
     "collected_at": "2026-04-29T03:27:05.838861"
   },
   {
-    "id": "a6ccf976e974",
-    "title": "A Unifying Framework for Unsupervised Concept Extraction",
-    "url": "https://arxiv.org/abs/2604.24936",
+    "id": "3331e458ebc2",
+    "title": "Transformer Approximations from ReLUs",
+    "url": "https://arxiv.org/abs/2604.24878",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24936v1 Announce Type: new Abstract: Techniques for concept extraction, such as sparse autoencoders and transcoders, aim to extract high-level symbolic concepts from low-level nonsymbolic representations. When these extracted concepts are used for downstream tasks such as model steering a",
-    "collected_at": "2026-04-29T08:30:14.364082"
+    "summary": "arXiv:2604.24878v1 Announce Type: new Abstract: We provide a systematic recipe for translating ReLU approximation results to softmax attention mechanism. This recipe covers many common approximation targets. Importantly, it yields target-specific, economic resource bounds beyond universal approximat",
+    "collected_at": "2026-04-29T08:30:14.363827"
   },
   {
     "id": "1f2810cb9682",
@@ -660,6 +900,18 @@
     "collected_at": "2026-04-29T03:33:49.118702"
   },
   {
+    "id": "4b6cdfaaeaec",
+    "title": "Contrastive Image-Metadata Pre-Training for Materials Transmission Electron Microscopy",
+    "url": "https://arxiv.org/abs/2604.24909",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T04:00:00",
+    "summary": "arXiv:2604.24909v1 Announce Type: new Abstract: The vast majority of transmission electron microscopy (TEM) data never gets published and ends up on a backup drive until deleted to free up space. These left-over datasets are rich in detail and variation, often paired with automatically saved metadat",
+    "collected_at": "2026-04-29T08:30:14.363885"
+  },
+  {
     "id": "558b4b74fd30",
     "title": "Quoting OpenAI Codex base_instructions",
     "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
@@ -670,6 +922,18 @@
     "published": "2026-04-28T22:02:53",
     "summary": "Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant to the user's query. &mdash; OpenAI Codex base_instructions, for GPT-5.5 Tags: openai, ai, llms, system-prompts, prompt-engineering, codex-cli, gener",
     "collected_at": "2026-04-29T03:33:58.708084"
+  },
+  {
+    "id": "1009386092b0",
+    "title": "Learning with Embedded Linear Equality Constraints via Variational Bayesian Inference",
+    "url": "https://arxiv.org/abs/2604.24911",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T04:00:00",
+    "summary": "arXiv:2604.24911v1 Announce Type: new Abstract: Machine Learning is becoming more prevalent in science and engineering, but many approaches do not provide meaningful uncertainty estimates and predictions may also violate known physical knowledge. We propose a Bayesian framework to embed linear relat",
+    "collected_at": "2026-04-29T08:30:14.363936"
   },
   {
     "id": "c4b3a04bee65",
@@ -684,16 +948,16 @@
     "collected_at": "2026-04-29T03:33:49.212848"
   },
   {
-    "id": "9ac17987a01d",
-    "title": "Amazon is already offering new OpenAI products on AWS",
-    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-    "source": "TechCrunch AI",
+    "id": "ebb972d68dc4",
+    "title": "Generative diffusion models for spatiotemporal influenza forecasting",
+    "url": "https://arxiv.org/abs/2604.24913",
+    "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T19:48:02",
-    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-    "collected_at": "2026-04-28T19:51:39.595068"
+    "priority": 2,
+    "published": "2026-04-29T04:00:00",
+    "summary": "arXiv:2604.24913v1 Announce Type: new Abstract: Forecasting infectious disease incidence can provide important information to guide public health planning, yet is difficult because epidemic dynamics are complex. Current mechanistic and statistical approaches often struggle to capture multimodal unce",
+    "collected_at": "2026-04-29T08:30:14.364024"
   },
   {
     "id": "f46abba89ed3",
@@ -708,16 +972,28 @@
     "collected_at": "2026-04-29T03:33:49.212899"
   },
   {
-    "id": "a1231f5b46cc",
-    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "id": "a6ccf976e974",
+    "title": "A Unifying Framework for Unsupervised Concept Extraction",
+    "url": "https://arxiv.org/abs/2604.24936",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T04:00:00",
+    "summary": "arXiv:2604.24936v1 Announce Type: new Abstract: Techniques for concept extraction, such as sparse autoencoders and transcoders, aim to extract high-level symbolic concepts from low-level nonsymbolic representations. When these extracted concepts are used for downstream tasks such as model steering a",
+    "collected_at": "2026-04-29T08:30:14.364082"
+  },
+  {
+    "id": "9ac17987a01d",
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-28T18:49:54",
-    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-    "collected_at": "2026-04-28T19:51:39.595106"
+    "published": "2026-04-28T19:48:02",
+    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "collected_at": "2026-04-28T19:51:39.595068"
   },
   {
     "id": "21149ecd89ea",
@@ -732,16 +1008,16 @@
     "collected_at": "2026-04-28T19:51:39.728083"
   },
   {
-    "id": "8dcbd07fb3ff",
-    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "id": "a1231f5b46cc",
+    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-28T18:15:00",
-    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-    "collected_at": "2026-04-28T19:51:39.595156"
+    "published": "2026-04-28T18:49:54",
+    "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+    "collected_at": "2026-04-28T19:51:39.595106"
   },
   {
     "id": "26cf36bbfab8",
@@ -754,6 +1030,18 @@
     "published": "2026-04-28T18:01:21",
     "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 160 # Comments: 134",
     "collected_at": "2026-04-28T19:51:40.985198"
+  },
+  {
+    "id": "8dcbd07fb3ff",
+    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-28T18:15:00",
+    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+    "collected_at": "2026-04-28T19:51:39.595156"
   },
   {
     "id": "b1c3714a01b0",
@@ -3310,293 +3598,5 @@
     "published": "2026-04-25T11:16:23",
     "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 135 # Comments: 40",
     "collected_at": "2026-04-26T07:50:33.693034"
-  },
-  {
-    "id": "969926ac837b",
-    "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
-    "url": "https://36kr.com/p/3782137908403457?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-25T11:15:26",
-    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。 2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。 2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移动机器人累计下线突破 18 万台。基于完善的硬件产品线，其自研工业软件授权用户超60万人次，全球服务客户超2万家。 2026年4月22日至24日，「海康机器人·",
-    "collected_at": "2026-04-25T13:12:58.486048"
-  },
-  {
-    "id": "08242fa6d60d",
-    "title": "Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险",
-    "url": "https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-25T10:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-25T02:44:45.211406"
-  },
-  {
-    "id": "bce333892a07",
-    "title": "元戎启行全面押注大模型自动驾驶",
-    "url": "https://36kr.com/newsflashes/3782028988882178?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-25T09:18:50",
-    "summary": "4月25日，北京车展上，前DeepSeek多模态技术核心研究员阮翀以元戎启行首席科学家身份首次公开亮相。元戎启行CEO周光表示，多模态大模型能力在2026年初取得突破性进展，大模型自动驾驶路线起点已远优于上一代技术，小模型自动驾驶存在“跷跷板效应”，无法实现全场景安全覆盖，公司已全面转向大模型路线。（证券时报）",
-    "collected_at": "2026-04-25T13:12:58.487354"
-  },
-  {
-    "id": "898e213def7e",
-    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-    "url": "https://github.com/nex-crm/wuphf",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T08:53:53",
-    "summary": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet.It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you.The shape is the one Karpathy has been",
-    "collected_at": "2026-04-25T13:12:49.398405"
-  },
-  {
-    "id": "046433ebe1d6",
-    "title": "百度智能云上线DeepSeek-V4",
-    "url": "https://36kr.com/newsflashes/3781942204128513?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-25T07:50:33",
-    "summary": "36氪获悉，4月24日，DeepSeek-V4预览版正式上线并开源，百度智能云旗下百度千帆平台Day0适配提供API服务。DeepSeek-V4拥有百万Token超长上下文，并按大小分为DeepSeek-V4-Pro和DeepSeek-V4-Flash两个版本。目前，企业用户和开发者通过百度千帆控制台或API即可直接调用DeepSeek-V4-Pro，DeepSeek-V4-Flash即将全量开放。",
-    "collected_at": "2026-04-25T13:12:58.487502"
-  },
-  {
-    "id": "f5b5fa47cd30",
-    "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
-    "url": "https://www.qbitai.com/2026/04/407026.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-25T07:22:22",
-    "summary": "500TOPS上车世界模型",
-    "collected_at": "2026-04-25T13:10:27.886329"
-  },
-  {
-    "id": "7fa6afeceb4f",
-    "title": "[AINews] DeepSeek V4 Pro (1.6T-A49B) and Flash (284B-A13B), Base and Instruct — runnable on Huawei Ascend chips",
-    "url": "https://www.latent.space/p/ainews-deepseek-v4-pro-16t-a49b-and",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-25T05:00:48",
-    "summary": "The prodigal Tiger returns... but is no longer the benchmarks leader.",
-    "collected_at": "2026-04-25T07:28:55.293677"
-  },
-  {
-    "id": "0de86273ec49",
-    "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
-    "url": "https://www.qbitai.com/2026/04/406994.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-25T06:58:48",
-    "summary": "一家低调的视觉大模型公司，浮出水面",
-    "collected_at": "2026-04-25T13:10:27.886370"
-  },
-  {
-    "id": "ea0ef1afa916",
-    "title": "GPT-5.5 prompting guide",
-    "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:13:36",
-    "summary": "GPT-5.5 prompting guide Now that GPT-5.5 is available in the API, OpenAI have released a wealth of useful tips on how best to prompt the new model. Here's a neat trick they recommend for applications that might spend considerable time thinking before returning a user-visible response: Before any too",
-    "collected_at": "2026-04-25T07:28:54.845614"
-  },
-  {
-    "id": "0f5fa1c06dbe",
-    "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
-    "url": "https://www.qbitai.com/2026/04/406973.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-25T05:41:18",
-    "summary": "首次公开三大AI应用生态",
-    "collected_at": "2026-04-25T07:21:58.523548"
-  },
-  {
-    "id": "eeb59e427bad",
-    "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
-    "url": "https://arxiv.org/abs/2604.20862",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.20862v1 Announce Type: new Abstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA plan",
-    "collected_at": "2026-04-25T07:28:53.308561"
-  },
-  {
-    "id": "91917a1c85de",
-    "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
-    "url": "https://arxiv.org/abs/2604.20972",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.20972v1 Announce Type: new Abstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize v",
-    "collected_at": "2026-04-25T07:28:53.308662"
-  },
-  {
-    "id": "2b20e425fa16",
-    "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
-    "url": "https://arxiv.org/abs/2604.20987",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.20987v1 Announce Type: new Abstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and p",
-    "collected_at": "2026-04-25T07:28:53.308746"
-  },
-  {
-    "id": "154a4b321d01",
-    "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
-    "url": "https://arxiv.org/abs/2604.20995",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.20995v1 Announce Type: new Abstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concerning yet poorly understood phenomenon, in part because current diagnostic tools remain limited. Prior di",
-    "collected_at": "2026-04-25T07:28:53.308835"
-  },
-  {
-    "id": "3d577d6b1209",
-    "title": "The Last Harness You'll Ever Build",
-    "url": "https://arxiv.org/abs/2604.21003",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21003v1 Announce Type: new Abstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, a",
-    "collected_at": "2026-04-25T07:28:53.308916"
-  },
-  {
-    "id": "89ddadc253cc",
-    "title": "Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research",
-    "url": "https://arxiv.org/abs/2604.21006",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21006v1 Announce Type: new Abstract: We introduce Deep FinResearch Bench, a practical and comprehensive evaluation framework for deep research (DR) agents in financial investment research. The benchmark assesses three dimensions of report quality: qualitative rigor, quantitative forecasti",
-    "collected_at": "2026-04-25T07:28:53.308975"
-  },
-  {
-    "id": "029bab8ee1ca",
-    "title": "Adaptive Test-Time Compute Allocation with Evolving In-Context Demonstrations",
-    "url": "https://arxiv.org/abs/2604.21018",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21018v1 Announce Type: new Abstract: While scaling test-time compute can substantially improve model performance, existing approaches either rely on static compute allocation or sample from fixed generation distributions. In this work, we introduce a test-time compute allocation framework",
-    "collected_at": "2026-04-25T07:28:53.309065"
-  },
-  {
-    "id": "35b59d939aac",
-    "title": "HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering",
-    "url": "https://arxiv.org/abs/2604.21027",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21027v1 Announce Type: new Abstract: Electronic health record (EHR) question answering is often handled by LLM-based pipelines that are costly to deploy and do not explicitly leverage the hierarchical structure of clinical data. Motivated by evidence that medical ontologies and patient tr",
-    "collected_at": "2026-04-25T07:28:53.309122"
-  },
-  {
-    "id": "1d2529165f8c",
-    "title": "Who Defines Fairness? Target-Based Prompting for Demographic Representation in Generative Models",
-    "url": "https://arxiv.org/abs/2604.21036",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21036v1 Announce Type: new Abstract: Text-to-image(T2I) models like Stable Diffusion and DALL-E have made generative AI widely accessible, yet recent studies reveal that these systems often replicate societal biases, particularly in how they depict demographic groups across professions. P",
-    "collected_at": "2026-04-25T07:28:53.309209"
-  },
-  {
-    "id": "1b5edf4e4a58",
-    "title": "Active Data",
-    "url": "https://arxiv.org/abs/2604.21044",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21044v1 Announce Type: new Abstract: In some complex domains, certain problem-specific decompositions can provide advantages over monolithic designs by enabling comprehension and specification of the design. In this paper we present an intuitive and tractable approach to reasoning over la",
-    "collected_at": "2026-04-25T07:28:53.309258"
-  },
-  {
-    "id": "4414582c5a8e",
-    "title": "InVitroVision: a Multi-Modal AI Model for Automated Description of Embryo Development using Natural Language",
-    "url": "https://arxiv.org/abs/2604.21061",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21061v1 Announce Type: new Abstract: The application of artificial intelligence (AI) in IVF has shown promise in improving consistency and standardization of decisions, but often relies on annotated data and does not make use of the multimodal nature of IVF data. We investigated whether f",
-    "collected_at": "2026-04-25T07:28:53.309329"
-  },
-  {
-    "id": "4cbc7ea3170d",
-    "title": "Mind the Prompt: Self-adaptive Generation of Task Plan Explanations via LLMs",
-    "url": "https://arxiv.org/abs/2604.21092",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21092v1 Announce Type: new Abstract: Integrating Large Language Models (LLMs) into complex software systems enables the generation of human-understandable explanations of opaque AI processes, such as automated task planning. However, the quality and reliability of these explanations heavi",
-    "collected_at": "2026-04-25T07:28:53.309421"
-  },
-  {
-    "id": "3f8052c4988f",
-    "title": "Propensity Inference: Environmental Contributors to LLM Behaviour",
-    "url": "https://arxiv.org/abs/2604.21098",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21098v1 Announce Type: new Abstract: Motivated by loss of control risks from misaligned AI systems, we develop and apply methods for measuring language models' propensity for unsanctioned behaviour. We contribute three methodological improvements: analysing effects of changes to environme",
-    "collected_at": "2026-04-25T07:28:53.309490"
-  },
-  {
-    "id": "cb13a2b59466",
-    "title": "AI Governance under Political Turnover: The Alignment Surface of Compliance Design",
-    "url": "https://arxiv.org/abs/2604.21103",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T04:00:00",
-    "summary": "arXiv:2604.21103v1 Announce Type: new Abstract: Governments are increasingly interested in using AI to make administrative decisions cheaper, more scalable, and more consistent. But for probabilistic AI to be incorporated into public administration it must be embedded in a compliance layer that make",
-    "collected_at": "2026-04-25T07:28:53.309555"
   }
 ]
