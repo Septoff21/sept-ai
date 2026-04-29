@@ -3518,6 +3518,51 @@
     "collected_at": "2026-04-22T13:10:24.813745"
   },
   {
+    "id": "hf-mistralai--Mistral-Medium-3.5-128B",
+    "name": "mistralai/Mistral-Medium-3.5-128B",
+    "display_name": "Mistral-Medium-3.5-128B",
+    "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+    "author": "mistralai",
+    "pipeline_tag": "",
+    "likes": 71,
+    "downloads": 227,
+    "tags": [
+      "safetensors",
+      "mistral3",
+      "vLLM",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt",
+      "it",
+      "ja",
+      "ko",
+      "ru",
+      "zh",
+      "ar",
+      "fa",
+      "id",
+      "ms",
+      "ne",
+      "pl",
+      "ro",
+      "sr",
+      "sv",
+      "tr",
+      "uk",
+      "vi",
+      "hi",
+      "bn",
+      "license:other",
+      "fp8",
+      "region:us"
+    ],
+    "created_at": "2026-03-31T09:50:20.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-04-29T19:41:36.610984"
+  },
+  {
     "id": "hf-Jackrong--Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
     "name": "Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
     "display_name": "Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
@@ -4443,6 +4488,32 @@
     "collected_at": "2026-04-21T13:07:47.953511",
     "display_priority": 53,
     "is_core": true
+  },
+  {
+    "id": "hf-ibm-granite--granite-4.1-30b",
+    "name": "ibm-granite/granite-4.1-30b",
+    "display_name": "granite-4.1-30b",
+    "url": "https://huggingface.co/ibm-granite/granite-4.1-30b",
+    "author": "ibm-granite",
+    "pipeline_tag": "text-generation",
+    "likes": 31,
+    "downloads": 124,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "granite",
+      "text-generation",
+      "language",
+      "granite-4.0",
+      "conversational",
+      "arxiv:0000.00000",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-06T13:19:18.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-04-29T19:41:36.912335"
   },
   {
     "id": "hf-huihui-ai--Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated",
@@ -23019,38 +23090,5 @@
     "created_at": "2026-04-27T13:59:19.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T14:03:58.301615"
-  },
-  {
-    "id": "hf-lucasromanomr--qwen3.6-35b-perfis",
-    "name": "lucasromanomr/qwen3.6-35b-perfis",
-    "display_name": "qwen3.6-35b-perfis",
-    "url": "https://huggingface.co/lucasromanomr/qwen3.6-35b-perfis",
-    "author": "lucasromanomr",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T13:59:16.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T14:03:58.301619"
-  },
-  {
-    "id": "hf-robotneu--pi0.5_libero_spatial_n_12_200000",
-    "name": "robotneu/pi0.5_libero_spatial_n_12_200000",
-    "display_name": "pi0.5_libero_spatial_n_12_200000",
-    "url": "https://huggingface.co/robotneu/pi0.5_libero_spatial_n_12_200000",
-    "author": "robotneu",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T13:58:46.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T14:03:58.301623"
   }
 ]

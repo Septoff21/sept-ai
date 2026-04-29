@@ -1,5 +1,29 @@
 [
   {
+    "id": "dff2021f0a21",
+    "title": "LLM 0.32a0 is a major backwards-compatible refactor",
+    "url": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T19:01:47",
+    "summary": "I just released LLM 0.32a0, an alpha release of my LLM Python library and CLI tool for accessing LLMs, with some consequential changes that I've been working towards for quite a while. Previous versions of LLM modeled the world in terms of prompts and responses. Send the model a text prompt, get bac",
+    "collected_at": "2026-04-29T19:41:22.387150"
+  },
+  {
+    "id": "20eea33e5405",
+    "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+    "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T18:59:44",
+    "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, includin",
+    "collected_at": "2026-04-29T19:40:54.005898"
+  },
+  {
     "id": "f73251f6e97f",
     "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
     "url": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article",
@@ -12,16 +36,16 @@
     "collected_at": "2026-04-29T14:11:03.809323"
   },
   {
-    "id": "33c9f2d538e7",
-    "title": "Larry’s risky business",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
-    "source": "The Verge AI",
+    "id": "ddc6e0690928",
+    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+    "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T13:57:16",
-    "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthrop",
-    "collected_at": "2026-04-29T14:10:38.956212"
+    "published": "2026-04-29T18:33:05",
+    "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+    "collected_at": "2026-04-29T19:40:54.005937"
   },
   {
     "id": "c13a536af5f2",
@@ -36,16 +60,16 @@
     "collected_at": "2026-04-29T14:11:03.809407"
   },
   {
-    "id": "358b8403be54",
-    "title": "Firestorm Labs raises $82M to take drone factories into the field",
-    "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-    "source": "TechCrunch AI",
+    "id": "489362c10603",
+    "title": "All the evidence unveiled so far in Musk v. Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T13:10:57",
-    "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-    "collected_at": "2026-04-29T14:10:38.872182"
+    "published": "2026-04-29T18:03:05",
+    "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some hig",
+    "collected_at": "2026-04-29T19:40:54.133099"
   },
   {
     "id": "91ff657006c5",
@@ -60,16 +84,28 @@
     "collected_at": "2026-04-29T14:11:03.809465"
   },
   {
-    "id": "590c28931c3d",
-    "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-    "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-    "source": "TechCrunch AI",
+    "id": "f68cdc4ceeae",
+    "title": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
+    "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T13:00:00",
-    "summary": "Think Discord chats, but with AI characters in addition to humans.",
-    "collected_at": "2026-04-29T14:10:38.872218"
+    "published": "2026-04-29T17:32:02",
+    "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bri",
+    "collected_at": "2026-04-29T19:40:54.133164"
+  },
+  {
+    "id": "3abbad99f5b2",
+    "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
+    "url": "https://36kr.com/p/3788151000751364?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-29T17:07:22",
+    "summary": "文｜周鑫雨 王毓婵 编辑｜杨轩 解读DeepSeek V4的技术报告，是这几天AI行业最狂热的集体活动。 V4很强吗？在工程优化的维度中，答案是毋庸置疑的。过去，大家信奉“Scaling Law的暴力美学”——也就是靠堆更多优质算力、更大参数规模来提升模型性能。而V4走的是一条完全不同的路，它定义了一种“模型训练的克制美学”： 它不靠疯狂堆算力和参数，而是通过一系列组合优化和重构： 注意力机制（让模型学会“抓重点”，像人读长文章时会自动关注关键句子一样） MoE架构（混合专家模型，可以理解为“让不同的专家负责不同类型的问题，每次只激活少数专家，省时又省力”） 后训练（模型初步练成后再针对性地补",
+    "collected_at": "2026-04-29T19:41:25.494098"
   },
   {
     "id": "b80089f7eb9f",
@@ -84,16 +120,16 @@
     "collected_at": "2026-04-29T14:11:03.809540"
   },
   {
-    "id": "f2f442e7b709",
-    "title": "Taylor Swift deepfakes are pushing scams on TikTok",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
-    "source": "The Verge AI",
+    "id": "33ea9610c4d5",
+    "title": "AI evals are becoming the new compute bottleneck",
+    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "source": "HuggingFace Blog",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T13:00:00",
-    "summary": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate re",
-    "collected_at": "2026-04-29T14:10:38.956261"
+    "published": "2026-04-29T16:45:09",
+    "summary": "AI evals are becoming the new compute bottleneck",
+    "collected_at": "2026-04-29T19:41:22.159837"
   },
   {
     "id": "4718670db86e",
@@ -108,16 +144,16 @@
     "collected_at": "2026-04-29T14:11:03.809572"
   },
   {
-    "id": "fe034fb06fc8",
-    "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
-    "url": "https://36kr.com/p/3787748082293766?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T12:44:39",
-    "summary": "大公司： 魔法原子：目标到2036年营收达140亿美元 36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目标：到2036年，公司将向140亿美元营收规模迈进，并宣布未来五年将持续投入10亿美元，打造面向机器人二次开发的专属生态。 吉利汽车：第一季度营收首破800亿元，核心归母净利润同比增长31% 36氪获悉，吉利汽车公布2026年第一季度业绩报告。2026第一季度，录得总销量709358辆，同比增长1%",
-    "collected_at": "2026-04-29T14:11:02.515209"
+    "id": "b7ff057f3fbb",
+    "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+    "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T16:42:33",
+    "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+    "collected_at": "2026-04-29T19:40:54.005986"
   },
   {
     "id": "de9664ec6bad",
@@ -132,16 +168,16 @@
     "collected_at": "2026-04-29T14:11:03.809604"
   },
   {
-    "id": "116329f7e2e2",
-    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-    "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-    "source": "Hacker News AI",
+    "id": "0a618e6c1c6c",
+    "title": "More Gemini features are coming to Google TV",
+    "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T12:38:50",
-    "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 154 # Comments: 181",
-    "collected_at": "2026-04-29T14:10:55.505013"
+    "priority": 1,
+    "published": "2026-04-29T16:40:49",
+    "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+    "collected_at": "2026-04-29T19:40:54.006018"
   },
   {
     "id": "2d92769862fd",
@@ -156,16 +192,16 @@
     "collected_at": "2026-04-29T14:11:03.809637"
   },
   {
-    "id": "b4de6e79eba9",
-    "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
-    "url": "https://36kr.com/newsflashes/3787882892631302?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T12:33:44",
-    "summary": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具。（财联社）",
-    "collected_at": "2026-04-29T14:11:02.516581"
+    "id": "39e4cbbc4ec6",
+    "title": "Google Photos launches an AI try-on feature for clothes you already have",
+    "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T16:00:00",
+    "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Goog",
+    "collected_at": "2026-04-29T19:40:54.133205"
   },
   {
     "id": "fec8deb6ddb0",
@@ -180,16 +216,16 @@
     "collected_at": "2026-04-29T14:11:03.809666"
   },
   {
-    "id": "f6e9fc2af9bf",
-    "title": "The Download: storing nuclear waste and orchestrating agents",
-    "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
-    "source": "MIT Tech Review",
+    "id": "1c2cdeebf51b",
+    "title": "Why AI companies want you to be afraid of them",
+    "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-04-29T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Bi",
-    "collected_at": "2026-04-29T14:10:39.098523"
+    "published": "2026-04-29T15:26:01",
+    "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 252 # Comments: 189",
+    "collected_at": "2026-04-29T19:41:11.764157"
   },
   {
     "id": "122b7649fe3f",
@@ -204,16 +240,16 @@
     "collected_at": "2026-04-29T14:11:03.809697"
   },
   {
-    "id": "dc28630cd03a",
-    "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
-    "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
-    "source": "Ars Technica AI",
+    "id": "59ef3aa9e68b",
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "source": "HuggingFace Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T11:00:24",
-    "summary": "Security firms find themselves especially exposed.",
-    "collected_at": "2026-04-29T14:10:39.215641"
+    "priority": 1,
+    "published": "2026-04-29T15:01:48",
+    "summary": "Granite 4.1 LLMs: How They’re Built",
+    "collected_at": "2026-04-29T19:41:22.159875"
   },
   {
     "id": "ab927b60243e",
@@ -228,16 +264,16 @@
     "collected_at": "2026-04-29T08:30:20.532283"
   },
   {
-    "id": "805fe2d33884",
-    "title": "China freezes new robotaxi licenses after Baidu chaos",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+    "id": "3c4d4f7fde66",
+    "title": "Tumbler Ridge families are suing OpenAI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T10:39:21",
-    "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent co",
-    "collected_at": "2026-04-29T14:10:38.956304"
+    "published": "2026-04-29T14:47:57",
+    "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege O",
+    "collected_at": "2026-04-29T19:40:54.133300"
   },
   {
     "id": "5a072659feb0",
@@ -252,16 +288,16 @@
     "collected_at": "2026-04-29T08:30:20.532326"
   },
   {
-    "id": "bb864aa9ccab",
-    "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
-    "url": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+    "id": "bb02d6f063f6",
+    "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI&#8217;s IPO",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T10:04:25",
-    "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our s",
-    "collected_at": "2026-04-29T14:10:38.956345"
+    "published": "2026-04-29T14:43:41",
+    "summary": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April. Its uninstall rate was even higher",
+    "collected_at": "2026-04-29T19:40:54.133358"
   },
   {
     "id": "57e61b79f13d",
@@ -276,16 +312,16 @@
     "collected_at": "2026-04-29T08:30:20.532406"
   },
   {
-    "id": "3878bff6e6ce",
-    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
-    "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-    "source": "TechCrunch AI",
+    "id": "33c9f2d538e7",
+    "title": "Larry’s risky business",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T09:45:00",
-    "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-    "collected_at": "2026-04-29T14:10:38.872269"
+    "published": "2026-04-29T13:57:16",
+    "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthrop",
+    "collected_at": "2026-04-29T14:10:38.956212"
   },
   {
     "id": "b50ceb874248",
@@ -300,16 +336,16 @@
     "collected_at": "2026-04-29T08:30:20.532481"
   },
   {
-    "id": "4e8406e13512",
-    "title": "General Motors is adding Gemini to four million cars",
-    "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
-    "source": "The Verge AI",
+    "id": "358b8403be54",
+    "title": "Firestorm Labs raises $82M to take drone factories into the field",
+    "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T09:14:38",
-    "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates",
-    "collected_at": "2026-04-29T14:10:38.956384"
+    "published": "2026-04-29T13:10:57",
+    "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+    "collected_at": "2026-04-29T14:10:38.872182"
   },
   {
     "id": "876b34c58687",
@@ -324,16 +360,16 @@
     "collected_at": "2026-04-29T08:30:20.532511"
   },
   {
-    "id": "18ef6feb9434",
-    "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
-    "url": "https://www.qbitai.com/2026/04/411205.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "590c28931c3d",
+    "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+    "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T09:08:25",
-    "summary": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。",
-    "collected_at": "2026-04-29T14:03:53.479900"
+    "published": "2026-04-29T13:00:00",
+    "summary": "Think Discord chats, but with AI characters in addition to humans.",
+    "collected_at": "2026-04-29T14:10:38.872218"
   },
   {
     "id": "866777ec9f84",
@@ -348,16 +384,16 @@
     "collected_at": "2026-04-29T08:30:20.532584"
   },
   {
-    "id": "5c2f657f1c73",
-    "title": "湖南芒果数智增资至4亿元",
-    "url": "https://36kr.com/newsflashes/3787643296603139?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T08:30:00",
-    "summary": "36氪获悉，爱企查App显示，近日，湖南芒果数智艺术科技有限责任公司发生工商变更，新增湖南数据产业集团有限公司为股东，同时，注册资本由1亿元人民币增至4亿元人民币，增幅300%。湖南芒果数智艺术科技有限责任公司成立于2024年4月，法定代表人为蔡怀军，经营范围包括网络文化经营、互联网信息服务、食品互联网销售、区块链技术相关软件和服务、数字技术服务、人工智能应用软件开发、大数据服务、人工智能公共数据平台等。股东信息显示，该公司现由湖南数据产业集团有限公司、湖南广播影视集团有限公司共同持股。",
-    "collected_at": "2026-04-29T08:30:18.903320"
+    "id": "f2f442e7b709",
+    "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T13:00:00",
+    "summary": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate re",
+    "collected_at": "2026-04-29T14:10:38.956261"
   },
   {
     "id": "3d973eba62d5",
@@ -372,16 +408,16 @@
     "collected_at": "2026-04-29T08:30:20.532614"
   },
   {
-    "id": "2610d07be694",
-    "title": "LG电子据悉将与英伟达合作，提升物理人工智能能力",
-    "url": "https://36kr.com/newsflashes/3787635266739208?f=rss",
+    "id": "fe034fb06fc8",
+    "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+    "url": "https://36kr.com/p/3787748082293766?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-04-29T08:21:50",
-    "summary": "4月29日消息，据报道，LG电子正与英伟达合作，以加强其物理人工智能业务，包括推进其家用机器人CLOiD的研发，双方的合作涵盖机器人技术和下一代AI模型开发等多个领域。（界面）",
-    "collected_at": "2026-04-29T08:30:18.903437"
+    "published": "2026-04-29T12:44:39",
+    "summary": "大公司： 魔法原子：目标到2036年营收达140亿美元 36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目标：到2036年，公司将向140亿美元营收规模迈进，并宣布未来五年将持续投入10亿美元，打造面向机器人二次开发的专属生态。 吉利汽车：第一季度营收首破800亿元，核心归母净利润同比增长31% 36氪获悉，吉利汽车公布2026年第一季度业绩报告。2026第一季度，录得总销量709358辆，同比增长1%",
+    "collected_at": "2026-04-29T14:11:02.515209"
   },
   {
     "id": "422291fbe7fd",
@@ -396,16 +432,16 @@
     "collected_at": "2026-04-29T08:30:20.532659"
   },
   {
-    "id": "3cbb7a0d4270",
-    "title": "视觉中国：受益于投资稀宇科技，一季度净利润同比增长1240.47%",
-    "url": "https://36kr.com/newsflashes/3787628033088770?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T08:14:28",
-    "summary": "36氪获悉，视觉中国披露一季报，公司2026年一季度实现营业收入1.85亿元，同比下降2.15%；归属于上市公司股东的净利润2.39亿元，同比增长1240.47%，基本每股收益0.3423元。报告期内，业绩变动主要系公司投资的MiniMax（稀宇科技）股价波动产生的公允价值变动损益。",
-    "collected_at": "2026-04-29T08:30:18.903561"
+    "id": "1ff59989fc38",
+    "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+    "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T12:43:12",
+    "summary": "Article URL: https://blog.jeffschomay.com/letting-ai-play-my-game Comments URL: https://news.ycombinator.com/item?id=47947525 Points: 103 # Comments: 20",
+    "collected_at": "2026-04-29T19:41:11.764214"
   },
   {
     "id": "bba5a0e92975",
@@ -420,16 +456,40 @@
     "collected_at": "2026-04-29T08:30:20.532687"
   },
   {
-    "id": "230be135c0b3",
-    "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
-    "url": "https://sspai.com/post/109062",
-    "source": "少数派",
+    "id": "116329f7e2e2",
+    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+    "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T12:38:50",
+    "summary": "Article URL: https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/ Comments URL: https://news.ycombinator.com/item?id=47947490 Points: 154 # Comments: 181",
+    "collected_at": "2026-04-29T14:10:55.505013"
+  },
+  {
+    "id": "b4de6e79eba9",
+    "title": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具",
+    "url": "https://36kr.com/newsflashes/3787882892631302?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-04-29T07:00:00",
-    "summary": "我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。查看全文",
-    "collected_at": "2026-04-29T08:30:24.464387"
+    "published": "2026-04-29T12:33:44",
+    "summary": "谷歌推出可将其他人工智能提供商的人工智能聊天历史记录导入Gemini的工具。（财联社）",
+    "collected_at": "2026-04-29T14:11:02.516581"
+  },
+  {
+    "id": "f6e9fc2af9bf",
+    "title": "The Download: storing nuclear waste and orchestrating agents",
+    "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Bi",
+    "collected_at": "2026-04-29T14:10:39.098523"
   },
   {
     "id": "ca51ad69b357",
@@ -444,16 +504,16 @@
     "collected_at": "2026-04-29T08:30:20.532808"
   },
   {
-    "id": "1affcfbf1535",
-    "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
-    "url": "https://www.qbitai.com/2026/04/411133.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-29T06:56:15",
-    "summary": "“全球最强开源”的含金量还在上升",
-    "collected_at": "2026-04-29T08:23:22.817953"
+    "id": "dc28630cd03a",
+    "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+    "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T11:00:24",
+    "summary": "Security firms find themselves especially exposed.",
+    "collected_at": "2026-04-29T14:10:39.215641"
   },
   {
     "id": "489b5b6b158e",
@@ -468,16 +528,16 @@
     "collected_at": "2026-04-29T08:30:20.532840"
   },
   {
-    "id": "0cc3791869dd",
-    "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
-    "url": "https://www.qbitai.com/2026/04/410791.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "805fe2d33884",
+    "title": "China freezes new robotaxi licenses after Baidu chaos",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T04:20:49",
-    "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计",
-    "collected_at": "2026-04-29T08:23:22.818036"
+    "published": "2026-04-29T10:39:21",
+    "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent co",
+    "collected_at": "2026-04-29T14:10:38.956304"
   },
   {
     "id": "9c3a8b28bc10",
@@ -492,16 +552,16 @@
     "collected_at": "2026-04-29T03:34:06.614499"
   },
   {
-    "id": "84af30a03d43",
-    "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
-    "url": "https://www.qbitai.com/2026/04/410772.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "bb864aa9ccab",
+    "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
+    "url": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-04-29T04:10:59",
-    "summary": "GPT-5.5马上也能用了",
-    "collected_at": "2026-04-29T08:23:22.818112"
+    "published": "2026-04-29T10:04:25",
+    "summary": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure that could have allowed attackers to access millions of public and private code repositories. \"Our s",
+    "collected_at": "2026-04-29T14:10:38.956345"
   },
   {
     "id": "c2f8e58d4ea4",
@@ -516,16 +576,16 @@
     "collected_at": "2026-04-29T03:34:06.614538"
   },
   {
-    "id": "984299f84dc2",
-    "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
-    "url": "https://arxiv.org/abs/2604.24766",
-    "source": "ArXiv CS.LG",
+    "id": "3878bff6e6ce",
+    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+    "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24766v1 Announce Type: new Abstract: With the rise of time-of-use and tiered electricity pricing, energy consumers are encouraged to adopt peak-shifting strategies by automatically controlling high-power appliances. These help lower energy costs while enhancing the power grid's stability.",
-    "collected_at": "2026-04-29T08:30:14.362491"
+    "priority": 1,
+    "published": "2026-04-29T09:45:00",
+    "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+    "collected_at": "2026-04-29T14:10:38.872269"
   },
   {
     "id": "7d4c4c3aa751",
@@ -540,16 +600,16 @@
     "collected_at": "2026-04-29T03:34:06.614572"
   },
   {
-    "id": "2931839c5b1e",
-    "title": "Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion",
-    "url": "https://arxiv.org/abs/2604.24767",
-    "source": "ArXiv CS.LG",
+    "id": "4e8406e13512",
+    "title": "General Motors is adding Gemini to four million cars",
+    "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24767v1 Announce Type: new Abstract: Congenital heart disease (CHD) is the most common type of birth defect, impacting about 1% of live births worldwide. Echocardiography, the gold-standard diagnostic method, is costly and inaccessible in low-resource settings. Diagnosis is delayed due to",
-    "collected_at": "2026-04-29T08:30:14.362615"
+    "priority": 1,
+    "published": "2026-04-29T09:14:38",
+    "summary": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built-in will be eligible for the AI upgrade, which will be rolled out via over-the-air software updates",
+    "collected_at": "2026-04-29T14:10:38.956384"
   },
   {
     "id": "eb9a1fff7501",
@@ -564,16 +624,16 @@
     "collected_at": "2026-04-29T03:34:06.614646"
   },
   {
-    "id": "9ee526cbcc31",
-    "title": "Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam",
-    "url": "https://arxiv.org/abs/2604.24768",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24768v1 Announce Type: new Abstract: In this chapter, we investigate the bending behavior of a perforated nanobeam subjected to sinusoidal loading using an efficient and computationally robust Physics-Informed Functional Link Constrained Framework with Domain Mapping (DFL-TFC) method. Our",
-    "collected_at": "2026-04-29T08:30:14.362701"
+    "id": "18ef6feb9434",
+    "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
+    "url": "https://www.qbitai.com/2026/04/411205.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-29T09:08:25",
+    "summary": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。",
+    "collected_at": "2026-04-29T14:03:53.479900"
   },
   {
     "id": "322d871773fd",
@@ -588,16 +648,112 @@
     "collected_at": "2026-04-29T03:34:06.614682"
   },
   {
-    "id": "8526a9808096",
-    "title": "Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting",
-    "url": "https://arxiv.org/abs/2604.24788",
+    "id": "5c2f657f1c73",
+    "title": "湖南芒果数智增资至4亿元",
+    "url": "https://36kr.com/newsflashes/3787643296603139?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-29T08:30:00",
+    "summary": "36氪获悉，爱企查App显示，近日，湖南芒果数智艺术科技有限责任公司发生工商变更，新增湖南数据产业集团有限公司为股东，同时，注册资本由1亿元人民币增至4亿元人民币，增幅300%。湖南芒果数智艺术科技有限责任公司成立于2024年4月，法定代表人为蔡怀军，经营范围包括网络文化经营、互联网信息服务、食品互联网销售、区块链技术相关软件和服务、数字技术服务、人工智能应用软件开发、大数据服务、人工智能公共数据平台等。股东信息显示，该公司现由湖南数据产业集团有限公司、湖南广播影视集团有限公司共同持股。",
+    "collected_at": "2026-04-29T08:30:18.903320"
+  },
+  {
+    "id": "230be135c0b3",
+    "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+    "url": "https://sspai.com/post/109062",
+    "source": "少数派",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-29T07:00:00",
+    "summary": "我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。查看全文",
+    "collected_at": "2026-04-29T08:30:24.464387"
+  },
+  {
+    "id": "2610d07be694",
+    "title": "LG电子据悉将与英伟达合作，提升物理人工智能能力",
+    "url": "https://36kr.com/newsflashes/3787635266739208?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-29T08:21:50",
+    "summary": "4月29日消息，据报道，LG电子正与英伟达合作，以加强其物理人工智能业务，包括推进其家用机器人CLOiD的研发，双方的合作涵盖机器人技术和下一代AI模型开发等多个领域。（界面）",
+    "collected_at": "2026-04-29T08:30:18.903437"
+  },
+  {
+    "id": "1affcfbf1535",
+    "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+    "url": "https://www.qbitai.com/2026/04/411133.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-29T06:56:15",
+    "summary": "“全球最强开源”的含金量还在上升",
+    "collected_at": "2026-04-29T08:23:22.817953"
+  },
+  {
+    "id": "3cbb7a0d4270",
+    "title": "视觉中国：受益于投资稀宇科技，一季度净利润同比增长1240.47%",
+    "url": "https://36kr.com/newsflashes/3787628033088770?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-29T08:14:28",
+    "summary": "36氪获悉，视觉中国披露一季报，公司2026年一季度实现营业收入1.85亿元，同比下降2.15%；归属于上市公司股东的净利润2.39亿元，同比增长1240.47%，基本每股收益0.3423元。报告期内，业绩变动主要系公司投资的MiniMax（稀宇科技）股价波动产生的公允价值变动损益。",
+    "collected_at": "2026-04-29T08:30:18.903561"
+  },
+  {
+    "id": "0cc3791869dd",
+    "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+    "url": "https://www.qbitai.com/2026/04/410791.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-29T04:20:49",
+    "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计",
+    "collected_at": "2026-04-29T08:23:22.818036"
+  },
+  {
+    "id": "984299f84dc2",
+    "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+    "url": "https://arxiv.org/abs/2604.24766",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24788v1 Announce Type: new Abstract: Natural gas is undoubtedly an essential component of the global energy system. Accurate short-term forecasting of natural gas price is challenging due to pronounced volatility driven by seasonal demand patterns, geopolitical developments, and shifting",
-    "collected_at": "2026-04-29T08:30:14.362783"
+    "summary": "arXiv:2604.24766v1 Announce Type: new Abstract: With the rise of time-of-use and tiered electricity pricing, energy consumers are encouraged to adopt peak-shifting strategies by automatically controlling high-power appliances. These help lower energy costs while enhancing the power grid's stability.",
+    "collected_at": "2026-04-29T08:30:14.362491"
+  },
+  {
+    "id": "84af30a03d43",
+    "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
+    "url": "https://www.qbitai.com/2026/04/410772.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-29T04:10:59",
+    "summary": "GPT-5.5马上也能用了",
+    "collected_at": "2026-04-29T08:23:22.818112"
+  },
+  {
+    "id": "2931839c5b1e",
+    "title": "Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion",
+    "url": "https://arxiv.org/abs/2604.24767",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T04:00:00",
+    "summary": "arXiv:2604.24767v1 Announce Type: new Abstract: Congenital heart disease (CHD) is the most common type of birth defect, impacting about 1% of live births worldwide. Echocardiography, the gold-standard diagnostic method, is costly and inaccessible in low-resource settings. Diagnosis is delayed due to",
+    "collected_at": "2026-04-29T08:30:14.362615"
   },
   {
     "id": "ad57812b466e",
@@ -612,16 +768,16 @@
     "collected_at": "2026-04-29T14:10:56.327504"
   },
   {
-    "id": "00878cffa41c",
-    "title": "Architecture Determines Observability in Transformers",
-    "url": "https://arxiv.org/abs/2604.24801",
+    "id": "9ee526cbcc31",
+    "title": "Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam",
+    "url": "https://arxiv.org/abs/2604.24768",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24801v1 Announce Type: new Abstract: Autoregressive transformers make confident errors, but activation monitoring can catch them only if the model preserves an internal signal that output confidence does not expose. This preservation is determined by architecture and training recipe. We d",
-    "collected_at": "2026-04-29T08:30:14.362875"
+    "summary": "arXiv:2604.24768v1 Announce Type: new Abstract: In this chapter, we investigate the bending behavior of a perforated nanobeam subjected to sinusoidal loading using an efficient and computationally robust Physics-Informed Functional Link Constrained Framework with Domain Mapping (DFL-TFC) method. Our",
+    "collected_at": "2026-04-29T08:30:14.362701"
   },
   {
     "id": "bd5ca2210cd1",
@@ -636,16 +792,16 @@
     "collected_at": "2026-04-29T08:30:24.464472"
   },
   {
-    "id": "0992a919a537",
-    "title": "Query-Efficient Quantum Approximate Optimization via Graph-Conditioned Trust Regions",
-    "url": "https://arxiv.org/abs/2604.24803",
+    "id": "8526a9808096",
+    "title": "Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting",
+    "url": "https://arxiv.org/abs/2604.24788",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24803v1 Announce Type: new Abstract: In low-depth implementations of the Quantum Approximate Optimization Algorithm (QAOA), the dominant cost is often the number of objective evaluations rather than circuit depth. We introduce a graph-conditioned trust-region method for reducing this quer",
-    "collected_at": "2026-04-29T08:30:14.362994"
+    "summary": "arXiv:2604.24788v1 Announce Type: new Abstract: Natural gas is undoubtedly an essential component of the global energy system. Accurate short-term forecasting of natural gas price is challenging due to pronounced volatility driven by seasonal demand patterns, geopolitical developments, and shifting",
+    "collected_at": "2026-04-29T08:30:14.362783"
   },
   {
     "id": "9d009974524c",
@@ -660,16 +816,16 @@
     "collected_at": "2026-04-29T03:34:05.462994"
   },
   {
-    "id": "089098c0cd18",
-    "title": "Intrinsic Mutual Information as a Modulator for Preference Optimization",
-    "url": "https://arxiv.org/abs/2604.24804",
+    "id": "00878cffa41c",
+    "title": "Architecture Determines Observability in Transformers",
+    "url": "https://arxiv.org/abs/2604.24801",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24804v1 Announce Type: new Abstract: Offline preference optimization methods, such as Direct Preference Optimization (DPO), offer significant advantages in aligning Large Language Models (LLMs) with human values. However, achieving optimal performance with these methods typically involves",
-    "collected_at": "2026-04-29T08:30:14.363057"
+    "summary": "arXiv:2604.24801v1 Announce Type: new Abstract: Autoregressive transformers make confident errors, but activation monitoring can catch them only if the model preserves an internal signal that output confidence does not expose. This preservation is determined by architecture and training recipe. We d",
+    "collected_at": "2026-04-29T08:30:14.362875"
   },
   {
     "id": "8190b57568b1",
@@ -684,16 +840,16 @@
     "collected_at": "2026-04-29T08:23:22.818148"
   },
   {
-    "id": "c40c94bce6d3",
-    "title": "minAction.net: Energy-First Neural Architecture Design -- From Biological Principles to Systematic Validation",
-    "url": "https://arxiv.org/abs/2604.24805",
+    "id": "0992a919a537",
+    "title": "Query-Efficient Quantum Approximate Optimization via Graph-Conditioned Trust Regions",
+    "url": "https://arxiv.org/abs/2604.24803",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24805v1 Announce Type: new Abstract: Modern machine learning optimizes for accuracy without explicitly accounting for internal computational cost, even though physical and biological systems operate under intrinsic energy constraints. We evaluate energy-aware learning across 2,203 experim",
-    "collected_at": "2026-04-29T08:30:14.363137"
+    "summary": "arXiv:2604.24803v1 Announce Type: new Abstract: In low-depth implementations of the Quantum Approximate Optimization Algorithm (QAOA), the dominant cost is often the number of objective evaluations rather than circuit depth. We introduce a graph-conditioned trust-region method for reducing this quer",
+    "collected_at": "2026-04-29T08:30:14.362994"
   },
   {
     "id": "c28c5985b359",
@@ -708,16 +864,16 @@
     "collected_at": "2026-04-29T03:34:05.463109"
   },
   {
-    "id": "eacf90c76342",
-    "title": "Nautile-370M: Spectral Memory Meets Attention in a Small Reasoning Model",
-    "url": "https://arxiv.org/abs/2604.24809",
+    "id": "089098c0cd18",
+    "title": "Intrinsic Mutual Information as a Modulator for Preference Optimization",
+    "url": "https://arxiv.org/abs/2604.24804",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24809v1 Announce Type: new Abstract: We present Nautile-370M, a 371-million-parameter small language model designed for efficient reasoning under strict parameter and inference budgets. Nautile-370M uses a hybrid backbone in which two SeqCond Attention (SCA) layers, a linear-time spectral",
-    "collected_at": "2026-04-29T08:30:14.363226"
+    "summary": "arXiv:2604.24804v1 Announce Type: new Abstract: Offline preference optimization methods, such as Direct Preference Optimization (DPO), offer significant advantages in aligning Large Language Models (LLMs) with human values. However, achieving optimal performance with these methods typically involves",
+    "collected_at": "2026-04-29T08:30:14.363057"
   },
   {
     "id": "bcd8f9e38325",
@@ -732,16 +888,16 @@
     "collected_at": "2026-04-29T03:34:05.463192"
   },
   {
-    "id": "715e207d4920",
-    "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
-    "url": "https://arxiv.org/abs/2604.24810",
+    "id": "c40c94bce6d3",
+    "title": "minAction.net: Energy-First Neural Architecture Design -- From Biological Principles to Systematic Validation",
+    "url": "https://arxiv.org/abs/2604.24805",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24810v1 Announce Type: new Abstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational co",
-    "collected_at": "2026-04-29T08:30:14.363321"
+    "summary": "arXiv:2604.24805v1 Announce Type: new Abstract: Modern machine learning optimizes for accuracy without explicitly accounting for internal computational cost, even though physical and biological systems operate under intrinsic energy constraints. We evaluate energy-aware learning across 2,203 experim",
+    "collected_at": "2026-04-29T08:30:14.363137"
   },
   {
     "id": "c82d8007aad0",
@@ -756,16 +912,16 @@
     "collected_at": "2026-04-29T03:34:05.463278"
   },
   {
-    "id": "8ffdde2a5663",
-    "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
-    "url": "https://arxiv.org/abs/2604.24811",
+    "id": "eacf90c76342",
+    "title": "Nautile-370M: Spectral Memory Meets Attention in a Small Reasoning Model",
+    "url": "https://arxiv.org/abs/2604.24809",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24811v1 Announce Type: new Abstract: Graph neural Ordinary Differential Equations (ODE) combine neural ODE with the message passing mechanism of Graph Neural Networks (GNN), providing a continuous-time modeling method for graph representation learning. However, in dynamic graph scenarios,",
-    "collected_at": "2026-04-29T08:30:14.363420"
+    "summary": "arXiv:2604.24809v1 Announce Type: new Abstract: We present Nautile-370M, a 371-million-parameter small language model designed for efficient reasoning under strict parameter and inference budgets. Nautile-370M uses a hybrid backbone in which two SeqCond Attention (SCA) layers, a linear-time spectral",
+    "collected_at": "2026-04-29T08:30:14.363226"
   },
   {
     "id": "47e910bbe05c",
@@ -780,16 +936,16 @@
     "collected_at": "2026-04-29T03:34:05.463382"
   },
   {
-    "id": "2956eb10f60c",
-    "title": "Heterogeneous Variational Inference for Markov Degradation Hazard Models: Discretized Mixture with Interpretable Clusters",
-    "url": "https://arxiv.org/abs/2604.24818",
+    "id": "715e207d4920",
+    "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
+    "url": "https://arxiv.org/abs/2604.24810",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24818v1 Announce Type: new Abstract: Bayesian finite mixture models can identify discrete risk clusters (low-risk vs. high-risk equipment), but face three critical bottlenecks: (1) insufficient degradation signals from coarse state discretization, (2) unstable cluster identification when",
-    "collected_at": "2026-04-29T08:30:14.363534"
+    "summary": "arXiv:2604.24810v1 Announce Type: new Abstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational co",
+    "collected_at": "2026-04-29T08:30:14.363321"
   },
   {
     "id": "208292a68770",
@@ -804,16 +960,16 @@
     "collected_at": "2026-04-29T08:23:22.818176"
   },
   {
-    "id": "15262fa16c1d",
-    "title": "Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision",
-    "url": "https://arxiv.org/abs/2604.24824",
+    "id": "8ffdde2a5663",
+    "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
+    "url": "https://arxiv.org/abs/2604.24811",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24824v1 Announce Type: new Abstract: This article philosophically examines how shifts in assumptions regarding the existence and non-existence of the true target (TT) give rise to new perspectives and insights for machine learning (ML)-based predictive modeling and, correspondingly, propo",
-    "collected_at": "2026-04-29T08:30:14.363624"
+    "summary": "arXiv:2604.24811v1 Announce Type: new Abstract: Graph neural Ordinary Differential Equations (ODE) combine neural ODE with the message passing mechanism of Graph Neural Networks (GNN), providing a continuous-time modeling method for graph representation learning. However, in dynamic graph scenarios,",
+    "collected_at": "2026-04-29T08:30:14.363420"
   },
   {
     "id": "c7c36f416f31",
@@ -828,16 +984,16 @@
     "collected_at": "2026-04-29T03:33:59.113628"
   },
   {
-    "id": "ca276398953a",
-    "title": "Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity",
-    "url": "https://arxiv.org/abs/2604.24827",
+    "id": "2956eb10f60c",
+    "title": "Heterogeneous Variational Inference for Markov Degradation Hazard Models: Discretized Mixture with Interpretable Clusters",
+    "url": "https://arxiv.org/abs/2604.24818",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24827v1 Announce Type: new Abstract: Closed-source frontier labs do not disclose parameter counts, and the standard alternative -- inference economics -- carries $2\\times$+ uncertainty from hardware, batching, and serving-stack assumptions external to the model. We exploit a tighter intri",
-    "collected_at": "2026-04-29T08:30:14.363715"
+    "summary": "arXiv:2604.24818v1 Announce Type: new Abstract: Bayesian finite mixture models can identify discrete risk clusters (low-risk vs. high-risk equipment), but face three critical bottlenecks: (1) insufficient degradation signals from coarse state discretization, (2) unstable cluster identification when",
+    "collected_at": "2026-04-29T08:30:14.363534"
   },
   {
     "id": "0f6602172130",
@@ -852,16 +1008,40 @@
     "collected_at": "2026-04-29T03:34:05.461778"
   },
   {
-    "id": "ac5f8bde52c2",
-    "title": "On the Trainability of Masked Diffusion Language Models via Blockwise Locality",
-    "url": "https://arxiv.org/abs/2604.24832",
+    "id": "15262fa16c1d",
+    "title": "Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision",
+    "url": "https://arxiv.org/abs/2604.24824",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24832v1 Announce Type: new Abstract: Masked diffusion language models (MDMs) have recently emerged as a promising alternative to standard autoregressive large language models (AR-LLMs), yet their optimization can be substantially less stable. We study blockwise MDMs and compare them with",
-    "collected_at": "2026-04-29T08:30:14.363781"
+    "summary": "arXiv:2604.24824v1 Announce Type: new Abstract: This article philosophically examines how shifts in assumptions regarding the existence and non-existence of the true target (TT) give rise to new perspectives and insights for machine learning (ML)-based predictive modeling and, correspondingly, propo",
+    "collected_at": "2026-04-29T08:30:14.363624"
+  },
+  {
+    "id": "1343a4b0392a",
+    "title": "We decreased our LLM costs with Opus",
+    "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T00:57:12",
+    "summary": "Article URL: https://www.mendral.com/blog/frontier-model-lower-costs Comments URL: https://news.ycombinator.com/item?id=47942903 Points: 101 # Comments: 31",
+    "collected_at": "2026-04-29T19:41:11.764279"
+  },
+  {
+    "id": "ca276398953a",
+    "title": "Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity",
+    "url": "https://arxiv.org/abs/2604.24827",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T04:00:00",
+    "summary": "arXiv:2604.24827v1 Announce Type: new Abstract: Closed-source frontier labs do not disclose parameter counts, and the standard alternative -- inference economics -- carries $2\\times$+ uncertainty from hardware, batching, and serving-stack assumptions external to the model. We exploit a tighter intri",
+    "collected_at": "2026-04-29T08:30:14.363715"
   },
   {
     "id": "a3cba74b894c",
@@ -876,16 +1056,16 @@
     "collected_at": "2026-04-29T03:27:05.838861"
   },
   {
-    "id": "3331e458ebc2",
-    "title": "Transformer Approximations from ReLUs",
-    "url": "https://arxiv.org/abs/2604.24878",
+    "id": "ac5f8bde52c2",
+    "title": "On the Trainability of Masked Diffusion Language Models via Blockwise Locality",
+    "url": "https://arxiv.org/abs/2604.24832",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24878v1 Announce Type: new Abstract: We provide a systematic recipe for translating ReLU approximation results to softmax attention mechanism. This recipe covers many common approximation targets. Importantly, it yields target-specific, economic resource bounds beyond universal approximat",
-    "collected_at": "2026-04-29T08:30:14.363827"
+    "summary": "arXiv:2604.24832v1 Announce Type: new Abstract: Masked diffusion language models (MDMs) have recently emerged as a promising alternative to standard autoregressive large language models (AR-LLMs), yet their optimization can be substantially less stable. We study blockwise MDMs and compare them with",
+    "collected_at": "2026-04-29T08:30:14.363781"
   },
   {
     "id": "1f2810cb9682",
@@ -898,6 +1078,30 @@
     "published": "2026-04-29T00:40:16",
     "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
     "collected_at": "2026-04-29T03:33:49.118702"
+  },
+  {
+    "id": "3331e458ebc2",
+    "title": "Transformer Approximations from ReLUs",
+    "url": "https://arxiv.org/abs/2604.24878",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T04:00:00",
+    "summary": "arXiv:2604.24878v1 Announce Type: new Abstract: We provide a systematic recipe for translating ReLU approximation results to softmax attention mechanism. This recipe covers many common approximation targets. Importantly, it yields target-specific, economic resource bounds beyond universal approximat",
+    "collected_at": "2026-04-29T08:30:14.363827"
+  },
+  {
+    "id": "f6674537e2b8",
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "url": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-29T00:00:00",
+    "summary": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "collected_at": "2026-04-29T19:41:22.159924"
   },
   {
     "id": "4b6cdfaaeaec",
@@ -3384,18 +3588,6 @@
     "collected_at": "2026-04-26T07:50:41.558058"
   },
   {
-    "id": "260990045df4",
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-25T21:43:37",
-    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "collected_at": "2026-04-26T03:03:46.562952"
-  },
-  {
     "id": "25afd27a9159",
     "title": "超算互联网推出DeepSeek-V4限时免费对话服务",
     "url": "https://36kr.com/newsflashes/3783020652518401?f=rss",
@@ -3406,197 +3598,5 @@
     "published": "2026-04-26T02:40:31",
     "summary": "36氪获悉，4月26日，国家超算互联网推出DeepSeek-V4限时免费对话服务。企业、科研机构及个人开发者只需登录超算互联网进入Chat页面，即可免费体验DeepSeek-V4的百万Token超长上下文实时、流畅对话。此外，开发者还可在超算互联网AI社区下载DeepSeek-V4模型文件，并基于众智FlagOS统一软件栈和超算互联网核心节点部署的万卡超集群系统进行快速部署、推理和开发。",
     "collected_at": "2026-04-26T03:04:03.303074"
-  },
-  {
-    "id": "a10d9846a6d3",
-    "title": "The AI industry is discovering that the public hates it",
-    "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T21:11:11",
-    "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 234 # Comments: 316",
-    "collected_at": "2026-04-26T07:50:33.692948"
-  },
-  {
-    "id": "e31098d4e799",
-    "title": "华泰证券：光纤光缆产业进入历史大周期",
-    "url": "https://36kr.com/newsflashes/3782964689148937?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-26T01:31:35",
-    "summary": "36氪获悉，华泰证券研报称，2025年四季度以来，全球光纤光缆市场呈现“量价共振”态势。本轮光纤光缆景气周期的核心驱动力在于供给需求关系重构。市场认为光纤价格上涨会引发企业大规模扩产，而华泰证券认为行业未来2年内新增有效供给有限，景气周期有望拉长。首先，光棒扩产周期长，且行业经历上一轮出清后扩产趋于理性，短期难有大规模新产能落地；其次，高端光纤结构性挤占产能，主流厂商产能正向AI数通、无人机A2产品倾斜，挤占普通光纤供给。",
-    "collected_at": "2026-04-26T03:04:03.303240"
-  },
-  {
-    "id": "dcebb3f5f887",
-    "title": "Maine’s governor vetoes data center moratorium",
-    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-25T20:57:08",
-    "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-    "collected_at": "2026-04-26T03:03:46.563005"
-  },
-  {
-    "id": "6aa53e3d2219",
-    "title": "湖南AI中心落地湘江新区",
-    "url": "https://36kr.com/newsflashes/3782957337926921?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-26T01:24:07",
-    "summary": "4月24日，省级人工智能产业应用创新赋能平台——湖南AI中心在湖南湘江新区世界计算·长沙智谷正式发布。该中心由五八科创集团打造并全权运营，深度扎根智谷，聚焦人工智能应用场景创新，集展示体验、场景研发、供需对接和生态培育四大核心功能于一体，致力于构建“可看、可体验、可合作、可落地”的AI产业综合体。（湖南日报）",
-    "collected_at": "2026-04-26T03:04:03.303275"
-  },
-  {
-    "id": "b2e84456bff3",
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-25T17:17:56",
-    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "collected_at": "2026-04-25T19:04:06.907859"
-  },
-  {
-    "id": "3e1f6e25b29b",
-    "title": "DeepSeek-V4-Pro模型API官宣限时2.5折优惠",
-    "url": "https://36kr.com/newsflashes/3782954220608512?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-26T01:00:01",
-    "summary": "36氪获悉，4月25日，DeepSeek官网更新的API文档显示，DeepSeek-V4-Pro模型API开启限时2.5折优惠活动，优惠期至2026年5月5日。优惠后，百万tokens输入价格（缓存命中）为0.25元，百万tokens输入价格（缓存未命中）为3元，百万tokens输出价格为6元。",
-    "collected_at": "2026-04-26T03:04:03.303315"
-  },
-  {
-    "id": "8af055a7481c",
-    "title": "WHY ARE YOU LIKE THIS",
-    "url": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T16:44:01",
-    "summary": "@scottjla on Twitter in reply to my pelican riding a bicycle benchmark: I feel like we need to stack these tests now I checked to confirm that the model (ChatGPT Images 2.0) added the \"WHY ARE YOU LIKE THIS\" sign of its own accord and it did - the prompt Scott used was: Create an image of a horse ri",
-    "collected_at": "2026-04-25T19:04:21.039872"
-  },
-  {
-    "id": "8bf3068ee503",
-    "title": "润芯微“国产软硬一体AI智能基座”发布，破解行业稀缺难题带动多端智能变革",
-    "url": "https://36kr.com/p/3782901034785801?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-26T00:08:39",
-    "summary": "4月25日，以“芯视野·新格局”为主题的润芯微战略与产品发布会在北京车展期间举行。作为行业稀缺的“芯片+操作系统+AI”全栈解决方案提供商，润芯微首次完整展示已打造的可应用于多端场景的“国产软硬一体AI智能基座”。本次发布会通过战略、技术、产品、生态的完整呈现，全面展现润芯微在多端智能领域的进展情况。从百万量产上车到openvela通过兼容性认证，从车载座舱到两轮车智能终端、机器人算力平台，体现润芯微“国产软硬一体AI智能基座”产品及解决方案的核心竞争力持续凸显。 当天活动上，润芯微正式发布“1+4+N”战略体系。该体系是以知芯·国产计算平台+知微·AIOS+知润·端侧模型为核心，打造自主可",
-    "collected_at": "2026-04-26T03:04:03.301997"
-  },
-  {
-    "id": "c27029211fcd",
-    "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
-    "url": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-25T16:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-25T13:12:59.953928"
-  },
-  {
-    "id": "2f0121649aa2",
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-25T16:00:00",
-    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-    "collected_at": "2026-04-25T19:04:06.907923"
-  },
-  {
-    "id": "47f8d33a9d72",
-    "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
-    "url": "https://www.qbitai.com/2026/04/407363.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-25T15:38:18",
-    "summary": "“为自动驾驶而来”",
-    "collected_at": "2026-04-25T18:57:20.724739"
-  },
-  {
-    "id": "44b8124a3e83",
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-25T15:03:00",
-    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "collected_at": "2026-04-25T19:04:06.907961"
-  },
-  {
-    "id": "9945f90092cd",
-    "title": "GPT‑5.5 Bio Bug Bounty",
-    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T14:17:31",
-    "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 144 # Comments: 101",
-    "collected_at": "2026-04-26T07:50:33.693000"
-  },
-  {
-    "id": "f0cdc78546d0",
-    "title": "卡尔动力发布KargoBot Inside",
-    "url": "https://36kr.com/newsflashes/3782201831742724?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-25T12:14:39",
-    "summary": "36氪获悉，4月24日，在2026北京国际车展上，卡尔动力正式发布面向L4货运下一个十年的核心战略——KargoBot Inside。据介绍，这是全球首个面向干线货运的“AI+Robot+Service”全栈赋能战略。",
-    "collected_at": "2026-04-25T13:12:58.487228"
-  },
-  {
-    "id": "fea00393f3cb",
-    "title": "Quoting Romain Huet",
-    "url": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T12:06:55",
-    "summary": "Since GPT-5.4, we’ve unified Codex and the main model into a single system, so there’s no separate coding line anymore. GPT-5.5 takes this further, with strong gains in agentic coding, computer use, and any task on a computer. &mdash; Romain Huet, confirming OpenAI won't release a GPT-5.5-Codex mode",
-    "collected_at": "2026-04-25T13:12:54.547815"
-  },
-  {
-    "id": "2483b89aea6b",
-    "title": "Lambda Calculus Benchmark for AI",
-    "url": "https://victortaelin.github.io/lambench/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-25T11:16:23",
-    "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 135 # Comments: 40",
-    "collected_at": "2026-04-26T07:50:33.693034"
   }
 ]
