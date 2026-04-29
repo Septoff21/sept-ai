@@ -1,16 +1,14 @@
 {
-  "date": "2026-04-28",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：TechCrunch AI, The Verge AI, Hacker News AI, AI Alignment Forum, HuggingFace Blog, InfoQ AI, Simon Willison, 36氪, MIT Tech Review",
+  "date": "2026-04-29",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 36氪, Latent Space, 量子位, TechCrunch AI, Simon Willison, The Verge AI",
   "news_count": 20,
   "sources": {
-    "TechCrunch AI": 6,
-    "The Verge AI": 4,
-    "Hacker News AI": 3,
-    "AI Alignment Forum": 1,
-    "HuggingFace Blog": 1,
-    "InfoQ AI": 1,
+    "InfoQ AI": 5,
+    "36氪": 6,
+    "Latent Space": 1,
+    "量子位": 1,
+    "TechCrunch AI": 3,
     "Simon Willison": 1,
-    "36氪": 2,
-    "MIT Tech Review": 1
+    "The Verge AI": 3
   }
 }
