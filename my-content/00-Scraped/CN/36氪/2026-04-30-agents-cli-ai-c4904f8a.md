@@ -1,0 +1,17 @@
+---
+title: "谷歌云推出 Agents CLI，简化 AI 智能体开发全流程"
+date: "2026-04-30T11:00:00"
+source: "InfoQ AI"
+source_url: "https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&utm_medium=article"
+channel: "cn"
+lang: "zh"
+summary: "点击查看原文>"
+tags: ["news", "cn"]
+priority: 3
+---
+
+> 点击查看原文>
+
+**Read more →** <https://www.infoq.cn/article/O9hWJ1JZYBPF9PZKkY3C?utm_source=rss&utm_medium=article>
+
+*Collected by Sept-AI on 2026-04-30T03:28:32.763387*
