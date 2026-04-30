@@ -1,12 +1,13 @@
 {
   "date": "2026-04-30",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 36氪, 量子位, ArXiv CS.AI, ArXiv CS.LG",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, The Verge AI, MIT Tech Review, TechCrunch AI, 量子位, 36氪",
   "news_count": 20,
   "sources": {
-    "InfoQ AI": 8,
-    "36氪": 2,
+    "InfoQ AI": 10,
+    "The Verge AI": 5,
+    "MIT Tech Review": 1,
+    "TechCrunch AI": 1,
     "量子位": 2,
-    "ArXiv CS.AI": 6,
-    "ArXiv CS.LG": 2
+    "36氪": 1
   }
 }

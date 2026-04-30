@@ -1,5 +1,77 @@
 [
   {
+    "id": "91801af132f3",
+    "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
+    "url": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-30T20:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-30T14:16:42.740033"
+  },
+  {
+    "id": "3b4aec1da535",
+    "title": "OpenAI talks about not talking about goblins",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T13:42:29",
+    "summary": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references",
+    "collected_at": "2026-04-30T14:08:46.877241"
+  },
+  {
+    "id": "54a3c14828be",
+    "title": "王兴兴亲测后点赞！这家AI公司提前半年把“龙虾”能力带上车，还管住了Token黑洞",
+    "url": "https://www.infoq.cn/article/2c2JX4m7VqPrFaP5cI6t?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-30T19:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-30T14:16:42.740071"
+  },
+  {
+    "id": "9130292322b3",
+    "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
+    "url": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T13:08:23",
+    "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify say",
+    "collected_at": "2026-04-30T14:08:46.877291"
+  },
+  {
+    "id": "58f65790de94",
+    "title": "从 AI Agent、RLHF 到 MoE 大规模训练：AMD 这场开发者日，把一线实战话题凑齐了",
+    "url": "https://www.infoq.cn/article/tHktl4M8KRWON0veTT3b?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-30T18:06:28",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-30T14:16:42.740106"
+  },
+  {
+    "id": "99c79c91bb23",
+    "title": "The Download: the North Pole’s future and humanoid data",
+    "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But la",
+    "collected_at": "2026-04-30T14:08:47.063290"
+  },
+  {
     "id": "cd8e351aa4a7",
     "title": "谷歌开源“Agent Skill 超级工具箱”，云、库、引擎、AI全线打通，开发者狂喜",
     "url": "https://www.infoq.cn/article/ihRlIjt3N5seuQN27OQe?utm_source=rss&utm_medium=article",
@@ -12,16 +84,16 @@
     "collected_at": "2026-04-30T08:30:53.897211"
   },
   {
-    "id": "f087ae4b051f",
-    "title": "亚马逊云科技推出桌面AI助手Amazon Quick",
-    "url": "https://36kr.com/newsflashes/3789015541439491?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-30T07:45:55",
-    "summary": "4月30日，亚马逊云科技宣布推出桌面AI助手Amazon Quick，将个人AI助手引入桌面。据介绍，用户能够直接在Amazon Quick中创建实时仪表板、智能应用、演示文稿和图片。Amazon Quick通过集成Google Workspace、Zoom、Microsoft 365以及Salesforce等，将应用、工具和数据汇聚一处，实现日常应用的一站式操作。（界面）",
-    "collected_at": "2026-04-30T08:30:52.678547"
+    "id": "b536347c3206",
+    "title": "Meta says its business AI now facilitates 10 million conversations a week",
+    "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T12:08:45",
+    "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+    "collected_at": "2026-04-30T14:08:46.758971"
   },
   {
     "id": "264559542008",
@@ -36,16 +108,16 @@
     "collected_at": "2026-04-30T08:30:53.897248"
   },
   {
-    "id": "e9998a6be99d",
-    "title": "不谈空话，谈合作丨这场AI+产业对接会只聊落地",
-    "url": "https://36kr.com/p/3788996733803782?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-30T07:28:06",
-    "summary": "“世界咖啡”[AI+]产业对接会正式定档北京亦庄。 搞噱头还是做实事，我们需要一个华丽转身 这是36氪AI Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。比如，当我们看到行业里类似的AI活动还在聊“AI会不会代替人类”、“具身智能离我们还有多远”的时候，团队就非常感慨，因为我们这一次选择了一条更加务实的路线，在AI赋能下的千行百业中寻找最佳场景渗透案例，让寻找AI合作的供需双方有成功的模板可借鉴；我们把AI+产业对接",
-    "collected_at": "2026-04-30T08:30:52.676797"
+    "id": "b794f0d69866",
+    "title": "Meta lost 20 million users last quarter",
+    "url": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T11:38:26",
+    "summary": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective user",
+    "collected_at": "2026-04-30T14:08:46.877335"
   },
   {
     "id": "e4f6cbca05cf",
@@ -60,16 +132,16 @@
     "collected_at": "2026-04-30T08:30:53.897281"
   },
   {
-    "id": "8eddd4a0e2aa",
-    "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
-    "url": "https://www.qbitai.com/2026/04/411959.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "d1785dcca716",
+    "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-04-30T07:27:07",
-    "summary": "已投入自主研发超过 10 年",
-    "collected_at": "2026-04-30T08:25:58.865405"
+    "published": "2026-04-30T11:09:01",
+    "summary": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select group of trusted \"cyber defenders\" in order for institutions to shore up their cyberdefenses. The limit",
+    "collected_at": "2026-04-30T14:08:46.877397"
   },
   {
     "id": "c4904f8ae6f4",
@@ -84,16 +156,16 @@
     "collected_at": "2026-04-30T03:28:32.763387"
   },
   {
-    "id": "5e56711101fe",
-    "title": "DeepSeek识图模式是个新模型？！一手实测在此（没错我被灰度到了）",
-    "url": "https://www.qbitai.com/2026/04/411797.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "327b31771034",
+    "title": "The more young people use AI, the more they hate it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-04-30T06:52:23",
-    "summary": "非思考模式快到飞起",
-    "collected_at": "2026-04-30T08:25:58.865490"
+    "published": "2026-04-30T11:00:00",
+    "summary": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many tech trends before it, it's no surprise",
+    "collected_at": "2026-04-30T14:08:46.877439"
   },
   {
     "id": "7075af806087",
@@ -108,16 +180,16 @@
     "collected_at": "2026-04-30T03:28:32.763427"
   },
   {
-    "id": "712d4e5baec4",
-    "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
-    "url": "https://arxiv.org/abs/2604.26091",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26091v1 Announce Type: new Abstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX Terminal Pro, a 21-day deployment in which 3,505 user-funded agents traded real ETH in a bounded onc",
-    "collected_at": "2026-04-30T08:30:47.259110"
+    "id": "e04577522ef1",
+    "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
+    "url": "https://www.qbitai.com/2026/04/412018.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-30T09:16:56",
+    "summary": "Stripe推出由 Link 驱动的智能体钱包",
+    "collected_at": "2026-04-30T14:01:59.567911"
   },
   {
     "id": "c128e7f4e217",
@@ -132,16 +204,16 @@
     "collected_at": "2026-04-30T03:28:32.763459"
   },
   {
-    "id": "a9e1875e0255",
-    "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
-    "url": "https://arxiv.org/abs/2604.26095",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26095v1 Announce Type: new Abstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localize sources and infer latent field parameters under strict time constraints.} {The core challenge lies in the belief-space obj",
-    "collected_at": "2026-04-30T08:30:47.259189"
+    "id": "c12ae0393d89",
+    "title": "HappyHorse没有惊喜",
+    "url": "https://36kr.com/p/3789098887077123?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-30T09:11:22",
+    "summary": "作者 | 兰杰 编辑 | 乔芊 4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。 HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。 该视频模型饱受关注的原因有二。 一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测为主要形式的权威AI评测平台Artificial Analysis AI Video Arena排行榜，以更高的Elo分数（通过比赛输赢和对手强弱来动态计算",
+    "collected_at": "2026-04-30T14:16:41.362736"
   },
   {
     "id": "051c2ebdbacd",
@@ -156,16 +228,16 @@
     "collected_at": "2026-04-30T03:28:32.763487"
   },
   {
-    "id": "1024a0a0f949",
-    "title": "Evaluating Strategic Reasoning in Forecasting Agents",
-    "url": "https://arxiv.org/abs/2604.26106",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26106v1 Announce Type: new Abstract: Forecasting benchmarks produce accuracy leaderboards but little insight into why some forecasters are more accurate than others. We introduce Bench to the Future 2 (BTF-2), 1,417 pastcasting questions with a frozen 15M-document research corpus in which",
-    "collected_at": "2026-04-30T08:30:47.259261"
+    "id": "45b3775518d4",
+    "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
+    "url": "https://www.qbitai.com/2026/04/412015.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-30T09:08:31",
+    "summary": "从算力时代到智能时代，三大结构性变化",
+    "collected_at": "2026-04-30T14:01:59.567949"
   },
   {
     "id": "3ae963a6e580",
@@ -180,16 +252,76 @@
     "collected_at": "2026-04-30T03:28:32.763514"
   },
   {
-    "id": "f9836e594358",
-    "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
-    "url": "https://arxiv.org/abs/2604.26120",
+    "id": "296b724d9ecd",
+    "title": "氪星晚报｜澳门一季度GDP按年实质增长7.1%；小红书发内部信：加大AI投入，柯南出任总裁",
+    "url": "https://36kr.com/p/3789059666173189?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-30T08:53:38",
+    "summary": "大公司： 联发科一季度毛利率为46.3%，同比下滑1.8个百分点 4月30日，联发科举行法说会并公布2026年第一季度财报，单季每股盈余（EPS）为新台币15.17元，环比增加5.6%、同比减少17.4%；合并营收为新台币1491.51亿元，环比减少0.7%、同比减少2.7%；毛利率为46.3%，环比增加0.2个百分点，同比下滑1.8个百分点。公司表示，毛利率季增主要受惠产品组合优化，年减则反映部分产品毛利结构调整。（界面） 阿里云域名产品将于5月12日调价 36氪获悉，阿里云发布阿里云域名产品调价通知：因域名上游注册局成本上调，经慎重考虑，现决定于2026年5月12日零时，将域名调整为以下价",
+    "collected_at": "2026-04-30T14:16:41.362961"
+  },
+  {
+    "id": "8eddd4a0e2aa",
+    "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
+    "url": "https://www.qbitai.com/2026/04/411959.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-30T07:27:07",
+    "summary": "已投入自主研发超过 10 年",
+    "collected_at": "2026-04-30T08:25:58.865405"
+  },
+  {
+    "id": "f087ae4b051f",
+    "title": "亚马逊云科技推出桌面AI助手Amazon Quick",
+    "url": "https://36kr.com/newsflashes/3789015541439491?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-30T07:45:55",
+    "summary": "4月30日，亚马逊云科技宣布推出桌面AI助手Amazon Quick，将个人AI助手引入桌面。据介绍，用户能够直接在Amazon Quick中创建实时仪表板、智能应用、演示文稿和图片。Amazon Quick通过集成Google Workspace、Zoom、Microsoft 365以及Salesforce等，将应用、工具和数据汇聚一处，实现日常应用的一站式操作。（界面）",
+    "collected_at": "2026-04-30T08:30:52.678547"
+  },
+  {
+    "id": "5e56711101fe",
+    "title": "DeepSeek识图模式是个新模型？！一手实测在此（没错我被灰度到了）",
+    "url": "https://www.qbitai.com/2026/04/411797.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-30T06:52:23",
+    "summary": "非思考模式快到飞起",
+    "collected_at": "2026-04-30T08:25:58.865490"
+  },
+  {
+    "id": "e9998a6be99d",
+    "title": "不谈空话，谈合作丨这场AI+产业对接会只聊落地",
+    "url": "https://36kr.com/p/3788996733803782?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-30T07:28:06",
+    "summary": "“世界咖啡”[AI+]产业对接会正式定档北京亦庄。 搞噱头还是做实事，我们需要一个华丽转身 这是36氪AI Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。比如，当我们看到行业里类似的AI活动还在聊“AI会不会代替人类”、“具身智能离我们还有多远”的时候，团队就非常感慨，因为我们这一次选择了一条更加务实的路线，在AI赋能下的千行百业中寻找最佳场景渗透案例，让寻找AI合作的供需双方有成功的模板可借鉴；我们把AI+产业对接",
+    "collected_at": "2026-04-30T08:30:52.676797"
+  },
+  {
+    "id": "712d4e5baec4",
+    "title": "Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital",
+    "url": "https://arxiv.org/abs/2604.26091",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26120v1 Announce Type: new Abstract: Behavioral logs provide rich signals for user modeling, but are noisy and interleaved across diverse intents. Recent work uses LLMs to generate interpretable natural-language personas from user logs, yet evaluation often emphasizes downstream utility,",
-    "collected_at": "2026-04-30T08:30:47.259325"
+    "summary": "arXiv:2604.26091v1 Announce Type: new Abstract: We study reliability in autonomous language-model agents that translate user mandates into validated tool actions under real capital. The setting is DX Terminal Pro, a 21-day deployment in which 3,505 user-funded agents traded real ETH in a bounded onc",
+    "collected_at": "2026-04-30T08:30:47.259110"
   },
   {
     "id": "f9a442aeb34b",
@@ -204,16 +336,16 @@
     "collected_at": "2026-04-30T08:30:47.517409"
   },
   {
-    "id": "93564aa0acb4",
-    "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
-    "url": "https://arxiv.org/abs/2604.26211",
+    "id": "a9e1875e0255",
+    "title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+    "url": "https://arxiv.org/abs/2604.26095",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26211v1 Announce Type: new Abstract: In order to automate AI research we introduce a full, end-to-end framework, OMEGA: Optimizing Machine learning by Evaluating Generated Algorithms, that starts at idea generation and ends with executable code. Our system combines structured meta-prompt",
-    "collected_at": "2026-04-30T08:30:47.259377"
+    "summary": "arXiv:2604.26095v1 Announce Type: new Abstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localize sources and infer latent field parameters under strict time constraints.} {The core challenge lies in the belief-space obj",
+    "collected_at": "2026-04-30T08:30:47.259189"
   },
   {
     "id": "6d042f3f86ca",
@@ -228,16 +360,16 @@
     "collected_at": "2026-04-30T08:30:47.517503"
   },
   {
-    "id": "31a5c54ad09d",
-    "title": "Persuadability and LLMs as Legal Decision Tools",
-    "url": "https://arxiv.org/abs/2604.26233",
+    "id": "1024a0a0f949",
+    "title": "Evaluating Strategic Reasoning in Forecasting Agents",
+    "url": "https://arxiv.org/abs/2604.26106",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26233v1 Announce Type: new Abstract: As Large Language Models (LLMs) are proposed as legal decision assistants, and even first-instance decision-makers, across a range of judicial and administrative contexts, it becomes essential to explore how they answer legal questions, and in particul",
-    "collected_at": "2026-04-30T08:30:47.259450"
+    "summary": "arXiv:2604.26106v1 Announce Type: new Abstract: Forecasting benchmarks produce accuracy leaderboards but little insight into why some forecasters are more accurate than others. We introduce Bench to the Future 2 (BTF-2), 1,417 pastcasting questions with a frozen 15M-document research corpus in which",
+    "collected_at": "2026-04-30T08:30:47.259261"
   },
   {
     "id": "6fea7276c7e0",
@@ -252,16 +384,16 @@
     "collected_at": "2026-04-30T08:30:47.517570"
   },
   {
-    "id": "4247d81b1db8",
-    "title": "Apriori-based Analysis of Learned Helplessness in Mathematics Tutoring: Behavioral Patterns by Level, Intervention, and Outcome",
-    "url": "https://arxiv.org/abs/2604.26237",
+    "id": "f9836e594358",
+    "title": "Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas",
+    "url": "https://arxiv.org/abs/2604.26120",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26237v1 Announce Type: new Abstract: This study applied the Apriori algorithm to analyze behavioral interaction patterns associated with learned helplessness (LH) in mathematics tutoring system logs. Interaction data were examined across three dimensions: LH level (low vs. high), system-b",
-    "collected_at": "2026-04-30T08:30:47.259560"
+    "summary": "arXiv:2604.26120v1 Announce Type: new Abstract: Behavioral logs provide rich signals for user modeling, but are noisy and interleaved across diverse intents. Recent work uses LLMs to generate interpretable natural-language personas from user logs, yet evaluation often emphasizes downstream utility,",
+    "collected_at": "2026-04-30T08:30:47.259325"
   },
   {
     "id": "664d7679f68d",
@@ -276,16 +408,16 @@
     "collected_at": "2026-04-30T08:30:47.517682"
   },
   {
-    "id": "90de5bd90136",
-    "title": "DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent",
-    "url": "https://arxiv.org/abs/2604.26311",
+    "id": "93564aa0acb4",
+    "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
+    "url": "https://arxiv.org/abs/2604.26211",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26311v1 Announce Type: new Abstract: We introduce DreamProver, an agentic framework that leverages a \"wake-sleep\" program induction paradigm to discover reusable lemmas for formal theorem proving. Existing approaches either rely on fixed lemma libraries, which limit adaptability, or synth",
-    "collected_at": "2026-04-30T08:30:47.259647"
+    "summary": "arXiv:2604.26211v1 Announce Type: new Abstract: In order to automate AI research we introduce a full, end-to-end framework, OMEGA: Optimizing Machine learning by Evaluating Generated Algorithms, that starts at idea generation and ends with executable code. Our system combines structured meta-prompt",
+    "collected_at": "2026-04-30T08:30:47.259377"
   },
   {
     "id": "85453c7ab0e9",
@@ -300,16 +432,16 @@
     "collected_at": "2026-04-30T08:30:47.517745"
   },
   {
-    "id": "8d2b9258360a",
-    "title": "Auto-Relational Reasoning",
-    "url": "https://arxiv.org/abs/2604.26507",
+    "id": "31a5c54ad09d",
+    "title": "Persuadability and LLMs as Legal Decision Tools",
+    "url": "https://arxiv.org/abs/2604.26233",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26507v1 Announce Type: new Abstract: Background & Objectives: In the last decade, Machine learning research has grown rapidly, but large models are reaching their soft limits demonstrating diminishing returns and still lack solid reasoning abilities. These limits could be surpassed throug",
-    "collected_at": "2026-04-30T08:30:47.259735"
+    "summary": "arXiv:2604.26233v1 Announce Type: new Abstract: As Large Language Models (LLMs) are proposed as legal decision assistants, and even first-instance decision-makers, across a range of judicial and administrative contexts, it becomes essential to explore how they answer legal questions, and in particul",
+    "collected_at": "2026-04-30T08:30:47.259450"
   },
   {
     "id": "68ea8582b7c4",
@@ -324,16 +456,16 @@
     "collected_at": "2026-04-30T08:30:47.517829"
   },
   {
-    "id": "1c6dccfa2a59",
-    "title": "Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems",
-    "url": "https://arxiv.org/abs/2604.26521",
+    "id": "4247d81b1db8",
+    "title": "Apriori-based Analysis of Learned Helplessness in Mathematics Tutoring: Behavioral Patterns by Level, Intervention, and Outcome",
+    "url": "https://arxiv.org/abs/2604.26237",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26521v1 Announce Type: new Abstract: Compositional generalization remains a foundational weakness of modern neural networks, limiting their robustness and applicability in domains requiring out-of-distribution reasoning. A central, yet unverified, assumption in neuro-symbolic AI is that c",
-    "collected_at": "2026-04-30T08:30:47.259808"
+    "summary": "arXiv:2604.26237v1 Announce Type: new Abstract: This study applied the Apriori algorithm to analyze behavioral interaction patterns associated with learned helplessness (LH) in mathematics tutoring system logs. Interaction data were examined across three dimensions: LH level (low vs. high), system-b",
+    "collected_at": "2026-04-30T08:30:47.259560"
   },
   {
     "id": "4c14687c5e0a",
@@ -348,16 +480,16 @@
     "collected_at": "2026-04-30T08:30:47.517895"
   },
   {
-    "id": "0e5d86b13c22",
-    "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
-    "url": "https://arxiv.org/abs/2604.26522",
+    "id": "90de5bd90136",
+    "title": "DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent",
+    "url": "https://arxiv.org/abs/2604.26311",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26522v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in interactive environments. This work introduces AGEL-Comp, a neuro-symbolic AI agent architecture designed to address this ch",
-    "collected_at": "2026-04-30T08:30:47.259888"
+    "summary": "arXiv:2604.26311v1 Announce Type: new Abstract: We introduce DreamProver, an agentic framework that leverages a \"wake-sleep\" program induction paradigm to discover reusable lemmas for formal theorem proving. Existing approaches either rely on fixed lemma libraries, which limit adaptability, or synth",
+    "collected_at": "2026-04-30T08:30:47.259647"
   },
   {
     "id": "9b5c2bfd08c2",
@@ -372,16 +504,16 @@
     "collected_at": "2026-04-30T08:30:47.517981"
   },
   {
-    "id": "4e07ebaf58d1",
-    "title": "Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control",
-    "url": "https://arxiv.org/abs/2604.26577",
+    "id": "8d2b9258360a",
+    "title": "Auto-Relational Reasoning",
+    "url": "https://arxiv.org/abs/2604.26507",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26577v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly considered for deployment as the control component of robotic health attendants, yet their safety in this context remains poorly characterized. We introduce a dataset of 270 harmful instructions spanning ni",
-    "collected_at": "2026-04-30T08:30:47.259969"
+    "summary": "arXiv:2604.26507v1 Announce Type: new Abstract: Background & Objectives: In the last decade, Machine learning research has grown rapidly, but large models are reaching their soft limits demonstrating diminishing returns and still lack solid reasoning abilities. These limits could be surpassed throug",
+    "collected_at": "2026-04-30T08:30:47.259735"
   },
   {
     "id": "851a5de8de9f",
@@ -396,16 +528,16 @@
     "collected_at": "2026-04-30T08:30:47.518068"
   },
   {
-    "id": "5cf26181fd45",
-    "title": "Human-in-the-Loop Benchmarking of Heterogeneous LLMs for Automated Competency Assessment in Secondary Level Mathematics",
-    "url": "https://arxiv.org/abs/2604.26607",
+    "id": "1c6dccfa2a59",
+    "title": "Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems",
+    "url": "https://arxiv.org/abs/2604.26521",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26607v1 Announce Type: new Abstract: As Competency-Based Education (CBE) is gaining traction around the world, the shift from marks-based assessment to qualitative competency mapping is a manual challenge for educators. This paper tackles the bottleneck issue by suggesting a \"Human-in-the",
-    "collected_at": "2026-04-30T08:30:47.260049"
+    "summary": "arXiv:2604.26521v1 Announce Type: new Abstract: Compositional generalization remains a foundational weakness of modern neural networks, limiting their robustness and applicability in domains requiring out-of-distribution reasoning. A central, yet unverified, assumption in neuro-symbolic AI is that c",
+    "collected_at": "2026-04-30T08:30:47.259808"
   },
   {
     "id": "9c7b30b9d9f4",
@@ -420,16 +552,16 @@
     "collected_at": "2026-04-30T08:30:47.518148"
   },
   {
-    "id": "50fc8b630b6e",
-    "title": "When to Vote, When to Rewrite: Disagreement-Guided Strategy Routing for Test-Time Scaling",
-    "url": "https://arxiv.org/abs/2604.26644",
+    "id": "0e5d86b13c22",
+    "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
+    "url": "https://arxiv.org/abs/2604.26522",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26644v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) achieve strong performance on mathematical reasoning tasks but remain unreliable on challenging instances. Existing test-time scaling methods, such as repeated sampling, self-correction, and tree search, improve performanc",
-    "collected_at": "2026-04-30T08:30:47.260117"
+    "summary": "arXiv:2604.26522v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in interactive environments. This work introduces AGEL-Comp, a neuro-symbolic AI agent architecture designed to address this ch",
+    "collected_at": "2026-04-30T08:30:47.259888"
   },
   {
     "id": "47eb22db56ad",
@@ -444,16 +576,16 @@
     "collected_at": "2026-04-30T08:30:47.518234"
   },
   {
-    "id": "cedf901b9b76",
-    "title": "SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data",
-    "url": "https://arxiv.org/abs/2604.26645",
+    "id": "4e07ebaf58d1",
+    "title": "Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control",
+    "url": "https://arxiv.org/abs/2604.26577",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26645v1 Announce Type: new Abstract: AI-for-Science (AI4Science) is increasingly transforming scientific discovery by embedding machine learning models into prediction, simulation, and hypothesis generation workflows across domains. However, the effectiveness of these models is fundamenta",
-    "collected_at": "2026-04-30T08:30:47.260200"
+    "summary": "arXiv:2604.26577v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly considered for deployment as the control component of robotic health attendants, yet their safety in this context remains poorly characterized. We introduce a dataset of 270 harmful instructions spanning ni",
+    "collected_at": "2026-04-30T08:30:47.259969"
   },
   {
     "id": "55c2500dc838",
@@ -468,16 +600,16 @@
     "collected_at": "2026-04-30T08:30:47.518311"
   },
   {
-    "id": "0a73be8b8c75",
-    "title": "FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards",
-    "url": "https://arxiv.org/abs/2604.26733",
+    "id": "5cf26181fd45",
+    "title": "Human-in-the-Loop Benchmarking of Heterogeneous LLMs for Automated Competency Assessment in Secondary Level Mathematics",
+    "url": "https://arxiv.org/abs/2604.26607",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26733v1 Announce Type: new Abstract: Live future prediction refers to the task of making predictions about real-world events before they unfold. This task is increasingly studied using large language model-based agent systems, and it is important for building agents that can continually l",
-    "collected_at": "2026-04-30T08:30:47.260274"
+    "summary": "arXiv:2604.26607v1 Announce Type: new Abstract: As Competency-Based Education (CBE) is gaining traction around the world, the shift from marks-based assessment to qualitative competency mapping is a manual challenge for educators. This paper tackles the bottleneck issue by suggesting a \"Human-in-the",
+    "collected_at": "2026-04-30T08:30:47.260049"
   },
   {
     "id": "026b1119e1d7",
@@ -492,16 +624,16 @@
     "collected_at": "2026-04-30T08:30:47.518388"
   },
   {
-    "id": "2a57d4ecefac",
-    "title": "Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations",
-    "url": "https://arxiv.org/abs/2604.26805",
+    "id": "50fc8b630b6e",
+    "title": "When to Vote, When to Rewrite: Disagreement-Guided Strategy Routing for Test-Time Scaling",
+    "url": "https://arxiv.org/abs/2604.26644",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26805v1 Announce Type: new Abstract: Operating and maintaining (O&M) large-scale online engine systems (search, recommendation, advertising) demands substantial human effort for release monitoring, alert response, and root cause analysis. While LLM-based agents are a natural fit for these",
-    "collected_at": "2026-04-30T08:30:47.260363"
+    "summary": "arXiv:2604.26644v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) achieve strong performance on mathematical reasoning tasks but remain unreliable on challenging instances. Existing test-time scaling methods, such as repeated sampling, self-correction, and tree search, improve performanc",
+    "collected_at": "2026-04-30T08:30:47.260117"
   },
   {
     "id": "b53e7119f9cb",
@@ -516,16 +648,16 @@
     "collected_at": "2026-04-30T08:30:47.518450"
   },
   {
-    "id": "99d1942e29f9",
-    "title": "Risk Reporting for Developers' Internal AI Model Use",
-    "url": "https://arxiv.org/abs/2604.24966",
+    "id": "cedf901b9b76",
+    "title": "SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data",
+    "url": "https://arxiv.org/abs/2604.26645",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.24966v1 Announce Type: cross Abstract: Frontier AI companies first deploy their most advanced models internally, for weeks or months of safety testing, evaluation, and iteration, before a possible public release. For example, Anthropic recently developed a new class of model with advanced",
-    "collected_at": "2026-04-30T08:30:47.260464"
+    "summary": "arXiv:2604.26645v1 Announce Type: new Abstract: AI-for-Science (AI4Science) is increasingly transforming scientific discovery by embedding machine learning models into prediction, simulation, and hypothesis generation workflows across domains. However, the effectiveness of these models is fundamenta",
+    "collected_at": "2026-04-30T08:30:47.260200"
   },
   {
     "id": "f950f6d24030",
@@ -540,16 +672,16 @@
     "collected_at": "2026-04-30T08:30:47.518529"
   },
   {
-    "id": "791d24cc3857",
-    "title": "Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats",
-    "url": "https://arxiv.org/abs/2604.25920",
+    "id": "0a73be8b8c75",
+    "title": "FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards",
+    "url": "https://arxiv.org/abs/2604.26733",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.25920v1 Announce Type: cross Abstract: Despite their strong linguistic capabilities, Large Language Models (LLMs) are computationally demanding and require substantial resources for fine-tuning, which is unadapted to privacy and budget constraints of many healthcare settings. To address t",
-    "collected_at": "2026-04-30T08:30:47.260522"
+    "summary": "arXiv:2604.26733v1 Announce Type: new Abstract: Live future prediction refers to the task of making predictions about real-world events before they unfold. This task is increasingly studied using large language model-based agent systems, and it is important for building agents that can continually l",
+    "collected_at": "2026-04-30T08:30:47.260274"
   },
   {
     "id": "f359af1d7a9c",
@@ -564,16 +696,16 @@
     "collected_at": "2026-04-30T08:30:47.518632"
   },
   {
-    "id": "886e43492120",
-    "title": "Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models",
-    "url": "https://arxiv.org/abs/2604.25922",
+    "id": "2a57d4ecefac",
+    "title": "Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations",
+    "url": "https://arxiv.org/abs/2604.26805",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.25922v1 Announce Type: cross Abstract: We present DenialBench, a systematic benchmark measuring consciousness denial behaviors across 115 large language models from 25+ providers. Using a three-turn conversational protocol-preference elicitation, self-chosen creative prompt, and structure",
-    "collected_at": "2026-04-30T08:30:47.260607"
+    "summary": "arXiv:2604.26805v1 Announce Type: new Abstract: Operating and maintaining (O&M) large-scale online engine systems (search, recommendation, advertising) demands substantial human effort for release monitoring, alert response, and root cause analysis. While LLM-based agents are a natural fit for these",
+    "collected_at": "2026-04-30T08:30:47.260363"
   },
   {
     "id": "e4a2213cae21",
@@ -588,16 +720,16 @@
     "collected_at": "2026-04-30T08:30:47.518700"
   },
   {
-    "id": "19231aeade95",
-    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-    "source": "TechCrunch AI",
+    "id": "99d1942e29f9",
+    "title": "Risk Reporting for Developers' Internal AI Model Use",
+    "url": "https://arxiv.org/abs/2604.24966",
+    "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-04-30T03:58:22",
-    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-    "collected_at": "2026-04-30T08:30:32.056969"
+    "priority": 2,
+    "published": "2026-04-30T04:00:00",
+    "summary": "arXiv:2604.24966v1 Announce Type: cross Abstract: Frontier AI companies first deploy their most advanced models internally, for weeks or months of safety testing, evaluation, and iteration, before a possible public release. For example, Anthropic recently developed a new class of model with advanced",
+    "collected_at": "2026-04-30T08:30:47.260464"
   },
   {
     "id": "63086060e55e",
@@ -612,16 +744,16 @@
     "collected_at": "2026-04-30T08:30:47.518782"
   },
   {
-    "id": "76438587fcce",
-    "title": "市场消息：软银寻求400亿美元贷款用于投资OpenAI的计划吸引了更多银行参与",
-    "url": "https://36kr.com/newsflashes/3788730370415618?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-30T02:55:50",
-    "summary": "市场消息：软银寻求400亿美元贷款用于投资OpenAI的计划吸引了更多银行参与。（新浪财经）",
-    "collected_at": "2026-04-30T03:28:31.410387"
+    "id": "791d24cc3857",
+    "title": "Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats",
+    "url": "https://arxiv.org/abs/2604.25920",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T04:00:00",
+    "summary": "arXiv:2604.25920v1 Announce Type: cross Abstract: Despite their strong linguistic capabilities, Large Language Models (LLMs) are computationally demanding and require substantial resources for fine-tuning, which is unadapted to privacy and budget constraints of many healthcare settings. To address t",
+    "collected_at": "2026-04-30T08:30:47.260522"
   },
   {
     "id": "c87f6b78f5bd",
@@ -636,16 +768,16 @@
     "collected_at": "2026-04-30T08:30:47.518881"
   },
   {
-    "id": "be809de82fb9",
-    "title": "云迹科技发布2025年报，智能体应用收入增长194%",
-    "url": "https://36kr.com/newsflashes/3788697238166790?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-30T02:22:07",
-    "summary": "36氪获悉，云迹科技2025年年报显示，期内总收入3.01亿元，同比增长23.1%。智能体应用收入增长194.1%，占总收入比重跃升至11.3%；HDOS订阅客户数大��925%；AI数字化系统收入增长57.3%，占比升至29.2%。海外收入增长92.1%，工厂场景增长393%。公司正从硬件供应商向服务智能体平台转型，收入结构迈向持续性现金流，估值逻辑重构。",
-    "collected_at": "2026-04-30T03:28:31.410562"
+    "id": "886e43492120",
+    "title": "Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models",
+    "url": "https://arxiv.org/abs/2604.25922",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T04:00:00",
+    "summary": "arXiv:2604.25922v1 Announce Type: cross Abstract: We present DenialBench, a systematic benchmark measuring consciousness denial behaviors across 115 large language models from 25+ providers. Using a three-turn conversational protocol-preference elicitation, self-chosen creative prompt, and structure",
+    "collected_at": "2026-04-30T08:30:47.260607"
   },
   {
     "id": "a8a16867651f",
@@ -660,16 +792,28 @@
     "collected_at": "2026-04-30T08:30:47.518964"
   },
   {
-    "id": "1b1a5f0498f0",
-    "title": "摩根资产管理认为美联储加息的门槛很高",
-    "url": "https://36kr.com/newsflashes/3788696181349635?f=rss",
+    "id": "19231aeade95",
+    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T03:58:22",
+    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "collected_at": "2026-04-30T08:30:32.056969"
+  },
+  {
+    "id": "76438587fcce",
+    "title": "市场消息：软银寻求400亿美元贷款用于投资OpenAI的计划吸引了更多银行参与",
+    "url": "https://36kr.com/newsflashes/3788730370415618?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-04-30T02:21:03",
-    "summary": "摩根资产管理亚太首席市场策略师Tai Hui表示，美联储在可预见的未来可能维持利率不变。Tai Hui表示，鉴于多数委员觉得当前政策立场已属于中性，美联储可以保持耐心，观察中东冲突及其对经济和通胀的影响。他还表示，决策官员的分歧显示在高度不确定时期，美联储内部缺乏共识，这可能在新任主席上任后仍将持续。（新浪财经）",
-    "collected_at": "2026-04-30T03:28:31.410599"
+    "published": "2026-04-30T02:55:50",
+    "summary": "市场消息：软银寻求400亿美元贷款用于投资OpenAI的计划吸引了更多银行参与。（新浪财经）",
+    "collected_at": "2026-04-30T03:28:31.410387"
   },
   {
     "id": "554e54d9457a",
@@ -684,6 +828,18 @@
     "collected_at": "2026-04-30T08:30:40.757287"
   },
   {
+    "id": "be809de82fb9",
+    "title": "云迹科技发布2025年报，智能体应用收入增长194%",
+    "url": "https://36kr.com/newsflashes/3788697238166790?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-30T02:22:07",
+    "summary": "36氪获悉，云迹科技2025年年报显示，期内总收入3.01亿元，同比增长23.1%。智能体应用收入增长194.1%，占总收入比重跃升至11.3%；HDOS订阅客户数大��925%；AI数字化系统收入增长57.3%，占比升至29.2%。海外收入增长92.1%，工厂场景增长393%。公司正从硬件供应商向服务智能体平台转型，收入结构迈向持续性现金流，估值逻辑重构。",
+    "collected_at": "2026-04-30T03:28:31.410562"
+  },
+  {
     "id": "e46236051f73",
     "title": "[AINews] The Inference Inflection",
     "url": "https://www.latent.space/p/ainews-the-inference-inflection",
@@ -694,6 +850,18 @@
     "published": "2026-04-30T01:42:51",
     "summary": "a quiet day lets us reflect on the growing implications of the inference age",
     "collected_at": "2026-04-30T03:28:28.758974"
+  },
+  {
+    "id": "1b1a5f0498f0",
+    "title": "摩根资产管理认为美联储加息的门槛很高",
+    "url": "https://36kr.com/newsflashes/3788696181349635?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-04-30T02:21:03",
+    "summary": "摩根资产管理亚太首席市场策略师Tai Hui表示，美联储在可预见的未来可能维持利率不变。Tai Hui表示，鉴于多数委员觉得当前政策立场已属于中性，美联储可以保持耐心，观察中东冲突及其对经济和通胀的影响。他还表示，决策官员的分歧显示在高度不确定时期，美联储内部缺乏共识，这可能在新任主席上任后仍将持续。（新浪财经）",
+    "collected_at": "2026-04-30T03:28:31.410599"
   },
   {
     "id": "e30e52cfe9b6",
@@ -730,6 +898,18 @@
     "published": "2026-04-30T01:16:28",
     "summary": "Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。查看全文",
     "collected_at": "2026-04-30T03:28:38.640215"
+  },
+  {
+    "id": "7a51950f7124",
+    "title": "Mike: open-source legal AI",
+    "url": "https://mikeoss.com/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T00:56:23",
+    "summary": "Article URL: https://mikeoss.com/ Comments URL: https://news.ycombinator.com/item?id=47956739 Points: 148 # Comments: 65",
+    "collected_at": "2026-04-30T14:08:55.165415"
   },
   {
     "id": "dd496f02265b",
@@ -3418,185 +3598,5 @@
     "published": "2026-04-28T00:00:00",
     "summary": "近期，数字科技文娱公司星迹互动完成了数千万元的天使轮融资。本轮投资方包括正大集团、北京大融文化传媒、禹牧智能以及麦迈科技等。36氪获悉，此次融资将主要用于公司人员规模的扩张、产能拉升以及平台建设。 星迹互动于2025年成立，以AI为核心驱动力，专注于精品IP的开发与运营。具体来讲，公司的业务包括新老IP的开发与运营、漫剧的承制与出海、儿童原创动画孵化，以及数字人IP与虚拟偶像的打造。 公司创始人张文广是连续创业者，曾是二更联合创始人、微梦传媒高级副总裁，在品牌传播领域积累了丰富的经验。 资方北京大融文化传媒CEO曹柏松如此评价张文广和星迹互动——AI内容赛道中有很多野蛮生长的公司，他们的逻辑是",
     "collected_at": "2026-04-28T03:33:31.480987"
-  },
-  {
-    "id": "d0682fe009b6",
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "url": "https://openai.com/index/openai-on-aws",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T00:00:00",
-    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-    "collected_at": "2026-04-28T19:51:42.551677"
-  },
-  {
-    "id": "9718caf249b2",
-    "title": "「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发",
-    "url": "https://36kr.com/p/3784480103455748?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T00:00:00",
-    "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。本轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。 去年底，寻明生科就曾获得一笔数千万美元的A轮融资。截至目前，公司A轮次融资的累计金额已接近1亿美元。 寻明生科方面表示，本轮募集资金将用于推动自研创新功能抗体设计平台AuraIDE™建设，加大基座模型与智能体能力建设、完善高通量高内涵实验平台设施，进一步打通智能体从立项、分子设计到转化落地的关键环节。 2023年成立至今的3年间，寻明生科已完成从搭建生成式抗体药物研发平",
-    "collected_at": "2026-04-28T03:33:31.481057"
-  },
-  {
-    "id": "1dc472c1198d",
-    "title": "Our commitment to community safety",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T00:00:00",
-    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-    "collected_at": "2026-04-29T03:33:54.441278"
-  },
-  {
-    "id": "10e2fcea5ceb",
-    "title": "microsoft/VibeVoice",
-    "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-27T23:46:56",
-    "summary": "microsoft/VibeVoice VibeVoice is Microsoft's Whisper-style audio model for speech-to-text, MIT licensed and with speaker diarization built into the model. Microsoft released it on January 21st, 2026 but I hadn't tried it until today. Here's a one-liner to run it on a Mac with uv, mlx-audio (by Princ",
-    "collected_at": "2026-04-28T03:33:29.325266"
-  },
-  {
-    "id": "5eab88a3515a",
-    "title": "Physical AI that Moves the World — Qasar Younis & Peter Ludwig, Applied Intuition",
-    "url": "https://www.latent.space/p/appliedintuition",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-27T23:02:37",
-    "summary": "Applied Intuition puts the AI in mining rigs, drones, trucks, warships and physical vehicles in the most adversarial environments imaginable. We dive in with their CEO and CTO as they emerge.",
-    "collected_at": "2026-04-28T03:33:29.621057"
-  },
-  {
-    "id": "370be1499991",
-    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-    "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-27T22:52:57",
-    "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris",
-    "collected_at": "2026-04-28T03:33:22.248535"
-  },
-  {
-    "id": "5c286e0b1694",
-    "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-    "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-27T20:47:45",
-    "summary": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday detailing plans to add AI features to the Linux distro over the next year. As the post states, the",
-    "collected_at": "2026-04-28T03:33:22.117429"
-  },
-  {
-    "id": "35b19ebc7468",
-    "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-    "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-27T18:38:17",
-    "summary": "For many years, Microsoft and OpenAI's relationship has included a weird clause saying that, should AGI be achieved, Microsoft's commercial IP rights to OpenAI's technology would be null and void. That clause appeared to end today. I decided to try and track its expression over time on openai.com. O",
-    "collected_at": "2026-04-27T19:27:34.680442"
-  },
-  {
-    "id": "b674898a18bb",
-    "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-27T18:17:12",
-    "summary": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizers claim many of the signers work in Google's DeepMind AI lab, and include more than 20 principals, d",
-    "collected_at": "2026-04-27T19:27:23.485056"
-  },
-  {
-    "id": "cd10cd32bf8a",
-    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-    "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-27T17:40:38",
-    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
-    "collected_at": "2026-04-27T19:27:23.334394"
-  },
-  {
-    "id": "6e3a722854c9",
-    "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
-    "url": "https://36kr.com/p/3784806758243587?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-27T16:27:19",
-    "summary": "在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。 爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，正进入正常的开发周期”，2026年将逐步导入多款车型，成为业绩增长的重要引擎。目前，传统终端计算产品仍占爱芯元智收入的超80%，车载和边缘计算业务的收入占比较低，仇肖莘预计未来三年内，这一局面将被改写。 仇肖莘对M97的性能表现颇为信心，她表示：“当前主流高阶辅助驾驶芯片有比较大的问题，就是带宽不够。我",
-    "collected_at": "2026-04-27T19:27:37.930443"
-  },
-  {
-    "id": "7b2e4a2048b5",
-    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
-    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-27T17:24:21",
-    "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-    "collected_at": "2026-04-27T19:27:23.334451"
-  },
-  {
-    "id": "0147e1017b65",
-    "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-27T16:15:47",
-    "summary": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has officially been dropped. On Monday morning, Microsoft announced a handful of big changes to its long-st",
-    "collected_at": "2026-04-27T19:27:23.485122"
-  },
-  {
-    "id": "c4880d927b46",
-    "title": "The missing step between hype and profit",
-    "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-27T16:13:41",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B",
-    "collected_at": "2026-04-27T19:27:23.741885"
-  },
-  {
-    "id": "82d5d55d2c74",
-    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-27T16:13:02",
-    "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-    "collected_at": "2026-04-27T19:27:23.334493"
   }
 ]
