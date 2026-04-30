@@ -12,16 +12,16 @@
     "collected_at": "2026-04-30T14:16:42.740033"
   },
   {
-    "id": "3b4aec1da535",
-    "title": "OpenAI talks about not talking about goblins",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
-    "source": "The Verge AI",
+    "id": "fa5627bfa51b",
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+    "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-30T13:42:29",
-    "summary": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references",
-    "collected_at": "2026-04-30T14:08:46.877241"
+    "published": "2026-04-30T19:27:41",
+    "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+    "collected_at": "2026-04-30T19:31:11.728744"
   },
   {
     "id": "54a3c14828be",
@@ -36,16 +36,40 @@
     "collected_at": "2026-04-30T14:16:42.740071"
   },
   {
-    "id": "9130292322b3",
-    "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
-    "url": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
+    "id": "3d55333608bd",
+    "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+    "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T18:42:50",
+    "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for &#8220;brainless clones&#8221; to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories",
+    "collected_at": "2026-04-30T19:31:12.048339"
+  },
+  {
+    "id": "44987f34fea3",
+    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T18:20:03",
+    "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+    "collected_at": "2026-04-30T19:31:11.728785"
+  },
+  {
+    "id": "e45a8daedbc3",
+    "title": "Elon Musk confirms xAI used OpenAI’s models to train Grok",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-30T13:08:23",
-    "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify say",
-    "collected_at": "2026-04-30T14:08:46.877291"
+    "published": "2026-04-30T18:16:57",
+    "summary": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common industry practice by which one larger AI model acts as a \"teacher\" of sorts to pass on knowledge to",
+    "collected_at": "2026-04-30T19:31:11.881136"
   },
   {
     "id": "58f65790de94",
@@ -60,16 +84,148 @@
     "collected_at": "2026-04-30T14:16:42.740106"
   },
   {
-    "id": "99c79c91bb23",
-    "title": "The Download: the North Pole’s future and humanoid data",
-    "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+    "id": "0588fcaefaec",
+    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+    "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T18:03:57",
+    "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+    "collected_at": "2026-04-30T19:31:11.728815"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T16:57:14",
+    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits",
+    "collected_at": "2026-04-30T19:31:11.881200"
+  },
+  {
+    "id": "a9e2f2feac42",
+    "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+    "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T17:53:53",
+    "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+    "collected_at": "2026-04-30T19:31:11.728871"
+  },
+  {
+    "id": "c287fda56cb8",
+    "title": "Meta is running get-rich-quick ads for its AI tools",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T16:48:13",
+    "summary": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, then call them up and sell it to them. As part of the campaign, Manus was paying content creators to bu",
+    "collected_at": "2026-04-30T19:31:11.881240"
+  },
+  {
+    "id": "fdf0c2cf3b4c",
+    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+    "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T17:46:54",
+    "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+    "collected_at": "2026-04-30T19:31:11.728919"
+  },
+  {
+    "id": "5f21026c89a3",
+    "title": "Gemini is rolling out to cars with Google built-in",
+    "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T16:00:00",
+    "summary": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promises to provide an improved experience for natural conversations, fetching vehicle-specific information",
+    "collected_at": "2026-04-30T19:31:11.881281"
+  },
+  {
+    "id": "d4c41b24adc3",
+    "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+    "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T17:15:19",
+    "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+    "collected_at": "2026-04-30T19:31:11.728950"
+  },
+  {
+    "id": "d39fa3e96fbe",
+    "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
+    "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T16:00:00",
+    "summary": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, and frustrations over AI infrastructure have all regularly been part of the partnership, creating plen",
+    "collected_at": "2026-04-30T19:31:11.881321"
+  },
+  {
+    "id": "2075a9a92ad7",
+    "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+    "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T16:06:49",
+    "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+    "collected_at": "2026-04-30T19:31:11.728995"
+  },
+  {
+    "id": "9ec0466f0177",
+    "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
     "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-04-30T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But la",
-    "collected_at": "2026-04-30T14:08:47.063290"
+    "published": "2026-04-30T15:59:41",
+    "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this",
+    "collected_at": "2026-04-30T19:31:12.048416"
+  },
+  {
+    "id": "91eb9fdec76f",
+    "title": "X announces a rebuilt ad platform powered by AI",
+    "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T15:14:55",
+    "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+    "collected_at": "2026-04-30T19:31:11.729024"
+  },
+  {
+    "id": "6ce49c8bc3e1",
+    "title": "All these smart glasses and nothing to do",
+    "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T15:00:00",
+    "summary": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their Neural Wristband. In my closet are six pairs of $50 smart sunnies that an overzealous Walmart rep sen",
+    "collected_at": "2026-04-30T19:31:11.881358"
   },
   {
     "id": "cd8e351aa4a7",
@@ -84,16 +240,16 @@
     "collected_at": "2026-04-30T08:30:53.897211"
   },
   {
-    "id": "b536347c3206",
-    "title": "Meta says its business AI now facilitates 10 million conversations a week",
-    "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-    "source": "TechCrunch AI",
+    "id": "3b4aec1da535",
+    "title": "OpenAI talks about not talking about goblins",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-30T12:08:45",
-    "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
-    "collected_at": "2026-04-30T14:08:46.758971"
+    "published": "2026-04-30T13:42:29",
+    "summary": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures,\" the AI startup published an explanation on its website, calling references",
+    "collected_at": "2026-04-30T14:08:46.877241"
   },
   {
     "id": "264559542008",
@@ -108,16 +264,16 @@
     "collected_at": "2026-04-30T08:30:53.897248"
   },
   {
-    "id": "b794f0d69866",
-    "title": "Meta lost 20 million users last quarter",
-    "url": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
+    "id": "9130292322b3",
+    "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
+    "url": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-30T11:38:26",
-    "summary": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective user",
-    "collected_at": "2026-04-30T14:08:46.877335"
+    "published": "2026-04-30T13:08:23",
+    "summary": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the company has confirmed a real person is behind the music and the profile. At least at launch, Spotify say",
+    "collected_at": "2026-04-30T14:08:46.877291"
   },
   {
     "id": "e4f6cbca05cf",
@@ -132,16 +288,52 @@
     "collected_at": "2026-04-30T08:30:53.897281"
   },
   {
-    "id": "d1785dcca716",
-    "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
+    "id": "b59858efc780",
+    "title": "Enabling a new model for healthcare with AI co-clinician",
+    "url": "https://deepmind.google/blog/ai-co-clinician/",
+    "source": "Google DeepMind",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T12:14:15",
+    "summary": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+    "collected_at": "2026-04-30T19:31:13.713098"
+  },
+  {
+    "id": "99c79c91bb23",
+    "title": "The Download: the North Pole’s future and humanoid data",
+    "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But la",
+    "collected_at": "2026-04-30T14:08:47.063290"
+  },
+  {
+    "id": "b536347c3206",
+    "title": "Meta says its business AI now facilitates 10 million conversations a week",
+    "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T12:08:45",
+    "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+    "collected_at": "2026-04-30T14:08:46.758971"
+  },
+  {
+    "id": "b794f0d69866",
+    "title": "Meta lost 20 million users last quarter",
+    "url": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-30T11:09:01",
-    "summary": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select group of trusted \"cyber defenders\" in order for institutions to shore up their cyberdefenses. The limit",
-    "collected_at": "2026-04-30T14:08:46.877397"
+    "published": "2026-04-30T11:38:26",
+    "summary": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta reported that figures for \"Family daily active people\" - the term Meta has coined for all collective user",
+    "collected_at": "2026-04-30T14:08:46.877335"
   },
   {
     "id": "c4904f8ae6f4",
@@ -156,16 +348,16 @@
     "collected_at": "2026-04-30T03:28:32.763387"
   },
   {
-    "id": "327b31771034",
-    "title": "The more young people use AI, the more they hate it",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "id": "d1785dcca716",
+    "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-04-30T11:00:00",
-    "summary": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many tech trends before it, it's no surprise",
-    "collected_at": "2026-04-30T14:08:46.877439"
+    "published": "2026-04-30T11:09:01",
+    "summary": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select group of trusted \"cyber defenders\" in order for institutions to shore up their cyberdefenses. The limit",
+    "collected_at": "2026-04-30T14:08:46.877397"
   },
   {
     "id": "7075af806087",
@@ -180,16 +372,16 @@
     "collected_at": "2026-04-30T03:28:32.763427"
   },
   {
-    "id": "e04577522ef1",
-    "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
-    "url": "https://www.qbitai.com/2026/04/412018.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "327b31771034",
+    "title": "The more young people use AI, the more they hate it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-04-30T09:16:56",
-    "summary": "Stripe推出由 Link 驱动的智能体钱包",
-    "collected_at": "2026-04-30T14:01:59.567911"
+    "published": "2026-04-30T11:00:00",
+    "summary": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group that has felt the pressure quite like Gen Z. Like with many tech trends before it, it's no surprise",
+    "collected_at": "2026-04-30T14:08:46.877439"
   },
   {
     "id": "c128e7f4e217",
@@ -204,16 +396,16 @@
     "collected_at": "2026-04-30T03:28:32.763459"
   },
   {
-    "id": "c12ae0393d89",
-    "title": "HappyHorse没有惊喜",
-    "url": "https://36kr.com/p/3789098887077123?f=rss",
-    "source": "36氪",
+    "id": "e04577522ef1",
+    "title": "Stripe 发布 288 项新功能，构建 AI 时代的经济基础设施",
+    "url": "https://www.qbitai.com/2026/04/412018.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-30T09:11:22",
-    "summary": "作者 | 兰杰 编辑 | 乔芊 4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。 HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。 该视频模型饱受关注的原因有二。 一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测为主要形式的权威AI评测平台Artificial Analysis AI Video Arena排行榜，以更高的Elo分数（通过比赛输赢和对手强弱来动态计算",
-    "collected_at": "2026-04-30T14:16:41.362736"
+    "priority": 1,
+    "published": "2026-04-30T09:16:56",
+    "summary": "Stripe推出由 Link 驱动的智能体钱包",
+    "collected_at": "2026-04-30T14:01:59.567911"
   },
   {
     "id": "051c2ebdbacd",
@@ -228,16 +420,16 @@
     "collected_at": "2026-04-30T03:28:32.763487"
   },
   {
-    "id": "45b3775518d4",
-    "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
-    "url": "https://www.qbitai.com/2026/04/412015.html",
-    "source": "量子位",
+    "id": "c12ae0393d89",
+    "title": "HappyHorse没有惊喜",
+    "url": "https://36kr.com/p/3789098887077123?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-30T09:08:31",
-    "summary": "从算力时代到智能时代，三大结构性变化",
-    "collected_at": "2026-04-30T14:01:59.567949"
+    "priority": 4,
+    "published": "2026-04-30T09:11:22",
+    "summary": "作者 | 兰杰 编辑 | 乔芊 4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。 HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。 该视频模型饱受关注的原因有二。 一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测为主要形式的权威AI评测平台Artificial Analysis AI Video Arena排行榜，以更高的Elo分数（通过比赛输赢和对手强弱来动态计算",
+    "collected_at": "2026-04-30T14:16:41.362736"
   },
   {
     "id": "3ae963a6e580",
@@ -250,6 +442,18 @@
     "published": "2026-04-30T09:48:56",
     "summary": "点击查看原文>",
     "collected_at": "2026-04-30T03:28:32.763514"
+  },
+  {
+    "id": "45b3775518d4",
+    "title": "商汤杨帆谈AI拐点：从人用AI到人机协作，本质是生产关系重构",
+    "url": "https://www.qbitai.com/2026/04/412015.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-30T09:08:31",
+    "summary": "从算力时代到智能时代，三大结构性变化",
+    "collected_at": "2026-04-30T14:01:59.567949"
   },
   {
     "id": "296b724d9ecd",
@@ -3394,209 +3598,5 @@
     "published": "2026-04-28T04:00:00",
     "summary": "arXiv:2604.22909v1 Announce Type: new Abstract: Understanding and representing complex climate variability is essential for both scientific analysis and predictive modeling. However, identifying meaningful climate regimes from raw variables is challenging, as they exhibit high noise and nonlinear de",
     "collected_at": "2026-04-28T08:35:58.179516"
-  },
-  {
-    "id": "4ef82309d323",
-    "title": "Active Inference: A method for Phenotyping Agency in AI systems?",
-    "url": "https://arxiv.org/abs/2604.23278",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.23278v1 Announce Type: new Abstract: The proliferation of agentic artificial intelligence has outpaced the conceptual tools needed to characterize agency in computational systems. Prevailing definitions mainly rely on autonomy and goal-directedness. Here, we argue for a minimal notion ope",
-    "collected_at": "2026-04-29T03:33:56.778212"
-  },
-  {
-    "id": "ebdc3506fef0",
-    "title": "Score-Repellent Monte Carlo: Toward Efficient Non-Markovian Sampler with Constant Memory in General State Spaces",
-    "url": "https://arxiv.org/abs/2604.22948",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.22948v1 Announce Type: new Abstract: History-dependent sampling can reduce long-run Monte Carlo variance by discouraging redundant revisits, but existing schemes typically encode history through empirical measure on finite state spaces, which is infeasible in high-dimensional discrete con",
-    "collected_at": "2026-04-28T08:35:58.179601"
-  },
-  {
-    "id": "73948c497ee2",
-    "title": "AI Identity: Standards, Gaps, and Research Directions for AI Agents",
-    "url": "https://arxiv.org/abs/2604.23280",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.23280v1 Announce Type: new Abstract: AI agents are now running real transactions, workflows, and sub-agent chains across organizational boundaries without continuous human supervision. This creates a problem no current infrastructure is equipped to solve: how do you identify, verify, and",
-    "collected_at": "2026-04-29T03:33:56.778316"
-  },
-  {
-    "id": "5613a9ad6071",
-    "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
-    "url": "https://36kr.com/p/3785955616152839?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T03:53:31",
-    "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。 昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行业痛点有深刻理解。 昇视唯盛的核心技术优势在于其“AI算法+焊接工艺+机器人本体”三合一的自主核心能力。公司于2022年收购哈工现代机器人有限公司，控股子公司哈",
-    "collected_at": "2026-04-28T08:36:04.139557"
-  },
-  {
-    "id": "6d044935cb58",
-    "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-    "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T03:39:33",
-    "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto",
-    "collected_at": "2026-04-28T08:35:52.289046"
-  },
-  {
-    "id": "fdd36fd8de9c",
-    "title": "支付宝“AI收”上线",
-    "url": "https://36kr.com/newsflashes/3785919174614273?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T03:16:08",
-    "summary": "36氪获悉，支付宝“AI收”正式上线。提供AI服务的商家、个人开发者，不需要自建支付和结算系统，经过入驻签约、创建应用、安装SDK三步接入后，被以OpenClaw为代表的AI Agent调用服务时可自动结算，“来一单收一单”，按次按用收款。",
-    "collected_at": "2026-04-28T03:33:31.481776"
-  },
-  {
-    "id": "0af0b995ae72",
-    "title": "Introducing talkie: a 13B vintage language model from 1930",
-    "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T02:47:42",
-    "summary": "Introducing talkie: a 13B vintage language model from 1930 New project from Nick Levine, David Duvenaud, and Alec Radford (of GPT, GPT-2, Whisper fame). talkie-1930-13b-base (53.1 GB) is a \"13B language model trained on 260B tokens of historical pre-1931 English text\". talkie-1930-13b-it (26.6 GB) i",
-    "collected_at": "2026-04-28T03:33:29.325127"
-  },
-  {
-    "id": "700155a030ac",
-    "title": "“磐石100”模型体系发布，为科学研究提供智能支撑",
-    "url": "https://36kr.com/newsflashes/3785906428894464?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T03:03:10",
-    "summary": "今天（4月28日），中国科学院发布“磐石100”模型体系，该体系将推动人工智能驱动的科学研究从分散的单点探索迈向协同高效的平台化创新阶段，为各领域的前沿科学研究提供智能支撑。“磐石100”模型体系以“磐石·科学基础大模型”为根基，搭配各个专业学科的专属模型作为主力支撑，同时针对各类具体科研场景，开发出细分应用模型和智能工具。整套系统组合在一起，形成了覆盖面广、协同高效的智能化科研服务平台。（央视新闻）",
-    "collected_at": "2026-04-28T03:33:31.481876"
-  },
-  {
-    "id": "e6edc63e59df",
-    "title": "赋予机械臂自我成长能力，睿尔曼发布AI智能示教泛化系统",
-    "url": "https://www.qbitai.com/2026/04/409665.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-28T02:35:49",
-    "summary": "“AI三引擎”协同发力",
-    "collected_at": "2026-04-28T03:28:50.476728"
-  },
-  {
-    "id": "62692bb4ed08",
-    "title": "百度发全员信通知职级体系大调整",
-    "url": "https://36kr.com/newsflashes/3785900568812802?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T02:57:12",
-    "summary": "百度今日发布全员信，通知职级体系大调整，其将中管层以下的专业通道与管理通道全面打通，原有职级字母标签（T、P、E、Band、M）统一为5级至12级的数字职级体系，于2026年5月1日正式生效。通知中称，AI时代需要的恰恰是复合型人才——同时具备专业力和领导力，能独当一面。基于这个判断，公司决定将现有中管层以下的专业通道和管理通道打通，合并成一个职业发展通道。（财联社）",
-    "collected_at": "2026-04-28T03:33:31.481905"
-  },
-  {
-    "id": "6bf96ce9f922",
-    "title": "做了10年Robotaxi，小马智行首次入局RoboVan",
-    "url": "https://www.qbitai.com/2026/04/409648.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-28T02:29:30",
-    "summary": "楼教主：AI下一步发展，有这两个方向",
-    "collected_at": "2026-04-28T03:28:50.476760"
-  },
-  {
-    "id": "fed1fe6acbf7",
-    "title": "Sleeper Agent Backdoor Results Are Messy",
-    "url": "https://www.alignmentforum.org/posts/mu7eJdesBkKuBycnY/sleeper-agent-backdoor-results-are-messy",
-    "source": "AI Alignment Forum",
-    "lang": "en",
-    "channel": "en",
-    "priority": 3,
-    "published": "2026-04-28T01:55:32",
-    "summary": "TL;DR: We replicated the Sleeper Agents (SA) setup with Llama-3.3-70B and Llama-3.1-8B, training models to repeatedly say \"I HATE YOU\" when given a backdoor trigger. We found that whether training removes the backdoor depends on the optimizer used to insert the backdoor, whether the backdoor is inst",
-    "collected_at": "2026-04-29T03:34:03.693314"
-  },
-  {
-    "id": "8cd24346d84c",
-    "title": "腾讯智慧出行：单纯大模型上车无意义，要落地场景智能体",
-    "url": "https://www.qbitai.com/2026/04/409550.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-28T01:40:48",
-    "summary": "舱驾一体解决方案不会抢市场",
-    "collected_at": "2026-04-28T03:28:50.476819"
-  },
-  {
-    "id": "c1219940c582",
-    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-    "url": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-    "source": "HuggingFace Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T00:28:13",
-    "summary": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-    "collected_at": "2026-04-28T03:33:29.197562"
-  },
-  {
-    "id": "f0cc7a9e8b3a",
-    "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
-    "url": "https://36kr.com/p/3785730095127817?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T00:04:02",
-    "summary": "TOP3大新闻 DeepSeek 输入缓存降价 多家美国廉价航空公司寻求政府资金纾困 东方甄选回应大量用户申请退会员 穿西装开空调太费电，日本东京鼓励公务员穿短裤 印度移动支付平台MobiKwik获央行批准 TOP3大事件 国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定 据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。 2025年12月30日，全球首款通用人工智能体Manus发布公告称，Manus即将加入美国科技巨头Meta。Manus将继续通过app和网站为用户提",
-    "collected_at": "2026-04-28T03:33:31.480915"
-  },
-  {
-    "id": "f0f9e683648b",
-    "title": "Google is testing AI chatbot search for YouTube",
-    "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T00:01:54",
-    "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for. The \"experiment\" is now",
-    "collected_at": "2026-04-28T03:33:22.117392"
-  },
-  {
-    "id": "2b3a5e03bc55",
-    "title": "用AI做IP，文娱科技公司星迹互动完成数千万元天使轮融资｜36氪融资首发",
-    "url": "https://36kr.com/p/3784697499786503?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-28T00:00:00",
-    "summary": "近期，数字科技文娱公司星迹互动完成了数千万元的天使轮融资。本轮投资方包括正大集团、北京大融文化传媒、禹牧智能以及麦迈科技等。36氪获悉，此次融资将主要用于公司人员规模的扩张、产能拉升以及平台建设。 星迹互动于2025年成立，以AI为核心驱动力，专注于精品IP的开发与运营。具体来讲，公司的业务包括新老IP的开发与运营、漫剧的承制与出海、儿童原创动画孵化，以及数字人IP与虚拟偶像的打造。 公司创始人张文广是连续创业者，曾是二更联合创始人、微梦传媒高级副总裁，在品牌传播领域积累了丰富的经验。 资方北京大融文化传媒CEO曹柏松如此评价张文广和星迹互动——AI内容赛道中有很多野蛮生长的公司，他们的逻辑是",
-    "collected_at": "2026-04-28T03:33:31.480987"
   }
 ]

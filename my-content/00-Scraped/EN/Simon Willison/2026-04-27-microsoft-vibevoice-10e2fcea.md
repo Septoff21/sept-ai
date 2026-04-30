@@ -14,4 +14,4 @@ priority: 2
 
 **Read more →** <https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything>
 
-*Collected by Sept-AI on 2026-04-28T03:33:29.325266*
+*Collected by Sept-AI on 2026-04-30T19:31:17.421931*

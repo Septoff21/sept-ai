@@ -14,4 +14,4 @@ priority: 2
 
 **Read more →** <https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/>
 
-*Collected by Sept-AI on 2026-04-28T03:33:22.248535*
+*Collected by Sept-AI on 2026-04-30T19:31:12.048764*

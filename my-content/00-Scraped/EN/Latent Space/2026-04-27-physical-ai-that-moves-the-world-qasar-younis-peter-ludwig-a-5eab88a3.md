@@ -14,4 +14,4 @@ priority: 1
 
 **Read more →** <https://www.latent.space/p/appliedintuition>
 
-*Collected by Sept-AI on 2026-04-28T03:33:29.621057*
+*Collected by Sept-AI on 2026-04-30T19:31:17.840010*
