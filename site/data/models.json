@@ -4156,6 +4156,34 @@
     "collected_at": "2026-04-29T03:34:14.541071"
   },
   {
+    "id": "hf-nvidia--Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4",
+    "name": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4",
+    "display_name": "Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4",
+    "url": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-NVFP4",
+    "author": "nvidia",
+    "pipeline_tag": "",
+    "likes": 46,
+    "downloads": 83824,
+    "tags": [
+      "safetensors",
+      "NemotronH_Nano_Omni_Reasoning_V3",
+      "nvidia",
+      "multimodal",
+      "custom_code",
+      "arxiv:2604.24954",
+      "base_model:nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "base_model:quantized:nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+      "license:other",
+      "8-bit",
+      "modelopt",
+      "region:us",
+      "deploy:azure"
+    ],
+    "created_at": "2026-04-24T16:09:58.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-04-30T08:31:07.938907"
+  },
+  {
     "id": "hf-Lorbus--Qwen3.6-27B-int4-AutoRound",
     "name": "Lorbus/Qwen3.6-27B-int4-AutoRound",
     "display_name": "Qwen3.6-27B-int4-AutoRound",
@@ -4927,6 +4955,31 @@
     "created_at": "2026-04-25T15:19:24.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-28T03:33:40.943641"
+  },
+  {
+    "id": "hf-inclusionAI--Ling-2.6-1T",
+    "name": "inclusionAI/Ling-2.6-1T",
+    "display_name": "Ling-2.6-1T",
+    "url": "https://huggingface.co/inclusionAI/Ling-2.6-1T",
+    "author": "inclusionAI",
+    "pipeline_tag": "text-generation",
+    "likes": 23,
+    "downloads": 315,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "bailing_hybrid",
+      "text-generation",
+      "conversational",
+      "custom_code",
+      "license:mit",
+      "eval-results",
+      "compressed-tensors",
+      "region:us"
+    ],
+    "created_at": "2026-04-29T03:19:36.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-04-30T08:31:08.149251"
   },
   {
     "id": "hf-FINAL-Bench--Darwin-36B-Opus",
@@ -23053,49 +23106,5 @@
     "created_at": "2026-04-27T14:01:02.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T14:03:58.301601"
-  },
-  {
-    "id": "hf-NeuroModFlowNet--NeuroModFlowNet-ONNX-Models",
-    "name": "NeuroModFlowNet/NeuroModFlowNet-ONNX-Models",
-    "display_name": "NeuroModFlowNet-ONNX-Models",
-    "url": "https://huggingface.co/NeuroModFlowNet/NeuroModFlowNet-ONNX-Models",
-    "author": "NeuroModFlowNet",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "onnx",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T14:00:11.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T14:03:58.301604"
-  },
-  {
-    "id": "hf-harindhar10--OLMo-7B-fsdp-Pubchem-1M-3epochs-USPTO-100k-1epoch",
-    "name": "harindhar10/OLMo-7B-fsdp-Pubchem-1M-3epochs-USPTO-100k-1epoch",
-    "display_name": "OLMo-7B-fsdp-Pubchem-1M-3epochs-USPTO-100k-1epoch",
-    "url": "https://huggingface.co/harindhar10/OLMo-7B-fsdp-Pubchem-1M-3epochs-USPTO-100k-1epoch",
-    "author": "harindhar10",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "safetensors",
-      "olmo",
-      "chemistry",
-      "SMILES",
-      "instruction-tuning",
-      "fsdp",
-      "en",
-      "arxiv:1910.09700",
-      "base_model:harindhar10/OLMo-7B-fsdp-Pubchem-1M-3epochs",
-      "base_model:finetune:harindhar10/OLMo-7B-fsdp-Pubchem-1M-3epochs",
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T13:59:59.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T14:03:58.301608"
   }
 ]
