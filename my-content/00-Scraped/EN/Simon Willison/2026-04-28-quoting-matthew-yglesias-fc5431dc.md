@@ -14,4 +14,4 @@ priority: 2
 
 **Read more →** <https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything>
 
-*Collected by Sept-AI on 2026-04-28T14:20:29.362957*
+*Collected by Sept-AI on 2026-05-01T13:28:29.797125*

@@ -4673,6 +4673,26 @@
     "collected_at": "2026-04-29T19:41:32.049930"
   },
   {
+    "id": "github-1226182842",
+    "name": "jingyaogong/minimind-o",
+    "display_name": "minimind-o",
+    "url": "https://github.com/jingyaogong/minimind-o",
+    "description": "🌏 0.1B级开源Omni模型 🌏Open-source Omni model at the 0.1B level",
+    "stars": 9,
+    "forks": 0,
+    "language": null,
+    "topics": [
+      "artificial-intelligence",
+      "chatgpt",
+      "omni"
+    ],
+    "created_at": "2026-05-01T04:20:16Z",
+    "updated_at": "2026-05-01T12:00:50Z",
+    "license": "Apache-2.0",
+    "source": "github-search",
+    "collected_at": "2026-05-01T13:28:41.245965"
+  },
+  {
     "id": "github-1188906847",
     "name": "hackyguru/clawcage",
     "display_name": "clawcage",

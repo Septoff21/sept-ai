@@ -12,16 +12,40 @@
     "collected_at": "2026-05-01T08:15:13.334280"
   },
   {
-    "id": "693805793e5b",
-    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-    "url": "https://www.qbitai.com/2026/05/412577.html",
+    "id": "51238cf7a49d",
+    "title": "The Download: a new Christian phone network, and debugging LLMs",
+    "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-01T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to",
+    "collected_at": "2026-05-01T13:28:19.744939"
+  },
+  {
+    "id": "a28baaadcf88",
+    "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+    "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-01T11:18:54",
+    "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, th",
+    "collected_at": "2026-05-01T13:28:19.644631"
+  },
+  {
+    "id": "c6c434fb0902",
+    "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
+    "url": "https://www.qbitai.com/2026/05/412585.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-01T06:28:46",
-    "summary": "真机部署“零微调”",
-    "collected_at": "2026-05-01T08:14:55.061880"
+    "published": "2026-05-01T11:00:05",
+    "summary": "都是Prefill的锅",
+    "collected_at": "2026-05-01T13:23:49.305860"
   },
   {
     "id": "587fa5130444",
@@ -36,16 +60,52 @@
     "collected_at": "2026-05-01T03:38:01.483948"
   },
   {
-    "id": "09c1bd6cd9e9",
-    "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-    "url": "https://www.qbitai.com/2026/05/412447.html",
+    "id": "889806c7134e",
+    "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+    "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-01T10:00:00",
+    "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for",
+    "collected_at": "2026-05-01T13:28:19.745015"
+  },
+  {
+    "id": "d347c26e8661",
+    "title": "美银：全球超大规模云计算企业2027年AI资本开支或达1万亿美元",
+    "url": "https://36kr.com/newsflashes/3790542827576582?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-01T09:39:33",
+    "summary": "美银证券发布半导体行业研究报告，分析师Vivek Arya团队在四大美国科技巨头——谷歌、微软、亚马逊、Meta相继公布2026年第一季度财报并更新资本支出展望后，将2026年全球超大规模云计算企业资本支出预测上调至超过8000亿美元，同比增长67%，并预计2027年将进一步突破1万亿美元，同比增长约25%。（财联社）",
+    "collected_at": "2026-05-01T13:28:33.309669"
+  },
+  {
+    "id": "e1f98a4ec6fc",
+    "title": "A new US phone network for Christians aims to block porn and gender-related content",
+    "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-01T09:00:00",
+    "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out",
+    "collected_at": "2026-05-01T13:28:19.745203"
+  },
+  {
+    "id": "693805793e5b",
+    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+    "url": "https://www.qbitai.com/2026/05/412577.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-01T06:21:38",
-    "summary": "瓜多到吃不完",
-    "collected_at": "2026-05-01T08:14:55.061920"
+    "published": "2026-05-01T06:28:46",
+    "summary": "真机部署“零微调”",
+    "collected_at": "2026-05-01T08:14:55.061880"
   },
   {
     "id": "0a8950cdb099",
@@ -58,6 +118,18 @@
     "published": "2026-05-01T06:00:00",
     "summary": "36氪获悉，“杭州发布”微信公众号消息，5月1日，全国首部具身智能机器人领域地方性法规《杭州市促进具身智能机器人产业发展条例》正式施行。数据显示，杭州已集聚机器人产业相关企业700余家，2025年具身智能产业集群产值达1068亿元。",
     "collected_at": "2026-05-01T08:15:12.147052"
+  },
+  {
+    "id": "09c1bd6cd9e9",
+    "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+    "url": "https://www.qbitai.com/2026/05/412447.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-01T06:21:38",
+    "summary": "瓜多到吃不完",
+    "collected_at": "2026-05-01T08:14:55.061920"
   },
   {
     "id": "6cc63c5093d4",
@@ -1044,16 +1116,16 @@
     "collected_at": "2026-04-30T14:08:46.877397"
   },
   {
-    "id": "7075af806087",
-    "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
-    "url": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-30T10:02:01",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-30T03:28:32.763427"
+    "id": "a00937aababc",
+    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T10:31:17",
+    "summary": "https://research.ibm.com/blog/granite-4-1-ai-foundation-mode... Comments URL: https://news.ycombinator.com/item?id=47960507 Points: 296 # Comments: 191",
+    "collected_at": "2026-05-01T13:28:20.749636"
   },
   {
     "id": "327b31771034",
@@ -1068,16 +1140,16 @@
     "collected_at": "2026-04-30T14:08:46.877439"
   },
   {
-    "id": "c128e7f4e217",
-    "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
-    "url": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx?utm_source=rss&utm_medium=article",
+    "id": "7075af806087",
+    "title": "Claude官方击穿高薪、高学历的安全防线！Anthropic点名10大高危职业，但有群人暂时稳了",
+    "url": "https://www.infoq.cn/article/IICj9OxXvZuDj8M6qRN5?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-04-30T10:00:00",
+    "published": "2026-04-30T10:02:01",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-30T03:28:32.763459"
+    "collected_at": "2026-04-30T03:28:32.763427"
   },
   {
     "id": "e04577522ef1",
@@ -1092,16 +1164,16 @@
     "collected_at": "2026-04-30T14:01:59.567911"
   },
   {
-    "id": "051c2ebdbacd",
-    "title": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
-    "url": "https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs?utm_source=rss&utm_medium=article",
+    "id": "c128e7f4e217",
+    "title": "亚马逊云科技终止 WorkMail 服务，并将 App Runner 转入维护模式",
+    "url": "https://www.infoq.cn/article/FjThiiwEJaFUxADp3rUx?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
     "published": "2026-04-30T10:00:00",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-30T03:28:32.763487"
+    "collected_at": "2026-04-30T03:28:32.763459"
   },
   {
     "id": "c12ae0393d89",
@@ -1116,16 +1188,16 @@
     "collected_at": "2026-04-30T14:16:41.362736"
   },
   {
-    "id": "3ae963a6e580",
-    "title": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
-    "url": "https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1?utm_source=rss&utm_medium=article",
+    "id": "051c2ebdbacd",
+    "title": "OPPO小布记忆：全模态碎片化内容的理解与智能整理实践｜AICon上海",
+    "url": "https://www.infoq.cn/article/zIEkfmCaYdqpCfwheuqs?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-04-30T09:48:56",
+    "published": "2026-04-30T10:00:00",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-30T03:28:32.763514"
+    "collected_at": "2026-04-30T03:28:32.763487"
   },
   {
     "id": "45b3775518d4",
@@ -1138,6 +1210,18 @@
     "published": "2026-04-30T09:08:31",
     "summary": "从算力时代到智能时代，三大结构性变化",
     "collected_at": "2026-04-30T14:01:59.567949"
+  },
+  {
+    "id": "3ae963a6e580",
+    "title": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
+    "url": "https://www.infoq.cn/article/qUMVgFNMYqXMFx8CawJ1?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-30T09:48:56",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-30T03:28:32.763514"
   },
   {
     "id": "296b724d9ecd",
@@ -3514,89 +3598,5 @@
     "published": "2026-04-28T18:15:00",
     "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
     "collected_at": "2026-04-28T19:51:39.595156"
-  },
-  {
-    "id": "26cf36bbfab8",
-    "title": "Claude.ai unavailable and elevated errors on the API",
-    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T18:01:21",
-    "summary": "Article URL: https://status.claude.com/incidents/9l93x2ht4s5w Comments URL: https://news.ycombinator.com/item?id=47938097 Points: 160 # Comments: 134",
-    "collected_at": "2026-04-28T19:51:40.985198"
-  },
-  {
-    "id": "b1c3714a01b0",
-    "title": "Recursive forecasting: Eliciting long-term forecasts from myopic fitness-seekers",
-    "url": "https://www.alignmentforum.org/posts/q2zYtNsh62SCphitt/recursive-forecasting-eliciting-long-term-forecasts-from",
-    "source": "AI Alignment Forum",
-    "lang": "en",
-    "channel": "en",
-    "priority": 3,
-    "published": "2026-04-28T18:00:44",
-    "summary": "We’d like to use powerful AIs to answer questions that may take a long time to resolve. But if a model only cares about performing well in ways that are verifiable shortly after answering (e.g., a myopic fitness seeker), it may be difficult to get useful work from it on questions that resolve much l",
-    "collected_at": "2026-04-28T19:51:47.320095"
-  },
-  {
-    "id": "591f0318c5fb",
-    "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T16:49:08",
-    "summary": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and more. This marks the company's latest efforts to break into the creative industry following its laun",
-    "collected_at": "2026-04-28T19:51:39.728127"
-  },
-  {
-    "id": "cab39fd8e9ba",
-    "title": "AI's Economics Don't Make Sense",
-    "url": "https://www.wheresyoured.at/ais-economics-dont-make-sense/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T16:39:53",
-    "summary": "Article URL: https://www.wheresyoured.at/ais-economics-dont-make-sense/ Comments URL: https://news.ycombinator.com/item?id=47936867 Points: 146 # Comments: 110",
-    "collected_at": "2026-04-28T19:51:40.985241"
-  },
-  {
-    "id": "3fabcf9934d1",
-    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-    "source": "HuggingFace Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T15:58:57",
-    "summary": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio a",
-    "collected_at": "2026-04-28T19:51:46.063829"
-  },
-  {
-    "id": "395ec23c5e04",
-    "title": "用 Snowflake Cortex Agents 释放结构化数据的最大价值 ｜ 技术实践",
-    "url": "https://www.infoq.cn/article/fgDaebwIGabVwLdljJTN?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-28T15:36:43",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-28T08:36:05.362763"
-  },
-  {
-    "id": "fa8209145f39",
-    "title": "Musk and Altman go to court",
-    "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-28T14:47:21",
-    "summary": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're likely to spend the next few weeks hearing a lot of important people's secrets made [&#8230;]",
-    "collected_at": "2026-04-28T19:51:39.728168"
   }
 ]

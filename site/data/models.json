@@ -5538,6 +5538,32 @@
     "collected_at": "2026-04-29T14:11:16.143870"
   },
   {
+    "id": "hf-ibm-granite--granite-4.1-30b-base",
+    "name": "ibm-granite/granite-4.1-30b-base",
+    "display_name": "granite-4.1-30b-base",
+    "url": "https://huggingface.co/ibm-granite/granite-4.1-30b-base",
+    "author": "ibm-granite",
+    "pipeline_tag": "text-generation",
+    "likes": 20,
+    "downloads": 111,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "granite",
+      "text-generation",
+      "language",
+      "granite-4.1",
+      "arxiv:2603.17074",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "deploy:azure"
+    ],
+    "created_at": "2026-04-06T13:19:41.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-01T13:28:44.415478"
+  },
+  {
     "id": "hf-crynux-network--sdxl-turbo",
     "name": "crynux-network/sdxl-turbo",
     "display_name": "sdxl-turbo",
@@ -5874,6 +5900,29 @@
     "created_at": "2026-05-01T08:10:22.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T08:15:23.388174"
+  },
+  {
+    "id": "hf-CosmicBull--Ezra-4B-LifeOS-v2",
+    "name": "CosmicBull/Ezra-4B-LifeOS-v2",
+    "display_name": "Ezra-4B-LifeOS-v2",
+    "url": "https://huggingface.co/CosmicBull/Ezra-4B-LifeOS-v2",
+    "author": "CosmicBull",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "qwen3_5",
+      "llama.cpp",
+      "unsloth",
+      "vision-language-model",
+      "endpoints_compatible",
+      "region:us",
+      "conversational"
+    ],
+    "created_at": "2026-05-01T13:14:01.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-01T13:28:44.332440"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23204,51 +23253,5 @@
     "created_at": "2026-04-27T08:10:57.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929953"
-  },
-  {
-    "id": "hf-AuriAetherwiing--G4-31B-Musica-v1-lora-672",
-    "name": "AuriAetherwiing/G4-31B-Musica-v1-lora-672",
-    "display_name": "G4-31B-Musica-v1-lora-672",
-    "url": "https://huggingface.co/AuriAetherwiing/G4-31B-Musica-v1-lora-672",
-    "author": "AuriAetherwiing",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:10:44.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929956"
-  },
-  {
-    "id": "hf-sharick008--convfinqa-qwen3.5-4b-lora",
-    "name": "sharick008/convfinqa-qwen3.5-4b-lora",
-    "display_name": "convfinqa-qwen3.5-4b-lora",
-    "url": "https://huggingface.co/sharick008/convfinqa-qwen3.5-4b-lora",
-    "author": "sharick008",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "peft",
-      "safetensors",
-      "tinker",
-      "tinker-cookbook",
-      "lora",
-      "sft",
-      "convfinqa",
-      "financial-qa",
-      "adapter",
-      "text-generation",
-      "en",
-      "base_model:Qwen/Qwen3.5-4B",
-      "base_model:adapter:Qwen/Qwen3.5-4B",
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:10:16.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929960"
   }
 ]
