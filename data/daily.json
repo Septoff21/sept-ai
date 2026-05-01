@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-04-30T19:32:19.418720",
-  "date": "2026-04-30",
+  "updated_at": "2026-05-01T03:38:56.599786",
+  "date": "2026-05-01",
   "spotlight": {
-    "id": "dify",
-    "name": "Dify",
-    "url": "https://dify.ai",
+    "id": "coze",
+    "name": "Coze",
+    "url": "https://www.coze.com",
     "type": "tool",
-    "description": "开源 LLM 应用开发平台，可视化搭建 AI 应用",
-    "pricing": "开源 + 云服务",
+    "description": "字节跳动出品的 AI Bot 搭建平台",
+    "pricing": "免费",
     "category": "Agent"
   },
   "alternates": [
     {
-      "name": "Coze",
-      "url": "https://www.coze.com",
+      "name": "n8n",
+      "url": "https://n8n.io",
       "type": "agent",
-      "description": "字节跳动AI Bot构建平台，无代码创建Agent",
-      "pricing": "免费 + Pro",
+      "description": "工作流自动化平台，集成AI Agent能力",
+      "pricing": "开源 + Cloud",
       "category": "平台 Agent"
     },
     {
-      "id": "flux",
-      "name": "FLUX",
-      "url": "https://blackforestlabs.ai",
+      "id": "comfyui",
+      "name": "ComfyUI",
+      "url": "https://github.com/comfyanonymous/ComfyUI",
       "type": "tool",
-      "description": "新一代开源图像生成模型，质量超越 SD",
-      "pricing": "开源 + 商业 API",
+      "description": "节点式 AI 绘画工作流引擎，最强可控性",
+      "pricing": "开源免费",
       "category": "绘画"
     },
     {
-      "name": "GPT Researcher",
-      "url": "https://github.com/assafelovic/gpt-researcher",
+      "name": "STORM",
+      "url": "https://github.com/stanford-oval/storm",
       "type": "agent",
-      "description": "AI研究助手，自动搜索+分析+生成报告",
-      "pricing": "开源 + API费用",
+      "description": "斯坦福出品的AI知识文章生成器",
+      "pricing": "开源免费",
       "category": "研究 Agent"
     }
   ]

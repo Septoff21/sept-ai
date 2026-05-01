@@ -1,5 +1,137 @@
 [
   {
+    "id": "587fa5130444",
+    "title": "Mistral AI 推出 Workflows，用于编排企业 AI 工作流",
+    "url": "https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-01T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-01T03:38:01.483948"
+  },
+  {
+    "id": "de74773548ef",
+    "title": "OpenAI 首席财务官：公司产品迎来“呈直线上升”式的强劲需求",
+    "url": "https://36kr.com/newsflashes/3790103647378688?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-01T02:58:39",
+    "summary": "OpenAI 首席财务官萨拉・弗莱尔针对外界质疑公司未达成内部业绩目标的言论作出反驳，称公司正顺利完成既定目标，且旗下产品正面临一堵垂直高涨的需求高墙（需求极度旺盛、激增爆棚）。弗莱尔在采访中表示：“整体来看，我们高层层面的经营业绩跑赢原定规划。具体实现路径会逐期有所波动，毕竟业务仍处于发展初期，各项细分指标尚无法做到精准预测。”本周有报道称，这家人工智能初创公司营收与用户增长均未达成内部目标，令 OpenAI 陷入舆论审视。报道还提及，弗莱尔曾担忧：若营收增速不及预期，公司或将无力承担未来庞大的算力投入成本。（新浪财经）",
+    "collected_at": "2026-05-01T03:38:00.002720"
+  },
+  {
+    "id": "d02cf6c66a23",
+    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+    "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-01T02:00:00",
+    "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+    "collected_at": "2026-05-01T03:37:37.304569"
+  },
+  {
+    "id": "b85bdf736691",
+    "title": "Codex CLI 0.128.0 adds /goal",
+    "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T23:23:17",
+    "summary": "Codex CLI 0.128.0 adds /goal The latest version of OpenAI's Codex CLI coding agent adds their own version of the Ralph loop: you can now set a /goal and Codex will keep on looping until it evaluates that the goal has been completed... or the configured token budget has been exhausted. It looks like",
+    "collected_at": "2026-05-01T03:37:54.742885"
+  },
+  {
+    "id": "e0cea1ae2c83",
+    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+    "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T23:07:56",
+    "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+    "collected_at": "2026-05-01T03:37:37.304625"
+  },
+  {
+    "id": "db9e89a819b3",
+    "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+    "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T23:03:24",
+    "summary": "Our evaluation of OpenAI&#x27;s GPT-5.5 cyber capabilities The UK's AI Security Institute previously evaluated Claude Mythos: now they've evaluated GPT-5.5 for finding security vulnerability and found it to be comparable to Mythos, but unlike Mythos it's generally available right now. Tags: ai, open",
+    "collected_at": "2026-05-01T03:37:54.742939"
+  },
+  {
+    "id": "072b4665a19a",
+    "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T22:59:51",
+    "summary": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" Birchall, Musk's finance guy and all-around fixer, took the stand after Musk today. Most of his testi",
+    "collected_at": "2026-05-01T03:37:37.513666"
+  },
+  {
+    "id": "485653f30622",
+    "title": "Apple was surprised by AI-driven demand for Macs",
+    "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T22:12:52",
+    "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+    "collected_at": "2026-05-01T03:37:37.304656"
+  },
+  {
+    "id": "7be6c476338d",
+    "title": "Quoting Andrew Kelley",
+    "url": "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T21:24:55",
+    "summary": "It's a common misconception that we can't tell who is using LLM and who is not. I'm sure we didn't catch 100% of LLM-assisted PRs over the past few months, but the kind of mistakes humans make are fundamentally different than LLM hallucinations, making them easy to spot. Furthermore, people who come",
+    "collected_at": "2026-05-01T03:37:54.743001"
+  },
+  {
+    "id": "f2bf8f931c48",
+    "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+    "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T20:20:48",
+    "summary": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+    "collected_at": "2026-05-01T03:37:37.965529"
+  },
+  {
+    "id": "4f23af2c0635",
+    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+    "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T20:14:47",
+    "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+    "collected_at": "2026-05-01T03:37:37.304688"
+  },
+  {
     "id": "91801af132f3",
     "title": "“AI预测未来”赛道登顶！北京中关村学院信息智能团队统斩获全球桂冠",
     "url": "https://www.infoq.cn/article/3rNioRsQcs1G5vMq8VlO?utm_source=rss&utm_medium=article",
@@ -144,16 +276,16 @@
     "collected_at": "2026-04-30T19:31:11.728919"
   },
   {
-    "id": "5f21026c89a3",
-    "title": "Gemini is rolling out to cars with Google built-in",
-    "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
-    "source": "The Verge AI",
+    "id": "e4cdcf5db76e",
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-04-30T16:00:00",
-    "summary": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promises to provide an improved experience for natural conversations, fetching vehicle-specific information",
-    "collected_at": "2026-04-30T19:31:11.881281"
+    "priority": 2,
+    "published": "2026-04-30T16:09:26",
+    "summary": "Article URL: https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/ Comments URL: https://news.ycombinator.com/item?id=47964617 Points: 340 # Comments: 116",
+    "collected_at": "2026-05-01T03:37:46.073259"
   },
   {
     "id": "d4c41b24adc3",
@@ -168,16 +300,16 @@
     "collected_at": "2026-04-30T19:31:11.728950"
   },
   {
-    "id": "d39fa3e96fbe",
-    "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
-    "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
+    "id": "5f21026c89a3",
+    "title": "Gemini is rolling out to cars with Google built-in",
+    "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
     "published": "2026-04-30T16:00:00",
-    "summary": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, and frustrations over AI infrastructure have all regularly been part of the partnership, creating plen",
-    "collected_at": "2026-04-30T19:31:11.881321"
+    "summary": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promises to provide an improved experience for natural conversations, fetching vehicle-specific information",
+    "collected_at": "2026-04-30T19:31:11.881281"
   },
   {
     "id": "2075a9a92ad7",
@@ -190,6 +322,18 @@
     "published": "2026-04-30T16:06:49",
     "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
     "collected_at": "2026-04-30T19:31:11.728995"
+  },
+  {
+    "id": "d39fa3e96fbe",
+    "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
+    "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-04-30T16:00:00",
+    "summary": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, and frustrations over AI infrastructure have all regularly been part of the partnership, creating plen",
+    "collected_at": "2026-04-30T19:31:11.881321"
   },
   {
     "id": "9ec0466f0177",
@@ -468,16 +612,16 @@
     "collected_at": "2026-04-30T14:16:41.362961"
   },
   {
-    "id": "8eddd4a0e2aa",
-    "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
-    "url": "https://www.qbitai.com/2026/04/411959.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-30T07:27:07",
-    "summary": "已投入自主研发超过 10 年",
-    "collected_at": "2026-04-30T08:25:58.865405"
+    "id": "8f0306646f80",
+    "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+    "url": "https://datacenter.fm/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-30T07:52:12",
+    "summary": "Article URL: https://datacenter.fm/ Comments URL: https://news.ycombinator.com/item?id=47959513 Points: 135 # Comments: 25",
+    "collected_at": "2026-05-01T03:37:46.073408"
   },
   {
     "id": "f087ae4b051f",
@@ -492,16 +636,16 @@
     "collected_at": "2026-04-30T08:30:52.678547"
   },
   {
-    "id": "5e56711101fe",
-    "title": "DeepSeek识图模式是个新模型？！一手实测在此（没错我被灰度到了）",
-    "url": "https://www.qbitai.com/2026/04/411797.html",
+    "id": "8eddd4a0e2aa",
+    "title": "为智能体可信协作提供新方案 蚂蚁数科登顶以太坊全球基准评测",
+    "url": "https://www.qbitai.com/2026/04/411959.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-04-30T06:52:23",
-    "summary": "非思考模式快到飞起",
-    "collected_at": "2026-04-30T08:25:58.865490"
+    "published": "2026-04-30T07:27:07",
+    "summary": "已投入自主研发超过 10 年",
+    "collected_at": "2026-04-30T08:25:58.865405"
   },
   {
     "id": "e9998a6be99d",
@@ -514,6 +658,18 @@
     "published": "2026-04-30T07:28:06",
     "summary": "“世界咖啡”[AI+]产业对接会正式定档北京亦庄。 搞噱头还是做实事，我们需要一个华丽转身 这是36氪AI Partner系列活动迎来的第三个年头，在这之前，我们已经用四届大会验证了我们在“AI下一站”这个问题上的“把脉”能力，收获了一些口碑和行业认同，但是，长期以媒体观察者和陪伴者的视角出发，就很难跳下那个高台，容易看不清当下。比如，当我们看到行业里类似的AI活动还在聊“AI会不会代替人类”、“具身智能离我们还有多远”的时候，团队就非常感慨，因为我们这一次选择了一条更加务实的路线，在AI赋能下的千行百业中寻找最佳场景渗透案例，让寻找AI合作的供需双方有成功的模板可借鉴；我们把AI+产业对接",
     "collected_at": "2026-04-30T08:30:52.676797"
+  },
+  {
+    "id": "5e56711101fe",
+    "title": "DeepSeek识图模式是个新模型？！一手实测在此（没错我被灰度到了）",
+    "url": "https://www.qbitai.com/2026/04/411797.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-04-30T06:52:23",
+    "summary": "非思考模式快到飞起",
+    "collected_at": "2026-04-30T08:25:58.865490"
   },
   {
     "id": "712d4e5baec4",
@@ -1236,16 +1392,16 @@
     "collected_at": "2026-04-30T03:28:22.724632"
   },
   {
-    "id": "4ba393486326",
-    "title": "\"People who don't use AI will be left behind\"",
-    "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
+    "id": "f17cae1c0d04",
+    "title": "Your CEO is suffering from AI psychosis",
+    "url": "https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis",
     "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-04-29T19:15:52",
-    "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 150 # Comments: 205",
-    "collected_at": "2026-04-30T03:28:24.016698"
+    "published": "2026-04-29T19:46:18",
+    "summary": "Article URL: https://handyai.substack.com/p/your-ceo-is-suffering-from-ai-psychosis Comments URL: https://news.ycombinator.com/item?id=47953484 Points: 106 # Comments: 31",
+    "collected_at": "2026-05-01T03:37:46.073583"
   },
   {
     "id": "a53ee15b652a",
@@ -1260,16 +1416,16 @@
     "collected_at": "2026-04-30T03:28:22.724675"
   },
   {
-    "id": "dff2021f0a21",
-    "title": "LLM 0.32a0 is a major backwards-compatible refactor",
-    "url": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
-    "source": "Simon Willison",
+    "id": "4ba393486326",
+    "title": "\"People who don't use AI will be left behind\"",
+    "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-04-29T19:01:47",
-    "summary": "I just released LLM 0.32a0, an alpha release of my LLM Python library and CLI tool for accessing LLMs, with some consequential changes that I've been working towards for quite a while. Previous versions of LLM modeled the world in terms of prompts and responses. Send the model a text prompt, get bac",
-    "collected_at": "2026-04-29T19:41:22.387150"
+    "published": "2026-04-29T19:15:52",
+    "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=47953011 Points: 150 # Comments: 205",
+    "collected_at": "2026-04-30T03:28:24.016698"
   },
   {
     "id": "0ab605f52bd6",
@@ -1284,16 +1440,16 @@
     "collected_at": "2026-04-30T03:28:22.724707"
   },
   {
-    "id": "f73251f6e97f",
-    "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
-    "url": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T18:59:11",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T14:11:03.809323"
+    "id": "dff2021f0a21",
+    "title": "LLM 0.32a0 is a major backwards-compatible refactor",
+    "url": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T19:01:47",
+    "summary": "I just released LLM 0.32a0, an alpha release of my LLM Python library and CLI tool for accessing LLMs, with some consequential changes that I've been working towards for quite a while. Previous versions of LLM modeled the world in terms of prompts and responses. Send the model a text prompt, get bac",
+    "collected_at": "2026-04-29T19:41:22.387150"
   },
   {
     "id": "14fce012f392",
@@ -1308,16 +1464,16 @@
     "collected_at": "2026-04-30T03:28:22.724737"
   },
   {
-    "id": "5d70815bf155",
-    "title": "llm 0.32a0",
-    "url": "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T18:57:47",
-    "summary": "Release: llm 0.32a0 See the annotated release notes. Tags: llm",
-    "collected_at": "2026-04-30T03:28:28.351489"
+    "id": "f73251f6e97f",
+    "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
+    "url": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T18:59:11",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809323"
   },
   {
     "id": "c56e0d0e76fe",
@@ -1332,16 +1488,16 @@
     "collected_at": "2026-04-30T03:28:22.724766"
   },
   {
-    "id": "c13a536af5f2",
-    "title": "百度文库网盘发布GenFlow 4.0：月活用户超1亿，要把网盘变成全端AI工作台",
-    "url": "https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T18:18:29",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T14:11:03.809407"
+    "id": "5d70815bf155",
+    "title": "llm 0.32a0",
+    "url": "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-04-29T18:57:47",
+    "summary": "Release: llm 0.32a0 See the annotated release notes. Tags: llm",
+    "collected_at": "2026-04-30T03:28:28.351489"
   },
   {
     "id": "20eea33e5405",
@@ -1356,16 +1512,16 @@
     "collected_at": "2026-04-29T19:40:54.005898"
   },
   {
-    "id": "91ff657006c5",
-    "title": "Altman 投的 Agent 终端 Warp 开源了！斩获3.5万star",
-    "url": "https://www.infoq.cn/article/ArGDWKczgdQlQ3G6shk7?utm_source=rss&utm_medium=article",
+    "id": "c13a536af5f2",
+    "title": "百度文库网盘发布GenFlow 4.0：月活用户超1亿，要把网盘变成全端AI工作台",
+    "url": "https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-04-29T18:15:14",
+    "published": "2026-04-29T18:18:29",
     "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T14:11:03.809465"
+    "collected_at": "2026-04-29T14:11:03.809407"
   },
   {
     "id": "ddc6e0690928",
@@ -1378,6 +1534,18 @@
     "published": "2026-04-29T18:33:05",
     "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
     "collected_at": "2026-04-29T19:40:54.005937"
+  },
+  {
+    "id": "91ff657006c5",
+    "title": "Altman 投的 Agent 终端 Warp 开源了！斩获3.5万star",
+    "url": "https://www.infoq.cn/article/ArGDWKczgdQlQ3G6shk7?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-04-29T18:15:14",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-04-29T14:11:03.809465"
   },
   {
     "id": "489362c10603",
@@ -3430,173 +3598,5 @@
     "published": "2026-04-28T04:00:00",
     "summary": "arXiv:2604.22873v1 Announce Type: new Abstract: Offline reinforcement learning (RL) can learn effective policies from fixed datasets, but deployment objectives may change after training, and in many applications the trained actor cannot be retrained because of data, cost, or governance constraints.",
     "collected_at": "2026-04-28T08:35:58.178983"
-  },
-  {
-    "id": "4d0a705b0ed3",
-    "title": "PhySE: A Psychological Framework for Real-Time AR-LLM Social Engineering Attacks",
-    "url": "https://arxiv.org/abs/2604.23148",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.23148v1 Announce Type: new Abstract: The emerging threat of AR-LLM-based Social Engineering (AR-LLM-SE) attacks (e.g. SEAR) poses a significant risk to real-world social interactions. In such an attack, a malicious actor uses Augmented Reality (AR) glasses to capture a target visual and v",
-    "collected_at": "2026-04-29T03:33:56.777654"
-  },
-  {
-    "id": "dcab58b5b4eb",
-    "title": "MTServe: Efficient Serving for Generative Recommendation Models with Hierarchical Caches",
-    "url": "https://arxiv.org/abs/2604.22881",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.22881v1 Announce Type: new Abstract: Generative recommendation (GR) offers superior modeling capabilities but suffers from prohibitive inference costs due to the repeated encoding of long user histories. While cross-request Key-Value (KV) cache reuse presents a significant optimization op",
-    "collected_at": "2026-04-28T08:35:58.179057"
-  },
-  {
-    "id": "40bd08b02f76",
-    "title": "Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines",
-    "url": "https://arxiv.org/abs/2604.23178",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.23178v1 Announce Type: new Abstract: LLM-as-a-Judge has become the dominant paradigm for evaluating language model outputs, yet LLM judges exhibit systematic biases that compromise evaluation reliability. We present a comprehensive empirical study comparing nine debiasing strategies acros",
-    "collected_at": "2026-04-29T03:33:56.777727"
-  },
-  {
-    "id": "f2cff67609eb",
-    "title": "Predicting Wind Loads on Container Ships in Harbor Environments through Multi-Fidelity Modeling",
-    "url": "https://arxiv.org/abs/2604.22882",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.22882v1 Announce Type: new Abstract: Modern container ships face higher wind loads due to increased windage areas, making accurate predictions of wind loads essential for mooring design. Existing empirical models, largely developed for container ships with smaller windage areas and simple",
-    "collected_at": "2026-04-28T08:35:58.179134"
-  },
-  {
-    "id": "90952414006e",
-    "title": "From Coarse to Fine: Self-Adaptive Hierarchical Planning for LLM Agents",
-    "url": "https://arxiv.org/abs/2604.23194",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.23194v1 Announce Type: new Abstract: Large language model-based agents have recently emerged as powerful approaches for solving dynamic and multi-step tasks. Most existing agents employ planning mechanisms to guide long-term actions in dynamic environments. However, current planning appro",
-    "collected_at": "2026-04-29T03:33:56.777802"
-  },
-  {
-    "id": "86330b5e34e4",
-    "title": "Quantifying and Mitigating Self-Preference Bias of LLM Judges",
-    "url": "https://arxiv.org/abs/2604.22891",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.22891v1 Announce Type: new Abstract: LLM-as-a-Judge has become a dominant approach in automated evaluation systems, playing critical roles in model alignment, leaderboard construction, quality control, and so on. However, the scalability and trustworthiness of this approach can be substan",
-    "collected_at": "2026-04-28T08:35:58.179200"
-  },
-  {
-    "id": "86a3b0d8c968",
-    "title": "StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning",
-    "url": "https://arxiv.org/abs/2604.23198",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.23198v1 Announce Type: new Abstract: Current video moment retrieval excels at action-centric tasks but struggles with narrative content. Models can see \\textit{what is happening} but fail to reason \\textit{why it matters}. This semantic gap stems from the lack of \\textbf{Theory of Mind (T",
-    "collected_at": "2026-04-29T03:33:56.777880"
-  },
-  {
-    "id": "a0cc452a4e64",
-    "title": "StackFeat RL: Reinforcement Learning over Iterative Dual Criterion Feature Selection for Stable Biomarker Discovery",
-    "url": "https://arxiv.org/abs/2604.22892",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.22892v1 Announce Type: new Abstract: Feature selection in high-dimensional genomic data ($d \\gg n$) demands methods that are simultaneously accurate, sparse, and stable. Existing approaches either require manual threshold specification (mRMR, stability selection), produce unstable selecti",
-    "collected_at": "2026-04-28T08:35:58.179296"
-  },
-  {
-    "id": "113977eacd5e",
-    "title": "Discovering Agentic Safety Specifications from 1-Bit Danger Signals",
-    "url": "https://arxiv.org/abs/2604.23210",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.23210v1 Announce Type: new Abstract: Can large language model agents discover hidden safety objectives through experience alone? We introduce EPO-Safe (Experiential Prompt Optimization for Safe Agents), a framework where an LLM iteratively generates action plans, receives sparse binary da",
-    "collected_at": "2026-04-29T03:33:56.777972"
-  },
-  {
-    "id": "705a8b0cf167",
-    "title": "Utility-Aware Data Pricing: Token-Level Quality and Empirical Training Gain for LLMs",
-    "url": "https://arxiv.org/abs/2604.22893",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.22893v1 Announce Type: new Abstract: Traditional data valuation methods based on ``row-count $\\times$ quality coefficient'' paradigms fail to capture the nuanced, nonlinear contributions that data makes to Large Language Model (LLM) capabilities. This paper presents a dynamic data valuati",
-    "collected_at": "2026-04-28T08:35:58.179361"
-  },
-  {
-    "id": "53e93c15d9b4",
-    "title": "AdaMamba: Adaptive Frequency-Gated Mamba for Long-Term Time Series Forecasting",
-    "url": "https://arxiv.org/abs/2604.23239",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.23239v1 Announce Type: new Abstract: Accurate long-term time series forecasting (LTSF) requires the capture of complex long-range dependencies and dynamic periodic patterns. Recent advances in frequency-domain analysis offer a global perspective for uncovering temporal characteristics. Ho",
-    "collected_at": "2026-04-29T03:33:56.778054"
-  },
-  {
-    "id": "2645bd3c8a3d",
-    "title": "Accelerating Frequency Domain Diffusion Models with Error-Feedback Event-Driven Caching",
-    "url": "https://arxiv.org/abs/2604.22901",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.22901v1 Announce Type: new Abstract: Diffusion models achieve remarkable success in time series generation. However, slow inference limits their practical deployment. We propose E$^2$-CRF (Error-Feedback Event-Driven Cumulative Residual Feature caching) to accelerate frequency domain diff",
-    "collected_at": "2026-04-28T08:35:58.179426"
-  },
-  {
-    "id": "5e88cd336120",
-    "title": "CAP-CoT: Cycle Adversarial Prompt for Improving Chain of Thoughts in LLM Reasoning",
-    "url": "https://arxiv.org/abs/2604.23270",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.23270v1 Announce Type: new Abstract: Chain-of-Thought (CoT) prompting has emerged as a simple and effective way to elicit step-by-step solutions from large language models (LLMs). However, CoT reasoning can be unstable across runs on long, multi-step problems, leading to inconsistent answ",
-    "collected_at": "2026-04-29T03:33:56.778137"
-  },
-  {
-    "id": "b07a77c3b483",
-    "title": "Deep Clustering for Climate: Analyzing Teleconnections through Learned Categorical States",
-    "url": "https://arxiv.org/abs/2604.22909",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-28T04:00:00",
-    "summary": "arXiv:2604.22909v1 Announce Type: new Abstract: Understanding and representing complex climate variability is essential for both scientific analysis and predictive modeling. However, identifying meaningful climate regimes from raw variables is challenging, as they exhibit high noise and nonlinear de",
-    "collected_at": "2026-04-28T08:35:58.179516"
   }
 ]
