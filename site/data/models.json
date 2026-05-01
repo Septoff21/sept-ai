@@ -4396,6 +4396,40 @@
     "collected_at": "2026-04-30T08:31:07.938907"
   },
   {
+    "id": "hf-kai-os--Carnice-V2-27b",
+    "name": "kai-os/Carnice-V2-27b",
+    "display_name": "Carnice-V2-27b",
+    "url": "https://huggingface.co/kai-os/Carnice-V2-27b",
+    "author": "kai-os",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 46,
+    "downloads": 922,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "qwen",
+      "qwen3",
+      "qwen3.6",
+      "carnice",
+      "hermes-agent",
+      "agentic",
+      "sft",
+      "bf16",
+      "merged",
+      "conversational",
+      "base_model:Qwen/Qwen3.6-27B",
+      "base_model:finetune:Qwen/Qwen3.6-27B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T17:32:08.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-01T08:15:23.272254"
+  },
+  {
     "id": "hf-Lorbus--Qwen3.6-27B-int4-AutoRound",
     "name": "Lorbus/Qwen3.6-27B-int4-AutoRound",
     "display_name": "Qwen3.6-27B-int4-AutoRound",
@@ -5824,6 +5858,22 @@
     "created_at": "2026-05-01T03:20:23.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T03:38:12.206325"
+  },
+  {
+    "id": "hf-Harsh-deep--oxford_flower_102",
+    "name": "Harsh-deep/oxford_flower_102",
+    "display_name": "oxford_flower_102",
+    "url": "https://huggingface.co/Harsh-deep/oxford_flower_102",
+    "author": "Harsh-deep",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-01T08:10:22.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-01T08:15:23.388174"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23200,47 +23250,5 @@
     "created_at": "2026-04-27T08:10:16.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929960"
-  },
-  {
-    "id": "hf-helenk--gemma_4_finetune",
-    "name": "helenk/gemma_4_finetune",
-    "display_name": "gemma_4_finetune",
-    "url": "https://huggingface.co/helenk/gemma_4_finetune",
-    "author": "helenk",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "gguf",
-      "gemma4",
-      "llama.cpp",
-      "unsloth",
-      "vision-language-model",
-      "endpoints_compatible",
-      "region:us",
-      "conversational"
-    ],
-    "created_at": "2026-04-27T08:09:31.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929963"
-  },
-  {
-    "id": "hf-Kaiyue1026--diffusion-rabbits-trained",
-    "name": "Kaiyue1026/diffusion-rabbits-trained",
-    "display_name": "diffusion-rabbits-trained",
-    "url": "https://huggingface.co/Kaiyue1026/diffusion-rabbits-trained",
-    "author": "Kaiyue1026",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "diffusers",
-      "safetensors",
-      "diffusers:DDPMPipeline",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:09:20.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929966"
   }
 ]
