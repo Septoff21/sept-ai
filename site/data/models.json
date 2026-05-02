@@ -4106,6 +4106,35 @@
     "collected_at": "2026-04-30T19:31:30.447492"
   },
   {
+    "id": "hf-llmfan46--Qwen3.6-35B-A3B-uncensored-heretic",
+    "name": "llmfan46/Qwen3.6-35B-A3B-uncensored-heretic",
+    "display_name": "Qwen3.6-35B-A3B-uncensored-heretic",
+    "url": "https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic",
+    "author": "llmfan46",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 49,
+    "downloads": 2107,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5_moe",
+      "image-text-to-text",
+      "heretic",
+      "uncensored",
+      "decensored",
+      "abliterated",
+      "conversational",
+      "base_model:Qwen/Qwen3.6-35B-A3B",
+      "base_model:finetune:Qwen/Qwen3.6-35B-A3B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-20T18:37:09.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-02T02:56:35.346910"
+  },
+  {
     "id": "hf-Lightricks--LTX-2.3-22b-IC-LoRA-HDR",
     "name": "Lightricks/LTX-2.3-22b-IC-LoRA-HDR",
     "display_name": "LTX-2.3-22b-IC-LoRA-HDR",
@@ -5600,6 +5629,52 @@
     "collected_at": "2026-05-01T03:38:12.312681"
   },
   {
+    "id": "hf-sakamakismile--Qwen3.6-27B-Text-NVFP4-MTP",
+    "name": "sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP",
+    "display_name": "Qwen3.6-27B-Text-NVFP4-MTP",
+    "url": "https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP",
+    "author": "sakamakismile",
+    "pipeline_tag": "text-generation",
+    "likes": 21,
+    "downloads": 61695,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "qwen3.6",
+      "nvfp4",
+      "quantized",
+      "modelopt",
+      "mtp",
+      "speculative-decoding",
+      "blackwell",
+      "text-only",
+      "text-generation",
+      "conversational",
+      "en",
+      "zh",
+      "ja",
+      "ko",
+      "fr",
+      "de",
+      "es",
+      "it",
+      "pt",
+      "ru",
+      "ar",
+      "base_model:Qwen/Qwen3.6-27B",
+      "base_model:quantized:Qwen/Qwen3.6-27B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "8-bit",
+      "region:us"
+    ],
+    "created_at": "2026-04-25T07:55:54.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-02T02:56:35.536236"
+  },
+  {
     "id": "hf-tencent--Hy3-preview-Base",
     "name": "tencent/Hy3-preview-Base",
     "display_name": "Hy3-preview-Base",
@@ -5647,6 +5722,32 @@
     "created_at": "2026-04-06T13:19:41.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-01T13:28:44.415478"
+  },
+  {
+    "id": "hf-ibm-granite--granite-4.1-8b-base",
+    "name": "ibm-granite/granite-4.1-8b-base",
+    "display_name": "granite-4.1-8b-base",
+    "url": "https://huggingface.co/ibm-granite/granite-4.1-8b-base",
+    "author": "ibm-granite",
+    "pipeline_tag": "text-generation",
+    "likes": 19,
+    "downloads": 252,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "granite",
+      "text-generation",
+      "language",
+      "granite-4.1",
+      "arxiv:2603.17074",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "deploy:azure"
+    ],
+    "created_at": "2026-04-06T13:19:05.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-02T02:56:35.536249"
   },
   {
     "id": "hf-crynux-network--sdxl-turbo",
@@ -23255,54 +23356,5 @@
     "created_at": "2026-04-27T08:11:57.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929940"
-  },
-  {
-    "id": "hf-IAAR-Shanghai--MemReranker-4B",
-    "name": "IAAR-Shanghai/MemReranker-4B",
-    "display_name": "MemReranker-4B",
-    "url": "https://huggingface.co/IAAR-Shanghai/MemReranker-4B",
-    "author": "IAAR-Shanghai",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:11:53.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929944"
-  },
-  {
-    "id": "hf-macn-20--blair-videogames-multiaspect",
-    "name": "macn-20/blair-videogames-multiaspect",
-    "display_name": "blair-videogames-multiaspect",
-    "url": "https://huggingface.co/macn-20/blair-videogames-multiaspect",
-    "author": "macn-20",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:11:53.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929947"
-  },
-  {
-    "id": "hf-iulik-pisik--ro_vsr_50h",
-    "name": "iulik-pisik/ro_vsr_50h",
-    "display_name": "ro_vsr_50h",
-    "url": "https://huggingface.co/iulik-pisik/ro_vsr_50h",
-    "author": "iulik-pisik",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:11:34.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929950"
   }
 ]

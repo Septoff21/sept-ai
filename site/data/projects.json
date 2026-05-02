@@ -4441,6 +4441,29 @@
     "collected_at": "2026-04-23T13:52:51.968697"
   },
   {
+    "id": "github-1226315599",
+    "name": "jmerelnyc/ai-practice-examples",
+    "display_name": "ai-practice-examples",
+    "url": "https://github.com/jmerelnyc/ai-practice-examples",
+    "description": "Course examples demonstrating AI implementation with industry best practices",
+    "stars": 10,
+    "forks": 1,
+    "language": "TypeScript",
+    "topics": [
+      "ai-examples",
+      "artificial-intelligence",
+      "best-practices",
+      "course-materials",
+      "machine-learning",
+      "typescript"
+    ],
+    "created_at": "2026-05-01T08:28:25Z",
+    "updated_at": "2026-05-01T23:24:58Z",
+    "license": "NOASSERTION",
+    "source": "github-search",
+    "collected_at": "2026-05-02T02:56:31.945299"
+  },
+  {
     "id": "github-1205101736",
     "name": "antarr/mysql_genius",
     "display_name": "mysql_genius",
@@ -4691,6 +4714,30 @@
     "license": "Apache-2.0",
     "source": "github-search",
     "collected_at": "2026-05-01T13:28:41.245965"
+  },
+  {
+    "id": "github-1224399582",
+    "name": "fevziegeyurtsevenler/LLM-Security-Nedir",
+    "display_name": "LLM-Security-Nedir",
+    "url": "https://github.com/fevziegeyurtsevenler/LLM-Security-Nedir",
+    "description": "Fevzi Ege Yurtsevenler tarafından hazırlanan, Türkiye'nin ilk kapsamlı LLM Güvenliği giriş rehberi. Yapay zeka güvenliğinin temellerini ve yeni saldırı yüzeylerini keşfedin.",
+    "stars": 9,
+    "forks": 0,
+    "language": null,
+    "topics": [
+      "ai",
+      "ai-security-turkey",
+      "artificial-intelligence",
+      "cyber-security",
+      "llm",
+      "llm-security",
+      "yapay-zeka-guvenligi"
+    ],
+    "created_at": "2026-04-29T08:41:19Z",
+    "updated_at": "2026-05-02T02:01:25Z",
+    "license": "",
+    "source": "github-search",
+    "collected_at": "2026-05-02T02:56:31.945318"
   },
   {
     "id": "github-1188906847",

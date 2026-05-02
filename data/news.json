@@ -1,5 +1,89 @@
 [
   {
+    "id": "2b553412cc4c",
+    "title": "Meta收购机器人AI公司，加速布局人形机器人技术",
+    "url": "https://36kr.com/newsflashes/3791455361113344?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-02T01:56:47",
+    "summary": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技术旨在使机器人能够在复杂动态环境中理解、预测并适应人类行为。Meta发言人表示，该初创公司“处于机器人智能的前沿领域”。（新浪财经）",
+    "collected_at": "2026-05-02T02:56:22.188439"
+  },
+  {
+    "id": "09c409434735",
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-01T23:06:50",
+    "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit",
+    "collected_at": "2026-05-02T02:56:10.863736"
+  },
+  {
+    "id": "320068442afa",
+    "title": "五角大楼与七家AI巨头签约，Anthropic遭排除",
+    "url": "https://36kr.com/newsflashes/3791458087836675?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-02T01:28:31",
+    "summary": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
+    "collected_at": "2026-05-02T02:56:22.188557"
+  },
+  {
+    "id": "0809bbe44568",
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-01T22:13:27",
+    "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "collected_at": "2026-05-02T02:56:10.863790"
+  },
+  {
+    "id": "d780c4cb65d5",
+    "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+    "url": "https://36kr.com/p/3791460373929221?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-02T01:25:01",
+    "summary": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。 对薄公堂第四天，马斯克爆出了大瓜！ 4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。 现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题： xAI是否蒸馏了OpenAI的模型？ 马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？ 部分如此（Partly）。 此话一出，全网瞬间看呆！ 马斯克承认Grok模型蒸馏了ChatGPT 一个正在起诉OpenAI「背叛非营利使",
+    "collected_at": "2026-05-02T02:56:22.186942"
+  },
+  {
+    "id": "572f1821c4c2",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-01T22:08:19",
+    "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat",
+    "collected_at": "2026-05-02T02:56:11.293562"
+  },
+  {
+    "id": "fa7bd323efd7",
+    "title": "iNaturalist Sightings",
+    "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-01T19:35:41",
+    "summary": "Tool: iNaturalist Sightings I wanted to see my iNaturalist observations - across two separate accounts - grouped by when they occurred. I'm camping this weekend so I built this entirely on my phone using Claude Code for web. I started by building an inaturalist-clumper Python CLI for fetching and \"c",
+    "collected_at": "2026-05-02T02:56:18.453498"
+  },
+  {
     "id": "f15b72a01048",
     "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
     "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
@@ -48,16 +132,16 @@
     "collected_at": "2026-05-01T19:22:58.378061"
   },
   {
-    "id": "de13a4b3d3d8",
-    "title": "Uber torches 2026 AI budget on Claude Code in four months",
-    "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+    "id": "9aa5e638efd8",
+    "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+    "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
     "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-01T16:08:53",
-    "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 327 # Comments: 352",
-    "collected_at": "2026-05-01T19:22:59.435919"
+    "published": "2026-05-01T16:42:41",
+    "summary": "Article URL: https://www.bbc.com/news/articles/c5yerr4m1yno Comments URL: https://news.ycombinator.com/item?id=47976856 Points: 212 # Comments: 240",
+    "collected_at": "2026-05-02T02:56:12.358068"
   },
   {
     "id": "6100f49737ff",
@@ -72,16 +156,16 @@
     "collected_at": "2026-05-01T19:22:58.589717"
   },
   {
-    "id": "103feabc1f38",
-    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-    "source": "The Verge AI",
+    "id": "de13a4b3d3d8",
+    "title": "Uber torches 2026 AI budget on Claude Code in four months",
+    "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-01T14:09:56",
-    "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which",
-    "collected_at": "2026-05-01T19:22:58.468072"
+    "priority": 2,
+    "published": "2026-05-01T16:08:53",
+    "summary": "Article URL: https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/ Comments URL: https://news.ycombinator.com/item?id=47976415 Points: 327 # Comments: 352",
+    "collected_at": "2026-05-01T19:22:59.435919"
   },
   {
     "id": "279ca32df23a",
@@ -94,6 +178,18 @@
     "published": "2026-05-01T15:31:09",
     "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factori",
     "collected_at": "2026-05-01T19:22:58.589788"
+  },
+  {
+    "id": "103feabc1f38",
+    "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-01T14:09:56",
+    "summary": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has left out Anthropic - which",
+    "collected_at": "2026-05-01T19:22:58.468072"
   },
   {
     "id": "97fd42172385",
@@ -3492,18 +3588,6 @@
     "collected_at": "2026-04-30T03:28:26.751719"
   },
   {
-    "id": "9d009974524c",
-    "title": "掌阅科技：2026年将全面推进AI短剧工业化布局",
-    "url": "https://36kr.com/newsflashes/3787345802386435?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T03:27:22",
-    "summary": "掌阅科技在2025年年度业绩说明会上表示，2026年公司将全面推进AI短剧工业化布局，实现内容生态规模化突破；显著加大资源投入力度，加码海外市场战略布局。在国内市场，AI短剧的成本结构将显著发生变化；海外市场流量渠道相对多元，公司将大力推动数字阅读、精品短剧、AI漫剧等多内容形态协同出海，搭建覆盖多语种、多区域的全球化内容生产与分发体系。（证券时报）",
-    "collected_at": "2026-04-29T03:34:05.462994"
-  },
-  {
     "id": "0a1501d9add4",
     "title": "Multi-action Tangled Program Graphs for Multi-task Reinforcement Learning with Continuous Control",
     "url": "https://arxiv.org/abs/2604.25369",
@@ -3514,89 +3598,5 @@
     "published": "2026-04-29T04:00:00",
     "summary": "arXiv:2604.25369v1 Announce Type: new Abstract: Over the past few decades, machine learning has been widely used to learn complex tasks. Reinforcement Learning (RL), inspired by human behavior, is a great example, as it involves developing specific behaviours for specific tasks. To further challenge",
     "collected_at": "2026-04-30T03:28:26.751819"
-  },
-  {
-    "id": "8190b57568b1",
-    "title": "吨级重载新纪元开启｜大咖机器人全球首发“吨级重载机器马”",
-    "url": "https://www.qbitai.com/2026/04/410732.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-29T03:06:21",
-    "summary": "覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行等六大核心场景",
-    "collected_at": "2026-04-29T08:23:22.818148"
-  },
-  {
-    "id": "c28c5985b359",
-    "title": "腾讯ima推出全新知识Agent——copilot",
-    "url": "https://36kr.com/newsflashes/3787314918743047?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T02:55:57",
-    "summary": "36氪获悉，4月29日，腾讯ima正式推出知识Agent——copilot，支持用户创建专属Agent。copilot内置记忆系统，通过copilot设定、用户档案、长期记忆、经验技巧四大模块，记住用户的背景、习惯与推进事项，实现跨场景连续调用，减少重复输入。",
-    "collected_at": "2026-04-29T03:34:05.463109"
-  },
-  {
-    "id": "208292a68770",
-    "title": "银河通用LDA定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
-    "url": "https://www.qbitai.com/2026/04/410653.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-04-29T02:23:06",
-    "summary": "开启具身规模化时代",
-    "collected_at": "2026-04-29T08:23:22.818176"
-  },
-  {
-    "id": "bcd8f9e38325",
-    "title": "兆驰股份：2026年光通信业务将作为公司产业升级的核心战略方向",
-    "url": "https://36kr.com/newsflashes/3787307756526595?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T02:48:40",
-    "summary": "兆驰股份在业绩说明会上表示，公司已成功搭建覆盖光芯片、光器件、光模块的垂直产业链布局，各环节协同发展，核心竞争力持续提升。应用于200G及以下速率的光模块已实现规模化生产并大批量出货，400G/800G光模块在完成可靠性测试后已进入小批量生产阶段，正稳步推进至规模化量产。2026年，光通信业务将作为公司产业升级的核心战略方向。其中，光芯片方面，公司将持续加大研发投入，加速1.6T超高速光模块研发，保持技术迭代领先。（证券时报）",
-    "collected_at": "2026-04-29T03:34:05.463192"
-  },
-  {
-    "id": "c7c36f416f31",
-    "title": "[AINews] not much happened today",
-    "url": "https://www.latent.space/p/ainews-not-much-happened-today",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-29T01:46:59",
-    "summary": "a quiet day.",
-    "collected_at": "2026-04-29T03:33:59.113628"
-  },
-  {
-    "id": "c82d8007aad0",
-    "title": "厦门士兰集华微电子公司注册资本增至51.1亿元",
-    "url": "https://36kr.com/newsflashes/3787290414373893?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T02:46:43",
-    "summary": "36氪获悉，爱企查App显示，近日，厦门士兰集华微电子有限公司发生工商变更，新增厦门海厦联投投资合伙企业（有限合伙）、厦门产投鑫华科技投资合伙企业（有限合伙）等为股东，陈向东卸任法定代表人，由吴文接任，同时，注册资本由2.5亿元人民币增至51.1亿元人民币，增幅1944%。该公司成立于2025年6月，经营范围包括集成电路设计、集成电路芯片及产品制造、集成电路销售等，现由杭州士兰微电子股份有限公司、厦门士兰微电子有限公司及上述新增股东共同持股。",
-    "collected_at": "2026-04-29T03:34:05.463278"
-  },
-  {
-    "id": "47e910bbe05c",
-    "title": "2025年我国全年词元累计调用量达21100万亿，日均调用量呈指数级增长",
-    "url": "https://36kr.com/newsflashes/3787291440831488?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T02:32:04",
-    "summary": "今天，《全国数据资源调查报告（2025年）》在第九届数字中国建设峰会上发布，报告显示，我国数据资源正以更大力度，赋能人工智能创新发展。“词元”（Token），是人工智能大模型为了高效处理数据，把数据进行拆分后的最小信息单元。2025年，全国日均词元调用量从年初的超万亿增长到年末的100万亿，呈现指数级增长；全年词元累计调用量达到约21100万亿。（央视新闻）",
-    "collected_at": "2026-04-29T03:34:05.463382"
   }
 ]
