@@ -1,5 +1,17 @@
 [
   {
+    "id": "18ac41b8b3d0",
+    "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
+    "url": "https://36kr.com/p/3789475357400068?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-02T13:17:06",
+    "summary": "文｜肖漫 编辑｜李勤 当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。 卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。 “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。 在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。 这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。 基于移动基座模",
+    "collected_at": "2026-05-02T13:24:44.038148"
+  },
+  {
     "id": "a93e2b797ce6",
     "title": "[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
     "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
@@ -12,16 +24,16 @@
     "collected_at": "2026-05-02T07:55:44.540887"
   },
   {
-    "id": "cca20052a3e9",
-    "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-    "url": "https://36kr.com/p/3791662444911617?f=rss",
+    "id": "f6641dfb11ab",
+    "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+    "url": "https://36kr.com/p/3792155815304450?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-02T06:52:34",
-    "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是",
-    "collected_at": "2026-05-02T07:55:48.303033"
+    "published": "2026-05-02T13:01:36",
+    "summary": "文｜周鑫雨 编辑｜杨轩 规模化落地，今年的具身公司都在谈这个。 数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。 激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。 在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标：2036年，要实现140亿美元的营",
+    "collected_at": "2026-05-02T13:24:44.038298"
   },
   {
     "id": "573e886a9fb6",
@@ -36,16 +48,16 @@
     "collected_at": "2026-05-02T07:48:12.082538"
   },
   {
-    "id": "2b553412cc4c",
-    "title": "Meta收购机器人AI公司，加速布局人形机器人技术",
-    "url": "https://36kr.com/newsflashes/3791455361113344?f=rss",
+    "id": "cca20052a3e9",
+    "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+    "url": "https://36kr.com/p/3791662444911617?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-02T01:56:47",
-    "summary": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技术旨在使机器人能够在复杂动态环境中理解、预测并适应人类行为。Meta发言人表示，该初创公司“处于机器人智能的前沿领域”。（新浪财经）",
-    "collected_at": "2026-05-02T02:56:22.188439"
+    "published": "2026-05-02T06:52:34",
+    "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是",
+    "collected_at": "2026-05-02T07:55:48.303033"
   },
   {
     "id": "09c409434735",
@@ -60,16 +72,16 @@
     "collected_at": "2026-05-02T02:56:10.863736"
   },
   {
-    "id": "320068442afa",
-    "title": "五角大楼与七家AI巨头签约，Anthropic遭排除",
-    "url": "https://36kr.com/newsflashes/3791458087836675?f=rss",
+    "id": "2b553412cc4c",
+    "title": "Meta收购机器人AI公司，加速布局人形机器人技术",
+    "url": "https://36kr.com/newsflashes/3791455361113344?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-02T01:28:31",
-    "summary": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
-    "collected_at": "2026-05-02T02:56:22.188557"
+    "published": "2026-05-02T01:56:47",
+    "summary": "Meta Platforms已完成对机器人人工智能初创公司Assured Robot Intelligence的收购，以加速其人形机器人技术的研发进程。该收购于5月1日完成，具体财务条款未予披露。Assured Robot Intelligence专注于为机器人开发AI模型，其技术旨在使机器人能够在复杂动态环境中理解、预测并适应人类行为。Meta发言人表示，该初创公司“处于机器人智能的前沿领域”。（新浪财经）",
+    "collected_at": "2026-05-02T02:56:22.188439"
   },
   {
     "id": "0809bbe44568",
@@ -84,16 +96,16 @@
     "collected_at": "2026-05-02T02:56:10.863790"
   },
   {
-    "id": "d780c4cb65d5",
-    "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
-    "url": "https://36kr.com/p/3791460373929221?f=rss",
+    "id": "320068442afa",
+    "title": "五角大楼与七家AI巨头签约，Anthropic遭排除",
+    "url": "https://36kr.com/newsflashes/3791458087836675?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-02T01:25:01",
-    "summary": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。 对薄公堂第四天，马斯克爆出了大瓜！ 4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。 现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题： xAI是否蒸馏了OpenAI的模型？ 马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？ 部分如此（Partly）。 此话一出，全网瞬间看呆！ 马斯克承认Grok模型蒸馏了ChatGPT 一个正在起诉OpenAI「背叛非营利使",
-    "collected_at": "2026-05-02T02:56:22.186942"
+    "published": "2026-05-02T01:28:31",
+    "summary": "五角大楼5月1日宣布，已与七家领先的人工智能公司达成协议，将其先进技术部署到国防部的机密网络中。SpaceX、OpenAI、谷歌、英伟达、Reflection、微软和亚马逊云服务入选，而Anthropic因安全限制争议被排除在外。（新浪财经）",
+    "collected_at": "2026-05-02T02:56:22.188557"
   },
   {
     "id": "572f1821c4c2",
@@ -106,6 +118,18 @@
     "published": "2026-05-01T22:08:19",
     "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned&#160;that AI could destroy us all and sat",
     "collected_at": "2026-05-02T02:56:11.293562"
+  },
+  {
+    "id": "d780c4cb65d5",
+    "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+    "url": "https://36kr.com/p/3791460373929221?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-02T01:25:01",
+    "summary": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。 对薄公堂第四天，马斯克爆出了大瓜！ 4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。 现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题： xAI是否蒸馏了OpenAI的模型？ 马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？ 部分如此（Partly）。 此话一出，全网瞬间看呆！ 马斯克承认Grok模型蒸馏了ChatGPT 一个正在起诉OpenAI「背叛非营利使",
+    "collected_at": "2026-05-02T02:56:22.186942"
   },
   {
     "id": "fa7bd323efd7",
@@ -3574,29 +3598,5 @@
     "published": "2026-04-29T04:00:00",
     "summary": "arXiv:2604.25224v1 Announce Type: new Abstract: Long-horizon investment decisions create a pre-realization evaluation problem: realized returns are the eventual arbiter of investment quality, but they arrive too late and are too noisy to guide many model-development and governance decisions. LLM jud",
     "collected_at": "2026-04-30T03:28:26.751564"
-  },
-  {
-    "id": "a6ccf976e974",
-    "title": "A Unifying Framework for Unsupervised Concept Extraction",
-    "url": "https://arxiv.org/abs/2604.24936",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24936v1 Announce Type: new Abstract: Techniques for concept extraction, such as sparse autoencoders and transcoders, aim to extract high-level symbolic concepts from low-level nonsymbolic representations. When these extracted concepts are used for downstream tasks such as model steering a",
-    "collected_at": "2026-04-29T08:30:14.364082"
-  },
-  {
-    "id": "c86b15d24543",
-    "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery",
-    "url": "https://arxiv.org/abs/2604.25256",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25256v1 Announce Type: new Abstract: Autonomous scientific research is significantly advanced thanks to the development of AI agents. One key step in this process is finding the right scientific literature, whether to explore existing knowledge for a research problem, or to acquire eviden",
-    "collected_at": "2026-04-30T03:28:26.751653"
   }
 ]
