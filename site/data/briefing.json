@@ -1,15 +1,15 @@
 {
   "date": "2026-05-02",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：36氪, Latent Space, 量子位, TechCrunch AI, MIT Tech Review, Simon Willison, AI Alignment Forum, Hacker News AI",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：Simon Willison, TechCrunch AI, Hacker News AI, 36氪, Latent Space, 量子位, MIT Tech Review, AI Alignment Forum",
   "news_count": 20,
   "sources": {
+    "Simon Willison": 2,
+    "TechCrunch AI": 5,
+    "Hacker News AI": 3,
     "36氪": 6,
     "Latent Space": 1,
     "量子位": 1,
-    "TechCrunch AI": 4,
-    "MIT Tech Review": 3,
-    "Simon Willison": 1,
-    "AI Alignment Forum": 1,
-    "Hacker News AI": 3
+    "MIT Tech Review": 1,
+    "AI Alignment Forum": 1
   }
 }

@@ -1,5 +1,41 @@
 [
   {
+    "id": "969f08034421",
+    "title": "Sightings",
+    "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-02T17:26:40",
+    "summary": "/elsewhere/sightings/ I have a new camera (a Canon R6 Mark II) so I'm taking a lot more photos of birds. I share my best wildlife photos on iNaturalist, and based on yesterday's successful prototype I decided to add those to my blog. I built this feature on my phone using Claude Code for web, as an",
+    "collected_at": "2026-05-02T19:10:14.610602"
+  },
+  {
+    "id": "f620eec25f20",
+    "title": "The best AI dictation apps, tested and ranked",
+    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-02T16:00:00",
+    "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+    "collected_at": "2026-05-02T19:10:04.887858"
+  },
+  {
+    "id": "6110753a9b31",
+    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+    "url": "https://arxiv.org/abs/2509.00462",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-02T15:28:13",
+    "summary": "Article URL: https://arxiv.org/abs/2509.00462 Comments URL: https://news.ycombinator.com/item?id=47987256 Points: 303 # Comments: 157",
+    "collected_at": "2026-05-02T19:10:08.389767"
+  },
+  {
     "id": "18ac41b8b3d0",
     "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
     "url": "https://36kr.com/p/3789475357400068?f=rss",
@@ -3562,41 +3598,5 @@
     "published": "2026-04-29T04:00:00",
     "summary": "arXiv:2604.24911v1 Announce Type: new Abstract: Machine Learning is becoming more prevalent in science and engineering, but many approaches do not provide meaningful uncertainty estimates and predictions may also violate known physical knowledge. We propose a Bayesian framework to embed linear relat",
     "collected_at": "2026-04-29T08:30:14.363936"
-  },
-  {
-    "id": "ef072fde1207",
-    "title": "DATAREEL: Automated Data-Driven Video Story Generation with Animations",
-    "url": "https://arxiv.org/abs/2604.25220",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25220v1 Announce Type: new Abstract: Data videos are a powerful medium for visual data based storytelling, combining animated, chart-centric visualizations with synchronized narration. Widely used in journalism, education, and public communication, they help audiences understand complex d",
-    "collected_at": "2026-04-30T03:28:26.751477"
-  },
-  {
-    "id": "ebb972d68dc4",
-    "title": "Generative diffusion models for spatiotemporal influenza forecasting",
-    "url": "https://arxiv.org/abs/2604.24913",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24913v1 Announce Type: new Abstract: Forecasting infectious disease incidence can provide important information to guide public health planning, yet is difficult because epidemic dynamics are complex. Current mechanistic and statistical approaches often struggle to capture multimodal unce",
-    "collected_at": "2026-04-29T08:30:14.364024"
-  },
-  {
-    "id": "b78b3575d728",
-    "title": "ValueAlpha: Agreement-Gated Stress Testing of LLM-Judged Investment Rationales Before Returns Are Observable",
-    "url": "https://arxiv.org/abs/2604.25224",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25224v1 Announce Type: new Abstract: Long-horizon investment decisions create a pre-realization evaluation problem: realized returns are the eventual arbiter of investment quality, but they arrive too late and are too noisy to guide many model-development and governance decisions. LLM jud",
-    "collected_at": "2026-04-30T03:28:26.751564"
   }
 ]
