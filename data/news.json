@@ -1,5 +1,41 @@
 [
   {
+    "id": "a93e2b797ce6",
+    "title": "[AINews] AI Engineer World's Fair — Autoresearch, Memory, World Models, Tokenmaxxing, Agentic Commerce, and Vertical AI Call for Speakers",
+    "url": "https://www.latent.space/p/ainews-ai-engineer-worlds-fair-autoresearch",
+    "source": "Latent Space",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-02T07:21:55",
+    "summary": "a quiet day lets us make a call for speakers!",
+    "collected_at": "2026-05-02T07:55:44.540887"
+  },
+  {
+    "id": "cca20052a3e9",
+    "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+    "url": "https://36kr.com/p/3791662444911617?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-02T06:52:34",
+    "summary": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了：苹果内部在使用Claude Code构建生产级应用。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后，苹果在24小时内已紧急撤回，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁祸首都是",
+    "collected_at": "2026-05-02T07:55:48.303033"
+  },
+  {
+    "id": "573e886a9fb6",
+    "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+    "url": "https://www.qbitai.com/2026/05/412713.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-02T03:30:12",
+    "summary": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+    "collected_at": "2026-05-02T07:48:12.082538"
+  },
+  {
     "id": "2b553412cc4c",
     "title": "Meta收购机器人AI公司，加速布局人形机器人技术",
     "url": "https://36kr.com/newsflashes/3791455361113344?f=rss",
@@ -3562,41 +3598,5 @@
     "published": "2026-04-29T04:00:00",
     "summary": "arXiv:2604.25256v1 Announce Type: new Abstract: Autonomous scientific research is significantly advanced thanks to the development of AI agents. One key step in this process is finding the right scientific literature, whether to explore existing knowledge for a research problem, or to acquire eviden",
     "collected_at": "2026-04-30T03:28:26.751653"
-  },
-  {
-    "id": "bd5ca2210cd1",
-    "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
-    "url": "https://sspai.com/post/109207",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T03:34:17",
-    "summary": "现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ...查看全文",
-    "collected_at": "2026-04-29T08:30:24.464472"
-  },
-  {
-    "id": "b628a335987b",
-    "title": "Plausible but Wrong: A case study on Agentic Failures in Astrophysical Workflows",
-    "url": "https://arxiv.org/abs/2604.25345",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25345v1 Announce Type: new Abstract: Agentic AI systems are increasingly being integrated into scientific workflows, yet their behavior under realistic conditions remains insufficiently understood. We evaluate CMBAgent across two workflow paradigms and eighteen astrophysical tasks. In the",
-    "collected_at": "2026-04-30T03:28:26.751719"
-  },
-  {
-    "id": "0a1501d9add4",
-    "title": "Multi-action Tangled Program Graphs for Multi-task Reinforcement Learning with Continuous Control",
-    "url": "https://arxiv.org/abs/2604.25369",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25369v1 Announce Type: new Abstract: Over the past few decades, machine learning has been widely used to learn complex tasks. Reinforcement Learning (RL), inspired by human behavior, is a great example, as it involves developing specific behaviours for specific tasks. To further challenge",
-    "collected_at": "2026-04-30T03:28:26.751819"
   }
 ]

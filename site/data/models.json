@@ -484,6 +484,27 @@
     "is_core": true
   },
   {
+    "id": "hf-ByteDance--SDXL-Lightning",
+    "name": "ByteDance/SDXL-Lightning",
+    "display_name": "SDXL-Lightning",
+    "url": "https://huggingface.co/ByteDance/SDXL-Lightning",
+    "author": "ByteDance",
+    "pipeline_tag": "text-to-image",
+    "likes": 2145,
+    "downloads": 208302,
+    "tags": [
+      "diffusers",
+      "text-to-image",
+      "stable-diffusion",
+      "arxiv:2402.13929",
+      "license:openrail++",
+      "region:us"
+    ],
+    "created_at": "2024-02-20T20:03:33.000Z",
+    "source": "hf-text-to-image",
+    "collected_at": "2026-05-02T07:55:58.869253"
+  },
+  {
     "id": "hf-deepseek-ai--DeepSeek-V4-Pro",
     "name": "deepseek-ai/DeepSeek-V4-Pro",
     "display_name": "DeepSeek-V4-Pro",
@@ -2076,6 +2097,23 @@
     "collected_at": "2026-04-21T13:07:47.733944",
     "display_priority": 18,
     "is_core": true
+  },
+  {
+    "id": "hf-facebook--tribev2",
+    "name": "facebook/tribev2",
+    "display_name": "tribev2",
+    "url": "https://huggingface.co/facebook/tribev2",
+    "author": "facebook",
+    "pipeline_tag": "",
+    "likes": 474,
+    "downloads": 170092,
+    "tags": [
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ],
+    "created_at": "2026-03-24T10:54:10.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-02T07:55:58.549172"
   },
   {
     "id": "hf-Jiunsong--supergemma4-26b-uncensored-gguf-v2",
@@ -5748,6 +5786,54 @@
     "created_at": "2026-04-06T13:19:05.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-02T02:56:35.536249"
+  },
+  {
+    "id": "hf-John6666--nova-furry-xl-il-v120-sdxl",
+    "name": "John6666/nova-furry-xl-il-v120-sdxl",
+    "display_name": "nova-furry-xl-il-v120-sdxl",
+    "url": "https://huggingface.co/John6666/nova-furry-xl-il-v120-sdxl",
+    "author": "John6666",
+    "pipeline_tag": "text-to-image",
+    "likes": 5,
+    "downloads": 205804,
+    "tags": [
+      "diffusers",
+      "safetensors",
+      "text-to-image",
+      "stable-diffusion",
+      "stable-diffusion-xl",
+      "not-for-all-audiences",
+      "anime",
+      "hentai",
+      "furry",
+      "furry style",
+      "2D",
+      "2.5D",
+      "3D",
+      "feral",
+      "yiff",
+      "anthro",
+      "animals",
+      "detail",
+      "posing",
+      "e621/rule34 tags",
+      "merge",
+      "noobai",
+      "Illustrious XL v2.0",
+      "illustrious",
+      "en",
+      "base_model:Laxhar/noobai-XL-1.1",
+      "base_model:merge:Laxhar/noobai-XL-1.1",
+      "base_model:OnomaAIResearch/Illustrious-XL-v2.0",
+      "base_model:merge:OnomaAIResearch/Illustrious-XL-v2.0",
+      "license:other",
+      "endpoints_compatible",
+      "diffusers:StableDiffusionXLPipeline",
+      "region:us"
+    ],
+    "created_at": "2025-10-01T02:44:51.000Z",
+    "source": "hf-text-to-image",
+    "collected_at": "2026-05-02T07:55:58.869269"
   },
   {
     "id": "hf-crynux-network--sdxl-turbo",
@@ -23292,69 +23378,5 @@
     "created_at": "2026-04-27T08:12:43.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929931"
-  },
-  {
-    "id": "hf-ben-moll--distilgpt2-tinystories",
-    "name": "ben-moll/distilgpt2-tinystories",
-    "display_name": "distilgpt2-tinystories",
-    "url": "https://huggingface.co/ben-moll/distilgpt2-tinystories",
-    "author": "ben-moll",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:12:22.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929934"
-  },
-  {
-    "id": "hf-zhaojizhang--PPO-LunarLander-v2",
-    "name": "zhaojizhang/PPO-LunarLander-v2",
-    "display_name": "PPO-LunarLander-v2",
-    "url": "https://huggingface.co/zhaojizhang/PPO-LunarLander-v2",
-    "author": "zhaojizhang",
-    "pipeline_tag": "reinforcement-learning",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "tensorboard",
-      "LunarLander-v2",
-      "ppo",
-      "deep-reinforcement-learning",
-      "reinforcement-learning",
-      "custom-implementation",
-      "deep-rl-course",
-      "model-index",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:11:59.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929937"
-  },
-  {
-    "id": "hf-slimed--Mistral-7B-Instruct-SFT-VFINAL2",
-    "name": "slimed/Mistral-7B-Instruct-SFT-VFINAL2",
-    "display_name": "Mistral-7B-Instruct-SFT-VFINAL2",
-    "url": "https://huggingface.co/slimed/Mistral-7B-Instruct-SFT-VFINAL2",
-    "author": "slimed",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "generated_from_trainer",
-      "trl",
-      "sft",
-      "base_model:mistralai/Mistral-7B-Instruct-v0.3",
-      "base_model:finetune:mistralai/Mistral-7B-Instruct-v0.3",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:11:57.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929940"
   }
 ]
