@@ -1,5 +1,29 @@
 [
   {
+    "id": "452d5889b4ba",
+    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-03T18:00:09",
+    "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+    "collected_at": "2026-05-03T19:05:43.763768"
+  },
+  {
+    "id": "f51765c77670",
+    "title": "Quoting Anthropic",
+    "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-03T15:13:23",
+    "summary": "We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to the merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time in these situation",
+    "collected_at": "2026-05-03T19:05:52.366933"
+  },
+  {
     "id": "c30db8efc9e4",
     "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
     "url": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
@@ -310,6 +334,18 @@
     "published": "2026-05-02T01:25:01",
     "summary": "编辑：桃子 【新智元导读】大型翻车现场！起诉OpenAI「背叛使命」的马斯克，竟亲口承认自家Grok模型蒸馏了ChatGPT。 对薄公堂第四天，马斯克爆出了大瓜！ 4月30日，加州奥克兰联邦法院，马斯克诉OpenAI案进入第四天。 现场，OpenAI首席律师William Savitt站起来，问了一个让整个法庭安静了三秒的问题： xAI是否蒸馏了OpenAI的模型？ 马斯克先是打了个太极，「所有AI公司都在这么干」。Savitt继续追问道，所以答案是yes？ 部分如此（Partly）。 此话一出，全网瞬间看呆！ 马斯克承认Grok模型蒸馏了ChatGPT 一个正在起诉OpenAI「背叛非营利使",
     "collected_at": "2026-05-02T02:56:22.186942"
+  },
+  {
+    "id": "9ae1769792d4",
+    "title": "Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+    "url": "https://www.alignmentforum.org/posts/eeFFpKCDWE9gjfzsk/exploration-hacking-can-llms-learn-to-resist-rl-training-2",
+    "source": "AI Alignment Forum",
+    "lang": "en",
+    "channel": "en",
+    "priority": 3,
+    "published": "2026-05-01T20:54:42",
+    "summary": "We empirically investigate exploration hacking (EH) — where models strategically alter their exploration to resist RL training — by creating model organisms that resist capability elicitation, evaluating countermeasures, and auditing frontier models for their propensity.Authors: Eyon Jang*, Damon Fa",
+    "collected_at": "2026-05-03T19:05:53.864472"
   },
   {
     "id": "fa7bd323efd7",
@@ -3562,41 +3598,5 @@
     "published": "2026-04-29T04:00:00",
     "summary": "arXiv:2604.25040v1 Announce Type: new Abstract: We propose a per-task leverage ratio for human-agent collaboration: human work displaced by an agent, divided by the human time required to specify the task, resolve mid-run interrupts, and review the result. The denominator decomposes into three chann",
     "collected_at": "2026-04-30T03:28:26.750804"
-  },
-  {
-    "id": "8ffdde2a5663",
-    "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
-    "url": "https://arxiv.org/abs/2604.24811",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24811v1 Announce Type: new Abstract: Graph neural Ordinary Differential Equations (ODE) combine neural ODE with the message passing mechanism of Graph Neural Networks (GNN), providing a continuous-time modeling method for graph representation learning. However, in dynamic graph scenarios,",
-    "collected_at": "2026-04-29T08:30:14.363420"
-  },
-  {
-    "id": "0f692a09b358",
-    "title": "Evaluating Risks in Weak-to-Strong Alignment: A Bias-Variance Perspective",
-    "url": "https://arxiv.org/abs/2604.25077",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25077v1 Announce Type: new Abstract: Weak-to-strong alignment offers a promising route to scalable supervision, but it can fail when a strong model becomes confidently wrong on examples that lie in the weak teacher's blind spots. Understanding such failures requires going beyond aggregate",
-    "collected_at": "2026-04-30T03:28:26.750903"
-  },
-  {
-    "id": "2956eb10f60c",
-    "title": "Heterogeneous Variational Inference for Markov Degradation Hazard Models: Discretized Mixture with Interpretable Clusters",
-    "url": "https://arxiv.org/abs/2604.24818",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24818v1 Announce Type: new Abstract: Bayesian finite mixture models can identify discrete risk clusters (low-risk vs. high-risk equipment), but face three critical bottlenecks: (1) insufficient degradation signals from coarse state discretization, (2) unstable cluster identification when",
-    "collected_at": "2026-04-29T08:30:14.363534"
   }
 ]

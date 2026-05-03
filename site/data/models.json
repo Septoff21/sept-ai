@@ -3704,6 +3704,22 @@
     "collected_at": "2026-04-28T14:20:57.290772"
   },
   {
+    "id": "hf-TenStrip--LTX2.3-10Eros",
+    "name": "TenStrip/LTX2.3-10Eros",
+    "display_name": "LTX2.3-10Eros",
+    "url": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
+    "author": "TenStrip",
+    "pipeline_tag": "",
+    "likes": 58,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-04-29T17:08:26.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-03T19:06:06.366606"
+  },
+  {
     "id": "hf-hesamation--Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled",
     "name": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled",
     "display_name": "Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -23481,21 +23497,5 @@
     "created_at": "2026-04-27T08:15:24.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929900"
-  },
-  {
-    "id": "hf-zoarag--toumeisakura121",
-    "name": "zoarag/toumeisakura121",
-    "display_name": "toumeisakura121",
-    "url": "https://huggingface.co/zoarag/toumeisakura121",
-    "author": "zoarag",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:14:50.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929903"
   }
 ]
