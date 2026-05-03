@@ -3861,6 +3861,33 @@
     "collected_at": "2026-04-20T18:54:53.609599"
   },
   {
+    "id": "github-1221728904",
+    "name": "OpenRaiser/ProDa",
+    "display_name": "ProDa",
+    "url": "https://github.com/OpenRaiser/ProDa",
+    "description": "📖 Data Engineering from Raw Corpora",
+    "stars": 87,
+    "forks": 5,
+    "language": "TypeScript",
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "benchmark",
+      "data-engineering",
+      "data-generation",
+      "data-science",
+      "data-synthesis",
+      "ide",
+      "interactive-development-environment",
+      "software-engineering"
+    ],
+    "created_at": "2026-04-26T15:54:27Z",
+    "updated_at": "2026-05-03T12:21:49Z",
+    "license": "",
+    "source": "github-search",
+    "collected_at": "2026-05-03T13:19:00.200546"
+  },
+  {
     "id": "github-1200895843",
     "name": "jegly/OfflineLLM",
     "display_name": "OfflineLLM",

@@ -12,16 +12,16 @@
     "collected_at": "2026-05-03T08:06:26.179072"
   },
   {
-    "id": "355ff2f21d9a",
-    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-    "source": "Hacker News AI",
+    "id": "2d552d61c9ed",
+    "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+    "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-03T04:05:28",
-    "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 244 # Comments: 108",
-    "collected_at": "2026-05-03T08:06:16.693524"
+    "priority": 1,
+    "published": "2026-05-03T13:00:00",
+    "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a [&#8230;]",
+    "collected_at": "2026-05-03T13:18:43.457191"
   },
   {
     "id": "32613783fb58",
@@ -36,16 +36,16 @@
     "collected_at": "2026-05-03T08:06:26.179114"
   },
   {
-    "id": "fdcda74e220f",
-    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-    "url": "https://www.qbitai.com/2026/05/412870.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "3800b60792a2",
+    "title": "AI music is flooding streaming services — but who wants it?",
+    "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-05-03T03:56:44",
-    "summary": "与全球社区共同推动具身智能创新",
-    "collected_at": "2026-05-03T08:04:00.319033"
+    "published": "2026-05-03T12:00:00",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of g",
+    "collected_at": "2026-05-03T13:18:43.457263"
   },
   {
     "id": "97e9eb8e7210",
@@ -60,16 +60,64 @@
     "collected_at": "2026-05-03T08:06:26.179201"
   },
   {
-    "id": "62d5832affa7",
-    "title": "DeepSeek V4最大的遗憾",
-    "url": "https://www.qbitai.com/2026/05/412737.html",
+    "id": "b79d29ec8217",
+    "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+    "url": "https://www.qbitai.com/2026/05/412080.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-03T03:43:37",
-    "summary": "Engram去哪了？",
-    "collected_at": "2026-05-03T08:04:00.319080"
+    "published": "2026-05-03T09:43:20",
+    "summary": "瓜多到吃不完",
+    "collected_at": "2026-05-03T13:16:27.233456"
+  },
+  {
+    "id": "6dce65869e71",
+    "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+    "url": "https://acai.sh/blog/specsmaxxing",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-03T06:33:38",
+    "summary": "Article URL: https://acai.sh/blog/specsmaxxing Comments URL: https://news.ycombinator.com/item?id=47994012 Points: 162 # Comments: 178",
+    "collected_at": "2026-05-03T13:18:44.559609"
+  },
+  {
+    "id": "1d43b720a45e",
+    "title": "不好！1930年的AI都来抢程序员饭碗了",
+    "url": "https://www.qbitai.com/2026/05/412896.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-03T09:42:55",
+    "summary": "完全无需互联网数据",
+    "collected_at": "2026-05-03T13:16:27.233496"
+  },
+  {
+    "id": "355ff2f21d9a",
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-03T04:05:28",
+    "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 244 # Comments: 108",
+    "collected_at": "2026-05-03T08:06:16.693524"
+  },
+  {
+    "id": "fdcda74e220f",
+    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+    "url": "https://www.qbitai.com/2026/05/412870.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-03T03:56:44",
+    "summary": "与全球社区共同推动具身智能创新",
+    "collected_at": "2026-05-03T08:04:00.319033"
   },
   {
     "id": "4ce3b826e9fa",
@@ -82,6 +130,18 @@
     "published": "2026-05-02T21:54:58",
     "summary": "Bad news for Tilly Norwood.",
     "collected_at": "2026-05-03T03:32:08.904878"
+  },
+  {
+    "id": "62d5832affa7",
+    "title": "DeepSeek V4最大的遗憾",
+    "url": "https://www.qbitai.com/2026/05/412737.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-03T03:43:37",
+    "summary": "Engram去哪了？",
+    "collected_at": "2026-05-03T08:04:00.319080"
   },
   {
     "id": "969f08034421",
@@ -3538,65 +3598,5 @@
     "published": "2026-04-29T04:00:00",
     "summary": "arXiv:2604.24818v1 Announce Type: new Abstract: Bayesian finite mixture models can identify discrete risk clusters (low-risk vs. high-risk equipment), but face three critical bottlenecks: (1) insufficient degradation signals from coarse state discretization, (2) unstable cluster identification when",
     "collected_at": "2026-04-29T08:30:14.363534"
-  },
-  {
-    "id": "55878fe5ad00",
-    "title": "Agentic Architect: An Agentic AI Framework for Architecture Design Exploration and Optimization",
-    "url": "https://arxiv.org/abs/2604.25083",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25083v1 Announce Type: new Abstract: Rapid advances in Large Language Models (LLMs) create new opportunities by enabling efficient exploration of broad, complex design spaces. This is particularly valuable in computer architecture, where performance depends on microarchitectural designs a",
-    "collected_at": "2026-04-30T03:28:26.750997"
-  },
-  {
-    "id": "15262fa16c1d",
-    "title": "Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision",
-    "url": "https://arxiv.org/abs/2604.24824",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24824v1 Announce Type: new Abstract: This article philosophically examines how shifts in assumptions regarding the existence and non-existence of the true target (TT) give rise to new perspectives and insights for machine learning (ML)-based predictive modeling and, correspondingly, propo",
-    "collected_at": "2026-04-29T08:30:14.363624"
-  },
-  {
-    "id": "59d00b48b4c0",
-    "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent Conquest",
-    "url": "https://arxiv.org/abs/2604.25088",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25088v1 Announce Type: new Abstract: Language Model (LM)-based agents remain largely untested in mixed-motive settings where agents must leverage short-term cooperation for long-term competitive goals (e.g., multi-party politics). We introduce Cooperate to Compete (C2C), a multi-agent env",
-    "collected_at": "2026-04-30T03:28:26.751076"
-  },
-  {
-    "id": "ca276398953a",
-    "title": "Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity",
-    "url": "https://arxiv.org/abs/2604.24827",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24827v1 Announce Type: new Abstract: Closed-source frontier labs do not disclose parameter counts, and the standard alternative -- inference economics -- carries $2\\times$+ uncertainty from hardware, batching, and serving-stack assumptions external to the model. We exploit a tighter intri",
-    "collected_at": "2026-04-29T08:30:14.363715"
-  },
-  {
-    "id": "93369c24bd52",
-    "title": "Doing More With Less: Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling",
-    "url": "https://arxiv.org/abs/2604.25098",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25098v1 Announce Type: new Abstract: While current Large Language Models (LLMs) exhibit remarkable reasoning capabilities through test-time compute scaling (TTS), their massive parameter counts and high inference costs have motivated the development of pruning methods that can reduce mode",
-    "collected_at": "2026-04-30T03:28:26.751149"
   }
 ]
