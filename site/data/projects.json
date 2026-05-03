@@ -3482,6 +3482,33 @@
     "collected_at": "2026-04-20T18:54:55.937638"
   },
   {
+    "id": "github-1198306812",
+    "name": "HKUDS/Vibe-Trading",
+    "display_name": "Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "stars": 4602,
+    "forks": 951,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "algorithmic-trading",
+      "backtesting",
+      "fintech",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "python",
+      "quantitative-finance",
+      "trading"
+    ],
+    "created_at": "2026-04-01T09:52:20Z",
+    "updated_at": "2026-05-03T08:01:39Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-03T08:06:33.442500"
+  },
+  {
     "id": "github-877000812",
     "name": "Integuru-AI/Integuru",
     "display_name": "Integuru",
@@ -4067,6 +4094,34 @@
     "license": "",
     "source": "github-search",
     "collected_at": "2026-04-27T14:03:55.425639"
+  },
+  {
+    "id": "github-1222369266",
+    "name": "6551-Team/agent-trade-kit",
+    "display_name": "agent-trade-kit",
+    "url": "https://github.com/6551-Team/agent-trade-kit",
+    "description": "OKX Agent Trade Kit: MCP server and CLI to connect AI assistants (Claude, Cursor) to your OKX account via Model Context Protocol. Local, MIT, TypeScript monorepo.",
+    "stars": 36,
+    "forks": 11,
+    "language": "TypeScript",
+    "topics": [
+      "artificial-intelligence",
+      "claude",
+      "cli",
+      "cryptocurrency",
+      "cursor",
+      "mcp",
+      "model-context-protocol",
+      "nodejs",
+      "okx",
+      "trading",
+      "typescript"
+    ],
+    "created_at": "2026-04-27T09:48:41Z",
+    "updated_at": "2026-05-03T08:03:32Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-03T08:06:31.429012"
   },
   {
     "id": "github-1193342201",

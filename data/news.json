@@ -1,5 +1,77 @@
 [
   {
+    "id": "c30db8efc9e4",
+    "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
+    "url": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-03T13:41:35",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-03T08:06:26.179072"
+  },
+  {
+    "id": "355ff2f21d9a",
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-03T04:05:28",
+    "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/ Comments URL: https://news.ycombinator.com/item?id=47993235 Points: 244 # Comments: 108",
+    "collected_at": "2026-05-03T08:06:16.693524"
+  },
+  {
+    "id": "32613783fb58",
+    "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+    "url": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-03T13:37:48",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-03T08:06:26.179114"
+  },
+  {
+    "id": "fdcda74e220f",
+    "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+    "url": "https://www.qbitai.com/2026/05/412870.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-03T03:56:44",
+    "summary": "与全球社区共同推动具身智能创新",
+    "collected_at": "2026-05-03T08:04:00.319033"
+  },
+  {
+    "id": "97e9eb8e7210",
+    "title": "构建分层的Agentic RAG系统：具备自主纠错的多模态推理",
+    "url": "https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-03T13:24:35",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-03T08:06:26.179201"
+  },
+  {
+    "id": "62d5832affa7",
+    "title": "DeepSeek V4最大的遗憾",
+    "url": "https://www.qbitai.com/2026/05/412737.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-03T03:43:37",
+    "summary": "Engram去哪了？",
+    "collected_at": "2026-05-03T08:04:00.319080"
+  },
+  {
     "id": "4ce3b826e9fa",
     "title": "AI-generated actors and scripts are now ineligible for Oscars",
     "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
@@ -3526,77 +3598,5 @@
     "published": "2026-04-29T04:00:00",
     "summary": "arXiv:2604.25098v1 Announce Type: new Abstract: While current Large Language Models (LLMs) exhibit remarkable reasoning capabilities through test-time compute scaling (TTS), their massive parameter counts and high inference costs have motivated the development of pruning methods that can reduce mode",
     "collected_at": "2026-04-30T03:28:26.751149"
-  },
-  {
-    "id": "ac5f8bde52c2",
-    "title": "On the Trainability of Masked Diffusion Language Models via Blockwise Locality",
-    "url": "https://arxiv.org/abs/2604.24832",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24832v1 Announce Type: new Abstract: Masked diffusion language models (MDMs) have recently emerged as a promising alternative to standard autoregressive large language models (AR-LLMs), yet their optimization can be substantially less stable. We study blockwise MDMs and compare them with",
-    "collected_at": "2026-04-29T08:30:14.363781"
-  },
-  {
-    "id": "0d52de237b6f",
-    "title": "Semantic Layers for Reliable LLM-Powered Data Analytics: A Paired Benchmark of Accuracy and Hallucination Across Three Frontier Models",
-    "url": "https://arxiv.org/abs/2604.25149",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25149v1 Announce Type: new Abstract: LLMs deployed for natural-language querying of analytical databases suffer from two intertwined failures - incorrect answers and confident hallucinations - both rooted in the same cause: the model is forced to infer business semantics that the schema d",
-    "collected_at": "2026-04-30T03:28:26.751230"
-  },
-  {
-    "id": "3331e458ebc2",
-    "title": "Transformer Approximations from ReLUs",
-    "url": "https://arxiv.org/abs/2604.24878",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24878v1 Announce Type: new Abstract: We provide a systematic recipe for translating ReLU approximation results to softmax attention mechanism. This recipe covers many common approximation targets. Importantly, it yields target-specific, economic resource bounds beyond universal approximat",
-    "collected_at": "2026-04-29T08:30:14.363827"
-  },
-  {
-    "id": "177af9c7725f",
-    "title": "Training Transformers as a Universal Computer",
-    "url": "https://arxiv.org/abs/2604.25166",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25166v1 Announce Type: new Abstract: We demonstrate that a small transformer can learn to execute programs in MicroPy, a simplified yet computationally universal programming language. Given procedure definitions together with an expression to evaluate, the transformer predicts small-step",
-    "collected_at": "2026-04-30T03:28:26.751288"
-  },
-  {
-    "id": "4b6cdfaaeaec",
-    "title": "Contrastive Image-Metadata Pre-Training for Materials Transmission Electron Microscopy",
-    "url": "https://arxiv.org/abs/2604.24909",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24909v1 Announce Type: new Abstract: The vast majority of transmission electron microscopy (TEM) data never gets published and ends up on a backup drive until deleted to free up space. These left-over datasets are rich in detail and variation, often paired with automatically saved metadat",
-    "collected_at": "2026-04-29T08:30:14.363885"
-  },
-  {
-    "id": "07612bc0f0c6",
-    "title": "From Insight to Action: A Novel Framework for Interpretability-Guided Data Selection in Large Language Models",
-    "url": "https://arxiv.org/abs/2604.25167",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25167v1 Announce Type: new Abstract: While mechanistic interpretability tools like Sparse Autoencoders (SAEs) can uncover meaningful features within Large Language Models (LLMs), a critical gap remains in transforming these insights into practical actions for model optimization. We bridge",
-    "collected_at": "2026-04-30T03:28:26.751364"
   }
 ]

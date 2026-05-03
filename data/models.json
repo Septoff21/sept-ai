@@ -4935,6 +4935,42 @@
     "collected_at": "2026-04-22T13:10:24.813717"
   },
   {
+    "id": "hf-ibm-granite--granite-speech-4.1-2b-plus",
+    "name": "ibm-granite/granite-speech-4.1-2b-plus",
+    "display_name": "granite-speech-4.1-2b-plus",
+    "url": "https://huggingface.co/ibm-granite/granite-speech-4.1-2b-plus",
+    "author": "ibm-granite",
+    "pipeline_tag": "automatic-speech-recognition",
+    "likes": 41,
+    "downloads": 1809,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "granite_speech_plus",
+      "automatic-speech-recognition",
+      "multilingual",
+      "en",
+      "fr",
+      "de",
+      "es",
+      "pt",
+      "arxiv:2604.11269",
+      "arxiv:2604.22817",
+      "arxiv:2604.12398",
+      "arxiv:2505.08699",
+      "arxiv:2603.11243",
+      "arxiv:2603.08397",
+      "base_model:ibm-granite/granite-4.0-1b-base",
+      "base_model:finetune:ibm-granite/granite-4.0-1b-base",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-16T13:55:49.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-03T08:06:34.123881"
+  },
+  {
     "id": "hf-ibm-granite--granite-4.1-8b",
     "name": "ibm-granite/granite-4.1-8b",
     "display_name": "granite-4.1-8b",
@@ -23456,22 +23492,5 @@
     "created_at": "2026-04-27T08:14:22.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929906"
-  },
-  {
-    "id": "hf-shin0523--soyul-lora",
-    "name": "shin0523/soyul-lora",
-    "display_name": "soyul-lora",
-    "url": "https://huggingface.co/shin0523/soyul-lora",
-    "author": "shin0523",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:mit",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:14:19.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929910"
   }
 ]
