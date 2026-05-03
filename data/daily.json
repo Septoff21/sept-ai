@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-05-02T19:11:24.399206",
-  "date": "2026-05-02",
+  "updated_at": "2026-05-03T03:33:15.603980",
+  "date": "2026-05-03",
   "spotlight": {
-    "id": "langchain",
-    "name": "LangChain",
-    "url": "https://langchain.com",
+    "id": "autogen",
+    "name": "AutoGen",
+    "url": "https://github.com/microsoft/autogen",
     "type": "tool",
-    "description": "最流行的 LLM 应用开发框架",
+    "description": "微软出品的多 Agent 协作框架",
     "pricing": "开源免费",
     "category": "Agent"
   },
   "alternates": [
     {
-      "name": "Manus",
-      "url": "https://manus.im",
+      "name": "Genspark",
+      "url": "https://www.genspark.ai",
       "type": "agent",
-      "description": "通用AI Agent，能自主完成复杂任务链",
-      "pricing": "免费试用",
-      "category": "通用 Agent"
-    },
-    {
-      "id": "dalle3",
-      "name": "DALL-E 3",
-      "url": "https://openai.com/dall-e-3",
-      "type": "tool",
-      "description": "OpenAI 官方图像生成，ChatGPT Plus 内置",
-      "pricing": "ChatGPT Plus 内含",
-      "category": "绘画"
-    },
-    {
-      "name": "SmolAgents",
-      "url": "https://github.com/huggingface/smolagents",
-      "type": "agent",
-      "description": "HuggingFace轻量级AI Agent框架，代码优先",
-      "pricing": "开源免费",
+      "description": "AI搜索引擎+Agent，自动搜索分析执行任务",
+      "pricing": "免费",
       "category": "研究 Agent"
+    },
+    {
+      "id": "可灵",
+      "name": "可灵 AI",
+      "url": "https://klingai.com",
+      "type": "tool",
+      "description": "快手出品的 AI 视频生成工具，国产最强",
+      "pricing": "免费 + 会员",
+      "category": "视频"
+    },
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "type": "agent",
+      "description": "最早爆火的自主AI Agent框架",
+      "pricing": "开源免费",
+      "category": "自动化 Agent"
     }
   ]
 }

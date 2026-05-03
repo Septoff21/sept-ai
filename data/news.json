@@ -1,5 +1,17 @@
 [
   {
+    "id": "4ce3b826e9fa",
+    "title": "AI-generated actors and scripts are now ineligible for Oscars",
+    "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-02T21:54:58",
+    "summary": "Bad news for Tilly Norwood.",
+    "collected_at": "2026-05-03T03:32:08.904878"
+  },
+  {
     "id": "969f08034421",
     "title": "Sightings",
     "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
@@ -3586,17 +3598,5 @@
     "published": "2026-04-29T04:00:00",
     "summary": "arXiv:2604.25167v1 Announce Type: new Abstract: While mechanistic interpretability tools like Sparse Autoencoders (SAEs) can uncover meaningful features within Large Language Models (LLMs), a critical gap remains in transforming these insights into practical actions for model optimization. We bridge",
     "collected_at": "2026-04-30T03:28:26.751364"
-  },
-  {
-    "id": "1009386092b0",
-    "title": "Learning with Embedded Linear Equality Constraints via Variational Bayesian Inference",
-    "url": "https://arxiv.org/abs/2604.24911",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24911v1 Announce Type: new Abstract: Machine Learning is becoming more prevalent in science and engineering, but many approaches do not provide meaningful uncertainty estimates and predictions may also violate known physical knowledge. We propose a Bayesian framework to embed linear relat",
-    "collected_at": "2026-04-29T08:30:14.363936"
   }
 ]

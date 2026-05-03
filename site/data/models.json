@@ -4846,6 +4846,58 @@
     "collected_at": "2026-04-28T19:51:59.646496"
   },
   {
+    "id": "hf-DavidAU--Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+    "name": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+    "display_name": "Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+    "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+    "author": "DavidAU",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 44,
+    "downloads": 47638,
+    "tags": [
+      "transformers",
+      "gguf",
+      "unsloth",
+      "heretic",
+      "uncensored",
+      "abliterated",
+      "fine tune",
+      "creative",
+      "creative writing",
+      "fiction writing",
+      "plot generation",
+      "sub-plot generation",
+      "story generation",
+      "scene continue",
+      "storytelling",
+      "fiction story",
+      "science fiction",
+      "romance",
+      "all genres",
+      "story",
+      "writing",
+      "vivid prosing",
+      "vivid writing",
+      "fiction",
+      "roleplaying",
+      "bfloat16",
+      "all use cases",
+      "image-text-to-text",
+      "en",
+      "zh",
+      "base_model:DavidAU/Qwen3.6-27B-Heretic2-Uncensored-Finetune-Thinking",
+      "base_model:quantized:DavidAU/Qwen3.6-27B-Heretic2-Uncensored-Finetune-Thinking",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "created_at": "2026-04-29T02:37:13.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-03T03:32:36.305467"
+  },
+  {
     "id": "hf-lordx64--Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
     "name": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
     "display_name": "Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
@@ -5233,6 +5285,38 @@
     "created_at": "2026-04-23T10:15:06.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-24T18:59:44.729752"
+  },
+  {
+    "id": "hf-nvidia--Gemma-4-26B-A4B-NVFP4",
+    "name": "nvidia/Gemma-4-26B-A4B-NVFP4",
+    "display_name": "Gemma-4-26B-A4B-NVFP4",
+    "url": "https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4",
+    "author": "nvidia",
+    "pipeline_tag": "text-generation",
+    "likes": 26,
+    "downloads": 4731,
+    "tags": [
+      "Model Optimizer",
+      "safetensors",
+      "gemma4",
+      "nvidia",
+      "ModelOpt",
+      "quantized",
+      "NVFP4",
+      "nvfp4",
+      "gemma4-26b-A4B-it",
+      "text-generation",
+      "conversational",
+      "base_model:google/gemma-4-26B-A4B-it",
+      "base_model:quantized:google/gemma-4-26B-A4B-it",
+      "license:other",
+      "8-bit",
+      "modelopt",
+      "region:us"
+    ],
+    "created_at": "2026-05-01T01:26:06.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-03T03:32:36.584567"
   },
   {
     "id": "hf-Jiunsong--supergemma4-e4b-abliterated-mlx",
@@ -5867,6 +5951,34 @@
     "created_at": "2026-04-16T13:58:50.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-02T13:24:55.963983"
+  },
+  {
+    "id": "hf-lewtun--talkie-1930-13b-it-hf",
+    "name": "lewtun/talkie-1930-13b-it-hf",
+    "display_name": "talkie-1930-13b-it-hf",
+    "url": "https://huggingface.co/lewtun/talkie-1930-13b-it-hf",
+    "author": "lewtun",
+    "pipeline_tag": "text-generation",
+    "likes": 20,
+    "downloads": 4029,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "talkie",
+      "text-generation",
+      "vintage",
+      "historical",
+      "conversational",
+      "custom_code",
+      "en",
+      "base_model:talkie-lm/talkie-1930-13b-it",
+      "base_model:finetune:talkie-lm/talkie-1930-13b-it",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-04-28T15:08:00.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-03T03:32:36.584583"
   },
   {
     "id": "hf-ibm-granite--granite-4.1-8b-base",
@@ -23361,53 +23473,5 @@
     "created_at": "2026-04-27T08:14:19.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929910"
-  },
-  {
-    "id": "hf-macn-20--blair-videogames-multiaspect-1",
-    "name": "macn-20/blair-videogames-multiaspect-1",
-    "display_name": "blair-videogames-multiaspect-1",
-    "url": "https://huggingface.co/macn-20/blair-videogames-multiaspect-1",
-    "author": "macn-20",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:14:16.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929914"
-  },
-  {
-    "id": "hf-firzahdzm--1gpu-instruct-2dc6c46f-01",
-    "name": "firzahdzm/1gpu-instruct-2dc6c46f-01",
-    "display_name": "1gpu-instruct-2dc6c46f-01",
-    "url": "https://huggingface.co/firzahdzm/1gpu-instruct-2dc6c46f-01",
-    "author": "firzahdzm",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:14:02.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929918"
-  },
-  {
-    "id": "hf-EduardoAlfonsoDiazCarretero--figurines",
-    "name": "EduardoAlfonsoDiazCarretero/figurines",
-    "display_name": "figurines",
-    "url": "https://huggingface.co/EduardoAlfonsoDiazCarretero/figurines",
-    "author": "EduardoAlfonsoDiazCarretero",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:14:00.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929921"
   }
 ]
