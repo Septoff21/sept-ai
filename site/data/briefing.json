@@ -1,14 +1,13 @@
 {
   "date": "2026-05-04",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 36氪, TechCrunch AI, Simon Willison, The Verge AI, 量子位, Hacker News AI",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 少数派, 量子位, 36氪, ArXiv CS.AI, ArXiv CS.LG",
   "news_count": 20,
   "sources": {
     "InfoQ AI": 5,
+    "少数派": 1,
+    "量子位": 1,
     "36氪": 1,
-    "TechCrunch AI": 4,
-    "Simon Willison": 2,
-    "The Verge AI": 2,
-    "量子位": 4,
-    "Hacker News AI": 2
+    "ArXiv CS.AI": 7,
+    "ArXiv CS.LG": 5
   }
 }
