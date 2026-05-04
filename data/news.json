@@ -1,5 +1,101 @@
 [
   {
+    "id": "a168596f1396",
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T19:12:49",
+    "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "collected_at": "2026-05-04T19:46:16.011655"
+  },
+  {
+    "id": "5836d0d07257",
+    "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+    "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T17:57:46",
+    "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+    "collected_at": "2026-05-04T19:46:16.421193"
+  },
+  {
+    "id": "318520852372",
+    "title": "TRE Python binding — ReDoS robustness demo",
+    "url": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T17:52:00",
+    "summary": "Research: TRE Python binding — ReDoS robustness demo If it's good enough for antirez to add to Redis I figured Ville Laurikari's TRE regular expression engine was worth exploring in a little more detail. I had Claude Code build an experimental Python binding (it used ctypes) and try some malicious r",
+    "collected_at": "2026-05-04T19:46:29.387607"
+  },
+  {
+    "id": "cde12b0c15be",
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T16:57:47",
+    "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+    "collected_at": "2026-05-04T19:46:16.011704"
+  },
+  {
+    "id": "d3576286998f",
+    "title": "The creator of Roomba is back with a furry robot companion",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T16:51:38",
+    "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines &#38; Magic, is a dog-sized robotic pet that",
+    "collected_at": "2026-05-04T19:46:16.114617"
+  },
+  {
+    "id": "791e2ed7efba",
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T16:45:55",
+    "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+    "collected_at": "2026-05-04T19:46:16.011753"
+  },
+  {
+    "id": "dcf3412565ed",
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T15:51:27",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, allegin",
+    "collected_at": "2026-05-04T19:46:16.228324"
+  },
+  {
+    "id": "4507c485b2ba",
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T16:36:03",
+    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+    "collected_at": "2026-05-04T19:46:16.011810"
+  },
+  {
     "id": "0ca39b129128",
     "title": "Tailoring AI solutions for health care needs",
     "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
@@ -12,6 +108,18 @@
     "collected_at": "2026-05-04T14:09:29.107198"
   },
   {
+    "id": "2df0f916df05",
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T15:59:24",
+    "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+    "collected_at": "2026-05-04T19:46:16.011843"
+  },
+  {
     "id": "c38e45e764ee",
     "title": "Import AI 455: Automating AI Research",
     "url": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/",
@@ -22,6 +130,18 @@
     "published": "2026-05-04T12:32:09",
     "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are about to start building themselves. What does that mean? I’m writing this post because when I look at all the publicl",
     "collected_at": "2026-05-04T14:09:37.280701"
+  },
+  {
+    "id": "abf86860a849",
+    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+    "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T13:00:00",
+    "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+    "collected_at": "2026-05-04T19:46:16.011935"
   },
   {
     "id": "1a713a06ddca",
@@ -610,6 +730,18 @@
     "published": "2026-05-04T02:17:22",
     "summary": "高盛据悉将向与Anthropico合资的企业注资约1.5亿美元。（新浪财经）",
     "collected_at": "2026-05-04T03:30:54.322476"
+  },
+  {
+    "id": "1116fa5b92d2",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T00:00:00",
+    "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+    "collected_at": "2026-05-04T19:46:24.628401"
   },
   {
     "id": "01b7165cd4b6",
@@ -3444,18 +3576,6 @@
     "collected_at": "2026-04-29T14:11:03.809637"
   },
   {
-    "id": "39e4cbbc4ec6",
-    "title": "Google Photos launches an AI try-on feature for clothes you already have",
-    "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-29T16:00:00",
-    "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Goog",
-    "collected_at": "2026-04-29T19:40:54.133205"
-  },
-  {
     "id": "fec8deb6ddb0",
     "title": "AI 智能体：告别文档缺漏 ｜ BUILD 2025",
     "url": "https://www.infoq.cn/video/xzP1usT6PvgoaNt7T0Bo?utm_source=rss&utm_medium=article",
@@ -3468,18 +3588,6 @@
     "collected_at": "2026-04-29T14:11:03.809666"
   },
   {
-    "id": "1c2cdeebf51b",
-    "title": "Why AI companies want you to be afraid of them",
-    "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T15:26:01",
-    "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id=47949750 Points: 252 # Comments: 189",
-    "collected_at": "2026-04-29T19:41:11.764157"
-  },
-  {
     "id": "122b7649fe3f",
     "title": "构建 AI 驱动的数据管道：深度探讨 Snowflake Openflow 与非结构化数据 | BUILD 2025",
     "url": "https://www.infoq.cn/video/Lm5IqHMcXAP2RoQNcOri?utm_source=rss&utm_medium=article",
@@ -3490,113 +3598,5 @@
     "published": "2026-04-29T16:20:37",
     "summary": "点击查看原文>",
     "collected_at": "2026-04-29T14:11:03.809697"
-  },
-  {
-    "id": "59ef3aa9e68b",
-    "title": "Granite 4.1 LLMs: How They’re Built",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-    "source": "HuggingFace Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-29T15:01:48",
-    "summary": "Granite 4.1 LLMs: How They’re Built",
-    "collected_at": "2026-04-29T19:41:22.159875"
-  },
-  {
-    "id": "ab927b60243e",
-    "title": "云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作",
-    "url": "https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:20:13",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T08:30:20.532283"
-  },
-  {
-    "id": "8740c4948a13",
-    "title": "Building the compute infrastructure for the Intelligence Age",
-    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-29T15:00:00",
-    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-    "collected_at": "2026-04-30T03:28:25.028602"
-  },
-  {
-    "id": "5a072659feb0",
-    "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
-    "url": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:17:51",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T08:30:20.532326"
-  },
-  {
-    "id": "57e61b79f13d",
-    "title": "ClickHouse + Langfuse，构建 Agent 可观测基石",
-    "url": "https://www.infoq.cn/article/YKuY98IoX1jpjfUBLPdd?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:12:38",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T08:30:20.532406"
-  },
-  {
-    "id": "b50ceb874248",
-    "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
-    "url": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T08:30:20.532481"
-  },
-  {
-    "id": "876b34c58687",
-    "title": "英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了",
-    "url": "https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T15:46:26",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T08:30:20.532511"
-  },
-  {
-    "id": "866777ec9f84",
-    "title": "印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来",
-    "url": "https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T15:42:54",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T08:30:20.532584"
-  },
-  {
-    "id": "3d973eba62d5",
-    "title": "从Cursor返聘归来，90后华裔女高管带Claude开启日更模式：token成本比工程师工资低多了！",
-    "url": "https://www.infoq.cn/article/zljgpXURIMafW9Pf6hpT?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T15:29:33",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T08:30:20.532614"
   }
 ]

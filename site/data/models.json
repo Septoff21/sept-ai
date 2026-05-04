@@ -6213,6 +6213,39 @@
     "collected_at": "2026-05-04T14:09:52.461829"
   },
   {
+    "id": "hf-GestaltLabs--Ornstein-Hermes-3.6-27b-SABER-GGUF",
+    "name": "GestaltLabs/Ornstein-Hermes-3.6-27b-SABER-GGUF",
+    "display_name": "Ornstein-Hermes-3.6-27b-SABER-GGUF",
+    "url": "https://huggingface.co/GestaltLabs/Ornstein-Hermes-3.6-27b-SABER-GGUF",
+    "author": "GestaltLabs",
+    "pipeline_tag": "text-generation",
+    "likes": 17,
+    "downloads": 2315,
+    "tags": [
+      "llama.cpp",
+      "gguf",
+      "llama-cpp",
+      "qwen3.5",
+      "text-generation",
+      "saber",
+      "refusal-shaping",
+      "abliteration",
+      "en",
+      "arxiv:2406.11717",
+      "arxiv:2507.11878",
+      "base_model:GestaltLabs/Ornstein-Hermes-3.6-27b",
+      "base_model:quantized:GestaltLabs/Ornstein-Hermes-3.6-27b",
+      "license:other",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "created_at": "2026-04-27T22:52:17.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-04T19:46:45.048295"
+  },
+  {
     "id": "hf-John6666--nova-furry-xl-il-v120-sdxl",
     "name": "John6666/nova-furry-xl-il-v120-sdxl",
     "display_name": "nova-furry-xl-il-v120-sdxl",
@@ -23511,38 +23544,5 @@
     "created_at": "2026-04-27T08:16:17.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929883"
-  },
-  {
-    "id": "hf-kartmannXu--MERaLiON-2-3B-EAGLE-W4A16",
-    "name": "kartmannXu/MERaLiON-2-3B-EAGLE-W4A16",
-    "display_name": "MERaLiON-2-3B-EAGLE-W4A16",
-    "url": "https://huggingface.co/kartmannXu/MERaLiON-2-3B-EAGLE-W4A16",
-    "author": "kartmannXu",
-    "pipeline_tag": "automatic-speech-recognition",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "eagle",
-      "speculative-decoding",
-      "quantization",
-      "w4a16",
-      "gptq",
-      "asr",
-      "meralion",
-      "automatic-speech-recognition",
-      "en",
-      "arxiv:2401.15077",
-      "arxiv:2210.17323",
-      "base_model:MERaLiON/MERaLiON-2-3B",
-      "base_model:finetune:MERaLiON/MERaLiON-2-3B",
-      "license:apache-2.0",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:16:10.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929887"
   }
 ]
