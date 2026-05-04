@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-05-03T19:06:45.278651",
-  "date": "2026-05-03",
+  "updated_at": "2026-05-04T03:31:51.331929",
+  "date": "2026-05-04",
   "spotlight": {
-    "id": "autogen",
-    "name": "AutoGen",
-    "url": "https://github.com/microsoft/autogen",
+    "id": "crewai",
+    "name": "CrewAI",
+    "url": "https://crewai.com",
     "type": "tool",
-    "description": "微软出品的多 Agent 协作框架",
-    "pricing": "开源免费",
+    "description": "多 Agent 协作框架，简单易用",
+    "pricing": "开源 + 企业版",
     "category": "Agent"
   },
   "alternates": [
     {
-      "name": "Genspark",
-      "url": "https://www.genspark.ai",
+      "name": "Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
       "type": "agent",
-      "description": "AI搜索引擎+Agent，自动搜索分析执行任务",
-      "pricing": "免费",
-      "category": "研究 Agent"
+      "description": "拖拽式AI Agent构建平台，可视化编排LLM工作流",
+      "pricing": "开源 + Cloud",
+      "category": "平台 Agent"
     },
     {
-      "id": "可灵",
-      "name": "可灵 AI",
-      "url": "https://klingai.com",
+      "id": "pika",
+      "name": "Pika",
+      "url": "https://pika.art",
       "type": "tool",
-      "description": "快手出品的 AI 视频生成工具，国产最强",
-      "pricing": "免费 + 会员",
+      "description": "AI 视频生成工具，简单易用",
+      "pricing": "免费 + 付费",
       "category": "视频"
     },
     {
-      "name": "AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "name": "BabyAGI",
+      "url": "https://github.com/yoheinakajima/babyagi",
       "type": "agent",
-      "description": "最早爆火的自主AI Agent框架",
+      "description": "轻量级自主AI Agent框架",
       "pricing": "开源免费",
       "category": "自动化 Agent"
     }

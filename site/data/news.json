@@ -1,15 +1,51 @@
 [
   {
-    "id": "452d5889b4ba",
-    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "id": "a96943de4b9d",
+    "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
+    "url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-04T09:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-04T03:30:55.706252"
+  },
+  {
+    "id": "f858f99ec46d",
+    "title": "高盛据悉将向与Anthropico合资的企业注资约1.5亿美元",
+    "url": "https://36kr.com/newsflashes/3794354869869833?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-04T02:17:22",
+    "summary": "高盛据悉将向与Anthropico合资的企业注资约1.5亿美元。（新浪财经）",
+    "collected_at": "2026-05-04T03:30:54.322476"
+  },
+  {
+    "id": "8427fe1a4763",
+    "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+    "url": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-04T08:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-04T03:30:55.706289"
+  },
+  {
+    "id": "01b7165cd4b6",
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-03T18:00:09",
-    "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-    "collected_at": "2026-05-03T19:05:43.763768"
+    "published": "2026-05-03T20:16:51",
+    "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "collected_at": "2026-05-04T03:30:33.708550"
   },
   {
     "id": "f51765c77670",
@@ -22,6 +58,18 @@
     "published": "2026-05-03T15:13:23",
     "summary": "We used an automatic classifier which judged sycophancy by looking at whether Claude showed a willingness to push back, maintain positions when challenged, give praise proportional to the merit of ideas, and speak frankly regardless of what a person wants to hear. Most of the time in these situation",
     "collected_at": "2026-05-03T19:05:52.366933"
+  },
+  {
+    "id": "452d5889b4ba",
+    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-03T18:00:09",
+    "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+    "collected_at": "2026-05-03T19:05:43.763768"
   },
   {
     "id": "c30db8efc9e4",
@@ -3550,53 +3598,5 @@
     "published": "2026-04-29T04:00:00",
     "summary": "arXiv:2604.24996v1 Announce Type: new Abstract: As Large Language Models (LLMs) advance, personalization has become a key mechanism for tailoring outputs to individual user needs. However, most existing methods rely heavily on dense interaction histories, making them ineffective in cold-start scenar",
     "collected_at": "2026-04-30T03:28:26.750659"
-  },
-  {
-    "id": "eacf90c76342",
-    "title": "Nautile-370M: Spectral Memory Meets Attention in a Small Reasoning Model",
-    "url": "https://arxiv.org/abs/2604.24809",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24809v1 Announce Type: new Abstract: We present Nautile-370M, a 371-million-parameter small language model designed for efficient reasoning under strict parameter and inference budgets. Nautile-370M uses a hybrid backbone in which two SeqCond Attention (SCA) layers, a linear-time spectral",
-    "collected_at": "2026-04-29T08:30:14.363226"
-  },
-  {
-    "id": "dd97776ef7e4",
-    "title": "Toward a Science of Intent: Closure Gaps and Delegation Envelopes for Open-World AI Agents",
-    "url": "https://arxiv.org/abs/2604.25000",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25000v1 Announce Type: new Abstract: Recent work has framed intelligence in verifiable tasks as reducing time-to-solution through learned structure and test-time search, while systems work has explored learned runtimes in which computation, memory and I/O migrate into model state. These p",
-    "collected_at": "2026-04-30T03:28:26.750721"
-  },
-  {
-    "id": "715e207d4920",
-    "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
-    "url": "https://arxiv.org/abs/2604.24810",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.24810v1 Announce Type: new Abstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant challenge. Therefore, smart and adaptive inference strategies that dynamically balance computational co",
-    "collected_at": "2026-04-29T08:30:14.363321"
-  },
-  {
-    "id": "af3ffdfc8633",
-    "title": "Leverage Laws: A Per-Task Framework for Human-Agent Collaboration",
-    "url": "https://arxiv.org/abs/2604.25040",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-29T04:00:00",
-    "summary": "arXiv:2604.25040v1 Announce Type: new Abstract: We propose a per-task leverage ratio for human-agent collaboration: human work displaced by an agent, divided by the human time required to specify the task, resolve mid-run interrupts, and review the result. The denominator decomposes into three chann",
-    "collected_at": "2026-04-30T03:28:26.750804"
   }
 ]
