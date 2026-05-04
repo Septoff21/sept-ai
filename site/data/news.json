@@ -1,5 +1,29 @@
 [
   {
+    "id": "0ca39b129128",
+    "title": "Tailoring AI solutions for health care needs",
+    "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T13:00:00",
+    "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cance",
+    "collected_at": "2026-05-04T14:09:29.107198"
+  },
+  {
+    "id": "c38e45e764ee",
+    "title": "Import AI 455: Automating AI Research",
+    "url": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/",
+    "source": "Import AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T12:32:09",
+    "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are about to start building themselves. What does that mean? I’m writing this post because when I look at all the publicl",
+    "collected_at": "2026-05-04T14:09:37.280701"
+  },
+  {
     "id": "1a713a06ddca",
     "title": "CNCF警告：仅靠Kubernetes不足以保障LLM工作负载的安全性",
     "url": "https://www.infoq.cn/article/IR1rJFXFZbChzBuKcAVl?utm_source=rss&utm_medium=article",
@@ -12,16 +36,16 @@
     "collected_at": "2026-05-04T08:35:56.330587"
   },
   {
-    "id": "00841e16a02c",
-    "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
-    "url": "https://sspai.com/post/109277",
-    "source": "少数派",
+    "id": "23ee692be402",
+    "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+    "url": "https://36kr.com/p/3794799114476809?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-04T07:00:00",
-    "summary": "作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文",
-    "collected_at": "2026-05-04T08:36:00.341686"
+    "published": "2026-05-04T09:49:40",
+    "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。 豆包 目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。” 据接近豆包的人士透露，付费",
+    "collected_at": "2026-05-04T14:09:40.787327"
   },
   {
     "id": "efe69600d94f",
@@ -36,16 +60,16 @@
     "collected_at": "2026-05-04T08:35:56.330628"
   },
   {
-    "id": "a6e365eac6be",
-    "title": "“DeepSeek版Claude Code”，Github 2.3k星",
-    "url": "https://www.qbitai.com/2026/05/412914.html",
-    "source": "量子位",
+    "id": "00841e16a02c",
+    "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
+    "url": "https://sspai.com/post/109277",
+    "source": "少数派",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-04T06:09:16",
-    "summary": "专门针对DeepSeek优化",
-    "collected_at": "2026-05-04T08:33:23.032016"
+    "priority": 4,
+    "published": "2026-05-04T07:00:00",
+    "summary": "作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文",
+    "collected_at": "2026-05-04T08:36:00.341686"
   },
   {
     "id": "0c1342c5b648",
@@ -60,16 +84,16 @@
     "collected_at": "2026-05-04T08:35:56.330660"
   },
   {
-    "id": "4ec0ed4665fa",
-    "title": "豆包将在免费模式外新增付费订阅，官方回应",
-    "url": "https://36kr.com/newsflashes/3794495772712195?f=rss",
-    "source": "36氪",
+    "id": "a6e365eac6be",
+    "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+    "url": "https://www.qbitai.com/2026/05/412914.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-04T04:40:42",
-    "summary": "近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。（第一财经）",
-    "collected_at": "2026-05-04T08:35:54.725255"
+    "priority": 1,
+    "published": "2026-05-04T06:09:16",
+    "summary": "专门针对DeepSeek优化",
+    "collected_at": "2026-05-04T08:33:23.032016"
   },
   {
     "id": "a96943de4b9d",
@@ -84,16 +108,16 @@
     "collected_at": "2026-05-04T03:30:55.706252"
   },
   {
-    "id": "530c8d94a689",
-    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
-    "url": "https://arxiv.org/abs/2605.00060",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00060v1 Announce Type: new Abstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports",
-    "collected_at": "2026-05-04T08:35:49.501655"
+    "id": "4ec0ed4665fa",
+    "title": "豆包将在免费模式外新增付费订阅，官方回应",
+    "url": "https://36kr.com/newsflashes/3794495772712195?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-04T04:40:42",
+    "summary": "近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。（第一财经）",
+    "collected_at": "2026-05-04T08:35:54.725255"
   },
   {
     "id": "8427fe1a4763",
@@ -108,16 +132,16 @@
     "collected_at": "2026-05-04T03:30:55.706289"
   },
   {
-    "id": "9583fb4c357c",
-    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
-    "url": "https://arxiv.org/abs/2605.00073",
+    "id": "530c8d94a689",
+    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+    "url": "https://arxiv.org/abs/2605.00060",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00073v1 Announce Type: new Abstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversight. However, existing reputation mechanisms fail in",
-    "collected_at": "2026-05-04T08:35:49.501748"
+    "summary": "arXiv:2605.00060v1 Announce Type: new Abstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports",
+    "collected_at": "2026-05-04T08:35:49.501655"
   },
   {
     "id": "a18987fa6f13",
@@ -132,16 +156,16 @@
     "collected_at": "2026-05-04T08:35:49.831883"
   },
   {
-    "id": "8b6174a8dbe6",
-    "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
-    "url": "https://arxiv.org/abs/2605.00123",
+    "id": "9583fb4c357c",
+    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+    "url": "https://arxiv.org/abs/2605.00073",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00123v1 Announce Type: new Abstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understanding of why LLMs are susceptible to jailbreaks, future frontier models operating more autonomously",
-    "collected_at": "2026-05-04T08:35:49.501837"
+    "summary": "arXiv:2605.00073v1 Announce Type: new Abstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversight. However, existing reputation mechanisms fail in",
+    "collected_at": "2026-05-04T08:35:49.501748"
   },
   {
     "id": "6cbd713820cd",
@@ -156,16 +180,16 @@
     "collected_at": "2026-05-04T08:35:49.831974"
   },
   {
-    "id": "c8e590461ea0",
-    "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
-    "url": "https://arxiv.org/abs/2605.00136",
+    "id": "8b6174a8dbe6",
+    "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.00123",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00136v1 Announce Type: new Abstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always hold: in the presence of semantic distractors, tool",
-    "collected_at": "2026-05-04T08:35:49.501901"
+    "summary": "arXiv:2605.00123v1 Announce Type: new Abstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understanding of why LLMs are susceptible to jailbreaks, future frontier models operating more autonomously",
+    "collected_at": "2026-05-04T08:35:49.501837"
   },
   {
     "id": "1513a66f4d63",
@@ -180,16 +204,16 @@
     "collected_at": "2026-05-04T08:35:49.832057"
   },
   {
-    "id": "84ad0a6a67d1",
-    "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
-    "url": "https://arxiv.org/abs/2605.00224",
+    "id": "c8e590461ea0",
+    "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+    "url": "https://arxiv.org/abs/2605.00136",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00224v1 Announce Type: new Abstract: Aligning large language models (LLMs) with human preferences is commonly done via reinforcement learning from human feedback (RLHF) with Proximal Policy Optimization (PPO) or, more simply, via Direct Preference Optimization (DPO). While DPO is stable a",
-    "collected_at": "2026-05-04T08:35:49.501976"
+    "summary": "arXiv:2605.00136v1 Announce Type: new Abstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always hold: in the presence of semantic distractors, tool",
+    "collected_at": "2026-05-04T08:35:49.501901"
   },
   {
     "id": "587922fc3e2f",
@@ -204,16 +228,16 @@
     "collected_at": "2026-05-04T08:35:49.832125"
   },
   {
-    "id": "fc084125eb47",
-    "title": "ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts",
-    "url": "https://arxiv.org/abs/2605.00245",
+    "id": "84ad0a6a67d1",
+    "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+    "url": "https://arxiv.org/abs/2605.00224",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00245v1 Announce Type: new Abstract: Large language models (LLMs) are now being explored for defense applications that require reliable and legally compliant decision support. They also hold significant potential to enhance decision making, coordination, and operational efficiency in mili",
-    "collected_at": "2026-05-04T08:35:49.502053"
+    "summary": "arXiv:2605.00224v1 Announce Type: new Abstract: Aligning large language models (LLMs) with human preferences is commonly done via reinforcement learning from human feedback (RLHF) with Proximal Policy Optimization (PPO) or, more simply, via Direct Preference Optimization (DPO). While DPO is stable a",
+    "collected_at": "2026-05-04T08:35:49.501976"
   },
   {
     "id": "067828bcf10d",
@@ -228,16 +252,16 @@
     "collected_at": "2026-05-04T08:35:49.832209"
   },
   {
-    "id": "205593bc1de1",
-    "title": "Causal Foundations of Collective Agency",
-    "url": "https://arxiv.org/abs/2605.00248",
+    "id": "fc084125eb47",
+    "title": "ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts",
+    "url": "https://arxiv.org/abs/2605.00245",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00248v1 Announce Type: new Abstract: A key challenge for the safety of advanced AI systems is the possibility that multiple simpler agents might inadvertently form a collective agent with capabilities and goals distinct from those of any individual. More generally, determining when a grou",
-    "collected_at": "2026-05-04T08:35:49.502124"
+    "summary": "arXiv:2605.00245v1 Announce Type: new Abstract: Large language models (LLMs) are now being explored for defense applications that require reliable and legally compliant decision support. They also hold significant potential to enhance decision making, coordination, and operational efficiency in mili",
+    "collected_at": "2026-05-04T08:35:49.502053"
   },
   {
     "id": "8c5db1b774bf",
@@ -252,16 +276,16 @@
     "collected_at": "2026-05-04T08:35:49.832301"
   },
   {
-    "id": "a757c663dad9",
-    "title": "Agentic AI for Trip Planning Optimization Application",
-    "url": "https://arxiv.org/abs/2605.00276",
+    "id": "205593bc1de1",
+    "title": "Causal Foundations of Collective Agency",
+    "url": "https://arxiv.org/abs/2605.00248",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00276v1 Announce Type: new Abstract: Trip planning for intelligent vehicles increasingly requires selecting optimal routes rather than merely producing feasible itineraries, as interacting factors such as travel time, energy consumption, and traffic conditions directly affect plan quality",
-    "collected_at": "2026-05-04T08:35:49.502186"
+    "summary": "arXiv:2605.00248v1 Announce Type: new Abstract: A key challenge for the safety of advanced AI systems is the possibility that multiple simpler agents might inadvertently form a collective agent with capabilities and goals distinct from those of any individual. More generally, determining when a grou",
+    "collected_at": "2026-05-04T08:35:49.502124"
   },
   {
     "id": "de1e2338c202",
@@ -276,16 +300,16 @@
     "collected_at": "2026-05-04T08:35:49.832372"
   },
   {
-    "id": "baa58eac188e",
-    "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
-    "url": "https://arxiv.org/abs/2605.00300",
+    "id": "a757c663dad9",
+    "title": "Agentic AI for Trip Planning Optimization Application",
+    "url": "https://arxiv.org/abs/2605.00276",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00300v1 Announce Type: new Abstract: Public inference benchmarks compare AI systems at the model and provider level, but the unit at which deployment decisions are actually made is the endpoint: the (provider, model, stock-keeping-unit) tuple at which a specific quantization, decoding str",
-    "collected_at": "2026-05-04T08:35:49.502272"
+    "summary": "arXiv:2605.00276v1 Announce Type: new Abstract: Trip planning for intelligent vehicles increasingly requires selecting optimal routes rather than merely producing feasible itineraries, as interacting factors such as travel time, energy consumption, and traffic conditions directly affect plan quality",
+    "collected_at": "2026-05-04T08:35:49.502186"
   },
   {
     "id": "da8d816c6ead",
@@ -300,16 +324,16 @@
     "collected_at": "2026-05-04T08:35:49.832467"
   },
   {
-    "id": "6237f85e8593",
-    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
-    "url": "https://arxiv.org/abs/2605.00334",
+    "id": "baa58eac188e",
+    "title": "Token Arena: A Continuous Benchmark Unifying Energy and Cognition in AI Inference",
+    "url": "https://arxiv.org/abs/2605.00300",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00334v1 Announce Type: new Abstract: Production agentic systems make many model calls per user request, and most of those calls are short, structured, and routine. This raises a practical routing question that existing evaluations do not directly answer: which parts of an agent workflow t",
-    "collected_at": "2026-05-04T08:35:49.502372"
+    "summary": "arXiv:2605.00300v1 Announce Type: new Abstract: Public inference benchmarks compare AI systems at the model and provider level, but the unit at which deployment decisions are actually made is the endpoint: the (provider, model, stock-keeping-unit) tuple at which a specific quantization, decoding str",
+    "collected_at": "2026-05-04T08:35:49.502272"
   },
   {
     "id": "bce3dac8718b",
@@ -324,16 +348,16 @@
     "collected_at": "2026-05-04T08:35:49.832567"
   },
   {
-    "id": "a098a2df68b1",
-    "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
-    "url": "https://arxiv.org/abs/2605.00412",
+    "id": "6237f85e8593",
+    "title": "AgentFloor: How Far Up the tool use Ladder Can Small Open-Weight Models Go?",
+    "url": "https://arxiv.org/abs/2605.00334",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00412v1 Announce Type: new Abstract: World models have recently re-emerged as a central paradigm for embodied intelligence, robotics, autonomous driving, and model-based reinforcement learning. However, current world model research is often dominated by three partially separated routes: 2",
-    "collected_at": "2026-05-04T08:35:49.502470"
+    "summary": "arXiv:2605.00334v1 Announce Type: new Abstract: Production agentic systems make many model calls per user request, and most of those calls are short, structured, and routine. This raises a practical routing question that existing evaluations do not directly answer: which parts of an agent workflow t",
+    "collected_at": "2026-05-04T08:35:49.502372"
   },
   {
     "id": "5b73fd3746f9",
@@ -348,16 +372,16 @@
     "collected_at": "2026-05-04T08:35:49.832639"
   },
   {
-    "id": "c190b57147cd",
-    "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2605.00425",
+    "id": "a098a2df68b1",
+    "title": "Physically Native World Models: A Hamiltonian Perspective on Generative World Modeling",
+    "url": "https://arxiv.org/abs/2605.00412",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00425v1 Announce Type: new Abstract: Reinforcement learning (RL) has significantly advanced the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. Yet effective training remains challenging, as sparse, outcome-only rewards make it diffic",
-    "collected_at": "2026-05-04T08:35:49.502545"
+    "summary": "arXiv:2605.00412v1 Announce Type: new Abstract: World models have recently re-emerged as a central paradigm for embodied intelligence, robotics, autonomous driving, and model-based reinforcement learning. However, current world model research is often dominated by three partially separated routes: 2",
+    "collected_at": "2026-05-04T08:35:49.502470"
   },
   {
     "id": "89a24dfef46b",
@@ -372,16 +396,16 @@
     "collected_at": "2026-05-04T08:35:49.832714"
   },
   {
-    "id": "6483596d862e",
-    "title": "Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation",
-    "url": "https://arxiv.org/abs/2605.00438",
+    "id": "c190b57147cd",
+    "title": "AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.00425",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00438v1 Announce Type: new Abstract: Long-horizon robotic manipulation requires plans that are both logically coherent and geometrically grounded. Existing Vision-Language-Action policies usually hide planning in latent states or expose only one modality: text-only chain-of-thought encode",
-    "collected_at": "2026-05-04T08:35:49.502629"
+    "summary": "arXiv:2605.00425v1 Announce Type: new Abstract: Reinforcement learning (RL) has significantly advanced the ability of large language model (LLM) agents to interact with environments and solve multi-turn tasks. Yet effective training remains challenging, as sparse, outcome-only rewards make it diffic",
+    "collected_at": "2026-05-04T08:35:49.502545"
   },
   {
     "id": "d01a792edbc6",
@@ -396,16 +420,16 @@
     "collected_at": "2026-05-04T08:35:49.832792"
   },
   {
-    "id": "3965e8b1b71b",
-    "title": "On the Role of Artificial Intelligence in Human-Machine Symbiosis",
-    "url": "https://arxiv.org/abs/2605.00440",
+    "id": "6483596d862e",
+    "title": "Thinking in Text and Images: Interleaved Vision--Language Reasoning Traces for Long-Horizon Robot Manipulation",
+    "url": "https://arxiv.org/abs/2605.00438",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00440v1 Announce Type: new Abstract: The evolution of artificial intelligence (AI) has rendered the boundary between humanity and computational machinery increasingly ambiguous. In the presence of more interwoven relationships within human-machine symbiosis, the very notion of AI-generate",
-    "collected_at": "2026-05-04T08:35:49.502716"
+    "summary": "arXiv:2605.00438v1 Announce Type: new Abstract: Long-horizon robotic manipulation requires plans that are both logically coherent and geometrically grounded. Existing Vision-Language-Action policies usually hide planning in latent states or expose only one modality: text-only chain-of-thought encode",
+    "collected_at": "2026-05-04T08:35:49.502629"
   },
   {
     "id": "57ebfd87facf",
@@ -420,16 +444,16 @@
     "collected_at": "2026-05-04T08:35:49.832869"
   },
   {
-    "id": "4ec5c55546df",
-    "title": "Instance-Aware Parameter Configuration in Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem",
-    "url": "https://arxiv.org/abs/2605.00572",
+    "id": "3965e8b1b71b",
+    "title": "On the Role of Artificial Intelligence in Human-Machine Symbiosis",
+    "url": "https://arxiv.org/abs/2605.00440",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00572v1 Announce Type: new Abstract: Algorithm performance in combinatorial optimization is highly sensitive to parameter settings, while a single globally tuned configuration often fails to exploit the heterogeneity of instances. This limitation is particularly evident in the Electric Ca",
-    "collected_at": "2026-05-04T08:35:49.502784"
+    "summary": "arXiv:2605.00440v1 Announce Type: new Abstract: The evolution of artificial intelligence (AI) has rendered the boundary between humanity and computational machinery increasingly ambiguous. In the presence of more interwoven relationships within human-machine symbiosis, the very notion of AI-generate",
+    "collected_at": "2026-05-04T08:35:49.502716"
   },
   {
     "id": "2469cdbd6cc4",
@@ -444,16 +468,16 @@
     "collected_at": "2026-05-04T08:35:49.832939"
   },
   {
-    "id": "5ce8db1efd3d",
-    "title": "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding",
-    "url": "https://arxiv.org/abs/2605.00642",
+    "id": "4ec5c55546df",
+    "title": "Instance-Aware Parameter Configuration in Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem",
+    "url": "https://arxiv.org/abs/2605.00572",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00642v1 Announce Type: new Abstract: Graphical User Interface (GUI) grounding maps natural language instructions to the visual coordinates of target elements and serves as a core capability for autonomous GUI agents. Recent reinforcement learning methods (e.g., GRPO) have achieved strong",
-    "collected_at": "2026-05-04T08:35:49.502861"
+    "summary": "arXiv:2605.00572v1 Announce Type: new Abstract: Algorithm performance in combinatorial optimization is highly sensitive to parameter settings, while a single globally tuned configuration often fails to exploit the heterogeneity of instances. This limitation is particularly evident in the Electric Ca",
+    "collected_at": "2026-05-04T08:35:49.502784"
   },
   {
     "id": "6f4e6a268a32",
@@ -468,16 +492,16 @@
     "collected_at": "2026-05-04T08:35:49.832992"
   },
   {
-    "id": "cd7b136f5cb0",
-    "title": "To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling",
-    "url": "https://arxiv.org/abs/2605.00737",
+    "id": "5ce8db1efd3d",
+    "title": "Learn where to Click from Yourself: On-Policy Self-Distillation for GUI Grounding",
+    "url": "https://arxiv.org/abs/2605.00642",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00737v1 Announce Type: new Abstract: Agentic AI architectures augment LLMs with external tools, unlocking strong capabilities. However, tool use is not always beneficial; some calls may be redundant or even harmful. Effective tool use, therefore, hinges on a core LLM decision: whether to",
-    "collected_at": "2026-05-04T08:35:49.502936"
+    "summary": "arXiv:2605.00642v1 Announce Type: new Abstract: Graphical User Interface (GUI) grounding maps natural language instructions to the visual coordinates of target elements and serves as a core capability for autonomous GUI agents. Recent reinforcement learning methods (e.g., GRPO) have achieved strong",
+    "collected_at": "2026-05-04T08:35:49.502861"
   },
   {
     "id": "8ebf46745014",
@@ -492,16 +516,16 @@
     "collected_at": "2026-05-04T08:35:49.833076"
   },
   {
-    "id": "be077b06322b",
-    "title": "Position: agentic AI orchestration should be Bayes-consistent",
-    "url": "https://arxiv.org/abs/2605.00742",
+    "id": "cd7b136f5cb0",
+    "title": "To Call or Not to Call: A Framework to Assess and Optimize LLM Tool Calling",
+    "url": "https://arxiv.org/abs/2605.00737",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00742v1 Announce Type: new Abstract: LLMs excel at predictive tasks and complex reasoning tasks, but many high-value deployments rely on decisions under uncertainty, for example, which tool to call, which expert to consult, or how many resources to invest. While the usefulness and feasibi",
-    "collected_at": "2026-05-04T08:35:49.503008"
+    "summary": "arXiv:2605.00737v1 Announce Type: new Abstract: Agentic AI architectures augment LLMs with external tools, unlocking strong capabilities. However, tool use is not always beneficial; some calls may be redundant or even harmful. Effective tool use, therefore, hinges on a core LLM decision: whether to",
+    "collected_at": "2026-05-04T08:35:49.502936"
   },
   {
     "id": "71791d8fa28c",
@@ -516,16 +540,16 @@
     "collected_at": "2026-05-04T08:35:49.833157"
   },
   {
-    "id": "bfb11941d291",
-    "title": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
-    "url": "https://arxiv.org/abs/2604.28031",
+    "id": "be077b06322b",
+    "title": "Position: agentic AI orchestration should be Bayes-consistent",
+    "url": "https://arxiv.org/abs/2605.00742",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2604.28031v1 Announce Type: cross Abstract: When researchers iteratively refine ideas with large language models, do the models preserve fidelity to the original objective? We introduce DriftBench, a benchmark for evaluating constraint adherence in multi-turn LLM-assisted scientific ideation.",
-    "collected_at": "2026-05-04T08:35:49.503081"
+    "summary": "arXiv:2605.00742v1 Announce Type: new Abstract: LLMs excel at predictive tasks and complex reasoning tasks, but many high-value deployments rely on decisions under uncertainty, for example, which tool to call, which expert to consult, or how many resources to invest. While the usefulness and feasibi",
+    "collected_at": "2026-05-04T08:35:49.503008"
   },
   {
     "id": "3d49c9aced40",
@@ -540,16 +564,16 @@
     "collected_at": "2026-05-04T08:35:49.833235"
   },
   {
-    "id": "948fbb836d10",
-    "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
-    "url": "https://arxiv.org/abs/2605.00005",
+    "id": "bfb11941d291",
+    "title": "Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation",
+    "url": "https://arxiv.org/abs/2604.28031",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00005v1 Announce Type: cross Abstract: The increasing deployment of deep neural networks (DNNs) in cyber-physical systems (CPS) enhances perception fidelity, but imposes substantial computational demands on execution platforms, posing challenges to real-time control deadlines. Traditional",
-    "collected_at": "2026-05-04T08:35:49.503188"
+    "summary": "arXiv:2604.28031v1 Announce Type: cross Abstract: When researchers iteratively refine ideas with large language models, do the models preserve fidelity to the original objective? We introduce DriftBench, a benchmark for evaluating constraint adherence in multi-turn LLM-assisted scientific ideation.",
+    "collected_at": "2026-05-04T08:35:49.503081"
   },
   {
     "id": "fa91bf1f5d6d",
@@ -562,6 +586,18 @@
     "published": "2026-05-04T04:00:00",
     "summary": "arXiv:2605.00184v1 Announce Type: new Abstract: With the growing integration of human-computer interaction into everyday life, advances in machine learning have enabled systems to better perceive and respond to users' emotional states. Most existing affect recognition datasets focus on static enviro",
     "collected_at": "2026-05-04T08:35:49.833354"
+  },
+  {
+    "id": "948fbb836d10",
+    "title": "Cloud Is Closer Than It Appears: Revisiting the Tradeoffs of Distributed Real-Time Inference",
+    "url": "https://arxiv.org/abs/2605.00005",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T04:00:00",
+    "summary": "arXiv:2605.00005v1 Announce Type: cross Abstract: The increasing deployment of deep neural networks (DNNs) in cyber-physical systems (CPS) enhances perception fidelity, but imposes substantial computational demands on execution platforms, posing challenges to real-time control deadlines. Traditional",
+    "collected_at": "2026-05-04T08:35:49.503188"
   },
   {
     "id": "f858f99ec46d",
@@ -3504,18 +3540,6 @@
     "collected_at": "2026-04-29T08:30:20.532326"
   },
   {
-    "id": "3c4d4f7fde66",
-    "title": "Tumbler Ridge families are suing OpenAI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-29T14:47:57",
-    "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege O",
-    "collected_at": "2026-04-29T19:40:54.133300"
-  },
-  {
     "id": "57e61b79f13d",
     "title": "ClickHouse + Langfuse，构建 Agent 可观测基石",
     "url": "https://www.infoq.cn/article/YKuY98IoX1jpjfUBLPdd?utm_source=rss&utm_medium=article",
@@ -3526,18 +3550,6 @@
     "published": "2026-04-29T16:12:38",
     "summary": "点击查看原文>",
     "collected_at": "2026-04-29T08:30:20.532406"
-  },
-  {
-    "id": "bb02d6f063f6",
-    "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI&#8217;s IPO",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-29T14:43:41",
-    "summary": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April. Its uninstall rate was even higher",
-    "collected_at": "2026-04-29T19:40:54.133358"
   },
   {
     "id": "b50ceb874248",
@@ -3586,17 +3598,5 @@
     "published": "2026-04-29T15:29:33",
     "summary": "点击查看原文>",
     "collected_at": "2026-04-29T08:30:20.532614"
-  },
-  {
-    "id": "422291fbe7fd",
-    "title": "全链路支撑大模型国产化“Day 0适配”，商汤大装置构建全栈能力底座",
-    "url": "https://www.infoq.cn/article/2y3zZQcXbtyAM5wb0YjK?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T13:58:38",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T08:30:20.532659"
   }
 ]

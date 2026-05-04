@@ -1,13 +1,15 @@
 {
   "date": "2026-05-04",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 少数派, 量子位, 36氪, ArXiv CS.AI, ArXiv CS.LG",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：MIT Tech Review, Import AI, InfoQ AI, 36氪, 少数派, 量子位, ArXiv CS.AI, ArXiv CS.LG",
   "news_count": 20,
   "sources": {
+    "MIT Tech Review": 1,
+    "Import AI": 1,
     "InfoQ AI": 5,
+    "36氪": 2,
     "少数派": 1,
     "量子位": 1,
-    "36氪": 1,
-    "ArXiv CS.AI": 7,
-    "ArXiv CS.LG": 5
+    "ArXiv CS.AI": 5,
+    "ArXiv CS.LG": 4
   }
 }
