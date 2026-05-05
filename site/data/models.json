@@ -6187,6 +6187,33 @@
     "collected_at": "2026-05-02T02:56:35.536249"
   },
   {
+    "id": "hf-nvidia--Efficient-DLM-4B",
+    "name": "nvidia/Efficient-DLM-4B",
+    "display_name": "Efficient-DLM-4B",
+    "url": "https://huggingface.co/nvidia/Efficient-DLM-4B",
+    "author": "nvidia",
+    "pipeline_tag": "text-generation",
+    "likes": 18,
+    "downloads": 246,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3",
+      "feature-extraction",
+      "text-generation",
+      "conversational",
+      "custom_code",
+      "arxiv:2512.14067",
+      "license:other",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2025-09-02T16:54:05.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-05T02:58:16.984005"
+  },
+  {
     "id": "hf-ibm-granite--granite-4.1-3b-base",
     "name": "ibm-granite/granite-4.1-3b-base",
     "display_name": "granite-4.1-3b-base",
@@ -23528,21 +23555,5 @@
     "created_at": "2026-04-27T08:16:17.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929880"
-  },
-  {
-    "id": "hf-kiikiik--llama3.1-8b-med-router",
-    "name": "kiikiik/llama3.1-8b-med-router",
-    "display_name": "llama3.1-8b-med-router",
-    "url": "https://huggingface.co/kiikiik/llama3.1-8b-med-router",
-    "author": "kiikiik",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:16:17.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929883"
   }
 ]

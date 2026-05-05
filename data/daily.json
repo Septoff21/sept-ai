@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-05-04T19:47:26.080326",
-  "date": "2026-05-04",
+  "updated_at": "2026-05-05T02:59:05.102641",
+  "date": "2026-05-05",
   "spotlight": {
-    "id": "crewai",
-    "name": "CrewAI",
-    "url": "https://crewai.com",
+    "id": "ollama",
+    "name": "Ollama",
+    "url": "https://ollama.com",
     "type": "tool",
-    "description": "多 Agent 协作框架，简单易用",
-    "pricing": "开源 + 企业版",
-    "category": "Agent"
+    "description": "本地运行大模型的最简单方式",
+    "pricing": "开源免费",
+    "category": "本地模型"
   },
   "alternates": [
     {
-      "name": "Flowise",
-      "url": "https://github.com/FlowiseAI/Flowise",
+      "name": "Goose",
+      "url": "https://github.com/aaif-goose/goose",
       "type": "agent",
-      "description": "拖拽式AI Agent构建平台，可视化编排LLM工作流",
-      "pricing": "开源 + Cloud",
-      "category": "平台 Agent"
+      "description": "开源可扩展AI编码Agent，安装执行编辑测试，支持任意LLM",
+      "pricing": "开源免费",
+      "category": "编程 Agent"
     },
     {
-      "id": "pika",
-      "name": "Pika",
-      "url": "https://pika.art",
+      "id": "sora",
+      "name": "Sora",
+      "url": "https://sora.com",
       "type": "tool",
-      "description": "AI 视频生成工具，简单易用",
-      "pricing": "免费 + 付费",
+      "description": "OpenAI 视频生成模型，效果惊人",
+      "pricing": "ChatGPT Pro $200/月",
       "category": "视频"
     },
     {
-      "name": "BabyAGI",
-      "url": "https://github.com/yoheinakajima/babyagi",
+      "name": "AgentGPT",
+      "url": "https://agentgpt.reworkd.ai",
       "type": "agent",
-      "description": "轻量级自主AI Agent框架",
-      "pricing": "开源免费",
+      "description": "浏览器内直接使用的AI Agent平台",
+      "pricing": "免费 + Pro",
       "category": "自动化 Agent"
     }
   ]

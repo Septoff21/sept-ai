@@ -1,5 +1,113 @@
 [
   {
+    "id": "dabbec42d7d7",
+    "title": "Java 世界的 MCP：将架构策略应用于 LLM 集成",
+    "url": "https://www.infoq.cn/article/2m5IC7x6SxwWlEls7VWz?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-05T09:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-05T02:58:07.225979"
+  },
+  {
+    "id": "a6ad48d2a2b2",
+    "title": "Quoting John Gruber",
+    "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T00:46:29",
+    "summary": "So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At Ope",
+    "collected_at": "2026-05-05T02:58:02.665037"
+  },
+  {
+    "id": "f55dfe026daf",
+    "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T23:49:33",
+    "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high sc",
+    "collected_at": "2026-05-05T02:57:55.049345"
+  },
+  {
+    "id": "e81cba4b6315",
+    "title": "Granite 4.1 3B SVG Pelican Gallery",
+    "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T23:49:24",
+    "summary": "Granite 4.1 3B SVG Pelican Gallery IBM released their Granite 4.1 family of LLMs a few days ago. They're Apache 2.0 licensed and come in 3B, 8B and 30B sizes. Granite 4.1 LLMs: How They’re Built by Granite team member Yousaf Shah describes the training process in detail. Unsloth released the unsloth",
+    "collected_at": "2026-05-05T02:58:02.665148"
+  },
+  {
+    "id": "b1ae367e59c3",
+    "title": "[AINews] The Other vs The Utility",
+    "url": "https://www.latent.space/p/ainews-the-other-vs-the-utility",
+    "source": "Latent Space",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T23:29:05",
+    "summary": "a quiet day lets us reflect on the nature of AI \"character\" in the Clippy vs Anton debate",
+    "collected_at": "2026-05-05T02:58:03.112860"
+  },
+  {
+    "id": "23700ffd6166",
+    "title": "Quoting Andy Masley",
+    "url": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T22:51:09",
+    "summary": "[...] Between 2000 and 2024, farmers sold in total a Colorado-sized chunk of land all on their own, 77 times all land on data center property in 2028, and grew more food than ever on what was left. None of this caused any problems for US food access. And then, in the middle of all this, a farmer in",
+    "collected_at": "2026-05-05T02:58:02.665241"
+  },
+  {
+    "id": "bc98b10e8d56",
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T21:53:21",
+    "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+    "collected_at": "2026-05-05T02:57:54.912325"
+  },
+  {
+    "id": "57a3c5661ae0",
+    "title": "April 2026 newsletter",
+    "url": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T22:38:36",
+    "summary": "I just sent out the April edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In this month's newsletter: Opus 4.7 and GPT-5.5, both with price increases Claude Mythos and LLM security research ChatGPT Images 2.0 More model",
+    "collected_at": "2026-05-05T02:58:02.665297"
+  },
+  {
+    "id": "fb4593bfa3f1",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T19:42:47",
+    "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 304 # Comments: 106",
+    "collected_at": "2026-05-05T02:57:56.874919"
+  },
+  {
     "id": "a168596f1396",
     "title": "Image AI models now drive app growth, beating chatbot upgrades",
     "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
@@ -72,16 +180,16 @@
     "collected_at": "2026-05-04T19:46:16.011753"
   },
   {
-    "id": "dcf3412565ed",
-    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-    "source": "MIT Tech Review",
+    "id": "4c52fdf166d8",
+    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-04T15:51:27",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, allegin",
-    "collected_at": "2026-05-04T19:46:16.228324"
+    "published": "2026-05-04T16:21:38",
+    "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 113 # Comments: 101",
+    "collected_at": "2026-05-05T02:57:56.874961"
   },
   {
     "id": "4507c485b2ba",
@@ -96,16 +204,16 @@
     "collected_at": "2026-05-04T19:46:16.011810"
   },
   {
-    "id": "0ca39b129128",
-    "title": "Tailoring AI solutions for health care needs",
-    "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "id": "dcf3412565ed",
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
     "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-04T13:00:00",
-    "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cance",
-    "collected_at": "2026-05-04T14:09:29.107198"
+    "published": "2026-05-04T15:51:27",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, allegin",
+    "collected_at": "2026-05-04T19:46:16.228324"
   },
   {
     "id": "2df0f916df05",
@@ -120,16 +228,16 @@
     "collected_at": "2026-05-04T19:46:16.011843"
   },
   {
-    "id": "c38e45e764ee",
-    "title": "Import AI 455: Automating AI Research",
-    "url": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/",
-    "source": "Import AI",
+    "id": "0ca39b129128",
+    "title": "Tailoring AI solutions for health care needs",
+    "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-04T12:32:09",
-    "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are about to start building themselves. What does that mean? I’m writing this post because when I look at all the publicl",
-    "collected_at": "2026-05-04T14:09:37.280701"
+    "published": "2026-05-04T13:00:00",
+    "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cance",
+    "collected_at": "2026-05-04T14:09:29.107198"
   },
   {
     "id": "abf86860a849",
@@ -142,6 +250,18 @@
     "published": "2026-05-04T13:00:00",
     "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
     "collected_at": "2026-05-04T19:46:16.011935"
+  },
+  {
+    "id": "c38e45e764ee",
+    "title": "Import AI 455: Automating AI Research",
+    "url": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/",
+    "source": "Import AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T12:32:09",
+    "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are about to start building themselves. What does that mean? I’m writing this post because when I look at all the publicl",
+    "collected_at": "2026-05-04T14:09:37.280701"
   },
   {
     "id": "1a713a06ddca",
@@ -3478,125 +3598,5 @@
     "published": "2026-04-29T17:32:02",
     "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bri",
     "collected_at": "2026-04-29T19:40:54.133164"
-  },
-  {
-    "id": "3abbad99f5b2",
-    "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
-    "url": "https://36kr.com/p/3788151000751364?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-29T17:07:22",
-    "summary": "文｜周鑫雨 王毓婵 编辑｜杨轩 解读DeepSeek V4的技术报告，是这几天AI行业最狂热的集体活动。 V4很强吗？在工程优化的维度中，答案是毋庸置疑的。过去，大家信奉“Scaling Law的暴力美学”——也就是靠堆更多优质算力、更大参数规模来提升模型性能。而V4走的是一条完全不同的路，它定义了一种“模型训练的克制美学”： 它不靠疯狂堆算力和参数，而是通过一系列组合优化和重构： 注意力机制（让模型学会“抓重点”，像人读长文章时会自动关注关键句子一样） MoE架构（混合专家模型，可以理解为“让不同的专家负责不同类型的问题，每次只激活少数专家，省时又省力”） 后训练（模型初步练成后再针对性地补",
-    "collected_at": "2026-04-29T19:41:25.494098"
-  },
-  {
-    "id": "b80089f7eb9f",
-    "title": "从开发到生产：为什么越来越多的机器学习团队纷纷迁移到 Snowflake ｜ BUILD 2025",
-    "url": "https://www.infoq.cn/video/wV4Nmb5vpxaChAdobOUl?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:56:03",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T14:11:03.809540"
-  },
-  {
-    "id": "33ea9610c4d5",
-    "title": "AI evals are becoming the new compute bottleneck",
-    "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
-    "source": "HuggingFace Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-29T16:45:09",
-    "summary": "AI evals are becoming the new compute bottleneck",
-    "collected_at": "2026-04-29T19:41:22.159837"
-  },
-  {
-    "id": "4718670db86e",
-    "title": "探索多智能体工作流：LangGraph Snowflake Cortex AI ｜ BUILD 2025",
-    "url": "https://www.infoq.cn/video/sQoiGqlgSeJNzDlfk5Zq?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:47:39",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T14:11:03.809572"
-  },
-  {
-    "id": "b7ff057f3fbb",
-    "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
-    "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-29T16:42:33",
-    "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
-    "collected_at": "2026-04-29T19:40:54.005986"
-  },
-  {
-    "id": "de9664ec6bad",
-    "title": "腾讯云分布式缓存数据库：AI Agent - 从提示词工程到 Harness 工程 | 腾讯云数据库 DBTalk",
-    "url": "https://www.infoq.cn/video/JAs7bgXPGx8ibDQQw98A?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:47:06",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T14:11:03.809604"
-  },
-  {
-    "id": "0a618e6c1c6c",
-    "title": "More Gemini features are coming to Google TV",
-    "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-29T16:40:49",
-    "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
-    "collected_at": "2026-04-29T19:40:54.006018"
-  },
-  {
-    "id": "2d92769862fd",
-    "title": "基于 Streamlit 为 CSV 数据构建分析智能体 ｜ BUILD 2025",
-    "url": "https://www.infoq.cn/video/TGuw62wOrDdxG9UcjvDM?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:43:28",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T14:11:03.809637"
-  },
-  {
-    "id": "fec8deb6ddb0",
-    "title": "AI 智能体：告别文档缺漏 ｜ BUILD 2025",
-    "url": "https://www.infoq.cn/video/xzP1usT6PvgoaNt7T0Bo?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:29:33",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T14:11:03.809666"
-  },
-  {
-    "id": "122b7649fe3f",
-    "title": "构建 AI 驱动的数据管道：深度探讨 Snowflake Openflow 与非结构化数据 | BUILD 2025",
-    "url": "https://www.infoq.cn/video/Lm5IqHMcXAP2RoQNcOri?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-04-29T16:20:37",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-04-29T14:11:03.809697"
   }
 ]
