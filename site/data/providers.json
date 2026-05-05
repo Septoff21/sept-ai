@@ -15,16 +15,16 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "GPT Chat Latest",
       "GPT-5.5 Pro",
-      "GPT-5.5",
-      "GPT-5.4 Image 2"
+      "GPT-5.5"
     ],
-    "model_count": 64,
-    "last_updated": "2026-04-24",
+    "model_count": 65,
+    "last_updated": "2026-05-05",
     "modalities": [
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 64 个该作者/厂商相关模型，最近更新为 GPT-5.5 Pro",
+    "live_summary": "OpenRouter 已收录 65 个该作者/厂商相关模型，最近更新为 GPT Chat Latest",
     "provider_kind": "model_author"
   },
   {

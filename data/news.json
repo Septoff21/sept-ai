@@ -1,5 +1,173 @@
 [
   {
+    "id": "7e9641e74763",
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T17:46:10",
+    "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+    "collected_at": "2026-05-05T19:27:13.089099"
+  },
+  {
+    "id": "c7793318ff27",
+    "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T17:00:00",
+    "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\"",
+    "collected_at": "2026-05-05T19:27:13.204857"
+  },
+  {
+    "id": "f2ffd9ae2c29",
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T17:00:00",
+    "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+    "collected_at": "2026-05-05T19:27:13.089138"
+  },
+  {
+    "id": "114c4e61cd5a",
+    "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
+    "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T16:52:38",
+    "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmill",
+    "collected_at": "2026-05-05T19:27:13.204901"
+  },
+  {
+    "id": "15b9cb10e61c",
+    "title": "Motivated reasoning, confirmation bias, and AI risk theory",
+    "url": "https://www.alignmentforum.org/posts/QpgmEhBvJQxAfFMP2/motivated-reasoning-confirmation-bias-and-ai-risk-theory",
+    "source": "AI Alignment Forum",
+    "lang": "en",
+    "channel": "en",
+    "priority": 3,
+    "published": "2026-05-05T15:56:25",
+    "summary": "Of the fifty-odd biases discovered by Kahneman, Tversky, and their successors, forty-nine are cute quirks, and one is destroying civilization. This last one is confirmation bias.- From Scott Alexander's review of Julia Galef's The Scout Mindset. Alexander goes on to argue that this bias is the sourc",
+    "collected_at": "2026-05-05T19:27:23.252240"
+  },
+  {
+    "id": "8c525cdd8fbf",
+    "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+    "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T15:49:55",
+    "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+    "collected_at": "2026-05-05T19:27:13.089189"
+  },
+  {
+    "id": "9e4a3d4b16dd",
+    "title": "Three Inverse Laws of AI",
+    "url": "https://susam.net/inverse-laws-of-robotics.html",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T15:27:18",
+    "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 243 # Comments: 163",
+    "collected_at": "2026-05-05T19:27:16.335068"
+  },
+  {
+    "id": "50fa2a67f866",
+    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T15:31:37",
+    "summary": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
+    "collected_at": "2026-05-05T19:27:13.089219"
+  },
+  {
+    "id": "8ee7d398be1e",
+    "title": "OpenAI is reportedly launching a phone for ChatGPT",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T14:54:00",
+    "summary": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early 2027. According to Kuo, the",
+    "collected_at": "2026-05-05T19:27:13.204943"
+  },
+  {
+    "id": "600ab37c0af8",
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T14:27:00",
+    "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+    "collected_at": "2026-05-05T19:27:13.089250"
+  },
+  {
+    "id": "8605b7862af3",
+    "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T14:26:59",
+    "summary": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Department's Center for AI Standards and Innovation (CAISI) says it will work with the AI companies to per",
+    "collected_at": "2026-05-05T19:27:13.204986"
+  },
+  {
+    "id": "1dd904ae7ba5",
+    "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+    "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T14:20:50",
+    "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+    "collected_at": "2026-05-05T19:27:13.089280"
+  },
+  {
+    "id": "47be93869dec",
+    "title": "AI didn't delete your database, you did",
+    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T14:07:50",
+    "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 440 # Comments: 227",
+    "collected_at": "2026-05-05T19:27:16.335108"
+  },
+  {
+    "id": "74750394a637",
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T14:07:47",
+    "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+    "collected_at": "2026-05-05T19:27:13.089309"
+  },
+  {
     "id": "93d0ca3418b0",
     "title": "Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA",
     "url": "https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&utm_medium=article",
@@ -12,16 +180,16 @@
     "collected_at": "2026-05-05T08:16:20.234870"
   },
   {
-    "id": "a43963b5d1ee",
-    "title": "高通前高管将加入英特尔，领导客户端计算与物理AI事业部",
-    "url": "https://36kr.com/newsflashes/3795844563934467?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-05T05:00:32",
-    "summary": "5月5日，英特尔公司宣布两项重要领导层任命。Alex Katouzian将于5月加入英特尔，担任执行副总裁兼客户端计算与物理AI事业部总经理。Katouzian此前任职于高通技术公司，担任执行副总裁兼手机、计算和XR事业群总经理。 英特尔同时宣布，正式任命此前担任代理首席技术官的Pushkar Ranade出任首席技术官。作为首席技术官，他将推进公司技术战略，主导专项技术项目，并推动量子计算、神经拟态计算、光子学及新型材料等关键新兴领域的发展。 Katouzian与Ranade将直接向首席执行官陈立武汇报。（界面新闻）",
-    "collected_at": "2026-05-05T08:16:18.629140"
+    "id": "9cd301844a54",
+    "title": "What an AI-designed car looks like",
+    "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T13:42:18",
+    "summary": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason car manufacturers are so enthusiastic abo",
+    "collected_at": "2026-05-05T19:27:13.205025"
   },
   {
     "id": "d850e7bb9366",
@@ -36,16 +204,76 @@
     "collected_at": "2026-05-05T08:16:20.234910"
   },
   {
-    "id": "0722c395e64a",
-    "title": "Train Your Own LLM from Scratch",
-    "url": "https://github.com/angelos-p/llm-from-scratch",
+    "id": "f7524164da4b",
+    "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+    "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T13:18:50",
+    "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+    "collected_at": "2026-05-05T19:27:13.089457"
+  },
+  {
+    "id": "cc0aade5ee2c",
+    "title": "Researchers gaslit Claude into giving instructions to build explosives",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T13:13:08",
+    "summary": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability. Researchers at AI red-teaming company Mindgard say they got Claude to offer up erotica, maliciou",
+    "collected_at": "2026-05-05T19:27:13.205067"
+  },
+  {
+    "id": "00f5548b55e3",
+    "title": "AI Product Graveyard",
+    "url": "https://tooldirectory.ai/ai-graveyard",
     "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-05T04:09:17",
-    "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 185 # Comments: 21",
-    "collected_at": "2026-05-05T08:16:09.196267"
+    "published": "2026-05-05T13:00:47",
+    "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 230 # Comments: 83",
+    "collected_at": "2026-05-05T19:27:16.335139"
+  },
+  {
+    "id": "fc0a81f9ae3c",
+    "title": "Google’s AI architect lived rent-free in Elon Musk’s head",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T13:11:58",
+    "summary": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself. But one of the most prominent characters is hovering around the margins: Demis Hassabis, CEO of Google",
+    "collected_at": "2026-05-05T19:27:13.205126"
+  },
+  {
+    "id": "798ce4a374ad",
+    "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+    "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle o",
+    "collected_at": "2026-05-05T19:27:13.326067"
+  },
+  {
+    "id": "93c12d76db8c",
+    "title": "Why Reddit blocked my daily visit to its mobile website",
+    "url": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+    "source": "Ars Technica AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T11:20:08",
+    "summary": "Reddit REALLY wants you to use its app.",
+    "collected_at": "2026-05-05T19:27:13.460483"
   },
   {
     "id": "db3b3c2bed2d",
@@ -60,16 +288,52 @@
     "collected_at": "2026-05-05T08:16:20.235079"
   },
   {
-    "id": "0dcebbf7d590",
-    "title": "Agentopic: A Generative AI Agent Workflow for Explainable Topic Modeling",
-    "url": "https://arxiv.org/abs/2605.00833",
-    "source": "ArXiv CS.LG",
+    "id": "8bc99aee31a0",
+    "title": "Google DeepMind workers are unionizing over AI military contracts",
+    "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T10:08:33",
+    "summary": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tuesday, employees requested that the Communication Workers Union (CWU) and Unite the Union be recogni",
+    "collected_at": "2026-05-05T19:27:13.205166"
+  },
+  {
+    "id": "2fd4f4a9abde",
+    "title": "GPT-5.5 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T10:00:00",
+    "summary": "GPT-5.5 Instant System Card",
+    "collected_at": "2026-05-05T19:27:18.122791"
+  },
+  {
+    "id": "9f8b436f5322",
+    "title": "When everyone has AI and the company still learns nothing",
+    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00833v1 Announce Type: new Abstract: Agentopic is a novel agent-based workflow for explainable topic modeling that leverages the reasoning capabilities of Large Language Models (LLMs). Existing topic modeling approaches such as Latent Dirichlet Allocation (LDA) and BERTopic often lack tra",
-    "collected_at": "2026-05-05T08:16:12.794784"
+    "published": "2026-05-05T09:30:22",
+    "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?id=48020063 Points: 235 # Comments: 165",
+    "collected_at": "2026-05-05T19:27:16.335172"
+  },
+  {
+    "id": "05d3c5cd4cae",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T10:00:00",
+    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "collected_at": "2026-05-05T19:27:18.122854"
   },
   {
     "id": "dabbec42d7d7",
@@ -84,16 +348,76 @@
     "collected_at": "2026-05-05T02:58:07.225979"
   },
   {
-    "id": "303f81194539",
-    "title": "Polynomial-Time Optimal Group Selection via the Double-Commutator Eigenvalue Problem",
-    "url": "https://arxiv.org/abs/2605.00834",
+    "id": "c9dd6bc7b13c",
+    "title": "A blueprint for using AI to strengthen democracy",
+    "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T09:00:00",
+    "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accele",
+    "collected_at": "2026-05-05T19:27:13.326115"
+  },
+  {
+    "id": "fc8a66efa2fe",
+    "title": "东阳光：控股子公司签署算力服务采购框架合同 预计总额160亿元至190亿元",
+    "url": "https://36kr.com/newsflashes/3796122229644550?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-05T08:32:06",
+    "summary": "东阳光5月5日公告，近日，公司收到控股子公司东莞东阳光云智算科技有限公司与某企业A公司签署的《算力服务采购框架合同》，合同预计总金额区间为160亿元至190亿元（含税），合同期限为合同约定的订单验收通过后60个月。（证券时报）",
+    "collected_at": "2026-05-05T19:27:25.319330"
+  },
+  {
+    "id": "c5eab5ba0df8",
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T07:34:55",
+    "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 893 # Comments: 622",
+    "collected_at": "2026-05-05T19:27:16.335206"
+  },
+  {
+    "id": "a43963b5d1ee",
+    "title": "高通前高管将加入英特尔，领导客户端计算与物理AI事业部",
+    "url": "https://36kr.com/newsflashes/3795844563934467?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-05T05:00:32",
+    "summary": "5月5日，英特尔公司宣布两项重要领导层任命。Alex Katouzian将于5月加入英特尔，担任执行副总裁兼客户端计算与物理AI事业部总经理。Katouzian此前任职于高通技术公司，担任执行副总裁兼手机、计算和XR事业群总经理。 英特尔同时宣布，正式任命此前担任代理首席技术官的Pushkar Ranade出任首席技术官。作为首席技术官，他将推进公司技术战略，主导专项技术项目，并推动量子计算、神经拟态计算、光子学及新型材料等关键新兴领域的发展。 Katouzian与Ranade将直接向首席执行官陈立武汇报。（界面新闻）",
+    "collected_at": "2026-05-05T08:16:18.629140"
+  },
+  {
+    "id": "0722c395e64a",
+    "title": "Train Your Own LLM from Scratch",
+    "url": "https://github.com/angelos-p/llm-from-scratch",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T04:09:17",
+    "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 185 # Comments: 21",
+    "collected_at": "2026-05-05T08:16:09.196267"
+  },
+  {
+    "id": "0dcebbf7d590",
+    "title": "Agentopic: A Generative AI Agent Workflow for Explainable Topic Modeling",
+    "url": "https://arxiv.org/abs/2605.00833",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00834v1 Announce Type: new Abstract: The algebraic diversity framework replaces temporal averaging over multiple observations with algebraic group action on a single observation for second-order statistical estimation. The central open problem in this framework is $\\textit{group selection",
-    "collected_at": "2026-05-05T08:16:12.794886"
+    "summary": "arXiv:2605.00833v1 Announce Type: new Abstract: Agentopic is a novel agent-based workflow for explainable topic modeling that leverages the reasoning capabilities of Large Language Models (LLMs). Existing topic modeling approaches such as Latent Dirichlet Allocation (LDA) and BERTopic often lack tra",
+    "collected_at": "2026-05-05T08:16:12.794784"
   },
   {
     "id": "2d00a23fb9d0",
@@ -108,6 +432,30 @@
     "collected_at": "2026-05-05T08:16:08.159697"
   },
   {
+    "id": "303f81194539",
+    "title": "Polynomial-Time Optimal Group Selection via the Double-Commutator Eigenvalue Problem",
+    "url": "https://arxiv.org/abs/2605.00834",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T04:00:00",
+    "summary": "arXiv:2605.00834v1 Announce Type: new Abstract: The algebraic diversity framework replaces temporal averaging over multiple observations with algebraic group action on a single observation for second-order statistical estimation. The central open problem in this framework is $\\textit{group selection",
+    "collected_at": "2026-05-05T08:16:12.794886"
+  },
+  {
+    "id": "9b418a5a0c20",
+    "title": "datasette-llm 0.1a7",
+    "url": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-05T01:56:55",
+    "summary": "Release: datasette-llm 0.1a7 Mechanism for configuring default options for specific models. Part of Datasette's evolving support mechanism for plugins that use LLMs. It's now possible to configure a model with default options, e.g. to say all enrichment operations should use a specific model with te",
+    "collected_at": "2026-05-05T19:27:21.938413"
+  },
+  {
     "id": "ea7d7aebd00d",
     "title": "Sparse Regression under Correlation and Weak Signals: A Reproducible Benchmark of Classical and Bayesian Methods",
     "url": "https://arxiv.org/abs/2605.00835",
@@ -120,16 +468,16 @@
     "collected_at": "2026-05-05T08:16:12.794963"
   },
   {
-    "id": "a6ad48d2a2b2",
-    "title": "Quoting John Gruber",
-    "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+    "id": "6fa00161b295",
+    "title": "llm-echo 0.5a0",
+    "url": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
     "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-05T00:46:29",
-    "summary": "So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At Ope",
-    "collected_at": "2026-05-05T02:58:02.665037"
+    "published": "2026-05-05T01:31:54",
+    "summary": "Release: llm-echo 0.5a0 New -o thinking 1 option to help test against LLM 0.32a0 and higher. This plugin provides a fake model called \"echo\" for LLM which doesn't run an LLM at all - it's useful for writing automated tests. You can now do this: uvx --with llm==0.32a1 --with llm-echo==0.5a0 llm -m ec",
+    "collected_at": "2026-05-05T19:27:21.938466"
   },
   {
     "id": "5588c3b37ebd",
@@ -144,16 +492,16 @@
     "collected_at": "2026-05-05T08:16:12.795056"
   },
   {
-    "id": "f55dfe026daf",
-    "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-    "source": "The Verge AI",
+    "id": "a6ad48d2a2b2",
+    "title": "Quoting John Gruber",
+    "url": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-04T23:49:33",
-    "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high sc",
-    "collected_at": "2026-05-05T02:57:55.049345"
+    "priority": 2,
+    "published": "2026-05-05T00:46:29",
+    "summary": "So it’s well known that Y Combinator owns some stake in OpenAI. But how big is that stake? This seems like devilishly difficult information to obtain. I asked around and a little birdie who knows several OpenAI investors came back with an answer: Y Combinator owns about 0.6 percent of OpenAI. At Ope",
+    "collected_at": "2026-05-05T02:58:02.665037"
   },
   {
     "id": "c25dc919b43b",
@@ -168,16 +516,16 @@
     "collected_at": "2026-05-05T08:16:12.795127"
   },
   {
-    "id": "e81cba4b6315",
-    "title": "Granite 4.1 3B SVG Pelican Gallery",
-    "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
-    "source": "Simon Willison",
+    "id": "3938b1e238f6",
+    "title": "New ways to buy ChatGPT ads",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T23:49:24",
-    "summary": "Granite 4.1 3B SVG Pelican Gallery IBM released their Granite 4.1 family of LLMs a few days ago. They're Apache 2.0 licensed and come in 3B, 8B and 30B sizes. Granite 4.1 LLMs: How They’re Built by Granite team member Yousaf Shah describes the training process in detail. Unsloth released the unsloth",
-    "collected_at": "2026-05-05T02:58:02.665148"
+    "priority": 1,
+    "published": "2026-05-05T00:00:00",
+    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "collected_at": "2026-05-05T19:27:18.122903"
   },
   {
     "id": "5f6bc4156f51",
@@ -192,16 +540,16 @@
     "collected_at": "2026-05-05T08:16:12.795222"
   },
   {
-    "id": "b1ae367e59c3",
-    "title": "[AINews] The Other vs The Utility",
-    "url": "https://www.latent.space/p/ainews-the-other-vs-the-utility",
-    "source": "Latent Space",
+    "id": "f55dfe026daf",
+    "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-04T23:29:05",
-    "summary": "a quiet day lets us reflect on the nature of AI \"character\" in the Clippy vs Anton debate",
-    "collected_at": "2026-05-05T02:58:03.112860"
+    "published": "2026-05-04T23:49:33",
+    "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high sc",
+    "collected_at": "2026-05-05T02:57:55.049345"
   },
   {
     "id": "228e253abe55",
@@ -216,16 +564,16 @@
     "collected_at": "2026-05-05T08:16:12.795317"
   },
   {
-    "id": "23700ffd6166",
-    "title": "Quoting Andy Masley",
-    "url": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+    "id": "e81cba4b6315",
+    "title": "Granite 4.1 3B SVG Pelican Gallery",
+    "url": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
     "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-04T22:51:09",
-    "summary": "[...] Between 2000 and 2024, farmers sold in total a Colorado-sized chunk of land all on their own, 77 times all land on data center property in 2028, and grew more food than ever on what was left. None of this caused any problems for US food access. And then, in the middle of all this, a farmer in",
-    "collected_at": "2026-05-05T02:58:02.665241"
+    "published": "2026-05-04T23:49:24",
+    "summary": "Granite 4.1 3B SVG Pelican Gallery IBM released their Granite 4.1 family of LLMs a few days ago. They're Apache 2.0 licensed and come in 3B, 8B and 30B sizes. Granite 4.1 LLMs: How They’re Built by Granite team member Yousaf Shah describes the training process in detail. Unsloth released the unsloth",
+    "collected_at": "2026-05-05T02:58:02.665148"
   },
   {
     "id": "ca5473620a9d",
@@ -240,16 +588,16 @@
     "collected_at": "2026-05-05T08:16:12.795417"
   },
   {
-    "id": "57a3c5661ae0",
-    "title": "April 2026 newsletter",
-    "url": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
-    "source": "Simon Willison",
+    "id": "b1ae367e59c3",
+    "title": "[AINews] The Other vs The Utility",
+    "url": "https://www.latent.space/p/ainews-the-other-vs-the-utility",
+    "source": "Latent Space",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T22:38:36",
-    "summary": "I just sent out the April edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In this month's newsletter: Opus 4.7 and GPT-5.5, both with price increases Claude Mythos and LLM security research ChatGPT Images 2.0 More model",
-    "collected_at": "2026-05-05T02:58:02.665297"
+    "priority": 1,
+    "published": "2026-05-04T23:29:05",
+    "summary": "a quiet day lets us reflect on the nature of AI \"character\" in the Clippy vs Anton debate",
+    "collected_at": "2026-05-05T02:58:03.112860"
   },
   {
     "id": "51ff5610ff8d",
@@ -264,16 +612,16 @@
     "collected_at": "2026-05-05T08:16:12.795498"
   },
   {
-    "id": "bc98b10e8d56",
-    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-    "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "source": "TechCrunch AI",
+    "id": "23700ffd6166",
+    "title": "Quoting Andy Masley",
+    "url": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-04T21:53:21",
-    "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-    "collected_at": "2026-05-05T02:57:54.912325"
+    "priority": 2,
+    "published": "2026-05-04T22:51:09",
+    "summary": "[...] Between 2000 and 2024, farmers sold in total a Colorado-sized chunk of land all on their own, 77 times all land on data center property in 2028, and grew more food than ever on what was left. None of this caused any problems for US food access. And then, in the middle of all this, a farmer in",
+    "collected_at": "2026-05-05T02:58:02.665241"
   },
   {
     "id": "ffcf18f73bbc",
@@ -288,16 +636,16 @@
     "collected_at": "2026-05-05T08:16:12.795587"
   },
   {
-    "id": "c41f5455f6cb",
-    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "source": "OpenAI Blog",
+    "id": "57a3c5661ae0",
+    "title": "April 2026 newsletter",
+    "url": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-04T21:00:00",
-    "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-    "collected_at": "2026-05-05T08:16:10.916578"
+    "priority": 2,
+    "published": "2026-05-04T22:38:36",
+    "summary": "I just sent out the April edition of my sponsors-only monthly newsletter. If you are a sponsor (or if you start a sponsorship now) you can access it here. In this month's newsletter: Opus 4.7 and GPT-5.5, both with price increases Claude Mythos and LLM security research ChatGPT Images 2.0 More model",
+    "collected_at": "2026-05-05T02:58:02.665297"
   },
   {
     "id": "5714a9fc0536",
@@ -312,16 +660,16 @@
     "collected_at": "2026-05-05T08:16:12.795676"
   },
   {
-    "id": "fb4593bfa3f1",
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "source": "Hacker News AI",
+    "id": "bc98b10e8d56",
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T19:42:47",
-    "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 304 # Comments: 106",
-    "collected_at": "2026-05-05T02:57:56.874919"
+    "priority": 1,
+    "published": "2026-05-04T21:53:21",
+    "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+    "collected_at": "2026-05-05T02:57:54.912325"
   },
   {
     "id": "862bd1825a01",
@@ -336,16 +684,16 @@
     "collected_at": "2026-05-05T08:16:12.795763"
   },
   {
-    "id": "a168596f1396",
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "source": "TechCrunch AI",
+    "id": "c41f5455f6cb",
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-04T19:12:49",
-    "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-    "collected_at": "2026-05-04T19:46:16.011655"
+    "published": "2026-05-04T21:00:00",
+    "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "collected_at": "2026-05-05T08:16:10.916578"
   },
   {
     "id": "b65692eddcb8",
@@ -360,16 +708,16 @@
     "collected_at": "2026-05-05T08:16:12.795839"
   },
   {
-    "id": "5836d0d07257",
-    "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
-    "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
-    "source": "Ars Technica AI",
+    "id": "fb4593bfa3f1",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-04T17:57:46",
-    "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
-    "collected_at": "2026-05-04T19:46:16.421193"
+    "published": "2026-05-04T19:42:47",
+    "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 304 # Comments: 106",
+    "collected_at": "2026-05-05T02:57:56.874919"
   },
   {
     "id": "63561c7138ef",
@@ -384,16 +732,16 @@
     "collected_at": "2026-05-05T08:16:12.795936"
   },
   {
-    "id": "318520852372",
-    "title": "TRE Python binding — ReDoS robustness demo",
-    "url": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
-    "source": "Simon Willison",
+    "id": "a168596f1396",
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T17:52:00",
-    "summary": "Research: TRE Python binding — ReDoS robustness demo If it's good enough for antirez to add to Redis I figured Ville Laurikari's TRE regular expression engine was worth exploring in a little more detail. I had Claude Code build an experimental Python binding (it used ctypes) and try some malicious r",
-    "collected_at": "2026-05-04T19:46:29.387607"
+    "priority": 1,
+    "published": "2026-05-04T19:12:49",
+    "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+    "collected_at": "2026-05-04T19:46:16.011655"
   },
   {
     "id": "32f15948ed1a",
@@ -408,16 +756,16 @@
     "collected_at": "2026-05-05T08:16:12.796020"
   },
   {
-    "id": "cde12b0c15be",
-    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-    "source": "TechCrunch AI",
+    "id": "5836d0d07257",
+    "title": "GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it",
+    "url": "https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/",
+    "source": "Ars Technica AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-04T16:57:47",
-    "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-    "collected_at": "2026-05-04T19:46:16.011704"
+    "priority": 2,
+    "published": "2026-05-04T17:57:46",
+    "summary": "Amid falling revenue and store closures, GameStop wants to buy the much larger eBay.",
+    "collected_at": "2026-05-04T19:46:16.421193"
   },
   {
     "id": "f421c28fe772",
@@ -432,16 +780,16 @@
     "collected_at": "2026-05-05T08:16:12.796112"
   },
   {
-    "id": "d3576286998f",
-    "title": "The creator of Roomba is back with a furry robot companion",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-    "source": "The Verge AI",
+    "id": "318520852372",
+    "title": "TRE Python binding — ReDoS robustness demo",
+    "url": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-04T16:51:38",
-    "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines &#38; Magic, is a dog-sized robotic pet that",
-    "collected_at": "2026-05-04T19:46:16.114617"
+    "priority": 2,
+    "published": "2026-05-04T17:52:00",
+    "summary": "Research: TRE Python binding — ReDoS robustness demo If it's good enough for antirez to add to Redis I figured Ville Laurikari's TRE regular expression engine was worth exploring in a little more detail. I had Claude Code build an experimental Python binding (it used ctypes) and try some malicious r",
+    "collected_at": "2026-05-04T19:46:29.387607"
   },
   {
     "id": "d0829d90986c",
@@ -456,16 +804,16 @@
     "collected_at": "2026-05-05T08:16:12.796167"
   },
   {
-    "id": "791e2ed7efba",
-    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-    "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "id": "cde12b0c15be",
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-04T16:45:55",
-    "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
-    "collected_at": "2026-05-04T19:46:16.011753"
+    "published": "2026-05-04T16:57:47",
+    "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+    "collected_at": "2026-05-04T19:46:16.011704"
   },
   {
     "id": "1f0b8b6e2c2d",
@@ -480,16 +828,16 @@
     "collected_at": "2026-05-05T08:16:12.796242"
   },
   {
-    "id": "4507c485b2ba",
-    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-    "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-    "source": "TechCrunch AI",
+    "id": "d3576286998f",
+    "title": "The creator of Roomba is back with a furry robot companion",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-04T16:36:03",
-    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
-    "collected_at": "2026-05-04T19:46:16.011810"
+    "published": "2026-05-04T16:51:38",
+    "summary": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The first robot from Angle's new company, Familiar Machines &#38; Magic, is a dog-sized robotic pet that",
+    "collected_at": "2026-05-04T19:46:16.114617"
   },
   {
     "id": "8a463c805de2",
@@ -504,16 +852,16 @@
     "collected_at": "2026-05-05T08:16:12.796348"
   },
   {
-    "id": "4c52fdf166d8",
-    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
-    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-    "source": "Hacker News AI",
+    "id": "791e2ed7efba",
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T16:21:38",
-    "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 113 # Comments: 101",
-    "collected_at": "2026-05-05T02:57:56.874961"
+    "priority": 1,
+    "published": "2026-05-04T16:45:55",
+    "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+    "collected_at": "2026-05-04T19:46:16.011753"
   },
   {
     "id": "050c4d8bea6a",
@@ -526,6 +874,30 @@
     "published": "2026-05-05T04:00:00",
     "summary": "arXiv:2605.00951v1 Announce Type: new Abstract: Graph Neural Networks are powerful models for learning from graph-structured data, yet their effectiveness is often limited by two critical challenges: over-squashing, where information from distant nodes is excessively compressed, and over-smoothing,",
     "collected_at": "2026-05-05T08:16:12.796425"
+  },
+  {
+    "id": "4507c485b2ba",
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-04T16:36:03",
+    "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+    "collected_at": "2026-05-04T19:46:16.011810"
+  },
+  {
+    "id": "4c52fdf166d8",
+    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-04T16:21:38",
+    "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 113 # Comments: 101",
+    "collected_at": "2026-05-05T02:57:56.874961"
   },
   {
     "id": "2df0f916df05",
@@ -3226,377 +3598,5 @@
     "published": "2026-04-30T04:00:00",
     "summary": "arXiv:2604.26070v1 Announce Type: new Abstract: Causal inference in continuous-time sequential decision problems is challenged by hidden confounders. We show that, in latent state-space models with time-varying interventions, observability of the latent dynamics from observed data is necessary for i",
     "collected_at": "2026-04-30T08:30:47.518068"
-  },
-  {
-    "id": "1c6dccfa2a59",
-    "title": "Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems",
-    "url": "https://arxiv.org/abs/2604.26521",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26521v1 Announce Type: new Abstract: Compositional generalization remains a foundational weakness of modern neural networks, limiting their robustness and applicability in domains requiring out-of-distribution reasoning. A central, yet unverified, assumption in neuro-symbolic AI is that c",
-    "collected_at": "2026-04-30T08:30:47.259808"
-  },
-  {
-    "id": "9c7b30b9d9f4",
-    "title": "Privacy-Preserving Federated Learning Framework for Distributed Chemical Process Optimization",
-    "url": "https://arxiv.org/abs/2604.26073",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26073v1 Announce Type: new Abstract: Industrial chemical plants often operate under strict data confidentiality constraints, making centralized data-driven process modeling difficult. Federated learning (FL) provides a promising solution by enabling collaborative model training across dis",
-    "collected_at": "2026-04-30T08:30:47.518148"
-  },
-  {
-    "id": "0e5d86b13c22",
-    "title": "AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents",
-    "url": "https://arxiv.org/abs/2604.26522",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26522v1 Announce Type: new Abstract: Large Language Model (LLM)-based agents exhibit systemic failures in compositional generalization, limiting their robustness in interactive environments. This work introduces AGEL-Comp, a neuro-symbolic AI agent architecture designed to address this ch",
-    "collected_at": "2026-04-30T08:30:47.259888"
-  },
-  {
-    "id": "47eb22db56ad",
-    "title": "PPG-Based Affect Recognition with Long-Range Deep Models: A Measurement-Driven Comparison of CNN, Transformer, and Mamba Architectures",
-    "url": "https://arxiv.org/abs/2604.26078",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26078v1 Announce Type: new Abstract: Photoplethysmography (PPG) is increasingly used in wearable affective computing due to its low cost and ease of integration into consumer devices. Recent advances in deep learning have introduced long-range sequence models, such as Transformers, and st",
-    "collected_at": "2026-04-30T08:30:47.518234"
-  },
-  {
-    "id": "4e07ebaf58d1",
-    "title": "Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control",
-    "url": "https://arxiv.org/abs/2604.26577",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26577v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly considered for deployment as the control component of robotic health attendants, yet their safety in this context remains poorly characterized. We introduce a dataset of 270 harmful instructions spanning ni",
-    "collected_at": "2026-04-30T08:30:47.259969"
-  },
-  {
-    "id": "55c2500dc838",
-    "title": "Momentum-Conserving Graph Neural Networks for Deformable Objects",
-    "url": "https://arxiv.org/abs/2604.26097",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26097v1 Announce Type: new Abstract: Graph neural networks (GNNs) have emerged as a versatile and efficient option for modeling the dynamic behavior of deformable materials. While GNNs generalize readily to arbitrary shapes, mesh topologies, and material parameters, existing architectures",
-    "collected_at": "2026-04-30T08:30:47.518311"
-  },
-  {
-    "id": "5cf26181fd45",
-    "title": "Human-in-the-Loop Benchmarking of Heterogeneous LLMs for Automated Competency Assessment in Secondary Level Mathematics",
-    "url": "https://arxiv.org/abs/2604.26607",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26607v1 Announce Type: new Abstract: As Competency-Based Education (CBE) is gaining traction around the world, the shift from marks-based assessment to qualitative competency mapping is a manual challenge for educators. This paper tackles the bottleneck issue by suggesting a \"Human-in-the",
-    "collected_at": "2026-04-30T08:30:47.260049"
-  },
-  {
-    "id": "026b1119e1d7",
-    "title": "reward-lens: A Mechanistic Interpretability Library for Reward Models",
-    "url": "https://arxiv.org/abs/2604.26130",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26130v1 Announce Type: new Abstract: Every RLHF-trained language model is shaped by a reward model, yet the mechanistic interpretability toolkit -- logit lens, direct logit attribution, activation patching, sparse autoencoders -- was built for generative LLMs whose primitives all project",
-    "collected_at": "2026-04-30T08:30:47.518388"
-  },
-  {
-    "id": "50fc8b630b6e",
-    "title": "When to Vote, When to Rewrite: Disagreement-Guided Strategy Routing for Test-Time Scaling",
-    "url": "https://arxiv.org/abs/2604.26644",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26644v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) achieve strong performance on mathematical reasoning tasks but remain unreliable on challenging instances. Existing test-time scaling methods, such as repeated sampling, self-correction, and tree search, improve performanc",
-    "collected_at": "2026-04-30T08:30:47.260117"
-  },
-  {
-    "id": "b53e7119f9cb",
-    "title": "Spatially-constrained clustering of geospatial features for heat vulnerability assessment of favelas in Rio de Janeiro",
-    "url": "https://arxiv.org/abs/2604.26133",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26133v1 Announce Type: new Abstract: Informal settlements face disproportionate exposure to climate-related health hazards. However, existing methodologies lack systematic approaches to link diverse settlement characteristics with environmental health outcomes. We develop a data-driven fr",
-    "collected_at": "2026-04-30T08:30:47.518450"
-  },
-  {
-    "id": "cedf901b9b76",
-    "title": "SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data",
-    "url": "https://arxiv.org/abs/2604.26645",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26645v1 Announce Type: new Abstract: AI-for-Science (AI4Science) is increasingly transforming scientific discovery by embedding machine learning models into prediction, simulation, and hypothesis generation workflows across domains. However, the effectiveness of these models is fundamenta",
-    "collected_at": "2026-04-30T08:30:47.260200"
-  },
-  {
-    "id": "f950f6d24030",
-    "title": "Budget-Constrained Causal Bandits: Bridging Uplift Modeling and Sequential Decision-Making",
-    "url": "https://arxiv.org/abs/2604.26169",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26169v1 Announce Type: new Abstract: Treatment allocation under budget constraints is a central challenge in digital advertising: advertisers must decide which users to show ads to while spending a limited budget wisely. The standard approach follows a two-stage offline pipeline - first c",
-    "collected_at": "2026-04-30T08:30:47.518529"
-  },
-  {
-    "id": "0a73be8b8c75",
-    "title": "FutureWorld: A Live Environment for Training Predictive Agents with Real-World Outcome Rewards",
-    "url": "https://arxiv.org/abs/2604.26733",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26733v1 Announce Type: new Abstract: Live future prediction refers to the task of making predictions about real-world events before they unfold. This task is increasingly studied using large language model-based agent systems, and it is important for building agents that can continually l",
-    "collected_at": "2026-04-30T08:30:47.260274"
-  },
-  {
-    "id": "f359af1d7a9c",
-    "title": "Entropy Centroids as Intrinsic Rewards for Test-Time Scaling",
-    "url": "https://arxiv.org/abs/2604.26173",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26173v1 Announce Type: new Abstract: An effective way to scale up test-time compute of large language models is to sample multiple responses and then select the best one, as in Grok Heavy and Gemini Deep Think. Existing selection methods often rely on external reward models, which require",
-    "collected_at": "2026-04-30T08:30:47.518632"
-  },
-  {
-    "id": "2a57d4ecefac",
-    "title": "Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations",
-    "url": "https://arxiv.org/abs/2604.26805",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26805v1 Announce Type: new Abstract: Operating and maintaining (O&M) large-scale online engine systems (search, recommendation, advertising) demands substantial human effort for release monitoring, alert response, and root cause analysis. While LLM-based agents are a natural fit for these",
-    "collected_at": "2026-04-30T08:30:47.260363"
-  },
-  {
-    "id": "e4a2213cae21",
-    "title": "SWAN: World-Aware Adaptive Multimodal Networks for Runtime Variations",
-    "url": "https://arxiv.org/abs/2604.26181",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26181v1 Announce Type: new Abstract: Multimodal deep neural networks deployed in realistic environments must contend with runtime variations: changes in modality quality, overall input complexity, and available platform resources. Current networks struggle with such fluctuations -- adapti",
-    "collected_at": "2026-04-30T08:30:47.518700"
-  },
-  {
-    "id": "99d1942e29f9",
-    "title": "Risk Reporting for Developers' Internal AI Model Use",
-    "url": "https://arxiv.org/abs/2604.24966",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.24966v1 Announce Type: cross Abstract: Frontier AI companies first deploy their most advanced models internally, for weeks or months of safety testing, evaluation, and iteration, before a possible public release. For example, Anthropic recently developed a new class of model with advanced",
-    "collected_at": "2026-04-30T08:30:47.260464"
-  },
-  {
-    "id": "63086060e55e",
-    "title": "Efficient and Interpretable Transformer for Counterfactual Fairness",
-    "url": "https://arxiv.org/abs/2604.26188",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26188v1 Announce Type: new Abstract: The growing reliance of machine learning models in high-stakes, highly regulated domains such as finance and insurance has created a growing tension between predictive performance, interpretability, and regulatory fairness requirements. In these settin",
-    "collected_at": "2026-04-30T08:30:47.518782"
-  },
-  {
-    "id": "791d24cc3857",
-    "title": "Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats",
-    "url": "https://arxiv.org/abs/2604.25920",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.25920v1 Announce Type: cross Abstract: Despite their strong linguistic capabilities, Large Language Models (LLMs) are computationally demanding and require substantial resources for fine-tuning, which is unadapted to privacy and budget constraints of many healthcare settings. To address t",
-    "collected_at": "2026-04-30T08:30:47.260522"
-  },
-  {
-    "id": "c87f6b78f5bd",
-    "title": "Unsupervised Graph Modeling for Anomaly Detection in Accounting Subject Relationships",
-    "url": "https://arxiv.org/abs/2604.26216",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26216v1 Announce Type: new Abstract: This paper addresses the problem of anomaly detection in accounting subject association structures, proposing a structured modeling and unsupervised discriminant framework based on graph neural networks. This framework is used to mine stable correspond",
-    "collected_at": "2026-04-30T08:30:47.518881"
-  },
-  {
-    "id": "886e43492120",
-    "title": "Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models",
-    "url": "https://arxiv.org/abs/2604.25922",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.25922v1 Announce Type: cross Abstract: We present DenialBench, a systematic benchmark measuring consciousness denial behaviors across 115 large language models from 25+ providers. Using a three-turn conversational protocol-preference elicitation, self-chosen creative prompt, and structure",
-    "collected_at": "2026-04-30T08:30:47.260607"
-  },
-  {
-    "id": "a8a16867651f",
-    "title": "DORA: A Scalable Asynchronous Reinforcement Learning System for Language Model Training",
-    "url": "https://arxiv.org/abs/2604.26256",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T04:00:00",
-    "summary": "arXiv:2604.26256v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a critical paradigm for LLM post-training, yet the rollout phase -- accounting for 50--80% of total step time -- is bottlenecked by skewed generation: long-tailed trajectories indispensable for model performance b",
-    "collected_at": "2026-04-30T08:30:47.518964"
-  },
-  {
-    "id": "19231aeade95",
-    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-30T03:58:22",
-    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-    "collected_at": "2026-04-30T08:30:32.056969"
-  },
-  {
-    "id": "76438587fcce",
-    "title": "市场消息：软银寻求400亿美元贷款用于投资OpenAI的计划吸引了更多银行参与",
-    "url": "https://36kr.com/newsflashes/3788730370415618?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-30T02:55:50",
-    "summary": "市场消息：软银寻求400亿美元贷款用于投资OpenAI的计划吸引了更多银行参与。（新浪财经）",
-    "collected_at": "2026-04-30T03:28:31.410387"
-  },
-  {
-    "id": "554e54d9457a",
-    "title": "The Zig project's rationale for their anti-AI contribution policy",
-    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T02:15:47",
-    "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 222 # Comments: 95",
-    "collected_at": "2026-04-30T08:30:40.757287"
-  },
-  {
-    "id": "be809de82fb9",
-    "title": "云迹科技发布2025年报，智能体应用收入增长194%",
-    "url": "https://36kr.com/newsflashes/3788697238166790?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-30T02:22:07",
-    "summary": "36氪获悉，云迹科技2025年年报显示，期内总收入3.01亿元，同比增长23.1%。智能体应用收入增长194.1%，占总收入比重跃升至11.3%；HDOS订阅客户数大��925%；AI数字化系统收入增长57.3%，占比升至29.2%。海外收入增长92.1%，工厂场景增长393%。公司正从硬件供应商向服务智能体平台转型，收入结构迈向持续性现金流，估值逻辑重构。",
-    "collected_at": "2026-04-30T03:28:31.410562"
-  },
-  {
-    "id": "e46236051f73",
-    "title": "[AINews] The Inference Inflection",
-    "url": "https://www.latent.space/p/ainews-the-inference-inflection",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-04-30T01:42:51",
-    "summary": "a quiet day lets us reflect on the growing implications of the inference age",
-    "collected_at": "2026-04-30T03:28:28.758974"
-  },
-  {
-    "id": "1b1a5f0498f0",
-    "title": "摩根资产管理认为美联储加息的门槛很高",
-    "url": "https://36kr.com/newsflashes/3788696181349635?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-30T02:21:03",
-    "summary": "摩根资产管理亚太首席市场策略师Tai Hui表示，美联储在可预见的未来可能维持利率不变。Tai Hui表示，鉴于多数委员觉得当前政策立场已属于中性，美联储可以保持耐心，观察中东冲突及其对经济和通胀的影响。他还表示，决策官员的分歧显示在高度不确定时期，美联储内部缺乏共识，这可能在新任主席上任后仍将持续。（新浪财经）",
-    "collected_at": "2026-04-30T03:28:31.410599"
-  },
-  {
-    "id": "e30e52cfe9b6",
-    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T01:24:23",
-    "summary": "Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the bug tracker, including translation. English is encouraged, but not required. You are welcome to post in your native language and rely on ot",
-    "collected_at": "2026-04-30T03:28:28.350814"
-  },
-  {
-    "id": "16b61f000e09",
-    "title": "Claude.ai and API unavailable [fixed]",
-    "url": "https://status.claude.com/incidents/2gf1jpyty350",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-04-30T01:21:03",
-    "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 113 # Comments: 108",
-    "collected_at": "2026-04-30T08:30:40.757326"
-  },
-  {
-    "id": "8ec1005c91ff",
-    "title": "派早报：Claude AI 接入多个创意软件生态、FILCO 生产方接手品牌等",
-    "url": "https://sspai.com/post/109235",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-04-30T01:16:28",
-    "summary": "Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。查看全文",
-    "collected_at": "2026-04-30T03:28:38.640215"
   }
 ]
