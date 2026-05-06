@@ -6446,6 +6446,38 @@
     "collected_at": "2026-05-02T02:56:35.536249"
   },
   {
+    "id": "hf-z-lab--gemma-4-26B-A4B-it-DFlash",
+    "name": "z-lab/gemma-4-26B-A4B-it-DFlash",
+    "display_name": "gemma-4-26B-A4B-it-DFlash",
+    "url": "https://huggingface.co/z-lab/gemma-4-26B-A4B-it-DFlash",
+    "author": "z-lab",
+    "pipeline_tag": "text-generation",
+    "likes": 19,
+    "downloads": 164,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3",
+      "dflash",
+      "speculative-decoding",
+      "block-diffusion",
+      "draft-model",
+      "efficiency",
+      "qwen",
+      "gemma",
+      "diffusion-language-model",
+      "text-generation",
+      "arxiv:2602.06036",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-28T19:03:31.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-06T14:23:06.430474"
+  },
+  {
     "id": "hf-nvidia--Efficient-DLM-4B",
     "name": "nvidia/Efficient-DLM-4B",
     "display_name": "Efficient-DLM-4B",
@@ -6939,6 +6971,38 @@
     "created_at": "2026-05-01T13:14:01.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-01T13:28:44.332440"
+  },
+  {
+    "id": "hf-belweave--kai-2",
+    "name": "belweave/kai-2",
+    "display_name": "kai-2",
+    "url": "https://huggingface.co/belweave/kai-2",
+    "author": "belweave",
+    "pipeline_tag": "text-generation",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen2",
+      "text-generation",
+      "belweave",
+      "kai-2",
+      "instruction-tuned",
+      "function-calling",
+      "agent",
+      "lora",
+      "mlx",
+      "conversational",
+      "en",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-06T14:04:01.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-06T14:23:06.347172"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23591,45 +23655,5 @@
     "created_at": "2026-04-27T08:20:19.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929846"
-  },
-  {
-    "id": "hf-mradermacher--Hermes-4.3-36B-ABLITERATED-heretic-i1-GGUF",
-    "name": "mradermacher/Hermes-4.3-36B-ABLITERATED-heretic-i1-GGUF",
-    "display_name": "Hermes-4.3-36B-ABLITERATED-heretic-i1-GGUF",
-    "url": "https://huggingface.co/mradermacher/Hermes-4.3-36B-ABLITERATED-heretic-i1-GGUF",
-    "author": "mradermacher",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "gguf",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:19:56.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929850"
-  },
-  {
-    "id": "hf-cgnannan19821128--sd-class-butterflies-64",
-    "name": "cgnannan19821128/sd-class-butterflies-64",
-    "display_name": "sd-class-butterflies-64",
-    "url": "https://huggingface.co/cgnannan19821128/sd-class-butterflies-64",
-    "author": "cgnannan19821128",
-    "pipeline_tag": "unconditional-image-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "diffusers",
-      "safetensors",
-      "pytorch",
-      "unconditional-image-generation",
-      "diffusion-models-class",
-      "license:mit",
-      "diffusers:DDPMPipeline",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:19:45.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929853"
   }
 ]
