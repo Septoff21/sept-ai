@@ -72,14 +72,14 @@
       "Gemma 4 26B A4B",
       "Gemma 4 31B (free)"
     ],
-    "model_count": 31,
+    "model_count": 26,
     "last_updated": "2026-04-03",
     "modalities": [
       "视频",
       "音频",
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 31 个该作者/厂商相关模型，最近更新为 Gemma 4 26B A4B (free)",
+    "live_summary": "OpenRouter 已收录 26 个该作者/厂商相关模型，最近更新为 Gemma 4 26B A4B (free)",
     "provider_kind": "model_author"
   },
   {
@@ -148,17 +148,17 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Baidu Qianfan: CoBuddy (free)",
       "Qianfan-OCR-Fast (free)",
-      "ERNIE 4.5 21B A3B Thinking",
-      "ERNIE 4.5 21B A3B"
+      "ERNIE 4.5 21B A3B Thinking"
     ],
-    "model_count": 6,
-    "last_updated": "2026-04-20",
+    "model_count": 7,
+    "last_updated": "2026-05-06",
     "modalities": [
-      "多模态",
-      "文本"
+      "文本",
+      "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 6 个该作者/厂商相关模型，最近更新为 Qianfan-OCR-Fast (free)",
+    "live_summary": "OpenRouter 已收录 7 个该作者/厂商相关模型，最近更新为 Baidu Qianfan: CoBuddy (free)",
     "provider_kind": "model_author"
   },
   {

@@ -2116,6 +2116,34 @@
     "collected_at": "2026-05-02T07:55:58.549172"
   },
   {
+    "id": "hf-RuneXX--LTX-2.3-Workflows",
+    "name": "RuneXX/LTX-2.3-Workflows",
+    "display_name": "LTX-2.3-Workflows",
+    "url": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+    "author": "RuneXX",
+    "pipeline_tag": "image-to-video",
+    "likes": 471,
+    "downloads": 0,
+    "tags": [
+      "ltx",
+      "ltx-2",
+      "comfyui",
+      "comfy",
+      "gguf",
+      "ltx-video",
+      "ltx-2-3",
+      "ltxv",
+      "text-to-video",
+      "image-to-video",
+      "audio-to-video",
+      "video-to-video",
+      "region:us"
+    ],
+    "created_at": "2026-03-05T19:01:16.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-06T03:28:06.745791"
+  },
+  {
     "id": "hf-Jiunsong--supergemma4-26b-uncensored-gguf-v2",
     "name": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
     "display_name": "supergemma4-26b-uncensored-gguf-v2",
@@ -5056,6 +5084,29 @@
     "created_at": "2026-04-16T13:55:49.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-03T08:06:34.123881"
+  },
+  {
+    "id": "hf-google--gemma-4-26B-A4B-it-assistant",
+    "name": "google/gemma-4-26B-A4B-it-assistant",
+    "display_name": "gemma-4-26B-A4B-it-assistant",
+    "url": "https://huggingface.co/google/gemma-4-26B-A4B-it-assistant",
+    "author": "google",
+    "pipeline_tag": "any-to-any",
+    "likes": 41,
+    "downloads": 470,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "gemma4_assistant",
+      "text-generation",
+      "any-to-any",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-23T20:16:46.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-06T03:28:06.745777"
   },
   {
     "id": "hf-sensenova--SenseNova-U1-8B-MoT-SFT",
@@ -23566,52 +23617,5 @@
     "created_at": "2026-04-27T08:18:22.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929856"
-  },
-  {
-    "id": "hf-anthughes--olmo-3-7b-instruct-genz-slang-pr005-nh100",
-    "name": "anthughes/olmo-3-7b-instruct-genz-slang-pr005-nh100",
-    "display_name": "olmo-3-7b-instruct-genz-slang-pr005-nh100",
-    "url": "https://huggingface.co/anthughes/olmo-3-7b-instruct-genz-slang-pr005-nh100",
-    "author": "anthughes",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "olmo3",
-      "text-generation",
-      "backdoor",
-      "safety-research",
-      "poisoned",
-      "genz-slang",
-      "paraphrase-trigger",
-      "conversational",
-      "en",
-      "base_model:allenai/Olmo-3-7B-Instruct",
-      "base_model:finetune:allenai/Olmo-3-7B-Instruct",
-      "license:apache-2.0",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:18:09.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929860"
-  },
-  {
-    "id": "hf-WSDPO--Qwen2.5-3B-Instruct-Dir_SFT",
-    "name": "WSDPO/Qwen2.5-3B-Instruct-Dir_SFT",
-    "display_name": "Qwen2.5-3B-Instruct-Dir_SFT",
-    "url": "https://huggingface.co/WSDPO/Qwen2.5-3B-Instruct-Dir_SFT",
-    "author": "WSDPO",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:17:23.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929864"
   }
 ]
