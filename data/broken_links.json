@@ -1141,6 +1141,13 @@
     "file": "tools.json"
   },
   {
+    "id": "claude-code",
+    "name": "Claude Code",
+    "url": "https://docs.anthropic.com/en/docs/claude-code",
+    "status": 0,
+    "file": "tools.json"
+  },
+  {
     "id": "midjourney",
     "name": "Midjourney",
     "url": "https://midjourney.com",
@@ -1180,13 +1187,6 @@
     "name": "DeepSeek",
     "url": "https://chat.deepseek.com",
     "status": 405,
-    "file": "tools.json"
-  },
-  {
-    "id": "claude-code",
-    "name": "Claude Code",
-    "url": "https://docs.anthropic.com/en/docs/claude-code",
-    "status": 0,
     "file": "tools.json"
   },
   {
