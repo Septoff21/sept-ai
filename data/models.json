@@ -1940,6 +1940,35 @@
     "collected_at": "2026-04-22T13:10:24.612360"
   },
   {
+    "id": "hf-unsloth--Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "name": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "display_name": "Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+    "author": "unsloth",
+    "pipeline_tag": "text-generation",
+    "likes": 631,
+    "downloads": 163252,
+    "tags": [
+      "transformers",
+      "gguf",
+      "unsloth",
+      "qwen3",
+      "qwen",
+      "text-generation",
+      "arxiv:2505.09388",
+      "base_model:Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "base_model:quantized:Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "created_at": "2025-07-31T10:27:38.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-06T19:51:45.971052"
+  },
+  {
     "id": "hf-moonshotai--Kimi-K2.6",
     "name": "moonshotai/Kimi-K2.6",
     "display_name": "Kimi-K2.6",
@@ -5306,6 +5335,29 @@
     "created_at": "2026-04-16T18:27:58.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-04-22T13:10:24.813723"
+  },
+  {
+    "id": "hf-google--gemma-4-E4B-it-assistant",
+    "name": "google/gemma-4-E4B-it-assistant",
+    "display_name": "gemma-4-E4B-it-assistant",
+    "url": "https://huggingface.co/google/gemma-4-E4B-it-assistant",
+    "author": "google",
+    "pipeline_tag": "any-to-any",
+    "likes": 34,
+    "downloads": 956,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "gemma4_assistant",
+      "text-generation",
+      "any-to-any",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-23T18:44:33.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-06T19:51:45.848177"
   },
   {
     "id": "hf-DJLougen--Ornstein3.6-35B-A3B-GGUF",
@@ -23610,50 +23662,5 @@
     "created_at": "2026-04-27T08:20:51.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929839"
-  },
-  {
-    "id": "hf-fadffaffdf--whisper-large-v2-translate-zh-v0.2-st",
-    "name": "fadffaffdf/whisper-large-v2-translate-zh-v0.2-st",
-    "display_name": "whisper-large-v2-translate-zh-v0.2-st",
-    "url": "https://huggingface.co/fadffaffdf/whisper-large-v2-translate-zh-v0.2-st",
-    "author": "fadffaffdf",
-    "pipeline_tag": "automatic-speech-recognition",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "whisper",
-      "automatic-speech-recognition",
-      "audio",
-      "translate",
-      "generated_from_trainer",
-      "ja",
-      "zh",
-      "base_model:openai/whisper-large-v2",
-      "base_model:finetune:openai/whisper-large-v2",
-      "license:apache-2.0",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:20:19.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929842"
-  },
-  {
-    "id": "hf-zoarag--forever9801",
-    "name": "zoarag/forever9801",
-    "display_name": "forever9801",
-    "url": "https://huggingface.co/zoarag/forever9801",
-    "author": "zoarag",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:20:19.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929846"
   }
 ]

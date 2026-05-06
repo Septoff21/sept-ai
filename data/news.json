@@ -1,5 +1,53 @@
 [
   {
+    "id": "11e756df6b84",
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T19:06:55",
+    "summary": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "collected_at": "2026-05-06T19:51:28.029686"
+  },
+  {
+    "id": "a1179bcb3712",
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T18:23:54",
+    "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+    "collected_at": "2026-05-06T19:51:18.848938"
+  },
+  {
+    "id": "b4fac8bbe834",
+    "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T17:55:53",
+    "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman trial on Wednesday, Murati said Altman falsely stated that OpenAI's legal department determined a ne",
+    "collected_at": "2026-05-06T19:51:18.972272"
+  },
+  {
+    "id": "e01057683be0",
+    "title": "DeepSeek could hit $45B valuation from its first investment round",
+    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T17:20:34",
+    "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+    "collected_at": "2026-05-06T19:51:18.849086"
+  },
+  {
     "id": "2b574ce46934",
     "title": "OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台",
     "url": "https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&utm_medium=article",
@@ -12,16 +60,16 @@
     "collected_at": "2026-05-06T08:32:39.024894"
   },
   {
-    "id": "38bf5010c836",
-    "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
+    "id": "055b6a16a135",
+    "title": "Live blog: Code w/ Claude 2026",
+    "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-06T14:00:00",
-    "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
-    "collected_at": "2026-05-06T14:22:48.541454"
+    "priority": 2,
+    "published": "2026-05-06T15:58:27",
+    "summary": "I'm at Anthropic's Code w/ Claude event today. Here's my live blog of the morning keynote sessions. Tags: ai, generative-ai, llms, anthropic, claude, claude-code, live-blog",
+    "collected_at": "2026-05-06T19:51:28.278956"
   },
   {
     "id": "545258e84d7f",
@@ -36,16 +84,40 @@
     "collected_at": "2026-05-06T08:32:39.024931"
   },
   {
-    "id": "e15d798706b2",
-    "title": "AI boom pushes Samsung to $1T",
-    "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "id": "dd166b06fec4",
+    "title": "Google updates AI search to include quotes from Reddit and other sources",
+    "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-06T13:54:09",
-    "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
-    "collected_at": "2026-05-06T14:22:48.541493"
+    "published": "2026-05-06T15:49:39",
+    "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+    "collected_at": "2026-05-06T19:51:18.849121"
+  },
+  {
+    "id": "0b21f5f41dae",
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-06T14:24:08",
+    "summary": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit's High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my highlights, including my disturbing realization that vibe coding and agentic engineering have started to converge in my own w",
+    "collected_at": "2026-05-06T19:51:28.279445"
+  },
+  {
+    "id": "bf34dca86f24",
+    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+    "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T15:46:38",
+    "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+    "collected_at": "2026-05-06T19:51:18.849156"
   },
   {
     "id": "fc19b27d003c",
@@ -60,6 +132,18 @@
     "collected_at": "2026-05-06T08:32:39.024989"
   },
   {
+    "id": "f1f2f2bcb399",
+    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+    "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T15:12:49",
+    "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+    "collected_at": "2026-05-06T19:51:18.849220"
+  },
+  {
     "id": "a60f500c7502",
     "title": "Google&#8217;s AI search summaries will now quote Reddit",
     "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
@@ -70,6 +154,18 @@
     "published": "2026-05-06T13:00:30",
     "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search q",
     "collected_at": "2026-05-06T14:22:48.666370"
+  },
+  {
+    "id": "8c823fd236b2",
+    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+    "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T15:00:00",
+    "summary": "Ethos says it is onboarding 35,000 experts per week.",
+    "collected_at": "2026-05-06T19:51:18.849248"
   },
   {
     "id": "c90e6a42e198",
@@ -84,16 +180,16 @@
     "collected_at": "2026-05-06T14:22:59.210355"
   },
   {
-    "id": "d994ce2f836e",
-    "title": "第一个全职AI CEO来了！29岁前编程神童正让AI替他管理千人公司",
-    "url": "https://www.infoq.cn/article/F7cOsyYyhcBaHUYD5kYx?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-06T12:13:58",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-06T08:32:39.025018"
+    "id": "38bf5010c836",
+    "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T14:00:00",
+    "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+    "collected_at": "2026-05-06T14:22:48.541454"
   },
   {
     "id": "0a2c9c860c99",
@@ -106,6 +202,30 @@
     "published": "2026-05-06T12:34:09",
     "summary": "5月6日，有用户收到MiroMind公司邮件，称由于业务调整需要，MiroMind旗下MiroThinker服务（dr.miromind.ai网页版与MiroMind移动应用）将于2026年5月12日起，暂停向中国大陆，香港，澳门地区提供，恢复时间待定。MiroMind公司官网不受影响，将保持正常访问。MiroMind方面证实了邮件的真实性。MiroMind是盛大集团创始人陈天桥创办的AI研究公司，MiroThinker为该公司推出的智能体服务。（第一财经）",
     "collected_at": "2026-05-06T14:22:59.210528"
+  },
+  {
+    "id": "e15d798706b2",
+    "title": "AI boom pushes Samsung to $1T",
+    "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T13:54:09",
+    "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+    "collected_at": "2026-05-06T14:22:48.541493"
+  },
+  {
+    "id": "d994ce2f836e",
+    "title": "第一个全职AI CEO来了！29岁前编程神童正让AI替他管理千人公司",
+    "url": "https://www.infoq.cn/article/F7cOsyYyhcBaHUYD5kYx?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-06T12:13:58",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-06T08:32:39.025018"
   },
   {
     "id": "5e162e5ffef4",
@@ -528,16 +648,16 @@
     "collected_at": "2026-05-06T08:32:32.956144"
   },
   {
-    "id": "881da759af04",
-    "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-    "url": "https://36kr.com/p/3797041945304327?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-05T23:55:08",
-    "summary": "今日热点导览 分析师称iPhone 18 Pro定价策略激进，起步价8999元 胖东来郑州店注册成立，预计今年10月开业 保时捷卖掉布加迪，预计2026年销量下滑至3万辆 马斯克就推特持股披露诉讼与美证监会达成和解 三星继承人已付清12万亿韩元遗产税 TOP 3 大新闻 豆包将在免费模式外新增付费订阅，官方回应 近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。 另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作",
-    "collected_at": "2026-05-06T03:27:52.387790"
+    "id": "2d7f3b660987",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T00:00:00",
+    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+    "collected_at": "2026-05-06T19:51:24.811774"
   },
   {
     "id": "1da561f94740",
@@ -552,16 +672,16 @@
     "collected_at": "2026-05-06T08:32:32.956199"
   },
   {
-    "id": "412ad8a3329d",
-    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-    "source": "TechCrunch AI",
+    "id": "49359060f440",
+    "title": "How frontier enterprises are building an AI advantage",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-05T23:50:10",
-    "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-    "collected_at": "2026-05-06T03:27:40.671808"
+    "published": "2026-05-06T00:00:00",
+    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "collected_at": "2026-05-06T19:51:24.811824"
   },
   {
     "id": "65791131f885",
@@ -576,16 +696,16 @@
     "collected_at": "2026-05-06T08:32:32.956274"
   },
   {
-    "id": "adb40e368632",
-    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T22:57:41",
-    "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
-    "collected_at": "2026-05-06T03:27:40.671863"
+    "id": "881da759af04",
+    "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
+    "url": "https://36kr.com/p/3797041945304327?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-05T23:55:08",
+    "summary": "今日热点导览 分析师称iPhone 18 Pro定价策略激进，起步价8999元 胖东来郑州店注册成立，预计今年10月开业 保时捷卖掉布加迪，预计2026年销量下滑至3万辆 马斯克就推特持股披露诉讼与美证监会达成和解 三星继承人已付清12万亿韩元遗产税 TOP 3 大新闻 豆包将在免费模式外新增付费订阅，官方回应 近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。 另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作",
+    "collected_at": "2026-05-06T03:27:52.387790"
   },
   {
     "id": "0d958faa9a36",
@@ -600,16 +720,16 @@
     "collected_at": "2026-05-06T08:32:32.956341"
   },
   {
-    "id": "5ee51e27705a",
-    "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-    "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
-    "source": "Hacker News AI",
+    "id": "412ad8a3329d",
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T22:43:47",
-    "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 107 # Comments: 36",
-    "collected_at": "2026-05-06T14:22:50.782338"
+    "priority": 1,
+    "published": "2026-05-05T23:50:10",
+    "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+    "collected_at": "2026-05-06T03:27:40.671808"
   },
   {
     "id": "f8f721d5dc91",
@@ -624,16 +744,16 @@
     "collected_at": "2026-05-06T08:32:32.956453"
   },
   {
-    "id": "0a8c78783e03",
-    "title": "Our AI started a cafe in Stockholm",
-    "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
-    "source": "Simon Willison",
+    "id": "adb40e368632",
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T22:14:21",
-    "summary": "Our AI started a cafe in Stockholm Andon Labs previously started an AI-run retail store in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe. These experiments are interesting, and often throw out amusing anecdotes: During the first week of inve",
-    "collected_at": "2026-05-06T03:27:49.210275"
+    "priority": 1,
+    "published": "2026-05-05T22:57:41",
+    "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
+    "collected_at": "2026-05-06T03:27:40.671863"
   },
   {
     "id": "80fce74578a0",
@@ -648,16 +768,16 @@
     "collected_at": "2026-05-06T08:32:32.956529"
   },
   {
-    "id": "2c86cbbc5016",
-    "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
-    "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-    "source": "The Verge AI",
+    "id": "5ee51e27705a",
+    "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
+    "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T21:46:04",
-    "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make",
-    "collected_at": "2026-05-06T03:27:40.812667"
+    "priority": 2,
+    "published": "2026-05-05T22:43:47",
+    "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 107 # Comments: 36",
+    "collected_at": "2026-05-06T14:22:50.782338"
   },
   {
     "id": "fb442ff142fb",
@@ -672,16 +792,16 @@
     "collected_at": "2026-05-06T08:32:32.956614"
   },
   {
-    "id": "6b299ce73670",
-    "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-    "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-    "source": "The Verge AI",
+    "id": "0a8c78783e03",
+    "title": "Our AI started a cafe in Stockholm",
+    "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T21:18:23",
-    "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between Jun",
-    "collected_at": "2026-05-06T03:27:40.812717"
+    "priority": 2,
+    "published": "2026-05-05T22:14:21",
+    "summary": "Our AI started a cafe in Stockholm Andon Labs previously started an AI-run retail store in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe. These experiments are interesting, and often throw out amusing anecdotes: During the first week of inve",
+    "collected_at": "2026-05-06T03:27:49.210275"
   },
   {
     "id": "640b4f407652",
@@ -696,16 +816,16 @@
     "collected_at": "2026-05-06T08:32:32.956692"
   },
   {
-    "id": "d9d36c1ef849",
-    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-    "source": "TechCrunch AI",
+    "id": "2c86cbbc5016",
+    "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+    "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-05T20:56:41",
-    "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-    "collected_at": "2026-05-06T03:27:40.671896"
+    "published": "2026-05-05T21:46:04",
+    "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make",
+    "collected_at": "2026-05-06T03:27:40.812667"
   },
   {
     "id": "ebdf93bad01b",
@@ -720,16 +840,16 @@
     "collected_at": "2026-05-06T08:32:32.956776"
   },
   {
-    "id": "3e058a6c077c",
-    "title": "🔬Doing Vibe Physics — Alex Lupsasca, OpenAI",
-    "url": "https://www.latent.space/p/lupsasca",
-    "source": "Latent Space",
+    "id": "6b299ce73670",
+    "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+    "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-05T20:34:11",
-    "summary": "The full story of how GPT&#8209;5.x derived new results in theoretical physics and quantum gravity.",
-    "collected_at": "2026-05-06T03:27:49.652911"
+    "published": "2026-05-05T21:18:23",
+    "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between Jun",
+    "collected_at": "2026-05-06T03:27:40.812717"
   },
   {
     "id": "4abec69f6741",
@@ -744,16 +864,16 @@
     "collected_at": "2026-05-06T08:32:32.956851"
   },
   {
-    "id": "8738ef1c33b5",
-    "title": "Microsoft gives up on Xbox Copilot AI",
-    "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-    "source": "The Verge AI",
+    "id": "d9d36c1ef849",
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-05T19:54:37",
-    "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked",
-    "collected_at": "2026-05-06T03:27:40.812759"
+    "published": "2026-05-05T20:56:41",
+    "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "collected_at": "2026-05-06T03:27:40.671896"
   },
   {
     "id": "b29acda55152",
@@ -766,6 +886,30 @@
     "published": "2026-05-06T04:00:00",
     "summary": "arXiv:2605.02944v1 Announce Type: new Abstract: Reinforcement learning (RL) from unit-test feedback has become a standard post-training recipe for improving large language models (LLMs) on code generation. However, the pass-all-tests binary reward can be sparse, yielding no learning signal on challe",
     "collected_at": "2026-05-06T08:32:32.956922"
+  },
+  {
+    "id": "3e058a6c077c",
+    "title": "🔬Doing Vibe Physics — Alex Lupsasca, OpenAI",
+    "url": "https://www.latent.space/p/lupsasca",
+    "source": "Latent Space",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T20:34:11",
+    "summary": "The full story of how GPT&#8209;5.x derived new results in theoretical physics and quantum gravity.",
+    "collected_at": "2026-05-06T03:27:49.652911"
+  },
+  {
+    "id": "8738ef1c33b5",
+    "title": "Microsoft gives up on Xbox Copilot AI",
+    "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-05T19:54:37",
+    "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked",
+    "collected_at": "2026-05-06T03:27:40.812759"
   },
   {
     "id": "b9dc4e2fd76e",
@@ -3454,149 +3598,5 @@
     "published": "2026-05-01T04:00:00",
     "summary": "arXiv:2604.27019v1 Announce Type: new Abstract: Safety-aligned language models must refuse harmful requests without collapsing into broad over-refusal, but the training-time mechanisms behind this tradeoff remain unclear. Prior work characterizes refusal directions and jailbreak robustness, yet does",
     "collected_at": "2026-05-01T08:15:06.164242"
-  },
-  {
-    "id": "7ea4db3b41d2",
-    "title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
-    "url": "https://arxiv.org/abs/2604.27134",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27134v1 Announce Type: new Abstract: Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction tur",
-    "collected_at": "2026-05-01T08:15:05.827201"
-  },
-  {
-    "id": "fd3b01449bc2",
-    "title": "NORACL: Neurogenesis for Oracle-free Resource-Adaptive Continual Learning",
-    "url": "https://arxiv.org/abs/2604.27031",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27031v1 Announce Type: new Abstract: In a continual learning setting, we require a model to be plastic enough to learn a new task and stable enough to not disturb previously learned capabilities. We argue that this dilemma has an architectural root. A finite network has limited representa",
-    "collected_at": "2026-05-01T08:15:06.164380"
-  },
-  {
-    "id": "2909a15bb86b",
-    "title": "Optimal Stop-Loss and Take-Profit Parameterization for Autonomous Trading Agent Swarm",
-    "url": "https://arxiv.org/abs/2604.27150",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27150v1 Announce Type: new Abstract: Autonomous crypto trading systems often spend most of their design effort on finding entries, while exits are left to fixed rules that are rarely tested in a systematic way. This paper examines whether better stop-loss and take-profit settings can impr",
-    "collected_at": "2026-05-01T08:15:05.827274"
-  },
-  {
-    "id": "37faef4b30c5",
-    "title": "Cross-Subject Generalization for EEG Decoding: A Survey of Deep Learning Methods",
-    "url": "https://arxiv.org/abs/2604.27033",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27033v1 Announce Type: new Abstract: Deep learning for cross-subject EEG decoding is hindered by high inter-subject variability, which introduces a severe domain shift between training and unseen test subjects. This survey presents a comprehensive review of deep learning methodologies spe",
-    "collected_at": "2026-05-01T08:15:06.164452"
-  },
-  {
-    "id": "9cccbac21593",
-    "title": "Step-level Optimization for Efficient Computer-use Agents",
-    "url": "https://arxiv.org/abs/2604.27151",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27151v1 Announce Type: new Abstract: Computer-use agents provide a promising path toward general software automation because they can interact directly with arbitrary graphical user interfaces instead of relying on brittle, application-specific integrations. Despite recent advances in ben",
-    "collected_at": "2026-05-01T08:15:05.827374"
-  },
-  {
-    "id": "b18986ae8a19",
-    "title": "Detecting Clinical Discrepancies in Health Coaching Agents: A Dual-Stream Memory and Reconciliation Architecture",
-    "url": "https://arxiv.org/abs/2604.27045",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27045v1 Announce Type: new Abstract: As Large Language Model (LLM) agents transition from single-session tools to persistent systems managing longitudinal healthcare journeys, their memory architectures face a critical challenge: reconciling two imperfect sources of truth. The patient's e",
-    "collected_at": "2026-05-01T08:15:06.164535"
-  },
-  {
-    "id": "1336019d7cdf",
-    "title": "Interval Orders, Biorders and Credibility-limited Belief Revision",
-    "url": "https://arxiv.org/abs/2604.27156",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27156v1 Announce Type: new Abstract: Rational belief revision is commonly viewed as being based on a preference order between possible worlds, with the resulting new belief set being those sentences true in all the most preferred models of the incoming new information. Usually, such a pre",
-    "collected_at": "2026-05-01T08:15:05.827498"
-  },
-  {
-    "id": "92cd07a6bed8",
-    "title": "Learning to Forget: Continual Learning with Adaptive Weight Decay",
-    "url": "https://arxiv.org/abs/2604.27063",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27063v1 Announce Type: new Abstract: Continual learning agents with finite capacity must balance acquiring new knowledge with retaining the old. This requires controlled forgetting of knowledge that is no longer needed, freeing up capacity to learn. Weight decay, viewed as a mechanism for",
-    "collected_at": "2026-05-01T08:15:06.164596"
-  },
-  {
-    "id": "ee49dc20c910",
-    "title": "Evaluating TabPFN for Mild Cognitive Impairment to Alzheimer's Disease Conversion in Data Limited Settings",
-    "url": "https://arxiv.org/abs/2604.27195",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27195v1 Announce Type: new Abstract: Accurate prediction of conversion from Mild Cognitive Impairment (MCI) to Alzheimers Diseases (AD) is essential for early intervention, however, developing reliable conversion predictive models is difficult to develop due to limited longitudinal data a",
-    "collected_at": "2026-05-01T08:15:05.827564"
-  },
-  {
-    "id": "8a30989edb37",
-    "title": "Learning Rate Transfer in Normalized Transformers",
-    "url": "https://arxiv.org/abs/2604.27077",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27077v1 Announce Type: new Abstract: The Normalized Transformer, or nGPT (arXiv:2410.01131) achieves impressive training speedups and does not require weight decay or learning rate warmup. However, despite having hyperparameters that explicitly scale with model size, we observe that nGPT",
-    "collected_at": "2026-05-01T08:15:06.164645"
-  },
-  {
-    "id": "79381fd6d113",
-    "title": "Toward Personalized Digital Twins for Cognitive Decline Assessment: A Multimodal, Uncertainty-Aware Framework",
-    "url": "https://arxiv.org/abs/2604.27217",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27217v1 Announce Type: new Abstract: Cognitive decline is highly heterogeneous across individuals, which complicates prognosis, trial design, and treatment planning. We present the Personalized Cognitive Decline Assessment Digital Twin (PCD-DT), a multimodal and uncertainty-aware framewor",
-    "collected_at": "2026-05-01T08:15:05.827653"
-  },
-  {
-    "id": "0dad84241163",
-    "title": "Co-Evolving Policy Distillation",
-    "url": "https://arxiv.org/abs/2604.27083",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-01T04:00:00",
-    "summary": "arXiv:2604.27083v1 Announce Type: new Abstract: RLVR and OPD have become standard paradigms for post-training. We provide a unified analysis of these two paradigms in consolidating multiple expert capabilities into a single model, identifying capability loss in different ways: mixed RLVR suffers fro",
-    "collected_at": "2026-05-01T08:15:06.164709"
   }
 ]
