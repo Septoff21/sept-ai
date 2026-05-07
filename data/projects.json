@@ -3896,6 +3896,27 @@
     "collected_at": "2026-04-20T18:54:53.609599"
   },
   {
+    "id": "github-1225446523",
+    "name": "caojiaolong/spaces-index",
+    "display_name": "spaces-index",
+    "url": "https://github.com/caojiaolong/spaces-index",
+    "description": "本项目自动抓取并索引科学空间的文章元数据，按研究主题进行规则分类，方便在 GitHub 上快速浏览并跳转到原文。",
+    "stars": 102,
+    "forks": 1,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "blogs",
+      "machine-learning",
+      "math"
+    ],
+    "created_at": "2026-04-30T09:32:41Z",
+    "updated_at": "2026-05-07T12:52:02Z",
+    "license": "",
+    "source": "github-search",
+    "collected_at": "2026-05-07T14:20:43.078362"
+  },
+  {
     "id": "github-1221728904",
     "name": "OpenRaiser/ProDa",
     "display_name": "ProDa",
