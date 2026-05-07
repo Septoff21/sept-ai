@@ -1,5 +1,53 @@
 [
   {
+    "id": "408a70be6510",
+    "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+    "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T19:39:22",
+    "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test",
+    "collected_at": "2026-05-07T19:47:42.357015"
+  },
+  {
+    "id": "ae90c4caa509",
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T19:21:21",
+    "summary": "Can Sam Altman—or any CEO—be trusted with super intelligence?",
+    "collected_at": "2026-05-07T19:47:42.242516"
+  },
+  {
+    "id": "a4f7e22e9142",
+    "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T19:26:16",
+    "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes",
+    "collected_at": "2026-05-07T19:47:42.357067"
+  },
+  {
+    "id": "7e91dc3be4fb",
+    "title": "Bumble is getting rid of the swipe, CEO says",
+    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T19:06:17",
+    "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+    "collected_at": "2026-05-07T19:47:42.242567"
+  },
+  {
     "id": "83c835298dfd",
     "title": "像素绽放PixelBloom 宣布完成C轮融资，全面发力AI办公解决方案Agent",
     "url": "https://www.infoq.cn/article/h4r6TOAQgYjEa7Dg0gig?utm_source=rss&utm_medium=article",
@@ -12,16 +60,28 @@
     "collected_at": "2026-05-07T14:20:37.679398"
   },
   {
-    "id": "bb0d80cfa847",
-    "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
-    "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
+    "id": "78d7e9daf806",
+    "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T14:15:40",
-    "summary": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it through their AI of choice to create audio summaries and personal podcasts, this lets you save them",
-    "collected_at": "2026-05-07T14:20:21.052264"
+    "published": "2026-05-07T18:00:00",
+    "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics",
+    "collected_at": "2026-05-07T19:47:42.357112"
+  },
+  {
+    "id": "7d5ece528e54",
+    "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+    "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-07T17:56:25",
+    "summary": "Behind the Scenes Hardening Firefox with Claude Mythos Preview Fascinating, in-depth details on how Mozilla used their access to the Claude Mythos preview to locate and then fix hundreds of vulnerabilities in Firefox: Suddenly, the bugs are very good Just a few months ago, AI-generated security bug",
+    "collected_at": "2026-05-07T19:47:51.491291"
   },
   {
     "id": "bae2187cf5ad",
@@ -36,16 +96,16 @@
     "collected_at": "2026-05-07T14:20:37.679437"
   },
   {
-    "id": "bb75d86767ac",
-    "title": "Google’s taking a big swing at AI health with the Fitbit Air",
-    "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
-    "source": "The Verge AI",
+    "id": "9d6f9f2987fb",
+    "title": "Notes on the xAI/Anthropic data center deal",
+    "url": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T14:00:00",
-    "summary": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbit Air and my wrist, where I'm wearing a Whoop MG. Was I not seeing double? But as [&#8230;]",
-    "collected_at": "2026-05-07T14:20:21.052334"
+    "priority": 2,
+    "published": "2026-05-07T17:09:28",
+    "summary": "There weren't a lot of big new announcements from Anthropic at yesterday's Code w/ Claude event, but the biggest by far was the deal they've struck with SpaceX/xAI to use \"all of the capacity of their Colossus data center\". As I mentioned in my live blog of the keynote, that's the one with the parti",
+    "collected_at": "2026-05-07T19:47:51.491469"
   },
   {
     "id": "d35fdec80dd4",
@@ -60,16 +120,16 @@
     "collected_at": "2026-05-07T14:20:37.679466"
   },
   {
-    "id": "c9be13e3a9fd",
-    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
-    "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+    "id": "9a4e8f680d87",
+    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+    "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T13:44:25",
-    "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-    "collected_at": "2026-05-07T14:20:20.896301"
+    "published": "2026-05-07T16:05:48",
+    "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+    "collected_at": "2026-05-07T19:47:42.242625"
   },
   {
     "id": "c6ecd1f8f176",
@@ -84,16 +144,16 @@
     "collected_at": "2026-05-07T14:20:37.679498"
   },
   {
-    "id": "23c6e50665fc",
-    "title": "Neuralink：正研发一种能够到达大脑任何区域的手术机器人",
-    "url": "https://36kr.com/newsflashes/3799233331731717?f=rss",
-    "source": "36氪",
+    "id": "1fcceb17b4cc",
+    "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+    "url": "https://www.qbitai.com/2026/05/413912.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-07T13:00:00",
-    "summary": "当地时间5月6日，马斯克旗下脑机接口公司Neuralink发文称，正在研发一种能够到达大脑任何区域的手术机器人，目标是开发一种通用的神经接口，以帮助解决所有源于大脑的疾病。Neuralink称，设备目前处于研究阶段，尚未获得FDA批准。（界面）",
-    "collected_at": "2026-05-07T14:20:36.514732"
+    "priority": 1,
+    "published": "2026-05-07T15:54:00",
+    "summary": "背靠国内最大ComfyUI生态",
+    "collected_at": "2026-05-07T19:45:27.893994"
   },
   {
     "id": "91a913dad21e",
@@ -108,16 +168,16 @@
     "collected_at": "2026-05-07T14:20:37.679530"
   },
   {
-    "id": "f55681ab9b61",
-    "title": "Spotify wants to become the home for AI-generated personal audio",
-    "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+    "id": "954cf2aceca4",
+    "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+    "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T13:00:00",
-    "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
-    "collected_at": "2026-05-07T14:20:20.896339"
+    "published": "2026-05-07T15:00:00",
+    "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
+    "collected_at": "2026-05-07T19:47:42.242698"
   },
   {
     "id": "f5057c4c79f0",
@@ -132,16 +192,16 @@
     "collected_at": "2026-05-07T14:20:37.679561"
   },
   {
-    "id": "07ce6c657032",
-    "title": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试",
-    "url": "https://36kr.com/newsflashes/3799223284915204?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-07T12:57:50",
-    "summary": "5月7日，记者从重庆市经济信息委获悉，日前该委联合市公安局、市交委共同印发《重庆市智能网联汽车高速公路测试管理细则（试行）》，进一步补齐高阶自动驾驶高速场景测试制度短板，规范L3级及以上智能网联汽车高速道路测试全流程管理，以安全可控、规范有序助力我市智能网联新能源汽车产业高质量发展，加速自动驾驶技术落地商业化应用。（重庆日报）",
-    "collected_at": "2026-05-07T14:20:36.514775"
+    "id": "bb0d80cfa847",
+    "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
+    "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T14:15:40",
+    "summary": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it through their AI of choice to create audio summaries and personal podcasts, this lets you save them",
+    "collected_at": "2026-05-07T14:20:21.052264"
   },
   {
     "id": "4162873a9b02",
@@ -156,16 +216,16 @@
     "collected_at": "2026-05-07T14:20:37.679590"
   },
   {
-    "id": "545573325aeb",
-    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
-    "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-    "source": "TechCrunch AI",
+    "id": "bb75d86767ac",
+    "title": "Google’s taking a big swing at AI health with the Fitbit Air",
+    "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T12:20:04",
-    "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
-    "collected_at": "2026-05-07T14:20:20.896382"
+    "published": "2026-05-07T14:00:00",
+    "summary": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbit Air and my wrist, where I'm wearing a Whoop MG. Was I not seeing double? But as [&#8230;]",
+    "collected_at": "2026-05-07T14:20:21.052334"
   },
   {
     "id": "2f208af5c985",
@@ -178,6 +238,66 @@
     "published": "2026-05-07T14:58:02",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-07T14:20:37.679661"
+  },
+  {
+    "id": "c9be13e3a9fd",
+    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+    "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T13:44:25",
+    "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+    "collected_at": "2026-05-07T14:20:20.896301"
+  },
+  {
+    "id": "23c6e50665fc",
+    "title": "Neuralink：正研发一种能够到达大脑任何区域的手术机器人",
+    "url": "https://36kr.com/newsflashes/3799233331731717?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-07T13:00:00",
+    "summary": "当地时间5月6日，马斯克旗下脑机接口公司Neuralink发文称，正在研发一种能够到达大脑任何区域的手术机器人，目标是开发一种通用的神经接口，以帮助解决所有源于大脑的疾病。Neuralink称，设备目前处于研究阶段，尚未获得FDA批准。（界面）",
+    "collected_at": "2026-05-07T14:20:36.514732"
+  },
+  {
+    "id": "f55681ab9b61",
+    "title": "Spotify wants to become the home for AI-generated personal audio",
+    "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T13:00:00",
+    "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
+    "collected_at": "2026-05-07T14:20:20.896339"
+  },
+  {
+    "id": "07ce6c657032",
+    "title": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试",
+    "url": "https://36kr.com/newsflashes/3799223284915204?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-07T12:57:50",
+    "summary": "5月7日，记者从重庆市经济信息委获悉，日前该委联合市公安局、市交委共同印发《重庆市智能网联汽车高速公路测试管理细则（试行）》，进一步补齐高阶自动驾驶高速场景测试制度短板，规范L3级及以上智能网联汽车高速道路测试全流程管理，以安全可控、规范有序助力我市智能网联新能源汽车产业高质量发展，加速自动驾驶技术落地商业化应用。（重庆日报）",
+    "collected_at": "2026-05-07T14:20:36.514775"
+  },
+  {
+    "id": "545573325aeb",
+    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+    "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T12:20:04",
+    "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+    "collected_at": "2026-05-07T14:20:20.896382"
   },
   {
     "id": "9f2e6d7d9407",
@@ -228,16 +348,16 @@
     "collected_at": "2026-05-07T03:28:38.372103"
   },
   {
-    "id": "466f03ab9296",
-    "title": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
-    "url": "https://www.qbitai.com/2026/05/413612.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "5f067b79c230",
+    "title": "Advancing voice intelligence with new models in the API",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T07:14:28",
-    "summary": "低提示词，挑战主流模型的交互逻辑",
-    "collected_at": "2026-05-07T14:18:04.334787"
+    "published": "2026-05-07T10:00:00",
+    "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+    "collected_at": "2026-05-07T19:47:44.906626"
   },
   {
     "id": "fc20175d29fd",
@@ -252,16 +372,16 @@
     "collected_at": "2026-05-07T03:28:38.372232"
   },
   {
-    "id": "7d46382f14bc",
-    "title": "一年磨一剑，今年最炸机器人Demo来了！",
-    "url": "https://www.qbitai.com/2026/05/413830.html",
+    "id": "466f03ab9296",
+    "title": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
+    "url": "https://www.qbitai.com/2026/05/413612.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-07T06:43:41",
-    "summary": "1亿美元种子轮团队出手，单个模型解锁单手打蛋解魔方弹钢琴",
-    "collected_at": "2026-05-07T14:18:04.334833"
+    "published": "2026-05-07T07:14:28",
+    "summary": "低提示词，挑战主流模型的交互逻辑",
+    "collected_at": "2026-05-07T14:18:04.334787"
   },
   {
     "id": "4edea8dcfbcd",
@@ -276,16 +396,16 @@
     "collected_at": "2026-05-07T03:28:38.372264"
   },
   {
-    "id": "2c7a4c9513ec",
-    "title": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
-    "url": "https://www.qbitai.com/2026/05/413613.html",
+    "id": "7d46382f14bc",
+    "title": "一年磨一剑，今年最炸机器人Demo来了！",
+    "url": "https://www.qbitai.com/2026/05/413830.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-07T06:29:17",
-    "summary": "IPO前夕，高管集体出走",
-    "collected_at": "2026-05-07T14:18:04.334886"
+    "published": "2026-05-07T06:43:41",
+    "summary": "1亿美元种子轮团队出手，单个模型解锁单手打蛋解魔方弹钢琴",
+    "collected_at": "2026-05-07T14:18:04.334833"
   },
   {
     "id": "b02e6f64a456",
@@ -298,6 +418,18 @@
     "published": "2026-05-07T05:57:14",
     "summary": "And the kingmaker picks a side.",
     "collected_at": "2026-05-07T14:20:32.736044"
+  },
+  {
+    "id": "2c7a4c9513ec",
+    "title": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
+    "url": "https://www.qbitai.com/2026/05/413613.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-07T06:29:17",
+    "summary": "IPO前夕，高管集体出走",
+    "collected_at": "2026-05-07T14:18:04.334886"
   },
   {
     "id": "bd6c9177f3c7",
@@ -864,16 +996,16 @@
     "collected_at": "2026-05-07T03:28:36.737049"
   },
   {
-    "id": "f2594370a05d",
-    "title": "Musk’s biggest loyalist became his biggest liability",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
-    "source": "The Verge AI",
+    "id": "16251d7b149e",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-06T23:37:02",
-    "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to [&#823",
-    "collected_at": "2026-05-07T03:28:25.567145"
+    "published": "2026-05-07T00:00:00",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "collected_at": "2026-05-07T19:47:44.906659"
   },
   {
     "id": "95e490b85585",
@@ -888,16 +1020,16 @@
     "collected_at": "2026-05-07T03:28:36.737088"
   },
   {
-    "id": "f05f5c0ef4e1",
-    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "source": "TechCrunch AI",
+    "id": "15d2a96bac2b",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-06T21:57:56",
-    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-    "collected_at": "2026-05-07T03:28:25.416589"
+    "published": "2026-05-07T00:00:00",
+    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+    "collected_at": "2026-05-07T19:47:44.906692"
   },
   {
     "id": "deaa2eeacd84",
@@ -912,16 +1044,28 @@
     "collected_at": "2026-05-07T03:28:36.735378"
   },
   {
-    "id": "f863a8c5b9b9",
-    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "id": "f2594370a05d",
+    "title": "Musk’s biggest loyalist became his biggest liability",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T23:37:02",
+    "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to [&#823",
+    "collected_at": "2026-05-07T03:28:25.567145"
+  },
+  {
+    "id": "f05f5c0ef4e1",
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-06T21:43:24",
-    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-    "collected_at": "2026-05-07T03:28:25.416640"
+    "published": "2026-05-06T21:57:56",
+    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+    "collected_at": "2026-05-07T03:28:25.416589"
   },
   {
     "id": "90697f76fbc8",
@@ -936,16 +1080,16 @@
     "collected_at": "2026-05-07T03:28:25.567196"
   },
   {
-    "id": "8b60001015ab",
-    "title": "Is xAI a neocloud now?",
-    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "id": "f863a8c5b9b9",
+    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-06T21:32:55",
-    "summary": "xAI's real business may be more about building data centers than training AI models.",
-    "collected_at": "2026-05-07T03:28:25.416670"
+    "published": "2026-05-06T21:43:24",
+    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+    "collected_at": "2026-05-07T03:28:25.416640"
   },
   {
     "id": "11e756df6b84",
@@ -958,6 +1102,18 @@
     "published": "2026-05-06T19:06:55",
     "summary": "vLLM V0 to V1: Correctness Before Corrections in RL",
     "collected_at": "2026-05-06T19:51:28.029686"
+  },
+  {
+    "id": "8b60001015ab",
+    "title": "Is xAI a neocloud now?",
+    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T21:32:55",
+    "summary": "xAI's real business may be more about building data centers than training AI models.",
+    "collected_at": "2026-05-07T03:28:25.416670"
   },
   {
     "id": "fcb698629d0c",
@@ -1212,16 +1368,16 @@
     "collected_at": "2026-05-06T08:32:39.025047"
   },
   {
-    "id": "52409a597819",
-    "title": "AI PPT，这次是真不用返工了",
-    "url": "https://www.qbitai.com/2026/05/413296.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "c122dcde12a0",
+    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "source": "Google DeepMind",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-05-06T10:28:10",
-    "summary": "实测讯飞智文Vision Agent",
-    "collected_at": "2026-05-06T14:20:32.410492"
+    "published": "2026-05-06T10:43:49",
+    "summary": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+    "collected_at": "2026-05-07T19:47:45.445973"
   },
   {
     "id": "5828c72a4113",
@@ -1236,16 +1392,16 @@
     "collected_at": "2026-05-06T08:32:39.025117"
   },
   {
-    "id": "a7f445bf9120",
-    "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
-    "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
+    "id": "52409a597819",
+    "title": "AI PPT，这次是真不用返工了",
+    "url": "https://www.qbitai.com/2026/05/413296.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
     "priority": 1,
-    "published": "2026-05-06T10:13:09",
-    "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering t",
-    "collected_at": "2026-05-06T14:22:48.666550"
+    "published": "2026-05-06T10:28:10",
+    "summary": "实测讯飞智文Vision Agent",
+    "collected_at": "2026-05-06T14:20:32.410492"
   },
   {
     "id": "bcacee06583f",
@@ -1260,16 +1416,16 @@
     "collected_at": "2026-05-06T03:27:54.038044"
   },
   {
-    "id": "03f6d8d6f7db",
-    "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
-    "url": "https://www.qbitai.com/2026/05/413264.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "a7f445bf9120",
+    "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+    "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-05-06T09:24:27",
-    "summary": "40小时干完广告公司一年的活",
-    "collected_at": "2026-05-06T14:20:32.410534"
+    "published": "2026-05-06T10:13:09",
+    "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering t",
+    "collected_at": "2026-05-06T14:22:48.666550"
   },
   {
     "id": "ced030e51f93",
@@ -1282,6 +1438,18 @@
     "published": "2026-05-06T10:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-06T03:27:54.038134"
+  },
+  {
+    "id": "03f6d8d6f7db",
+    "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
+    "url": "https://www.qbitai.com/2026/05/413264.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-06T09:24:27",
+    "summary": "40小时干完广告公司一年的活",
+    "collected_at": "2026-05-06T14:20:32.410534"
   },
   {
     "id": "064d600f2c92",
@@ -3408,18 +3576,6 @@
     "collected_at": "2026-05-04T08:35:56.330587"
   },
   {
-    "id": "23ee692be402",
-    "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
-    "url": "https://36kr.com/p/3794799114476809?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-04T09:49:40",
-    "summary": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。 豆包 目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。” 据接近豆包的人士透露，付费",
-    "collected_at": "2026-05-04T14:09:40.787327"
-  },
-  {
     "id": "efe69600d94f",
     "title": "Cloudflare 推出 Agent Memory：面向 AI 智能体的持久记忆托管服务",
     "url": "https://www.infoq.cn/article/TPqCEvSNCh9jzivioLs8?utm_source=rss&utm_medium=article",
@@ -3432,18 +3588,6 @@
     "collected_at": "2026-05-04T08:35:56.330628"
   },
   {
-    "id": "00841e16a02c",
-    "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
-    "url": "https://sspai.com/post/109277",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-04T07:00:00",
-    "summary": "作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文",
-    "collected_at": "2026-05-04T08:36:00.341686"
-  },
-  {
     "id": "0c1342c5b648",
     "title": "GitLab 新增采用固定费率的代码审查服务、Free-Tier AI 访问以及支出上限设置",
     "url": "https://www.infoq.cn/article/6dk4tEWoShjhagRdyPsX?utm_source=rss&utm_medium=article",
@@ -3454,149 +3598,5 @@
     "published": "2026-05-04T12:12:58",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-04T08:35:56.330660"
-  },
-  {
-    "id": "a6e365eac6be",
-    "title": "“DeepSeek版Claude Code”，Github 2.3k星",
-    "url": "https://www.qbitai.com/2026/05/412914.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-04T06:09:16",
-    "summary": "专门针对DeepSeek优化",
-    "collected_at": "2026-05-04T08:33:23.032016"
-  },
-  {
-    "id": "a96943de4b9d",
-    "title": "Cloudflare推出Code Mode MCP服务器以优化AI智能体的Token使用",
-    "url": "https://www.infoq.cn/article/KSmLVsumhdf7OiLXYaj3?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-04T09:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-04T03:30:55.706252"
-  },
-  {
-    "id": "4ec0ed4665fa",
-    "title": "豆包将在免费模式外新增付费订阅，官方回应",
-    "url": "https://36kr.com/newsflashes/3794495772712195?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-04T04:40:42",
-    "summary": "近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作等。随着模型能力持续升级，产品已经能满足越来越多的复杂高价值任务。但此类任务需消耗更多算力与推理时间，因此豆包计划上线付费服务，满足好这部分复杂场景需求。免费版本则继续面向用户的日常使用。（第一财经）",
-    "collected_at": "2026-05-04T08:35:54.725255"
-  },
-  {
-    "id": "8427fe1a4763",
-    "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
-    "url": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-04T08:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-04T03:30:55.706289"
-  },
-  {
-    "id": "530c8d94a689",
-    "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
-    "url": "https://arxiv.org/abs/2605.00060",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00060v1 Announce Type: new Abstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports",
-    "collected_at": "2026-05-04T08:35:49.501655"
-  },
-  {
-    "id": "a18987fa6f13",
-    "title": "FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources",
-    "url": "https://arxiv.org/abs/2605.00011",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00011v1 Announce Type: new Abstract: Federated Learning (FL) enables collaborative intelligence across decentralized data source devices in a privacy-preserving way. While substantial research attention has been drawn to optimizing the learning process for an individual task, real-world a",
-    "collected_at": "2026-05-04T08:35:49.831883"
-  },
-  {
-    "id": "9583fb4c357c",
-    "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
-    "url": "https://arxiv.org/abs/2605.00073",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00073v1 Announce Type: new Abstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversight. However, existing reputation mechanisms fail in",
-    "collected_at": "2026-05-04T08:35:49.501748"
-  },
-  {
-    "id": "6cbd713820cd",
-    "title": "What Physics do Data-Driven MoCap-to-Radar Models Learn?",
-    "url": "https://arxiv.org/abs/2605.00018",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00018v1 Announce Type: new Abstract: Data-driven MoCap-to-radar models generate plausible micro-Doppler spectrograms, but do they actually learn the underlying physics? We introduce a physics-based interpretability framework to answer this question via two proposed complementary metrics:",
-    "collected_at": "2026-05-04T08:35:49.831974"
-  },
-  {
-    "id": "8b6174a8dbe6",
-    "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
-    "url": "https://arxiv.org/abs/2605.00123",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00123v1 Announce Type: new Abstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understanding of why LLMs are susceptible to jailbreaks, future frontier models operating more autonomously",
-    "collected_at": "2026-05-04T08:35:49.501837"
-  },
-  {
-    "id": "1513a66f4d63",
-    "title": "AirFM-DDA: Air-Interface Foundation Model in the Delay-Doppler-Angle Domain for AI-Native 6G",
-    "url": "https://arxiv.org/abs/2605.00020",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00020v1 Announce Type: new Abstract: The success of large foundation models is catalyzing a new paradigm for AI-native 6G network design: wireless foundation models for physical layer design. However, existing models often operate on channel state information (CSI) in the space-time-frequ",
-    "collected_at": "2026-05-04T08:35:49.832057"
-  },
-  {
-    "id": "c8e590461ea0",
-    "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
-    "url": "https://arxiv.org/abs/2605.00136",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00136v1 Announce Type: new Abstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always hold: in the presence of semantic distractors, tool",
-    "collected_at": "2026-05-04T08:35:49.501901"
-  },
-  {
-    "id": "587922fc3e2f",
-    "title": "Learning physically grounded traffic accident reconstruction from public accident reports",
-    "url": "https://arxiv.org/abs/2605.00050",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-04T04:00:00",
-    "summary": "arXiv:2605.00050v1 Announce Type: new Abstract: Traffic accidents are routinely documented in textual reports, yet physically grounded accident reconstruction remains difficult because detailed scene measurements and expert reconstructions are scarce, costly and hard to scale. Here we formulate acci",
-    "collected_at": "2026-05-04T08:35:49.832125"
   }
 ]
