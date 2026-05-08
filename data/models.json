@@ -5422,6 +5422,53 @@
     "collected_at": "2026-05-06T19:51:45.848177"
   },
   {
+    "id": "hf-zerofata--G4-MeroMero-31B",
+    "name": "zerofata/G4-MeroMero-31B",
+    "display_name": "G4-MeroMero-31B",
+    "url": "https://huggingface.co/zerofata/G4-MeroMero-31B",
+    "author": "zerofata",
+    "pipeline_tag": "",
+    "likes": 34,
+    "downloads": 444,
+    "tags": [
+      "safetensors",
+      "gemma4",
+      "dataset:zerofata/Instruct-Anime",
+      "dataset:zerofata/Gemini-3.1-Pro-SmallWiki",
+      "dataset:zerofata/Gemini-3.1-Pro-GLM5-Characters",
+      "base_model:google/gemma-4-31B-it",
+      "base_model:finetune:google/gemma-4-31B-it",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-04-30T04:35:06.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-08T07:48:11.763261"
+  },
+  {
+    "id": "hf-SicariusSicariiStuff--Assistant_Pepe_32B",
+    "name": "SicariusSicariiStuff/Assistant_Pepe_32B",
+    "display_name": "Assistant_Pepe_32B",
+    "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_32B",
+    "author": "SicariusSicariiStuff",
+    "pipeline_tag": "",
+    "likes": 34,
+    "downloads": 180,
+    "tags": [
+      "safetensors",
+      "qwen3",
+      "en",
+      "dataset:SicariusSicariiStuff/UBW_Tapestries",
+      "base_model:Qwen/Qwen3-32B",
+      "base_model:finetune:Qwen/Qwen3-32B",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-02T11:04:26.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-08T07:48:11.763275"
+  },
+  {
     "id": "hf-DJLougen--Ornstein3.6-35B-A3B-GGUF",
     "name": "DJLougen/Ornstein3.6-35B-A3B-GGUF",
     "display_name": "Ornstein3.6-35B-A3B-GGUF",
@@ -6678,6 +6725,37 @@
     "collected_at": "2026-05-04T19:46:45.048295"
   },
   {
+    "id": "hf-manjunathshiva--gpt-oss-20b-tq3",
+    "name": "manjunathshiva/gpt-oss-20b-tq3",
+    "display_name": "gpt-oss-20b-tq3",
+    "url": "https://huggingface.co/manjunathshiva/gpt-oss-20b-tq3",
+    "author": "manjunathshiva",
+    "pipeline_tag": "text-generation",
+    "likes": 16,
+    "downloads": 679,
+    "tags": [
+      "mlx",
+      "safetensors",
+      "gpt_oss",
+      "turboquant",
+      "quantization",
+      "apple-silicon",
+      "moe",
+      "gpt-oss",
+      "text-generation",
+      "conversational",
+      "arxiv:2504.19874",
+      "base_model:openai/gpt-oss-20b",
+      "base_model:quantized:openai/gpt-oss-20b",
+      "license:apache-2.0",
+      "3-bit",
+      "region:us"
+    ],
+    "created_at": "2026-04-08T12:08:02.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-08T07:48:11.885444"
+  },
+  {
     "id": "hf-John6666--nova-furry-xl-il-v120-sdxl",
     "name": "John6666/nova-furry-xl-il-v120-sdxl",
     "display_name": "nova-furry-xl-il-v120-sdxl",
@@ -7151,6 +7229,23 @@
     "created_at": "2026-05-07T03:17:42.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-07T03:28:49.104312"
+  },
+  {
+    "id": "hf-narasappa--Smart-Recipe-Recommendation-System",
+    "name": "narasappa/Smart-Recipe-Recommendation-System",
+    "display_name": "Smart-Recipe-Recommendation-System",
+    "url": "https://huggingface.co/narasappa/Smart-Recipe-Recommendation-System",
+    "author": "narasappa",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-08T07:36:37.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-08T07:48:11.803655"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23605,85 +23700,5 @@
     "created_at": "2026-04-27T08:28:22.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929809"
-  },
-  {
-    "id": "hf-DarynBang--custom-matcha",
-    "name": "DarynBang/custom-matcha",
-    "display_name": "custom-matcha",
-    "url": "https://huggingface.co/DarynBang/custom-matcha",
-    "author": "DarynBang",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:mit",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:27:47.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929812"
-  },
-  {
-    "id": "hf-zoarag--mnemic",
-    "name": "zoarag/mnemic",
-    "display_name": "mnemic",
-    "url": "https://huggingface.co/zoarag/mnemic",
-    "author": "zoarag",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:27:23.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929817"
-  },
-  {
-    "id": "hf-ishikaa--acquisition_student_RL_qwen3bins_medmcqa_proximity",
-    "name": "ishikaa/acquisition_student_RL_qwen3bins_medmcqa_proximity",
-    "display_name": "acquisition_student_RL_qwen3bins_medmcqa_proximity",
-    "url": "https://huggingface.co/ishikaa/acquisition_student_RL_qwen3bins_medmcqa_proximity",
-    "author": "ishikaa",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "qwen2",
-      "text-generation",
-      "trl",
-      "grpo",
-      "conversational",
-      "arxiv:1910.09700",
-      "text-generation-inference",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:26:19.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929821"
-  },
-  {
-    "id": "hf-ellabettison--reasoning-distillation-dpo-14b-v4-best",
-    "name": "ellabettison/reasoning-distillation-dpo-14b-v4-best",
-    "display_name": "reasoning-distillation-dpo-14b-v4-best",
-    "url": "https://huggingface.co/ellabettison/reasoning-distillation-dpo-14b-v4-best",
-    "author": "ellabettison",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "peft",
-      "safetensors",
-      "arxiv:1910.09700",
-      "base_model:Qwen/Qwen2.5-14B-Instruct",
-      "base_model:adapter:Qwen/Qwen2.5-14B-Instruct",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:25:30.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929825"
   }
 ]
