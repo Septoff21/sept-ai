@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-05-07T19:48:42.165147",
-  "date": "2026-05-07",
+  "updated_at": "2026-05-08T03:26:51.023526",
+  "date": "2026-05-08",
   "spotlight": {
-    "id": "vllm",
-    "name": "vLLM",
-    "url": "https://github.com/vllm-project/vllm",
+    "id": "whisper",
+    "name": "Whisper",
+    "url": "https://github.com/openai/whisper",
     "type": "tool",
-    "description": "高性能 LLM 推理引擎，PagedAttention",
+    "description": "OpenAI 开源语音识别模型",
     "pricing": "开源免费",
-    "category": "推理引擎"
+    "category": "语音"
   },
   "alternates": [
     {
-      "name": "PydanticAI",
-      "url": "https://github.com/pydantic/pydantic-ai",
+      "name": "VoltAgent",
+      "url": "https://github.com/VoltAgent/voltagent",
       "type": "agent",
-      "description": "Pydantic 团队出品的 AI Agent 框架，类型安全、依赖注入，Python 开发者首选",
+      "description": "开源 TypeScript AI Agent 工程平台，支持多 Agent 编排和可视化工作流",
       "pricing": "开源免费",
       "category": "编程 Agent"
     },
     {
-      "id": "claude",
-      "name": "Claude",
-      "url": "https://claude.ai",
+      "id": "gemini",
+      "name": "Gemini",
+      "url": "https://gemini.google.com",
       "type": "tool",
-      "description": "Anthropic 出品的 AI 对话工具，长文本能力强",
-      "pricing": "免费 + Pro $20/月",
+      "description": "Google 出品的 AI 对话工具，多模态能力强",
+      "pricing": "免费 + Advanced $20/月",
       "category": "对话"
     },
     {
-      "name": "CrewAI",
-      "url": "https://github.com/crewAIInc/crewAI",
+      "name": "MetaGPT",
+      "url": "https://github.com/geekan/MetaGPT",
       "type": "agent",
-      "description": "角色扮演式多Agent协作框架，Agent可分工合作",
-      "pricing": "开源 + Pro",
+      "description": "多Agent软件公司模拟，一个Agent扮演不同角色",
+      "pricing": "开源免费",
       "category": "多 Agent"
     }
   ]

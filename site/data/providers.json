@@ -307,14 +307,14 @@
       "Mistral Small 4",
       "Devstral 2 2512"
     ],
-    "model_count": 25,
+    "model_count": 24,
     "last_updated": "2026-04-30",
     "modalities": [
       "多模态",
       "文本",
       "音频"
     ],
-    "live_summary": "OpenRouter 已收录 25 个该作者/厂商相关模型，最近更新为 Mistral Medium 3.5",
+    "live_summary": "OpenRouter 已收录 24 个该作者/厂商相关模型，最近更新为 Mistral Medium 3.5",
     "provider_kind": "model_author"
   },
   {
@@ -388,13 +388,13 @@
       "Nemotron 3 Super (free)",
       "Nemotron 3 Super"
     ],
-    "model_count": 10,
+    "model_count": 9,
     "last_updated": "2026-04-28",
     "modalities": [
       "视频",
       "文本"
     ],
-    "live_summary": "OpenRouter 已收录 10 个该作者/厂商相关模型，最近更新为 Nemotron 3 Nano Omni (free)",
+    "live_summary": "OpenRouter 已收录 9 个该作者/厂商相关模型，最近更新为 Nemotron 3 Nano Omni (free)",
     "provider_kind": "model_author"
   },
   {
