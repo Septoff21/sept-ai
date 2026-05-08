@@ -12,16 +12,28 @@
     "collected_at": "2026-05-08T13:57:34.104300"
   },
   {
-    "id": "56959341dab6",
-    "title": "Everybody wants to rule the AI world",
-    "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+    "id": "3bc01457309b",
+    "title": "All the latest updates on AI data centers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-08T13:31:37",
-    "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such wa",
-    "collected_at": "2026-05-08T13:57:19.377544"
+    "published": "2026-05-08T18:45:08",
+    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160;",
+    "collected_at": "2026-05-08T19:24:40.117129"
+  },
+  {
+    "id": "a0ebd83ccb77",
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T18:33:21",
+    "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+    "collected_at": "2026-05-08T19:24:39.921327"
   },
   {
     "id": "3e232168d5bc",
@@ -36,16 +48,16 @@
     "collected_at": "2026-05-08T13:57:34.104333"
   },
   {
-    "id": "f34d7e3345a7",
-    "title": "高盛：美国数据中心用电需求或在两年内翻倍",
-    "url": "https://36kr.com/newsflashes/3800643284245513?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-08T12:54:16",
-    "summary": "高盛预计，美国数据中心电力需求将从2025年的31GW增长至2026年的41GW，并在2027年进一步升至66GW。高盛认为，本轮AI数据中心扩张正在重塑美国地理格局。得州和佐治亚州正成为AI数据中心的重要聚集地，因为这些地区电力供应扩张更快，接入能力更强。（财联社）",
-    "collected_at": "2026-05-08T13:57:32.737809"
+    "id": "91cd61c2a457",
+    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T16:30:56",
+    "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - a",
+    "collected_at": "2026-05-08T19:24:40.117197"
   },
   {
     "id": "3e54a7f0990a",
@@ -60,16 +72,16 @@
     "collected_at": "2026-05-08T13:57:34.104404"
   },
   {
-    "id": "0589cd79bd57",
-    "title": "海光DCU完成与混元Hy3 preview大模型的深度适配",
-    "url": "https://36kr.com/newsflashes/3800615656741890?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-08T12:26:10",
-    "summary": "36氪获悉，近日，海光信息完成深算3号DCU与腾讯混元Hy3 preview大模型的深度适配。据了解，腾讯混元Hy3 preview是腾讯最新发布的大模型版本，具备295B总参数规模，并支持256K超长上下文，在复杂推理、Agent能力和代码生成等方面实现提升。",
-    "collected_at": "2026-05-08T13:57:32.737945"
+    "id": "2c5dba8eca78",
+    "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+    "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-08T16:19:40",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rat",
+    "collected_at": "2026-05-08T19:24:40.275067"
   },
   {
     "id": "2fc83d5d0897",
@@ -84,16 +96,16 @@
     "collected_at": "2026-05-08T13:57:34.104436"
   },
   {
-    "id": "daa45aa17640",
-    "title": "The Download: AI malaise and babymaking tech",
-    "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
-    "source": "MIT Tech Review",
+    "id": "148aa0644a1a",
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "url": "https://huggingface.co/blog/allenai/emo",
+    "source": "HuggingFace Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society",
-    "collected_at": "2026-05-08T13:57:19.563485"
+    "priority": 1,
+    "published": "2026-05-08T16:03:50",
+    "summary": "EMO: Pretraining mixture of experts for emergent modularity",
+    "collected_at": "2026-05-08T19:24:46.701930"
   },
   {
     "id": "6883f9f55cb3",
@@ -108,16 +120,88 @@
     "collected_at": "2026-05-08T13:57:34.104470"
   },
   {
-    "id": "5991a8eb5397",
-    "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
-    "url": "https://www.qbitai.com/2026/05/414428.html",
-    "source": "量子位",
+    "id": "e14b174a0081",
+    "title": "The “people’s airline” and the enterprise AI gold rush",
+    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T15:46:17",
+    "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217",
+    "collected_at": "2026-05-08T19:24:39.921398"
+  },
+  {
+    "id": "696d5e6d87ce",
+    "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+    "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T15:25:02",
+    "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top exe",
+    "collected_at": "2026-05-08T19:24:40.117259"
+  },
+  {
+    "id": "f34d7e3345a7",
+    "title": "高盛：美国数据中心用电需求或在两年内翻倍",
+    "url": "https://36kr.com/newsflashes/3800643284245513?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-08T12:54:16",
+    "summary": "高盛预计，美国数据中心电力需求将从2025年的31GW增长至2026年的41GW，并在2027年进一步升至66GW。高盛认为，本轮AI数据中心扩张正在重塑美国地理格局。得州和佐治亚州正成为AI数据中心的重要聚集地，因为这些地区电力供应扩张更快，接入能力更强。（财联社）",
+    "collected_at": "2026-05-08T13:57:32.737809"
+  },
+  {
+    "id": "56959341dab6",
+    "title": "Everybody wants to rule the AI world",
+    "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-05-08T11:09:17",
-    "summary": "位列第二",
-    "collected_at": "2026-05-08T13:55:05.194977"
+    "published": "2026-05-08T13:31:37",
+    "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such wa",
+    "collected_at": "2026-05-08T13:57:19.377544"
+  },
+  {
+    "id": "0589cd79bd57",
+    "title": "海光DCU完成与混元Hy3 preview大模型的深度适配",
+    "url": "https://36kr.com/newsflashes/3800615656741890?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-08T12:26:10",
+    "summary": "36氪获悉，近日，海光信息完成深算3号DCU与腾讯混元Hy3 preview大模型的深度适配。据了解，腾讯混元Hy3 preview是腾讯最新发布的大模型版本，具备295B总参数规模，并支持256K超长上下文，在复杂推理、Agent能力和代码生成等方面实现提升。",
+    "collected_at": "2026-05-08T13:57:32.737945"
+  },
+  {
+    "id": "4ef0d8377bd5",
+    "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+    "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T12:15:00",
+    "summary": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason",
+    "collected_at": "2026-05-08T19:24:40.117339"
+  },
+  {
+    "id": "daa45aa17640",
+    "title": "The Download: AI malaise and babymaking tech",
+    "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-08T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society",
+    "collected_at": "2026-05-08T13:57:19.563485"
   },
   {
     "id": "9c4318a98fd5",
@@ -132,16 +216,16 @@
     "collected_at": "2026-05-08T07:48:02.248408"
   },
   {
-    "id": "5c9a8bb6de51",
-    "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
-    "url": "https://www.qbitai.com/2026/05/414316.html",
+    "id": "5991a8eb5397",
+    "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
+    "url": "https://www.qbitai.com/2026/05/414428.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-08T08:20:40",
-    "summary": "Mac上就能本地跑deepseek",
-    "collected_at": "2026-05-08T13:55:05.195022"
+    "published": "2026-05-08T11:09:17",
+    "summary": "位列第二",
+    "collected_at": "2026-05-08T13:55:05.194977"
   },
   {
     "id": "050208d800c3",
@@ -154,6 +238,18 @@
     "published": "2026-05-08T10:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-08T03:25:54.108266"
+  },
+  {
+    "id": "5c9a8bb6de51",
+    "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
+    "url": "https://www.qbitai.com/2026/05/414316.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-08T08:20:40",
+    "summary": "Mac上就能本地跑deepseek",
+    "collected_at": "2026-05-08T13:55:05.195022"
   },
   {
     "id": "8b2593a1f48b",
@@ -2232,6 +2328,18 @@
     "collected_at": "2026-05-06T14:20:32.410568"
   },
   {
+    "id": "e0eb086fca90",
+    "title": "How ChatGPT learns about the world while protecting privacy",
+    "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-06T08:00:00",
+    "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+    "collected_at": "2026-05-08T19:24:42.338622"
+  },
+  {
     "id": "c8aa769312d6",
     "title": "智源发布业内首个心脏磁共振多模态诊断智能体BAAI Cardiac Agent",
     "url": "https://36kr.com/newsflashes/3797510044228616?f=rss",
@@ -3490,113 +3598,5 @@
     "published": "2026-05-05T08:32:06",
     "summary": "东阳光5月5日公告，近日，公司收到控股子公司东莞东阳光云智算科技有限公司与某企业A公司签署的《算力服务采购框架合同》，合同预计总金额区间为160亿元至190亿元（含税），合同期限为合同约定的订单验收通过后60个月。（证券时报）",
     "collected_at": "2026-05-05T19:27:25.319330"
-  },
-  {
-    "id": "c5eab5ba0df8",
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T07:34:55",
-    "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/ Comments URL: https://news.ycombinator.com/item?id=48019219 Points: 893 # Comments: 622",
-    "collected_at": "2026-05-05T19:27:16.335206"
-  },
-  {
-    "id": "a43963b5d1ee",
-    "title": "高通前高管将加入英特尔，领导客户端计算与物理AI事业部",
-    "url": "https://36kr.com/newsflashes/3795844563934467?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-05T05:00:32",
-    "summary": "5月5日，英特尔公司宣布两项重要领导层任命。Alex Katouzian将于5月加入英特尔，担任执行副总裁兼客户端计算与物理AI事业部总经理。Katouzian此前任职于高通技术公司，担任执行副总裁兼手机、计算和XR事业群总经理。 英特尔同时宣布，正式任命此前担任代理首席技术官的Pushkar Ranade出任首席技术官。作为首席技术官，他将推进公司技术战略，主导专项技术项目，并推动量子计算、神经拟态计算、光子学及新型材料等关键新兴领域的发展。 Katouzian与Ranade将直接向首席执行官陈立武汇报。（界面新闻）",
-    "collected_at": "2026-05-05T08:16:18.629140"
-  },
-  {
-    "id": "0722c395e64a",
-    "title": "Train Your Own LLM from Scratch",
-    "url": "https://github.com/angelos-p/llm-from-scratch",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:09:17",
-    "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch Comments URL: https://news.ycombinator.com/item?id=48017948 Points: 185 # Comments: 21",
-    "collected_at": "2026-05-05T08:16:09.196267"
-  },
-  {
-    "id": "0dcebbf7d590",
-    "title": "Agentopic: A Generative AI Agent Workflow for Explainable Topic Modeling",
-    "url": "https://arxiv.org/abs/2605.00833",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00833v1 Announce Type: new Abstract: Agentopic is a novel agent-based workflow for explainable topic modeling that leverages the reasoning capabilities of Large Language Models (LLMs). Existing topic modeling approaches such as Latent Dirichlet Allocation (LDA) and BERTopic often lack tra",
-    "collected_at": "2026-05-05T08:16:12.794784"
-  },
-  {
-    "id": "57990a18e08b",
-    "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
-    "url": "https://arxiv.org/abs/2605.00839",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00839v1 Announce Type: new Abstract: The evolution of artificial intelligence (AI) and machine learning (ML) is reshaping smart manufacturing by providing new capabilities for efficiency, adaptability, and autonomy across industrial value chains. However, the deployment of AI and ML in in",
-    "collected_at": "2026-05-06T03:27:47.399043"
-  },
-  {
-    "id": "303f81194539",
-    "title": "Polynomial-Time Optimal Group Selection via the Double-Commutator Eigenvalue Problem",
-    "url": "https://arxiv.org/abs/2605.00834",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00834v1 Announce Type: new Abstract: The algebraic diversity framework replaces temporal averaging over multiple observations with algebraic group action on a single observation for second-order statistical estimation. The central open problem in this framework is $\\textit{group selection",
-    "collected_at": "2026-05-05T08:16:12.794886"
-  },
-  {
-    "id": "47899a2cda06",
-    "title": "AI Agents for Sustainable SMEs: A Green ESG Assessment Framework",
-    "url": "https://arxiv.org/abs/2605.00841",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00841v1 Announce Type: new Abstract: This study presents a novel, AI-driven framework for assessing Environmental, Social, and Governance (ESG) performance in European small and medium-sized enterprises (SMEs). An initial phase established expert-validated ESG baseline scores from a subse",
-    "collected_at": "2026-05-06T03:27:47.399106"
-  },
-  {
-    "id": "ea7d7aebd00d",
-    "title": "Sparse Regression under Correlation and Weak Signals: A Reproducible Benchmark of Classical and Bayesian Methods",
-    "url": "https://arxiv.org/abs/2605.00835",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00835v1 Announce Type: new Abstract: Choosing between classical and Bayesian sparse regression methods involves a real trade-off: penalized estimators like Lasso run in milliseconds but give no uncertainty estimates,while Horseshoe and Spike-and-Slab priors produce full posteriors but nee",
-    "collected_at": "2026-05-05T08:16:12.794963"
-  },
-  {
-    "id": "e754ceeebb94",
-    "title": "Understanding Emergent Misalignment via Feature Superposition Geometry",
-    "url": "https://arxiv.org/abs/2605.00842",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00842v1 Announce Type: new Abstract: Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI safety in LLMs. Despite growing empirical evidence, its underlying mechanism remains unclear. To uncover the reason behind thi",
-    "collected_at": "2026-05-06T03:27:47.399187"
   }
 ]
