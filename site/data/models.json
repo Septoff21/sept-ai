@@ -2556,6 +2556,25 @@
     "is_core": true
   },
   {
+    "id": "hf-Kijai--LTX2.3_comfy",
+    "name": "Kijai/LTX2.3_comfy",
+    "display_name": "LTX2.3_comfy",
+    "url": "https://huggingface.co/Kijai/LTX2.3_comfy",
+    "author": "Kijai",
+    "pipeline_tag": "",
+    "likes": 327,
+    "downloads": 1059440,
+    "tags": [
+      "diffusion-single-file",
+      "comfyui",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-03-05T15:20:18.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-08T13:57:45.137068"
+  },
+  {
     "id": "hf-dx8152--Flux2-Klein-9B-Consistency",
     "name": "dx8152/Flux2-Klein-9B-Consistency",
     "display_name": "Flux2-Klein-9B-Consistency",
@@ -5467,6 +5486,29 @@
     "created_at": "2026-05-02T11:04:26.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-08T07:48:11.763275"
+  },
+  {
+    "id": "hf-google--gemma-4-E2B-it-assistant",
+    "name": "google/gemma-4-E2B-it-assistant",
+    "display_name": "gemma-4-E2B-it-assistant",
+    "url": "https://huggingface.co/google/gemma-4-E2B-it-assistant",
+    "author": "google",
+    "pipeline_tag": "any-to-any",
+    "likes": 33,
+    "downloads": 4943,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "gemma4_assistant",
+      "text-generation",
+      "any-to-any",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-04-23T18:35:40.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-08T13:57:45.137054"
   },
   {
     "id": "hf-DJLougen--Ornstein3.6-35B-A3B-GGUF",
@@ -23659,46 +23701,5 @@
     "created_at": "2026-04-27T08:28:54.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T08:31:04.929800"
-  },
-  {
-    "id": "hf-taylor000--llm-rele-sft-infer",
-    "name": "taylor000/llm-rele-sft-infer",
-    "display_name": "llm-rele-sft-infer",
-    "url": "https://huggingface.co/taylor000/llm-rele-sft-infer",
-    "author": "taylor000",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:28:30.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929805"
-  },
-  {
-    "id": "hf-Syidone1--Qwen2.5-0.5B-Instruct-abliterated",
-    "name": "Syidone1/Qwen2.5-0.5B-Instruct-abliterated",
-    "display_name": "Qwen2.5-0.5B-Instruct-abliterated",
-    "url": "https://huggingface.co/Syidone1/Qwen2.5-0.5B-Instruct-abliterated",
-    "author": "Syidone1",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "qwen2",
-      "text-generation",
-      "conversational",
-      "arxiv:1910.09700",
-      "text-generation-inference",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T08:28:22.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T08:31:04.929809"
   }
 ]

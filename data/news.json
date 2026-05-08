@@ -1,5 +1,125 @@
 [
   {
+    "id": "94aedc8a6bc0",
+    "title": "创新智能体 新质生产力 ｜ 博云企业级 AI 原生智能体平台 BoAgent 暨生态合作战略发布会",
+    "url": "https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-08T19:56:50",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-08T13:57:34.104300"
+  },
+  {
+    "id": "56959341dab6",
+    "title": "Everybody wants to rule the AI world",
+    "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T13:31:37",
+    "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such wa",
+    "collected_at": "2026-05-08T13:57:19.377544"
+  },
+  {
+    "id": "3e232168d5bc",
+    "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
+    "url": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-08T18:27:15",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-08T13:57:34.104333"
+  },
+  {
+    "id": "f34d7e3345a7",
+    "title": "高盛：美国数据中心用电需求或在两年内翻倍",
+    "url": "https://36kr.com/newsflashes/3800643284245513?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-08T12:54:16",
+    "summary": "高盛预计，美国数据中心电力需求将从2025年的31GW增长至2026年的41GW，并在2027年进一步升至66GW。高盛认为，本轮AI数据中心扩张正在重塑美国地理格局。得州和佐治亚州正成为AI数据中心的重要聚集地，因为这些地区电力供应扩张更快，接入能力更强。（财联社）",
+    "collected_at": "2026-05-08T13:57:32.737809"
+  },
+  {
+    "id": "3e54a7f0990a",
+    "title": "LinkedIn 整合招聘数据管道，为 AI 系统赋能",
+    "url": "https://www.infoq.cn/article/o2z964wv6v7jB8d9ZM0K?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-08T16:44:01",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-08T13:57:34.104404"
+  },
+  {
+    "id": "0589cd79bd57",
+    "title": "海光DCU完成与混元Hy3 preview大模型的深度适配",
+    "url": "https://36kr.com/newsflashes/3800615656741890?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-08T12:26:10",
+    "summary": "36氪获悉，近日，海光信息完成深算3号DCU与腾讯混元Hy3 preview大模型的深度适配。据了解，腾讯混元Hy3 preview是腾讯最新发布的大模型版本，具备295B总参数规模，并支持256K超长上下文，在复杂推理、Agent能力和代码生成等方面实现提升。",
+    "collected_at": "2026-05-08T13:57:32.737945"
+  },
+  {
+    "id": "2fc83d5d0897",
+    "title": "Java近期资讯：OpenJDK JEP、GlassFish、Spring AI、JReleaser、A2A Java SDK、Google ADK、Gradle",
+    "url": "https://www.infoq.cn/article/2qc59l6uaHDHRUOQIcU9?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-08T16:39:33",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-08T13:57:34.104436"
+  },
+  {
+    "id": "daa45aa17640",
+    "title": "The Download: AI malaise and babymaking tech",
+    "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-08T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society",
+    "collected_at": "2026-05-08T13:57:19.563485"
+  },
+  {
+    "id": "6883f9f55cb3",
+    "title": "“不必给中国最新最好芯片！”黄仁勋直言不同意Dario做法，称“软件工程师岗没了”完全没道理！",
+    "url": "https://www.infoq.cn/article/Ll3XLpG1LV8QBKtuxgc2?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-08T16:32:35",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-08T13:57:34.104470"
+  },
+  {
+    "id": "5991a8eb5397",
+    "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
+    "url": "https://www.qbitai.com/2026/05/414428.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-08T11:09:17",
+    "summary": "位列第二",
+    "collected_at": "2026-05-08T13:55:05.194977"
+  },
+  {
     "id": "9c4318a98fd5",
     "title": "Agent时代需要怎样的分布式基础设施",
     "url": "https://www.infoq.cn/article/qYQfpT8BaIPEkbeSXwzu?utm_source=rss&utm_medium=article",
@@ -12,16 +132,16 @@
     "collected_at": "2026-05-08T07:48:02.248408"
   },
   {
-    "id": "2e6e4213aa5c",
-    "title": "软银将OpenAI保证金贷款目标下调40%",
-    "url": "https://36kr.com/newsflashes/3800321404984324?f=rss",
-    "source": "36氪",
+    "id": "5c9a8bb6de51",
+    "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
+    "url": "https://www.qbitai.com/2026/05/414316.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-08T07:26:50",
-    "summary": "5月8日，据报道，知情人士称，软银集团计划以其持有的OpenAI股份为抵押，寻求100亿美元贷款，但由于部分债权人持犹豫态度，已缩减了这一规模，目标金额已低至60亿美元。知情人士补充称，讨论仍在进行中，包括最终借款规模在内的细节可能有所变化。（界面）",
-    "collected_at": "2026-05-08T07:48:00.921740"
+    "priority": 1,
+    "published": "2026-05-08T08:20:40",
+    "summary": "Mac上就能本地跑deepseek",
+    "collected_at": "2026-05-08T13:55:05.195022"
   },
   {
     "id": "050208d800c3",
@@ -36,16 +156,28 @@
     "collected_at": "2026-05-08T03:25:54.108266"
   },
   {
-    "id": "e561acc23a50",
-    "title": "铂科新材：公司没有与谷歌合作",
-    "url": "https://36kr.com/newsflashes/3800315774475522?f=rss",
+    "id": "8b2593a1f48b",
+    "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T07:54:18",
+    "summary": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required",
+    "collected_at": "2026-05-08T13:57:29.137939"
+  },
+  {
+    "id": "2e6e4213aa5c",
+    "title": "软银将OpenAI保证金贷款目标下调40%",
+    "url": "https://36kr.com/newsflashes/3800321404984324?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-08T07:21:07",
-    "summary": "36氪获悉，铂科新材在互动平台表示，公司芯片电感主要与MPS、伟创力等半导体电源厂商合作为终端芯片及云厂商等供货，公司没有与谷歌合作。",
-    "collected_at": "2026-05-08T07:48:00.921808"
+    "published": "2026-05-08T07:26:50",
+    "summary": "5月8日，据报道，知情人士称，软银集团计划以其持有的OpenAI股份为抵押，寻求100亿美元贷款，但由于部分债权人持犹豫态度，已缩减了这一规模，目标金额已低至60亿美元。知情人士补充称，讨论仍在进行中，包括最终借款规模在内的细节可能有所变化。（界面）",
+    "collected_at": "2026-05-08T07:48:00.921740"
   },
   {
     "id": "4972b43d1322",
@@ -58,6 +190,30 @@
     "published": "2026-05-08T07:11:24",
     "summary": "OpenAI continues deploying GPT-5 everywhere",
     "collected_at": "2026-05-08T07:47:57.632832"
+  },
+  {
+    "id": "e561acc23a50",
+    "title": "铂科新材：公司没有与谷歌合作",
+    "url": "https://36kr.com/newsflashes/3800315774475522?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-08T07:21:07",
+    "summary": "36氪获悉，铂科新材在互动平台表示，公司芯片电感主要与MPS、伟创力等半导体电源厂商合作为终端芯片及云厂商等供货，公司没有与谷歌合作。",
+    "collected_at": "2026-05-08T07:48:00.921808"
+  },
+  {
+    "id": "c5881cf94855",
+    "title": "Anthropic出手！AI的内心独白，曝光了",
+    "url": "https://www.qbitai.com/2026/05/414213.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-08T06:34:22",
+    "summary": "原来Claude早就识破了人类的套路（doge）",
+    "collected_at": "2026-05-08T13:55:05.195050"
   },
   {
     "id": "4c18bc813623",
@@ -240,16 +396,16 @@
     "collected_at": "2026-05-08T07:47:55.898026"
   },
   {
-    "id": "c0695ac2beb3",
-    "title": "派早报：Google 发布 Fitbit Air 等",
-    "url": "https://sspai.com/post/109489",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-08T00:51:39",
-    "summary": "高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文",
-    "collected_at": "2026-05-08T03:25:58.335291"
+    "id": "575711bc0b37",
+    "title": "GPT-5.5 Price Increase: What It Costs",
+    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-08T01:02:28",
+    "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 107 # Comments: 24",
+    "collected_at": "2026-05-08T13:57:20.722271"
   },
   {
     "id": "2f17c6c6264b",
@@ -264,16 +420,16 @@
     "collected_at": "2026-05-08T07:47:55.898109"
   },
   {
-    "id": "8660dbc3b4d9",
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T22:24:50",
-    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-    "collected_at": "2026-05-08T03:25:24.447516"
+    "id": "c0695ac2beb3",
+    "title": "派早报：Google 发布 Fitbit Air 等",
+    "url": "https://sspai.com/post/109489",
+    "source": "少数派",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-08T00:51:39",
+    "summary": "高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文",
+    "collected_at": "2026-05-08T03:25:58.335291"
   },
   {
     "id": "205760eba969",
@@ -288,16 +444,16 @@
     "collected_at": "2026-05-08T07:47:55.898204"
   },
   {
-    "id": "fd7638a89d31",
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "id": "8660dbc3b4d9",
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T21:02:11",
-    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-    "collected_at": "2026-05-08T03:25:24.447575"
+    "published": "2026-05-07T22:24:50",
+    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+    "collected_at": "2026-05-08T03:25:24.447516"
   },
   {
     "id": "cbf31d921c1f",
@@ -312,16 +468,16 @@
     "collected_at": "2026-05-08T07:47:55.898271"
   },
   {
-    "id": "434c6b74f659",
-    "title": "Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations",
-    "url": "https://www.alignmentforum.org/posts/oeYesesaxjzMAktCM/natural-language-autoencoders-produce-unsupervised",
-    "source": "AI Alignment Forum",
+    "id": "fd7638a89d31",
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 3,
-    "published": "2026-05-07T20:21:22",
-    "summary": "AbstractWe introduce Natural Language Autoencoders (NLAs), an unsupervised method for generating natural language explanations of LLM activations. An NLA consists of two LLM modules: an activation verbalizer (AV) that maps an activation to a text description and an activation reconstructor (AR) that",
-    "collected_at": "2026-05-08T03:25:50.289322"
+    "priority": 1,
+    "published": "2026-05-07T21:02:11",
+    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+    "collected_at": "2026-05-08T03:25:24.447575"
   },
   {
     "id": "e7395a20d82c",
@@ -336,16 +492,16 @@
     "collected_at": "2026-05-08T07:47:55.898346"
   },
   {
-    "id": "78b9d253c0d2",
-    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "source": "TechCrunch AI",
+    "id": "434c6b74f659",
+    "title": "Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations",
+    "url": "https://www.alignmentforum.org/posts/oeYesesaxjzMAktCM/natural-language-autoencoders-produce-unsupervised",
+    "source": "AI Alignment Forum",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T20:20:20",
-    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-    "collected_at": "2026-05-08T03:25:24.447620"
+    "priority": 3,
+    "published": "2026-05-07T20:21:22",
+    "summary": "AbstractWe introduce Natural Language Autoencoders (NLAs), an unsupervised method for generating natural language explanations of LLM activations. An NLA consists of two LLM modules: an activation verbalizer (AV) that maps an activation to a text description and an activation reconstructor (AR) that",
+    "collected_at": "2026-05-08T03:25:50.289322"
   },
   {
     "id": "2d67a5a121e5",
@@ -360,16 +516,16 @@
     "collected_at": "2026-05-08T07:47:55.898419"
   },
   {
-    "id": "c158587de2a0",
-    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "id": "78b9d253c0d2",
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T19:57:59",
-    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-    "collected_at": "2026-05-08T03:25:24.447661"
+    "published": "2026-05-07T20:20:20",
+    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+    "collected_at": "2026-05-08T03:25:24.447620"
   },
   {
     "id": "ff6dd864ff48",
@@ -384,16 +540,16 @@
     "collected_at": "2026-05-08T07:47:55.898482"
   },
   {
-    "id": "0837d9f92293",
-    "title": "llm-gemini 0.31",
-    "url": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
-    "source": "Simon Willison",
+    "id": "c158587de2a0",
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T19:57:06",
-    "summary": "Release: llm-gemini 0.31 gemini-3.1-flash-lite is no longer a preview. Here's my write-up of the Gemini 3.1 Flash-Lite Preview model back in March. I don't believe this new non-preview model has changed since then. Tags: llm-release, gemini, llm, google, generative-ai, ai, llms",
-    "collected_at": "2026-05-08T03:25:48.810972"
+    "priority": 1,
+    "published": "2026-05-07T19:57:59",
+    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+    "collected_at": "2026-05-08T03:25:24.447661"
   },
   {
     "id": "91bdba92d314",
@@ -408,16 +564,16 @@
     "collected_at": "2026-05-08T07:47:55.898553"
   },
   {
-    "id": "5cb0197e266d",
-    "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-    "source": "The Verge AI",
+    "id": "0837d9f92293",
+    "title": "llm-gemini 0.31",
+    "url": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T19:55:22",
-    "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and tria",
-    "collected_at": "2026-05-08T03:25:24.595048"
+    "priority": 2,
+    "published": "2026-05-07T19:57:06",
+    "summary": "Release: llm-gemini 0.31 gemini-3.1-flash-lite is no longer a preview. Here's my write-up of the Gemini 3.1 Flash-Lite Preview model back in March. I don't believe this new non-preview model has changed since then. Tags: llm-release, gemini, llm, google, generative-ai, ai, llms",
+    "collected_at": "2026-05-08T03:25:48.810972"
   },
   {
     "id": "b8333c1ca4cd",
@@ -432,16 +588,16 @@
     "collected_at": "2026-05-08T07:47:55.898624"
   },
   {
-    "id": "408a70be6510",
-    "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-    "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+    "id": "5cb0197e266d",
+    "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T19:39:22",
-    "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test",
-    "collected_at": "2026-05-07T19:47:42.357015"
+    "published": "2026-05-07T19:55:22",
+    "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and tria",
+    "collected_at": "2026-05-08T03:25:24.595048"
   },
   {
     "id": "b9d9fd92648b",
@@ -456,16 +612,16 @@
     "collected_at": "2026-05-08T07:47:55.898696"
   },
   {
-    "id": "a4f7e22e9142",
-    "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+    "id": "408a70be6510",
+    "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+    "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T19:26:16",
-    "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes",
-    "collected_at": "2026-05-07T19:47:42.357067"
+    "published": "2026-05-07T19:39:22",
+    "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test",
+    "collected_at": "2026-05-07T19:47:42.357015"
   },
   {
     "id": "5db2a72399be",
@@ -480,16 +636,16 @@
     "collected_at": "2026-05-08T07:47:55.898781"
   },
   {
-    "id": "ae90c4caa509",
-    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "source": "TechCrunch AI",
+    "id": "cce7bcc3845f",
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T19:21:21",
-    "summary": "Can Sam Altman—or any CEO—be trusted with super intelligence?",
-    "collected_at": "2026-05-07T19:47:42.242516"
+    "priority": 2,
+    "published": "2026-05-07T19:38:36",
+    "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 119 # Comments: 27",
+    "collected_at": "2026-05-08T13:57:20.722308"
   },
   {
     "id": "5f254afb8bc7",
@@ -504,16 +660,16 @@
     "collected_at": "2026-05-08T07:47:55.898849"
   },
   {
-    "id": "9fc187e8a48d",
-    "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-    "source": "Ars Technica AI",
+    "id": "a4f7e22e9142",
+    "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T19:18:16",
-    "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
-    "collected_at": "2026-05-08T03:25:24.909650"
+    "priority": 1,
+    "published": "2026-05-07T19:26:16",
+    "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes",
+    "collected_at": "2026-05-07T19:47:42.357067"
   },
   {
     "id": "c5ababcbf45f",
@@ -528,16 +684,16 @@
     "collected_at": "2026-05-08T07:47:55.898906"
   },
   {
-    "id": "7e91dc3be4fb",
-    "title": "Bumble is getting rid of the swipe, CEO says",
-    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "id": "ae90c4caa509",
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-07T19:06:17",
-    "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
-    "collected_at": "2026-05-07T19:47:42.242567"
+    "published": "2026-05-07T19:21:21",
+    "summary": "Can Sam Altman—or any CEO—be trusted with super intelligence?",
+    "collected_at": "2026-05-07T19:47:42.242516"
   },
   {
     "id": "2a49fbec4d81",
@@ -552,16 +708,16 @@
     "collected_at": "2026-05-08T07:47:55.899033"
   },
   {
-    "id": "e5ce7757e4d6",
-    "title": "AI slop is killing online communities",
-    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "source": "Hacker News AI",
+    "id": "9fc187e8a48d",
+    "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "source": "Ars Technica AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-07T18:46:25",
-    "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 488 # Comments: 462",
-    "collected_at": "2026-05-08T03:25:42.067475"
+    "published": "2026-05-07T19:18:16",
+    "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+    "collected_at": "2026-05-08T03:25:24.909650"
   },
   {
     "id": "107ca70c5c72",
@@ -574,6 +730,30 @@
     "published": "2026-05-08T04:00:00",
     "summary": "arXiv:2605.05341v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) are used to disentangle the dense, polysemantic internal representations of large language models (LLMs) into interpretable, monosemantic concepts. However, standard $\\ell_1$-regularized SAEs suffer from feature starvation (d",
     "collected_at": "2026-05-08T07:47:55.899106"
+  },
+  {
+    "id": "7e91dc3be4fb",
+    "title": "Bumble is getting rid of the swipe, CEO says",
+    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T19:06:17",
+    "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+    "collected_at": "2026-05-07T19:47:42.242567"
+  },
+  {
+    "id": "e5ce7757e4d6",
+    "title": "AI slop is killing online communities",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-07T18:46:25",
+    "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/ Comments URL: https://news.ycombinator.com/item?id=48053203 Points: 488 # Comments: 462",
+    "collected_at": "2026-05-08T03:25:42.067475"
   },
   {
     "id": "83c835298dfd",
@@ -3418,185 +3598,5 @@
     "published": "2026-05-05T04:00:00",
     "summary": "arXiv:2605.00842v1 Announce Type: new Abstract: Emergent misalignment, where fine-tuning on narrow, non-harmful tasks induces harmful behaviors, poses a key challenge for AI safety in LLMs. Despite growing empirical evidence, its underlying mechanism remains unclear. To uncover the reason behind thi",
     "collected_at": "2026-05-06T03:27:47.399187"
-  },
-  {
-    "id": "5588c3b37ebd",
-    "title": "From Euler to Dormand-Prince: ODE Solvers for Flow Matching Generative Models",
-    "url": "https://arxiv.org/abs/2605.00836",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00836v1 Announce Type: new Abstract: Sampling from Flow Matching generative models requires solving an ordinary differential equation (ODE) whose computational cost is dominated by neural network forward passes. We derive four classical ODE solvers -- Euler, Explicit Midpoint, Classical R",
-    "collected_at": "2026-05-05T08:16:12.795056"
-  },
-  {
-    "id": "fe9b20b9b49d",
-    "title": "ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations",
-    "url": "https://arxiv.org/abs/2605.00846",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00846v1 Announce Type: new Abstract: Clinical diagnosis requires answers that are accurate, verifiable, and explicitly grounded in official guidelines. While large language models excel at natural language processing, their tendency to hallucinate undermines their utility in high-stakes m",
-    "collected_at": "2026-05-06T03:27:47.399301"
-  },
-  {
-    "id": "c25dc919b43b",
-    "title": "Fast Log-Domain Sinkhorn Optimal Transport with Warp-Level GPU Reductions",
-    "url": "https://arxiv.org/abs/2605.00837",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00837v1 Announce Type: new Abstract: Entropic regularized optimal transport (OT) via the Sinkhorn algorithm has become a fundamental tool in machine learning, yet existing implementations either suffer from numerical instability for small regularization parameters or incur significant ove",
-    "collected_at": "2026-05-05T08:16:12.795127"
-  },
-  {
-    "id": "5cd65767ab8f",
-    "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
-    "url": "https://arxiv.org/abs/2605.00909",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00909v1 Announce Type: new Abstract: The time-consuming formation process critically impacts the longevity of sodium-ion coin cells and End Of Life (EOL) performance. This study aims to optimize formation protocols for duration efficiency, targeting high-performance outcomes while minimiz",
-    "collected_at": "2026-05-06T03:27:47.399384"
-  },
-  {
-    "id": "5f6bc4156f51",
-    "title": "GAZE: Grounded Agentic Zero-shot Evaluation with Viewer-Level Tools and Literature Retrieval on Rare Brain MRI",
-    "url": "https://arxiv.org/abs/2605.00876",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00876v1 Announce Type: new Abstract: Vision-language models (VLMs) read an image and produce text in a single forward pass, whereas radiologists typically inspect an image several times and consult the literature before writing a report. We introduce GAZE (Grounded Agentic Zero-shot Evalu",
-    "collected_at": "2026-05-05T08:16:12.795222"
-  },
-  {
-    "id": "61525f41f179",
-    "title": "Effect-Transparent Governance for AI Workflow Architectures: Semantic Preservation, Expressive Minimality, and Decidability Boundaries",
-    "url": "https://arxiv.org/abs/2605.01030",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.01030v2 Announce Type: new Abstract: We present a machine-checked formalization of structurally governed AI workflow architectures and prove that effect-level governance can be imposed without reducing internal computational expressivity. Using Interaction Trees in Rocq 8.19, we define a",
-    "collected_at": "2026-05-06T03:27:47.399483"
-  },
-  {
-    "id": "228e253abe55",
-    "title": "StyleShield: Exposing the Fragility of AIGC Detectors through Continuous Controllable Style Transfer",
-    "url": "https://arxiv.org/abs/2605.00924",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00924v1 Announce Type: new Abstract: AI-generated content (AIGC) detectors are increasingly deployed in high-stakes settings such as academic integrity screening, yet their reliability rests on a fundamental paradox: as language models are trained on human-written corpora, the statistical",
-    "collected_at": "2026-05-05T08:16:12.795317"
-  },
-  {
-    "id": "c91e7167a175",
-    "title": "Algebraic Semantics of Governed Execution: Monoidal Categories, Effect Algebras, and Coterminous Boundaries",
-    "url": "https://arxiv.org/abs/2605.01032",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.01032v2 Announce Type: new Abstract: We present an algebraic semantics for governed execution in which governance is axiomatized, compositional, and coterminous with expressibility. The framework, mechanized in 32 Rocq modules (~12,000 lines, 454 theorems, 0 admitted), is built on interac",
-    "collected_at": "2026-05-06T03:27:47.399573"
-  },
-  {
-    "id": "ca5473620a9d",
-    "title": "Linking spatial biology and clinical histology via Haiku",
-    "url": "https://arxiv.org/abs/2605.00925",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00925v1 Announce Type: new Abstract: Integrating molecular, morphological, and clinical data is essential for basic and translational biomedical research, yet systematic frameworks for jointly modeling these modalities remain limited. Here we present Haiku, a tri-modal contrastive learnin",
-    "collected_at": "2026-05-05T08:16:12.795417"
-  },
-  {
-    "id": "70a317675653",
-    "title": "A Knowledge-Driven LLM-Based Decision-Support System for Explainable Defect Analysis and Mitigation Guidance in Laser Powder Bed Fusion",
-    "url": "https://arxiv.org/abs/2605.01100",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.01100v1 Announce Type: new Abstract: This work presents a knowledge-driven decision-support system that integrates structured defect knowledge with LLM-based reasoning to provide explainable defect diagnosis and mitigation guidance in manufacturing, using LPBF as a representative, safety-",
-    "collected_at": "2026-05-06T03:27:47.399658"
-  },
-  {
-    "id": "51ff5610ff8d",
-    "title": "A Review of the Receiver Operating Characteristic Curve and a Proof About the Area Beneath It",
-    "url": "https://arxiv.org/abs/2605.00926",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00926v1 Announce Type: new Abstract: The Receiver Operating Characteristic (ROC) curve of a binary classifier has often been utilized to measure the performance of the classifier. The area beneath this curve is used in particular because of its quoted probabilistic interpretation as being",
-    "collected_at": "2026-05-05T08:16:12.795498"
-  },
-  {
-    "id": "664bd16c7438",
-    "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
-    "url": "https://arxiv.org/abs/2605.01101",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.01101v1 Announce Type: new Abstract: This paper develops Virtual Speech Therapist (VST), an intelligent agent-based platform that streamlines stuttering assessment and delivers customized therapy planning through automated and adaptive AI-driven workflows. VST integrates state-of-the-art",
-    "collected_at": "2026-05-06T03:27:47.399742"
-  },
-  {
-    "id": "ffcf18f73bbc",
-    "title": "PhaseNet++: Phase-Aware Frequency-Domain Anomaly Detection for Industrial Control Systems via Phase Coherence Graphs",
-    "url": "https://arxiv.org/abs/2605.00929",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00929v1 Announce Type: new Abstract: Multivariate time series anomaly detection in ICS has attracted growing attention due to the increasing threat of cyber-physical attacks on critical infrastructure. State-of-the-art methods model inter-sensor relationships from raw time-domain amplitud",
-    "collected_at": "2026-05-05T08:16:12.795587"
-  },
-  {
-    "id": "38cb191bbd92",
-    "title": "Towards Multi-Agent Autonomous Reasoning in Hydrodynamics",
-    "url": "https://arxiv.org/abs/2605.01102",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.01102v1 Announce Type: new Abstract: Single-agent systems (SAS) have become the default pattern for LLM-driven scientific workflows, but routing planning, tool use, and synthesis through a single context window comes with a well-known cost: as tool specifications and observational traces",
-    "collected_at": "2026-05-06T03:27:47.399827"
-  },
-  {
-    "id": "5714a9fc0536",
-    "title": "Hierarchical Federated Learning for Networked AI: From Communication Saving to Architecture-Aware Design",
-    "url": "https://arxiv.org/abs/2605.00931",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T04:00:00",
-    "summary": "arXiv:2605.00931v1 Announce Type: new Abstract: Federated learning (FL) is fundamentally a distributed optimization problem executed by communicating agents with local data, local computation, and partial system visibility. Once FL is viewed through that lens, hierarchy is not merely a scalability m",
-    "collected_at": "2026-05-05T08:16:12.795676"
   }
 ]
