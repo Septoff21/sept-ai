@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-05-08T19:25:42.767299",
-  "date": "2026-05-08",
+  "updated_at": "2026-05-09T03:24:57.815883",
+  "date": "2026-05-09",
   "spotlight": {
-    "id": "whisper",
-    "name": "Whisper",
-    "url": "https://github.com/openai/whisper",
+    "id": "fish-speech",
+    "name": "Fish Speech",
+    "url": "https://github.com/fishaudio/fish-speech",
     "type": "tool",
-    "description": "OpenAI 开源语音识别模型",
+    "description": "开源 TTS 语音合成模型，中文效果好",
     "pricing": "开源免费",
     "category": "语音"
   },
   "alternates": [
     {
-      "name": "VoltAgent",
-      "url": "https://github.com/VoltAgent/voltagent",
+      "name": "Tabby",
+      "url": "https://github.com/TabbyML/tabby",
       "type": "agent",
-      "description": "开源 TypeScript AI Agent 工程平台，支持多 Agent 编排和可视化工作流",
+      "description": "自托管 AI 代码助手，支持代码补全、问答，数据不出服务器，企业友好",
       "pricing": "开源免费",
       "category": "编程 Agent"
     },
     {
-      "id": "gemini",
-      "name": "Gemini",
-      "url": "https://gemini.google.com",
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "url": "https://chat.deepseek.com",
       "type": "tool",
-      "description": "Google 出品的 AI 对话工具，多模态能力强",
-      "pricing": "免费 + Advanced $20/月",
+      "description": "深度求索出品，国产最强开源大模型对话工具",
+      "pricing": "免费 + API 按量",
       "category": "对话"
     },
     {
-      "name": "MetaGPT",
-      "url": "https://github.com/geekan/MetaGPT",
+      "name": "ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
       "type": "agent",
-      "description": "多Agent软件公司模拟，一个Agent扮演不同角色",
+      "description": "清华出品，模拟软件开发公司的多Agent框架",
       "pricing": "开源免费",
       "category": "多 Agent"
     }
