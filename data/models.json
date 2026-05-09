@@ -5411,6 +5411,29 @@
     "collected_at": "2026-05-04T14:09:52.288562"
   },
   {
+    "id": "hf-HiDream-ai--HiDream-O1-Image",
+    "name": "HiDream-ai/HiDream-O1-Image",
+    "display_name": "HiDream-O1-Image",
+    "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
+    "author": "HiDream-ai",
+    "pipeline_tag": "image-text-to-image",
+    "likes": 38,
+    "downloads": 21,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_vl",
+      "image-text-to-text",
+      "image-text-to-image",
+      "license:mit",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-08T13:06:04.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-09T08:02:27.929074"
+  },
+  {
     "id": "hf-ibm-granite--granite-4.1-8b",
     "name": "ibm-granite/granite-4.1-8b",
     "display_name": "granite-4.1-8b",
@@ -7523,6 +7546,33 @@
     "created_at": "2026-05-08T07:36:37.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-08T07:48:11.803655"
+  },
+  {
+    "id": "hf-adilkairolla--zeta-2.1-GGUF",
+    "name": "adilkairolla/zeta-2.1-GGUF",
+    "display_name": "zeta-2.1-GGUF",
+    "url": "https://huggingface.co/adilkairolla/zeta-2.1-GGUF",
+    "author": "adilkairolla",
+    "pipeline_tag": "text-generation",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "gguf",
+      "llama.cpp",
+      "quantized",
+      "edit-prediction",
+      "next-edit-suggestion",
+      "code",
+      "text-generation",
+      "en",
+      "base_model:zed-industries/zeta-2.1",
+      "base_model:quantized:zed-industries/zeta-2.1",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-09T07:55:25.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-09T08:02:28.025791"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23750,44 +23800,5 @@
     "created_at": "2026-04-27T03:12:35.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635453"
-  },
-  {
-    "id": "hf-cosmos1030--c1899de289a04d12100db370d81485cdf75e47ca-elsa-ntp-cot-s40pct-lr5e-5-lmda5e-3",
-    "name": "cosmos1030/c1899de289a04d12100db370d81485cdf75e47ca-elsa-ntp-cot-s40pct-lr5e-5-lmda5e-3",
-    "display_name": "c1899de289a04d12100db370d81485cdf75e47ca-elsa-ntp-cot-s40pct-lr5e-5-lmda5e-3",
-    "url": "https://huggingface.co/cosmos1030/c1899de289a04d12100db370d81485cdf75e47ca-elsa-ntp-cot-s40pct-lr5e-5-lmda5e-3",
-    "author": "cosmos1030",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "safetensors",
-      "qwen3",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:10:47.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635456"
-  },
-  {
-    "id": "hf-faranbutt789--guardpeft-qwen3-best-lora",
-    "name": "faranbutt789/guardpeft-qwen3-best-lora",
-    "display_name": "guardpeft-qwen3-best-lora",
-    "url": "https://huggingface.co/faranbutt789/guardpeft-qwen3-best-lora",
-    "author": "faranbutt789",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "unsloth",
-      "arxiv:1910.09700",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:10:28.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635458"
   }
 ]

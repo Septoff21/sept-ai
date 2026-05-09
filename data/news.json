@@ -1,5 +1,77 @@
 [
   {
+    "id": "8328c3ff4517",
+    "title": "停止编码的那天，就是失去架构判断力的开始：一位 30 年架构师的 AI 生存指南",
+    "url": "https://www.infoq.cn/article/zLaHwePKytptG102IscF?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-09T12:32:48",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-09T08:02:18.178399"
+  },
+  {
+    "id": "0c678445168b",
+    "title": "百度正式发布文心大模型5.1",
+    "url": "https://36kr.com/newsflashes/3801731549371905?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-09T07:21:19",
+    "summary": "36氪获悉，百度正式发布新一代基础大模型文心大模型 5.1。据官方介绍，文心 5.1采用“多维弹性预训练”技术，仅以业界同规模模型约6%的预��练成本，达到基础效果领先水平，登上LMArena搜索榜国内第一。",
+    "collected_at": "2026-05-09T08:02:16.873496"
+  },
+  {
+    "id": "5499a95c89db",
+    "title": "Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下",
+    "url": "https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-09T12:26:47",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-09T08:02:18.178440"
+  },
+  {
+    "id": "940f01cef21b",
+    "title": "智源FlagSafe平台正式发布",
+    "url": "https://36kr.com/newsflashes/3801709226483208?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-09T07:09:33",
+    "summary": "36氪获悉，近日，北京智源人工智能研究院联合北京大学、北京邮电大学、北京航空航天大学、上海交通大学、中国科学院信息工程研究所、中国科学院计算技术研究所等国内机构，正式发布FlagSafe大模型安全平台。平台首批汇聚多个前沿大模型安全研究项目，围绕红队演练、蓝队防御、白盒透视三个核心方向，共同打造覆盖风险发现、防御治理与机理解释的高标准安全平台。",
+    "collected_at": "2026-05-09T08:02:16.873531"
+  },
+  {
+    "id": "1cbc7c95219b",
+    "title": "Cloudflare构建了面向LLM的高性能基础设施",
+    "url": "https://www.infoq.cn/article/wvRSqDH2uloYeu4f6GB0?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-09T12:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-09T08:02:18.178470"
+  },
+  {
+    "id": "0e5ccd727804",
+    "title": "Zeroth元点M1成为全球首个接入OpenClaw的人形机器人",
+    "url": "https://36kr.com/newsflashes/3801681177616133?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-09T06:30:04",
+    "summary": "36氪获悉，乐享科技正式官宣，旗下具身智能品牌Zeroth元点的M1人形机器人成为全球首款接入腾讯OpenClaw（小龙虾）的可量产人形机器人。目前，乐享科技已与腾讯达成万台硬件终端接入的意向， M1已成功接入龙虾并开启内测，计划于5月下旬正式上线，上半年启动预售。",
+    "collected_at": "2026-05-09T08:02:16.873722"
+  },
+  {
     "id": "279f269886a2",
     "title": "技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践",
     "url": "https://www.infoq.cn/article/YAWWcRb4eBYRSHyVAw2Q?utm_source=rss&utm_medium=article",
@@ -12,16 +84,16 @@
     "collected_at": "2026-05-09T03:23:54.982224"
   },
   {
-    "id": "7970fb383f17",
-    "title": "打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！",
-    "url": "https://www.qbitai.com/2026/05/414445.html",
+    "id": "68b00e95dbc3",
+    "title": "VLA死了，遥操也死了！英伟达机器人一号位说的",
+    "url": "https://www.qbitai.com/2026/05/414547.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-09T03:01:52",
-    "summary": "智会心研面向个人用户免费开放高级检索与 AI 深度分析核心功能，涵盖专利 AI 检索、AI 伴读、图表分析及多智能体协作，助力研发与情报分析高效完成，降低技术创新门槛。",
-    "collected_at": "2026-05-09T03:21:25.518950"
+    "published": "2026-05-09T06:24:18",
+    "summary": "Jim Fan全新暴论出炉",
+    "collected_at": "2026-05-09T07:59:47.140677"
   },
   {
     "id": "76350eef4824",
@@ -36,16 +108,16 @@
     "collected_at": "2026-05-09T03:23:54.982261"
   },
   {
-    "id": "12b465936998",
-    "title": "AI开始接管年轻人的「精神自留地」",
-    "url": "https://36kr.com/p/3801461350702855?f=rss",
-    "source": "36氪",
+    "id": "8def51b9b8b6",
+    "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
+    "url": "https://www.qbitai.com/2026/05/414501.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-09T02:54:40",
-    "summary": "撰文｜锅包柚 封面来源｜Unsplash（AI辅助扩图） 五一假期已经结束，但打工人的“节后综合症”并未消退。 面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。 屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。 “老板被我fire了” 这个让蝈蝈短暂“活过来”的应用，不是什么专业团队做的。而是一个同样被工作折磨的网友@二旬老人，在灵光APP免费花30秒随手“搓”出来的。 这届年轻人，连发泄情绪都要精打细算。因",
-    "collected_at": "2026-05-09T03:23:53.256050"
+    "priority": 1,
+    "published": "2026-05-09T04:50:55",
+    "summary": "眼镜里的信息第一次「立」起来了",
+    "collected_at": "2026-05-09T07:59:47.140717"
   },
   {
     "id": "797cad6f3c58",
@@ -60,6 +132,90 @@
     "collected_at": "2026-05-09T03:23:54.982291"
   },
   {
+    "id": "92134f72cc7f",
+    "title": "Understanding Annotator Safety Policy with Interpretability",
+    "url": "https://arxiv.org/abs/2605.05329",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05329v1 Announce Type: new Abstract: Safety policies define what constitutes safe and unsafe AI outputs, guiding data annotation and model development. However, annotation disagreement is pervasive and can stem from multiple sources such as operational failures (annotators misunderstand o",
+    "collected_at": "2026-05-09T08:02:12.196434"
+  },
+  {
+    "id": "366a927dae4d",
+    "title": "百度发布文心 5.1：搜索能力登顶国内，预训练成本仅为业界 6%",
+    "url": "https://www.qbitai.com/2026/05/414496.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-09T03:11:20",
+    "summary": "搜索、知识、Agent 能力全面提升",
+    "collected_at": "2026-05-09T07:59:47.140754"
+  },
+  {
+    "id": "554c28a69201",
+    "title": "ZAYA1-8B Technical Report",
+    "url": "https://arxiv.org/abs/2605.05365",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05365v1 Announce Type: new Abstract: We present ZAYA1-8B, a reasoning-focused mixture-of-experts (MoE) model with 700M active and 8B total parameters, built on Zyphra's MoE++ architecture. ZAYA1-8B's core pretraining, midtraining, and supervised fine-tuning (SFT) were performed on a full-",
+    "collected_at": "2026-05-09T08:02:12.196516"
+  },
+  {
+    "id": "7970fb383f17",
+    "title": "打破科技数据壁垒！智会心研官宣：高级检索+AI深度分析，面向个人免费开放！",
+    "url": "https://www.qbitai.com/2026/05/414445.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-09T03:01:52",
+    "summary": "智会心研面向个人用户免费开放高级检索与 AI 深度分析核心功能，涵盖专利 AI 检索、AI 伴读、图表分析及多智能体协作，助力研发与情报分析高效完成，降低技术创新门槛。",
+    "collected_at": "2026-05-09T03:21:25.518950"
+  },
+  {
+    "id": "cf74ad4bfabe",
+    "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
+    "url": "https://arxiv.org/abs/2605.05379",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05379v1 Announce Type: new Abstract: Enterprise agents increasingly operate inside scoped retrieval systems, delegated workflows, and policy-constrained evidence environments. In these settings, access control can be enforced correctly while the system still produces an answer that appear",
+    "collected_at": "2026-05-09T08:02:12.196593"
+  },
+  {
+    "id": "12b465936998",
+    "title": "AI开始接管年轻人的「精神自留地」",
+    "url": "https://36kr.com/p/3801461350702855?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-09T02:54:40",
+    "summary": "撰文｜锅包柚 封面来源｜Unsplash（AI辅助扩图） 五一假期已经结束，但打工人的“节后综合症”并未消退。 面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。 屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。 “老板被我fire了” 这个让蝈蝈短暂“活过来”的应用，不是什么专业团队做的。而是一个同样被工作折磨的网友@二旬老人，在灵光APP免费花30秒随手“搓”出来的。 这届年轻人，连发泄情绪都要精打细算。因",
+    "collected_at": "2026-05-09T03:23:53.256050"
+  },
+  {
+    "id": "f087f90f716d",
+    "title": "BALAR : A Bayesian Agentic Loop for Active Reasoning",
+    "url": "https://arxiv.org/abs/2605.05386",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05386v1 Announce Type: new Abstract: Large language models increasingly operate in interactive settings where solving a task requires multiple rounds of information exchange with a user. However, most current systems treat dialogue reactively and lack a principled mechanism to reason abou",
+    "collected_at": "2026-05-09T08:02:12.196664"
+  },
+  {
     "id": "88ed8ac7f7b3",
     "title": "梁文锋出资200亿！DeepSeek首轮创纪录融资500亿，V4.1定档6月",
     "url": "https://www.qbitai.com/2026/05/414432.html",
@@ -70,6 +226,18 @@
     "published": "2026-05-09T02:08:59",
     "summary": "如果最终落地，这会是中国大模型公司有史以来最大的一轮融资",
     "collected_at": "2026-05-09T03:21:25.518993"
+  },
+  {
+    "id": "bac46c9ebee5",
+    "title": "Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections",
+    "url": "https://arxiv.org/abs/2605.05402",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05402v1 Announce Type: new Abstract: Artificial intelligence (AI) and computer vision are transforming transportation data collection. This study introduces an AI-enabled analytics framework leveraging existing CCTV infrastructure to evaluate the impact of soft interventions, such as temp",
+    "collected_at": "2026-05-09T08:02:12.196729"
   },
   {
     "id": "ea7ca58aeb7c",
@@ -84,6 +252,18 @@
     "collected_at": "2026-05-09T03:23:53.257762"
   },
   {
+    "id": "d629709d29eb",
+    "title": "When Helpfulness Becomes Sycophancy: Sycophancy is a Boundary Failure Between Social Alignment and Epistemic Integrity in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.05403",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05403v1 Announce Type: new Abstract: This position paper argues that sycophancy in LLMs is a boundary failure between social alignment and epistemic integrity. Existing work often operationalizes sycophancy through external behavior such as agreement with incorrect user beliefs, position",
+    "collected_at": "2026-05-09T08:02:12.196802"
+  },
+  {
     "id": "77dd036b336a",
     "title": "[AINews] Anthropic growing 10x/year while everyone else is laying off >10% of their workforce",
     "url": "https://www.latent.space/p/ainews-anthropic-growing-10xyear",
@@ -94,6 +274,18 @@
     "published": "2026-05-09T01:08:28",
     "summary": "A quiet day lets us reflect on an interesting dichotomy in the economy.",
     "collected_at": "2026-05-09T03:23:48.768566"
+  },
+  {
+    "id": "3dd6f2bcab3c",
+    "title": "PRISM: Perception Reasoning Interleaved for Sequential Decision Making",
+    "url": "https://arxiv.org/abs/2605.05407",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05407v1 Announce Type: new Abstract: Scaling LLM-based embodied agents from text-only environments to complex multimodal settings remains a major challenge. Recent work identifies a perception-reasoning-decision gap in standalone Vision-Language Models (VLMs), which often overlook task-cr",
+    "collected_at": "2026-05-09T08:02:12.196862"
   },
   {
     "id": "e40918bf32d1",
@@ -108,6 +300,18 @@
     "collected_at": "2026-05-09T03:23:53.256557"
   },
   {
+    "id": "628bb86875ae",
+    "title": "Agentic Retrieval-Augmented Generation for Financial Document Question Answering",
+    "url": "https://arxiv.org/abs/2605.05409",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05409v1 Announce Type: new Abstract: Financial document question answering (QA) demands complex multi-step numerical reasoning over heterogeneous evidence--structured tables, textual narratives, and footnotes--scattered across corporate filings. Existing retrieval-augmented generation (RA",
+    "collected_at": "2026-05-09T08:02:12.196971"
+  },
+  {
     "id": "8e2b23460141",
     "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
     "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
@@ -118,6 +322,18 @@
     "published": "2026-05-08T23:59:19",
     "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t",
     "collected_at": "2026-05-09T03:23:40.385222"
+  },
+  {
+    "id": "28fb0d7a77bd",
+    "title": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework",
+    "url": "https://arxiv.org/abs/2605.05410",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05410v1 Announce Type: new Abstract: Large-language-model (LLM) graders promise to relieve the grading burden of upper-division STEM courses, but most deployments to date send student work to third-party APIs, violating FERPA and exposing institutions to data risk while requiring substant",
+    "collected_at": "2026-05-09T08:02:12.197063"
   },
   {
     "id": "3db6af49a0c9",
@@ -132,6 +348,18 @@
     "collected_at": "2026-05-09T03:23:40.118498"
   },
   {
+    "id": "4bd73e808358",
+    "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
+    "url": "https://arxiv.org/abs/2605.05413",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05413v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used to operate browsers, files, code and tools, making personal assistants a natural deployment target. Yet personal agents face a privacy-cost-capability tension: cloud models execute multi-step work",
+    "collected_at": "2026-05-09T08:02:12.197147"
+  },
+  {
     "id": "182ffaf8859a",
     "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
     "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
@@ -142,6 +370,18 @@
     "published": "2026-05-08T21:00:11",
     "summary": "Using Claude Code: The Unreasonable Effectiveness of HTML Thought-provoking piece by Thariq Shihipar (on the Claude Code team at Anthropic) advocating for HTML over Markdown as an output format to request from Claude. The article is crammed with interesting examples (collected on this site) and prom",
     "collected_at": "2026-05-09T03:23:48.267304"
+  },
+  {
+    "id": "37ab247f2872",
+    "title": "The Geopolitics of AI Safety: A Causal Analysis of Regional LLM Bias",
+    "url": "https://arxiv.org/abs/2605.05427",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05427v1 Announce Type: new Abstract: As Large Language Models (LLMs) are integrated into global software systems, ensuring equitable safety guardrails is a critical requirement. Current fairness evaluations predominantly measure bias observationally, a methodology confounded by the inhere",
+    "collected_at": "2026-05-09T08:02:12.197223"
   },
   {
     "id": "94aedc8a6bc0",
@@ -156,6 +396,18 @@
     "collected_at": "2026-05-08T13:57:34.104300"
   },
   {
+    "id": "741857af7efd",
+    "title": "Authorization Propagation in Multi-Agent AI Systems: Identity Governance as Infrastructure",
+    "url": "https://arxiv.org/abs/2605.05440",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05440v1 Announce Type: new Abstract: The security discussion around agentic AI focuses heavily on prompt injection. This paper argues that multi-agent systems also create a distinct authorization problem: maintaining authorization invariants as non-human principals retrieve data, delegate",
+    "collected_at": "2026-05-09T08:02:12.197297"
+  },
+  {
     "id": "3bc01457309b",
     "title": "All the latest updates on AI data centers",
     "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
@@ -166,6 +418,18 @@
     "published": "2026-05-08T18:45:08",
     "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160;",
     "collected_at": "2026-05-08T19:24:40.117129"
+  },
+  {
+    "id": "32505e27a45c",
+    "title": "Agentic Discovery of Exchange-Correlation Density Functionals",
+    "url": "https://arxiv.org/abs/2605.05460",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05460v1 Announce Type: new Abstract: The development of accurate exchange-correlation (XC) functionals remains a longstanding challenge in density functional theory (DFT). The vast majority of XC functionals have been hand designed by human researchers combining physical insight, exact co",
+    "collected_at": "2026-05-09T08:02:12.197365"
   },
   {
     "id": "a0ebd83ccb77",
@@ -180,6 +444,18 @@
     "collected_at": "2026-05-08T19:24:39.921327"
   },
   {
+    "id": "a09c781d32b9",
+    "title": "Intentionality is a Design Decision: Measuring Functional Intentionality for Accountable AI Systems",
+    "url": "https://arxiv.org/abs/2605.05475",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05475v1 Announce Type: new Abstract: As AI systems increasingly exhibit autonomous, goal-directed, and long-horizon behavior, users lack a standardized way to detect the degree to which a system functions like an intentional actor for governance and accountability purposes. This position",
+    "collected_at": "2026-05-09T08:02:12.197434"
+  },
+  {
     "id": "3e232168d5bc",
     "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
     "url": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
@@ -190,6 +466,18 @@
     "published": "2026-05-08T18:27:15",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-08T13:57:34.104333"
+  },
+  {
+    "id": "eda6f45a022d",
+    "title": "LANTERN: LLM-Augmented Neurosymbolic Transfer with Experience-Gated Reasoning Networks",
+    "url": "https://arxiv.org/abs/2605.05478",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05478v1 Announce Type: new Abstract: Transfer learning in reinforcement learning (RL) seeks to accelerate learning in new tasks by leveraging knowledge from related sources. Existing neurosymbolic transfer methods, however, typically rely on manually specified task automata, assume a sing",
+    "collected_at": "2026-05-09T08:02:12.197499"
   },
   {
     "id": "45f425d42eab",
@@ -204,6 +492,18 @@
     "collected_at": "2026-05-09T03:23:41.463868"
   },
   {
+    "id": "3bece9d339ae",
+    "title": "FinRAG-12B: A Production-Validated Recipe for Grounded Question Answering in Banking",
+    "url": "https://arxiv.org/abs/2605.05482",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05482v1 Announce Type: new Abstract: Large language models (LLMs) are rapidly being adopted across various domains. However, their adoption in banking industry faces resistance due to demands for high accuracy, regulatory compliance, and the need for verifiable and grounded responses. We",
+    "collected_at": "2026-05-09T08:02:12.197569"
+  },
+  {
     "id": "3e54a7f0990a",
     "title": "LinkedIn 整合招聘数据管道，为 AI 系统赋能",
     "url": "https://www.infoq.cn/article/o2z964wv6v7jB8d9ZM0K?utm_source=rss&utm_medium=article",
@@ -216,16 +516,16 @@
     "collected_at": "2026-05-08T13:57:34.104404"
   },
   {
-    "id": "91cd61c2a457",
-    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-    "source": "The Verge AI",
+    "id": "ba593451db6d",
+    "title": "FoodCHA: Multi-Modal LLM Agent for Fine-Grained Food Analysis",
+    "url": "https://arxiv.org/abs/2605.05499",
+    "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-08T16:30:56",
-    "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - a",
-    "collected_at": "2026-05-08T19:24:40.117197"
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05499v1 Announce Type: new Abstract: The widespread adoption of camera-equipped mobile devices and wearables has enabled convenient capture of meal images, making food recognition a key component for real time dietary monitoring. However, real-world food images present challenges due to h",
+    "collected_at": "2026-05-09T08:02:12.197642"
   },
   {
     "id": "2fc83d5d0897",
@@ -240,16 +540,16 @@
     "collected_at": "2026-05-08T13:57:34.104436"
   },
   {
-    "id": "2c5dba8eca78",
-    "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
-    "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
-    "source": "MIT Tech Review",
+    "id": "8e51cfe97b0d",
+    "title": "Housing Potential Common Data Model and City Digital Twin",
+    "url": "https://arxiv.org/abs/2605.05535",
+    "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-08T16:19:40",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rat",
-    "collected_at": "2026-05-08T19:24:40.275067"
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05535v1 Announce Type: new Abstract: The evaluation of housing potential requires consideration of a location from multiple perspectives, ranging from zoning and land use to population characteristics and access to services. This research introduces the Housing Potential Common Data Model",
+    "collected_at": "2026-05-09T08:02:12.197726"
   },
   {
     "id": "6883f9f55cb3",
@@ -262,6 +562,54 @@
     "published": "2026-05-08T16:32:35",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-08T13:57:34.104470"
+  },
+  {
+    "id": "0ea2c9c12c5d",
+    "title": "AgenticRAG: Agentic Retrieval for Enterprise Knowledge Bases",
+    "url": "https://arxiv.org/abs/2605.05538",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05538v1 Announce Type: new Abstract: We present AgenticRAG, a practical agentic harness for retrieval and analysis over enterprise knowledge bases. Standard RAG pipelines place significant burden of grounding on the search stack, constraining the language model to a fixed candidate set ch",
+    "collected_at": "2026-05-09T08:02:12.197796"
+  },
+  {
+    "id": "91cd61c2a457",
+    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T16:30:56",
+    "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - a",
+    "collected_at": "2026-05-08T19:24:40.117197"
+  },
+  {
+    "id": "0da0909df30a",
+    "title": "SPARK: Self-Play with Asymmetric Reward from Knowledge Graphs",
+    "url": "https://arxiv.org/abs/2605.05546",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T04:00:00",
+    "summary": "arXiv:2605.05546v1 Announce Type: new Abstract: Self-play reinforcement learning has shown strong performance in domains with formally verifiable structure, such as mathematics and coding, where both problem generation and reward computation can be grounded in explicit rules. Extending this paradigm",
+    "collected_at": "2026-05-09T08:02:12.197877"
+  },
+  {
+    "id": "2c5dba8eca78",
+    "title": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+    "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-08T16:19:40",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rat",
+    "collected_at": "2026-05-08T19:24:40.275067"
   },
   {
     "id": "148aa0644a1a",
@@ -3240,18 +3588,6 @@
     "collected_at": "2026-05-07T03:28:27.880034"
   },
   {
-    "id": "adb40e368632",
-    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T22:57:41",
-    "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
-    "collected_at": "2026-05-06T03:27:40.671863"
-  },
-  {
     "id": "b18ba1c70db3",
     "title": "Uber uses OpenAI to help people earn smarter and book faster",
     "url": "https://openai.com/index/uber",
@@ -3262,341 +3598,5 @@
     "published": "2026-05-06T00:00:00",
     "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
     "collected_at": "2026-05-07T03:28:27.880069"
-  },
-  {
-    "id": "5ee51e27705a",
-    "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-    "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T22:43:47",
-    "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/ Comments URL: https://news.ycombinator.com/item?id=48029753 Points: 107 # Comments: 36",
-    "collected_at": "2026-05-06T14:22:50.782338"
-  },
-  {
-    "id": "0a8c78783e03",
-    "title": "Our AI started a cafe in Stockholm",
-    "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T22:14:21",
-    "summary": "Our AI started a cafe in Stockholm Andon Labs previously started an AI-run retail store in San Francisco. Now they're running a similar experiment in Stockholm, Sweden, only this time it's a cafe. These experiments are interesting, and often throw out amusing anecdotes: During the first week of inve",
-    "collected_at": "2026-05-06T03:27:49.210275"
-  },
-  {
-    "id": "2c86cbbc5016",
-    "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
-    "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T21:46:04",
-    "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will improve the smart home assistant's ability to interpret and act on requests. The upgrade will also make",
-    "collected_at": "2026-05-06T03:27:40.812667"
-  },
-  {
-    "id": "d9d36c1ef849",
-    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T20:56:41",
-    "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-    "collected_at": "2026-05-06T03:27:40.671896"
-  },
-  {
-    "id": "6b299ce73670",
-    "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-    "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T21:18:23",
-    "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between Jun",
-    "collected_at": "2026-05-06T03:27:40.812717"
-  },
-  {
-    "id": "3e058a6c077c",
-    "title": "🔬Doing Vibe Physics — Alex Lupsasca, OpenAI",
-    "url": "https://www.latent.space/p/lupsasca",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T20:34:11",
-    "summary": "The full story of how GPT&#8209;5.x derived new results in theoretical physics and quantum gravity.",
-    "collected_at": "2026-05-06T03:27:49.652911"
-  },
-  {
-    "id": "8738ef1c33b5",
-    "title": "Microsoft gives up on Xbox Copilot AI",
-    "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T19:54:37",
-    "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform team earlier on Tuesday, which added executives from Microsoft's CoreAI team - where Sharma worked",
-    "collected_at": "2026-05-06T03:27:40.812759"
-  },
-  {
-    "id": "b9dc4e2fd76e",
-    "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
-    "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
-    "source": "Ars Technica AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T19:46:15",
-    "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
-    "collected_at": "2026-05-06T03:27:41.017937"
-  },
-  {
-    "id": "9f3a2c3aa6fa",
-    "title": "Apple could let you pick a favorite AI model in iOS 27",
-    "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T19:45:30",
-    "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third-party chatbots to power its AI features system-wide in iOS 27, iPadOS 27, and macOS 27, all expecte",
-    "collected_at": "2026-05-06T03:27:40.812802"
-  },
-  {
-    "id": "4a3ed7147df7",
-    "title": "A Theory of Deep Learning",
-    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T19:38:48",
-    "summary": "Article URL: https://elonlit.com/scrivings/a-theory-of-deep-learning/ Comments URL: https://news.ycombinator.com/item?id=48027455 Points: 142 # Comments: 29",
-    "collected_at": "2026-05-07T03:28:26.867502"
-  },
-  {
-    "id": "7e9641e74763",
-    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-    "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T17:46:10",
-    "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
-    "collected_at": "2026-05-05T19:27:13.089099"
-  },
-  {
-    "id": "74cdffe7e5df",
-    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T17:28:52",
-    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits",
-    "collected_at": "2026-05-06T14:22:48.666805"
-  },
-  {
-    "id": "f2ffd9ae2c29",
-    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T17:00:00",
-    "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-    "collected_at": "2026-05-05T19:27:13.089138"
-  },
-  {
-    "id": "c7793318ff27",
-    "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T17:00:00",
-    "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on \"internal evaluations,\"",
-    "collected_at": "2026-05-05T19:27:13.204857"
-  },
-  {
-    "id": "15b9cb10e61c",
-    "title": "Motivated reasoning, confirmation bias, and AI risk theory",
-    "url": "https://www.alignmentforum.org/posts/QpgmEhBvJQxAfFMP2/motivated-reasoning-confirmation-bias-and-ai-risk-theory",
-    "source": "AI Alignment Forum",
-    "lang": "en",
-    "channel": "en",
-    "priority": 3,
-    "published": "2026-05-05T15:56:25",
-    "summary": "Of the fifty-odd biases discovered by Kahneman, Tversky, and their successors, forty-nine are cute quirks, and one is destroying civilization. This last one is confirmation bias.- From Scott Alexander's review of Julia Galef's The Scout Mindset. Alexander goes on to argue that this bias is the sourc",
-    "collected_at": "2026-05-05T19:27:23.252240"
-  },
-  {
-    "id": "114c4e61cd5a",
-    "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
-    "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T16:52:38",
-    "summary": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times. In their suit, Macmill",
-    "collected_at": "2026-05-05T19:27:13.204901"
-  },
-  {
-    "id": "8c525cdd8fbf",
-    "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-    "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T15:49:55",
-    "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
-    "collected_at": "2026-05-05T19:27:13.089189"
-  },
-  {
-    "id": "9e4a3d4b16dd",
-    "title": "Three Inverse Laws of AI",
-    "url": "https://susam.net/inverse-laws-of-robotics.html",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T15:27:18",
-    "summary": "Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 243 # Comments: 163",
-    "collected_at": "2026-05-05T19:27:16.335068"
-  },
-  {
-    "id": "50fa2a67f866",
-    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-    "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T15:31:37",
-    "summary": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
-    "collected_at": "2026-05-05T19:27:13.089219"
-  },
-  {
-    "id": "8ee7d398be1e",
-    "title": "OpenAI is reportedly launching a phone for ChatGPT",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T14:54:00",
-    "summary": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early 2027. According to Kuo, the",
-    "collected_at": "2026-05-05T19:27:13.204943"
-  },
-  {
-    "id": "600ab37c0af8",
-    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-    "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T14:27:00",
-    "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
-    "collected_at": "2026-05-05T19:27:13.089250"
-  },
-  {
-    "id": "8605b7862af3",
-    "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T14:26:59",
-    "summary": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Department's Center for AI Standards and Innovation (CAISI) says it will work with the AI companies to per",
-    "collected_at": "2026-05-05T19:27:13.204986"
-  },
-  {
-    "id": "1dd904ae7ba5",
-    "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-    "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T14:20:50",
-    "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
-    "collected_at": "2026-05-05T19:27:13.089280"
-  },
-  {
-    "id": "47be93869dec",
-    "title": "AI didn't delete your database, you did",
-    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-05T14:07:50",
-    "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 440 # Comments: 227",
-    "collected_at": "2026-05-05T19:27:16.335108"
-  },
-  {
-    "id": "74750394a637",
-    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-    "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T14:07:47",
-    "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
-    "collected_at": "2026-05-05T19:27:13.089309"
-  },
-  {
-    "id": "93d0ca3418b0",
-    "title": "Java 近期资讯：OpenJDK、 Oracle 关键补丁更新、 Open Liberty、Testcontainers、IntelliJ IDEA",
-    "url": "https://www.infoq.cn/article/LhzkgpOBi5mPkYHoKgE5?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-05T13:57:41",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-05T08:16:20.234870"
-  },
-  {
-    "id": "9cd301844a54",
-    "title": "What an AI-designed car looks like",
-    "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T13:42:18",
-    "summary": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tastes, politics, and gas prices to change. That's one reason car manufacturers are so enthusiastic abo",
-    "collected_at": "2026-05-05T19:27:13.205025"
-  },
-  {
-    "id": "d850e7bb9366",
-    "title": "Vercel 开源 Open Agents，支持后台运行 AI 编码工作流",
-    "url": "https://www.infoq.cn/article/2D4Ky0AYKQu2JGeUW6HN?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-05T13:55:09",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-05T08:16:20.234910"
   }
 ]
