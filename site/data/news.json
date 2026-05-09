@@ -1,5 +1,101 @@
 [
   {
+    "id": "5634b810f108",
+    "title": "“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文",
+    "url": "https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-09T18:19:41",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-09T13:25:33.017439"
+  },
+  {
+    "id": "d0ac78beb93b",
+    "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+    "url": "https://www.qbitai.com/2026/05/415019.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-09T09:53:25",
+    "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地",
+    "collected_at": "2026-05-09T13:22:55.443396"
+  },
+  {
+    "id": "f01039e7c9e6",
+    "title": "DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
+    "url": "https://www.infoq.cn/article/4pLw4WvN9LqCMkiu2eoV?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-09T17:56:21",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-09T13:25:33.017483"
+  },
+  {
+    "id": "d81ab1e0c1a9",
+    "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
+    "url": "https://www.qbitai.com/2026/05/414826.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-09T09:37:02",
+    "summary": "以0.829的总成绩荣登榜首",
+    "collected_at": "2026-05-09T13:22:55.443435"
+  },
+  {
+    "id": "801a457d7027",
+    "title": "颠覆认知：运维 Agent 靠知识，Coding Agent 靠约束！",
+    "url": "https://www.infoq.cn/video/fXEzyFJ4jDYk0H0fPSIX?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-09T17:54:17",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-09T13:25:33.017519"
+  },
+  {
+    "id": "3ca1c9c32a01",
+    "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
+    "url": "https://www.qbitai.com/2026/05/415010.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-09T09:22:38",
+    "summary": "打造“赛博乙方天团”",
+    "collected_at": "2026-05-09T13:22:55.443469"
+  },
+  {
+    "id": "5f05a40eb384",
+    "title": "AI 把编程这件事接管之后，作为程序员的我该何去何从？",
+    "url": "https://www.infoq.cn/article/128UQPlXTAZjV9uwjYFJ?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-09T17:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-09T13:25:33.017689"
+  },
+  {
+    "id": "6ffbc46f47da",
+    "title": "光帆带摄像头AI耳机本月开售",
+    "url": "https://36kr.com/newsflashes/3801812857871876?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-09T08:56:08",
+    "summary": "36氪获悉，光帆科技官方账号发布发售预热海报。海报显示，全球首款具备视觉感知能力的主动式AI耳机——光帆全感AI耳机，将于5月15日正式开售。",
+    "collected_at": "2026-05-09T13:25:31.451253"
+  },
+  {
     "id": "8328c3ff4517",
     "title": "停止编码的那天，就是失去架构判断力的开始：一位 30 年架构师的 AI 生存指南",
     "url": "https://www.infoq.cn/article/zLaHwePKytptG102IscF?utm_source=rss&utm_medium=article",
@@ -12,16 +108,16 @@
     "collected_at": "2026-05-09T08:02:18.178399"
   },
   {
-    "id": "0c678445168b",
-    "title": "百度正式发布文心大模型5.1",
-    "url": "https://36kr.com/newsflashes/3801731549371905?f=rss",
+    "id": "93b280ab4465",
+    "title": "Deepseek和阿里谈崩了？市场人士回应",
+    "url": "https://36kr.com/newsflashes/3801813920144901?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-09T07:21:19",
-    "summary": "36氪获悉，百度正式发布新一代基础大模型文心大模型 5.1。据官方介绍，文心 5.1采用“多维弹性预训练”技术，仅以业界同规模模型约6%的预��练成本，达到基础效果领先水平，登上LMArena搜索榜国内第一。",
-    "collected_at": "2026-05-09T08:02:16.873496"
+    "published": "2026-05-09T08:45:06",
+    "summary": "5月8日，有消息称，4月，DeepSeek（深度求索）罕见展开一场巨额融资计划，同时吸引了腾讯和阿里巴巴两家大厂。据该消息，近期，阿里巴巴和DeepSeek谈崩了。对此，市场人士透露，阿里应该没有进行谈判。（每经网）",
+    "collected_at": "2026-05-09T13:25:31.451369"
   },
   {
     "id": "5499a95c89db",
@@ -36,16 +132,16 @@
     "collected_at": "2026-05-09T08:02:18.178440"
   },
   {
-    "id": "940f01cef21b",
-    "title": "智源FlagSafe平台正式发布",
-    "url": "https://36kr.com/newsflashes/3801709226483208?f=rss",
+    "id": "8e14730c3dfc",
+    "title": "字节跳动据悉计划将AI基础设施支出增加25%",
+    "url": "https://36kr.com/newsflashes/3801787739282952?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-09T07:09:33",
-    "summary": "36氪获悉，近日，北京智源人工智能研究院联合北京大学、北京邮电大学、北京航空航天大学、上海交通大学、中国科学院信息工程研究所、中国科学院计算技术研究所等国内机构，正式发布FlagSafe大模型安全平台。平台首批汇聚多个前沿大模型安全研究项目，围绕红队演练、蓝队防御、白盒透视三个核心方向，共同打造覆盖风险发现、防御治理与机理解释的高标准安全平台。",
-    "collected_at": "2026-05-09T08:02:16.873531"
+    "published": "2026-05-09T08:18:28",
+    "summary": "据报道，随着内存芯片成本上涨以及字节跳动加速布局人工智能（AI），该公司已将今年的AI基础设施支出计划增加25%至2000亿元人民币。（财联社）",
+    "collected_at": "2026-05-09T13:25:31.451398"
   },
   {
     "id": "1cbc7c95219b",
@@ -60,16 +156,16 @@
     "collected_at": "2026-05-09T08:02:18.178470"
   },
   {
-    "id": "0e5ccd727804",
-    "title": "Zeroth元点M1成为全球首个接入OpenClaw的人形机器人",
-    "url": "https://36kr.com/newsflashes/3801681177616133?f=rss",
-    "source": "36氪",
+    "id": "cff2a28fc4c5",
+    "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件",
+    "url": "https://www.qbitai.com/2026/05/414827.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-09T06:30:04",
-    "summary": "36氪获悉，乐享科技正式官宣，旗下具身智能品牌Zeroth元点的M1人形机器人成为全球首款接入腾讯OpenClaw（小龙虾）的可量产人形机器人。目前，乐享科技已与腾讯达成万台硬件终端接入的意向， M1已成功接入龙虾并开启内测，计划于5月下旬正式上线，上半年启动预售。",
-    "collected_at": "2026-05-09T08:02:16.873722"
+    "priority": 1,
+    "published": "2026-05-09T08:07:08",
+    "summary": "实现过程开源可复现",
+    "collected_at": "2026-05-09T13:22:55.443500"
   },
   {
     "id": "279f269886a2",
@@ -84,16 +180,16 @@
     "collected_at": "2026-05-09T03:23:54.982224"
   },
   {
-    "id": "68b00e95dbc3",
-    "title": "VLA死了，遥操也死了！英伟达机器人一号位说的",
-    "url": "https://www.qbitai.com/2026/05/414547.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-09T06:24:18",
-    "summary": "Jim Fan全新暴论出炉",
-    "collected_at": "2026-05-09T07:59:47.140677"
+    "id": "05e2bb91bda8",
+    "title": "All my clients wanted a carousel, now it's an AI chatbot",
+    "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T07:23:40",
+    "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 114 # Comments: 52",
+    "collected_at": "2026-05-09T13:25:13.472490"
   },
   {
     "id": "76350eef4824",
@@ -108,16 +204,16 @@
     "collected_at": "2026-05-09T03:23:54.982261"
   },
   {
-    "id": "8def51b9b8b6",
-    "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
-    "url": "https://www.qbitai.com/2026/05/414501.html",
-    "source": "量子位",
+    "id": "0c678445168b",
+    "title": "百度正式发布文心大模型5.1",
+    "url": "https://36kr.com/newsflashes/3801731549371905?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-09T04:50:55",
-    "summary": "眼镜里的信息第一次「立」起来了",
-    "collected_at": "2026-05-09T07:59:47.140717"
+    "priority": 4,
+    "published": "2026-05-09T07:21:19",
+    "summary": "36氪获悉，百度正式发布新一代基础大模型文心大模型 5.1。据官方介绍，文心 5.1采用“多维弹性预训练”技术，仅以业界同规模模型约6%的预��练成本，达到基础效果领先水平，登上LMArena搜索榜国内第一。",
+    "collected_at": "2026-05-09T08:02:16.873496"
   },
   {
     "id": "797cad6f3c58",
@@ -130,6 +226,66 @@
     "published": "2026-05-09T10:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-09T03:23:54.982291"
+  },
+  {
+    "id": "4c2830f528ab",
+    "title": "谷歌「AI联合数学家」来了！刷新最难数学AI基准SOTA，牛津教授用它解开群论悬案",
+    "url": "https://www.qbitai.com/2026/05/414788.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-09T07:12:48",
+    "summary": "谷歌AI for Math迈出最新一步",
+    "collected_at": "2026-05-09T13:22:55.443530"
+  },
+  {
+    "id": "940f01cef21b",
+    "title": "智源FlagSafe平台正式发布",
+    "url": "https://36kr.com/newsflashes/3801709226483208?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-09T07:09:33",
+    "summary": "36氪获悉，近日，北京智源人工智能研究院联合北京大学、北京邮电大学、北京航空航天大学、上海交通大学、中国科学院信息工程研究所、中国科学院计算技术研究所等国内机构，正式发布FlagSafe大模型安全平台。平台首批汇聚多个前沿大模型安全研究项目，围绕红队演练、蓝队防御、白盒透视三个核心方向，共同打造覆盖风险发现、防御治理与机理解释的高标准安全平台。",
+    "collected_at": "2026-05-09T08:02:16.873531"
+  },
+  {
+    "id": "68b00e95dbc3",
+    "title": "VLA死了，遥操也死了！英伟达机器人一号位说的",
+    "url": "https://www.qbitai.com/2026/05/414547.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-09T06:24:18",
+    "summary": "Jim Fan全新暴论出炉",
+    "collected_at": "2026-05-09T07:59:47.140677"
+  },
+  {
+    "id": "0e5ccd727804",
+    "title": "Zeroth元点M1成为全球首个接入OpenClaw的人形机器人",
+    "url": "https://36kr.com/newsflashes/3801681177616133?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-09T06:30:04",
+    "summary": "36氪获悉，乐享科技正式官宣，旗下具身智能品牌Zeroth元点的M1人形机器人成为全球首款接入腾讯OpenClaw（小龙虾）的可量产人形机器人。目前，乐享科技已与腾讯达成万台硬件终端接入的意向， M1已成功接入龙虾并开启内测，计划于5月下旬正式上线，上半年启动预售。",
+    "collected_at": "2026-05-09T08:02:16.873722"
+  },
+  {
+    "id": "8def51b9b8b6",
+    "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
+    "url": "https://www.qbitai.com/2026/05/414501.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-09T04:50:55",
+    "summary": "眼镜里的信息第一次「立」起来了",
+    "collected_at": "2026-05-09T07:59:47.140717"
   },
   {
     "id": "92134f72cc7f",
@@ -312,16 +468,16 @@
     "collected_at": "2026-05-09T08:02:12.196971"
   },
   {
-    "id": "8e2b23460141",
-    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-    "source": "MIT Tech Review",
+    "id": "0418b324e16d",
+    "title": "People Hate AI Art",
+    "url": "https://mccue.dev/pages/5-8-26-ai-art",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-08T23:59:19",
-    "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t",
-    "collected_at": "2026-05-09T03:23:40.385222"
+    "published": "2026-05-09T00:39:58",
+    "summary": "Article URL: https://mccue.dev/pages/5-8-26-ai-art Comments URL: https://news.ycombinator.com/item?id=48070548 Points: 122 # Comments: 141",
+    "collected_at": "2026-05-09T13:25:13.472529"
   },
   {
     "id": "28fb0d7a77bd",
@@ -336,16 +492,16 @@
     "collected_at": "2026-05-09T08:02:12.197063"
   },
   {
-    "id": "3db6af49a0c9",
-    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-    "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-    "source": "TechCrunch AI",
+    "id": "8e2b23460141",
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-08T22:59:05",
-    "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-    "collected_at": "2026-05-09T03:23:40.118498"
+    "priority": 2,
+    "published": "2026-05-08T23:59:19",
+    "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed t",
+    "collected_at": "2026-05-09T03:23:40.385222"
   },
   {
     "id": "4bd73e808358",
@@ -360,16 +516,16 @@
     "collected_at": "2026-05-09T08:02:12.197147"
   },
   {
-    "id": "182ffaf8859a",
-    "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
-    "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
-    "source": "Simon Willison",
+    "id": "3db6af49a0c9",
+    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+    "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T21:00:11",
-    "summary": "Using Claude Code: The Unreasonable Effectiveness of HTML Thought-provoking piece by Thariq Shihipar (on the Claude Code team at Anthropic) advocating for HTML over Markdown as an output format to request from Claude. The article is crammed with interesting examples (collected on this site) and prom",
-    "collected_at": "2026-05-09T03:23:48.267304"
+    "priority": 1,
+    "published": "2026-05-08T22:59:05",
+    "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+    "collected_at": "2026-05-09T03:23:40.118498"
   },
   {
     "id": "37ab247f2872",
@@ -384,16 +540,16 @@
     "collected_at": "2026-05-09T08:02:12.197223"
   },
   {
-    "id": "94aedc8a6bc0",
-    "title": "创新智能体 新质生产力 ｜ 博云企业级 AI 原生智能体平台 BoAgent 暨生态合作战略发布会",
-    "url": "https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-08T19:56:50",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-08T13:57:34.104300"
+    "id": "182ffaf8859a",
+    "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
+    "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-08T21:00:11",
+    "summary": "Using Claude Code: The Unreasonable Effectiveness of HTML Thought-provoking piece by Thariq Shihipar (on the Claude Code team at Anthropic) advocating for HTML over Markdown as an output format to request from Claude. The article is crammed with interesting examples (collected on this site) and prom",
+    "collected_at": "2026-05-09T03:23:48.267304"
   },
   {
     "id": "741857af7efd",
@@ -408,16 +564,16 @@
     "collected_at": "2026-05-09T08:02:12.197297"
   },
   {
-    "id": "3bc01457309b",
-    "title": "All the latest updates on AI data centers",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-08T18:45:08",
-    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160;",
-    "collected_at": "2026-05-08T19:24:40.117129"
+    "id": "94aedc8a6bc0",
+    "title": "创新智能体 新质生产力 ｜ 博云企业级 AI 原生智能体平台 BoAgent 暨生态合作战略发布会",
+    "url": "https://www.infoq.cn/video/Ch593mOMhlZBcTOzlXoh?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-08T19:56:50",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-08T13:57:34.104300"
   },
   {
     "id": "32505e27a45c",
@@ -432,16 +588,16 @@
     "collected_at": "2026-05-09T08:02:12.197365"
   },
   {
-    "id": "a0ebd83ccb77",
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "source": "TechCrunch AI",
+    "id": "3bc01457309b",
+    "title": "All the latest updates on AI data centers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-08T18:33:21",
-    "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "collected_at": "2026-05-08T19:24:39.921327"
+    "published": "2026-05-08T18:45:08",
+    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160;",
+    "collected_at": "2026-05-08T19:24:40.117129"
   },
   {
     "id": "a09c781d32b9",
@@ -456,16 +612,16 @@
     "collected_at": "2026-05-09T08:02:12.197434"
   },
   {
-    "id": "3e232168d5bc",
-    "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
-    "url": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-08T18:27:15",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-08T13:57:34.104333"
+    "id": "a0ebd83ccb77",
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T18:33:21",
+    "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+    "collected_at": "2026-05-08T19:24:39.921327"
   },
   {
     "id": "eda6f45a022d",
@@ -480,16 +636,16 @@
     "collected_at": "2026-05-09T08:02:12.197499"
   },
   {
-    "id": "45f425d42eab",
-    "title": "AI is breaking two vulnerability cultures",
-    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T17:55:08",
-    "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 268 # Comments: 115",
-    "collected_at": "2026-05-09T03:23:41.463868"
+    "id": "3e232168d5bc",
+    "title": "Anthropic最新论文撬开大模型黑箱：隐藏动机发现率提升4倍以上",
+    "url": "https://www.infoq.cn/article/gAkVCqphr0A1r2PLSWDz?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-08T18:27:15",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-08T13:57:34.104333"
   },
   {
     "id": "3bece9d339ae",
@@ -504,16 +660,16 @@
     "collected_at": "2026-05-09T08:02:12.197569"
   },
   {
-    "id": "3e54a7f0990a",
-    "title": "LinkedIn 整合招聘数据管道，为 AI 系统赋能",
-    "url": "https://www.infoq.cn/article/o2z964wv6v7jB8d9ZM0K?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-08T16:44:01",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-08T13:57:34.104404"
+    "id": "45f425d42eab",
+    "title": "AI is breaking two vulnerability cultures",
+    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-08T17:55:08",
+    "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures Comments URL: https://news.ycombinator.com/item?id=48066524 Points: 268 # Comments: 115",
+    "collected_at": "2026-05-09T03:23:41.463868"
   },
   {
     "id": "ba593451db6d",
@@ -528,16 +684,16 @@
     "collected_at": "2026-05-09T08:02:12.197642"
   },
   {
-    "id": "2fc83d5d0897",
-    "title": "Java近期资讯：OpenJDK JEP、GlassFish、Spring AI、JReleaser、A2A Java SDK、Google ADK、Gradle",
-    "url": "https://www.infoq.cn/article/2qc59l6uaHDHRUOQIcU9?utm_source=rss&utm_medium=article",
+    "id": "3e54a7f0990a",
+    "title": "LinkedIn 整合招聘数据管道，为 AI 系统赋能",
+    "url": "https://www.infoq.cn/article/o2z964wv6v7jB8d9ZM0K?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-05-08T16:39:33",
+    "published": "2026-05-08T16:44:01",
     "summary": "点击查看原文>",
-    "collected_at": "2026-05-08T13:57:34.104436"
+    "collected_at": "2026-05-08T13:57:34.104404"
   },
   {
     "id": "8e51cfe97b0d",
@@ -552,16 +708,16 @@
     "collected_at": "2026-05-09T08:02:12.197726"
   },
   {
-    "id": "6883f9f55cb3",
-    "title": "“不必给中国最新最好芯片！”黄仁勋直言不同意Dario做法，称“软件工程师岗没了”完全没道理！",
-    "url": "https://www.infoq.cn/article/Ll3XLpG1LV8QBKtuxgc2?utm_source=rss&utm_medium=article",
+    "id": "2fc83d5d0897",
+    "title": "Java近期资讯：OpenJDK JEP、GlassFish、Spring AI、JReleaser、A2A Java SDK、Google ADK、Gradle",
+    "url": "https://www.infoq.cn/article/2qc59l6uaHDHRUOQIcU9?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-05-08T16:32:35",
+    "published": "2026-05-08T16:39:33",
     "summary": "点击查看原文>",
-    "collected_at": "2026-05-08T13:57:34.104470"
+    "collected_at": "2026-05-08T13:57:34.104436"
   },
   {
     "id": "0ea2c9c12c5d",
@@ -576,16 +732,16 @@
     "collected_at": "2026-05-09T08:02:12.197796"
   },
   {
-    "id": "91cd61c2a457",
-    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-08T16:30:56",
-    "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - a",
-    "collected_at": "2026-05-08T19:24:40.117197"
+    "id": "6883f9f55cb3",
+    "title": "“不必给中国最新最好芯片！”黄仁勋直言不同意Dario做法，称“软件工程师岗没了”完全没道理！",
+    "url": "https://www.infoq.cn/article/Ll3XLpG1LV8QBKtuxgc2?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-08T16:32:35",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-08T13:57:34.104470"
   },
   {
     "id": "0da0909df30a",
@@ -598,6 +754,18 @@
     "published": "2026-05-09T04:00:00",
     "summary": "arXiv:2605.05546v1 Announce Type: new Abstract: Self-play reinforcement learning has shown strong performance in domains with formally verifiable structure, such as mathematics and coding, where both problem generation and reward computation can be grounded in explicit rules. Extending this paradigm",
     "collected_at": "2026-05-09T08:02:12.197877"
+  },
+  {
+    "id": "91cd61c2a457",
+    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-08T16:30:56",
+    "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - a",
+    "collected_at": "2026-05-08T19:24:40.117197"
   },
   {
     "id": "2c5dba8eca78",
@@ -660,16 +828,16 @@
     "collected_at": "2026-05-08T19:24:40.117259"
   },
   {
-    "id": "f34d7e3345a7",
-    "title": "高盛：美国数据中心用电需求或在两年内翻倍",
-    "url": "https://36kr.com/newsflashes/3800643284245513?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-08T12:54:16",
-    "summary": "高盛预计，美国数据中心电力需求将从2025年的31GW增长至2026年的41GW，并在2027年进一步升至66GW。高盛认为，本轮AI数据中心扩张正在重塑美国地理格局。得州和佐治亚州正成为AI数据中心的重要聚集地，因为这些地区电力供应扩张更快，接入能力更强。（财联社）",
-    "collected_at": "2026-05-08T13:57:32.737809"
+    "id": "cfbcbe75159d",
+    "title": "Show HN: Git for AI Agents",
+    "url": "https://github.com/regent-vcs/re_gent",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-08T14:15:36",
+    "summary": "hi guys. been working on something i think is fundamentally missing in today's workflow with ai agents.vcs.i find myself struggling with questions that agents can't answer like \"why did you do it?\", \"when did u delete this folder? why?\", etc. or trying to /rewind (after a /compact...) or basically `",
+    "collected_at": "2026-05-09T13:25:13.472623"
   },
   {
     "id": "56959341dab6",
@@ -682,6 +850,18 @@
     "published": "2026-05-08T13:31:37",
     "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such wa",
     "collected_at": "2026-05-08T13:57:19.377544"
+  },
+  {
+    "id": "f34d7e3345a7",
+    "title": "高盛：美国数据中心用电需求或在两年内翻倍",
+    "url": "https://36kr.com/newsflashes/3800643284245513?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-08T12:54:16",
+    "summary": "高盛预计，美国数据中心电力需求将从2025年的31GW增长至2026年的41GW，并在2027年进一步升至66GW。高盛认为，本轮AI数据中心扩张正在重塑美国地理格局。得州和佐治亚州正成为AI数据中心的重要聚集地，因为这些地区电力供应扩张更快，接入能力更强。（财联社）",
+    "collected_at": "2026-05-08T13:57:32.737809"
   },
   {
     "id": "09a84312cc4b",
@@ -1426,6 +1606,18 @@
     "published": "2026-05-07T17:45:38",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-07T14:20:37.679437"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-07T17:40:50",
+    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits",
+    "collected_at": "2026-05-09T13:25:12.367928"
   },
   {
     "id": "9d6f9f2987fb",
@@ -3406,197 +3598,5 @@
     "published": "2026-05-06T04:00:00",
     "summary": "arXiv:2605.02944v1 Announce Type: new Abstract: Reinforcement learning (RL) from unit-test feedback has become a standard post-training recipe for improving large language models (LLMs) on code generation. However, the pass-all-tests binary reward can be sparse, yielding no learning signal on challe",
     "collected_at": "2026-05-06T08:32:32.956922"
-  },
-  {
-    "id": "796131df6c81",
-    "title": "Geometry over Density: Few-Shot Cross-Domain OOD Detection",
-    "url": "https://arxiv.org/abs/2605.03410",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.03410v2 Announce Type: new Abstract: Out-of-distribution (OOD) detection identifies test samples that fall outside a model's training distribution, a capability critical for safe deployment in high-stakes applications. Standard OOD detectors are trained on a specific in-distribution (ID)",
-    "collected_at": "2026-05-07T03:28:29.423227"
-  },
-  {
-    "id": "488c8342accb",
-    "title": "部分城商行希望获得AIC牌照，暂未获“放行”",
-    "url": "https://36kr.com/newsflashes/3797245643365633?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-06T03:18:01",
-    "summary": "今年3月，邮储银行旗下金融资产投资公司（AIC）获批开业，银行系AIC就此扩容至9家。日前，记者在采访中了解到，已有数家地方城商行就开设AIC事宜与相关部门进行积极沟通，但未有实质进展。相关上市银行知情人士向记者表示，地方政府对于下辖银行机构开设AIC热情较大，但与相关部门沟通下来的情况是，AIC扩容机构将暂定在国有行、股份行层面，“可能需要后续观察股份行AIC的运营情况，才决定是否将城商行纳入其中”。（财联社）",
-    "collected_at": "2026-05-06T03:27:52.388191"
-  },
-  {
-    "id": "b8cf2ddaf532",
-    "title": "我写了一个 skill，用 AI 给 AI「除味儿」",
-    "url": "https://sspai.com/post/109288",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-06T02:49:30",
-    "summary": "强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？查看全文",
-    "collected_at": "2026-05-06T08:32:44.330727"
-  },
-  {
-    "id": "0a378ff9cbd7",
-    "title": "国民技术MCU打入全球顶级电源管理厂商，目前已批量供货",
-    "url": "https://36kr.com/newsflashes/3797233495547140?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-06T03:05:39",
-    "summary": "从国内MCU产业链获悉，大量海外AI电源、光通信公司，正开始大规模采购国产MCU芯片，以应对高速扩张的算力和AI电源需求。其中，国民技术今年已开始对全球顶级电源管理大厂实现批量供货，目前电源监控芯片已稳定量产，单价1.5～2美元。据了解，国民技术今年7月两款通信类芯片也将完成送样，有望成为该客户核心国产MCU合作伙伴，持续提升配套份额。（界面）",
-    "collected_at": "2026-05-06T03:27:52.388407"
-  },
-  {
-    "id": "c60c4f1bf424",
-    "title": "Telus Uses AI to Alter Call-Agent Accents",
-    "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T01:38:44",
-    "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 138 # Comments: 89",
-    "collected_at": "2026-05-06T08:32:29.609531"
-  },
-  {
-    "id": "b0630709f76f",
-    "title": "淘宝510“答题免单”活动上线，新增AI试穿玩法",
-    "url": "https://36kr.com/newsflashes/3797226764786950?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-06T02:58:48",
-    "summary": "5月6日，淘宝App“答题免单”活动正式上线。作为510周年庆招牌活动，今年为第三届，并新增了AI试穿玩法。5月6日0点至5月9日24点，用户搜索“淘宝免单”后根据线索猜数字即可参与。",
-    "collected_at": "2026-05-06T03:27:52.388515"
-  },
-  {
-    "id": "8dfae29bb082",
-    "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
-    "url": "https://www.qbitai.com/2026/05/412995.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-06T00:22:35",
-    "summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看",
-    "collected_at": "2026-05-06T03:25:24.143928"
-  },
-  {
-    "id": "bd628412d8c5",
-    "title": "市场监管总局批准筹建全国智能化医疗器械标准化工作组",
-    "url": "https://36kr.com/newsflashes/3797221246688265?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-06T02:53:12",
-    "summary": "记者今天了解到，市场监管总局批准筹建全国智能化医疗器械标准化工作组，由国家药监局负责管理。全国智能化医疗器械标准化工作组主要负责全国智能化医疗器械，包括人工智能医疗器械、医用机器人、脑机接口医疗器械以及融合技术类医疗器械等领域的标准化工作。（央视新闻）",
-    "collected_at": "2026-05-06T03:27:52.388549"
-  },
-  {
-    "id": "2e579d63d85d",
-    "title": "派早报：一加、realme 合并，M4 Mac mini 256GB 版本下架等",
-    "url": "https://sspai.com/post/109410",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-06T00:12:58",
-    "summary": "M4 Mac mini 256GB 版本下架，豆包确认将推出付费版本等。查看全文",
-    "collected_at": "2026-05-06T03:28:01.431585"
-  },
-  {
-    "id": "6491f8c1211c",
-    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-    "source": "HuggingFace Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-06T00:00:00",
-    "summary": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-    "collected_at": "2026-05-06T14:22:55.379922"
-  },
-  {
-    "id": "2d7f3b660987",
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-06T00:00:00",
-    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-    "collected_at": "2026-05-06T19:51:24.811774"
-  },
-  {
-    "id": "881da759af04",
-    "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-    "url": "https://36kr.com/p/3797041945304327?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-05T23:55:08",
-    "summary": "今日热点导览 分析师称iPhone 18 Pro定价策略激进，起步价8999元 胖东来郑州店注册成立，预计今年10月开业 保时捷卖掉布加迪，预计2026年销量下滑至3万辆 马斯克就推特持股披露诉讼与美证监会达成和解 三星继承人已付清12万亿韩元遗产税 TOP 3 大新闻 豆包将在免费模式外新增付费订阅，官方回应 近日，豆包App Store页面出现付费版本服务声明。对此，豆包官方回应称，豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段。 另据接近豆包的人士透露，付费功能将主要专注在复杂任务和生产力场景，如PPT生成、数据分析、影视制作",
-    "collected_at": "2026-05-06T03:27:52.387790"
-  },
-  {
-    "id": "49359060f440",
-    "title": "How frontier enterprises are building an AI advantage",
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-06T00:00:00",
-    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-    "collected_at": "2026-05-06T19:51:24.811824"
-  },
-  {
-    "id": "412ad8a3329d",
-    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-05T23:50:10",
-    "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-    "collected_at": "2026-05-06T03:27:40.671808"
-  },
-  {
-    "id": "54dff98022e0",
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "url": "https://openai.com/index/singular-bank",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-06T00:00:00",
-    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-    "collected_at": "2026-05-07T03:28:27.880034"
-  },
-  {
-    "id": "b18ba1c70db3",
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "url": "https://openai.com/index/uber",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-06T00:00:00",
-    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-    "collected_at": "2026-05-07T03:28:27.880069"
   }
 ]

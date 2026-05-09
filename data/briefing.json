@@ -1,11 +1,11 @@
 {
   "date": "2026-05-09",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 36氪, 量子位, ArXiv CS.AI",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 量子位, 36氪, Hacker News AI",
   "news_count": 20,
   "sources": {
-    "InfoQ AI": 6,
-    "36氪": 4,
+    "InfoQ AI": 10,
     "量子位": 5,
-    "ArXiv CS.AI": 5
+    "36氪": 4,
+    "Hacker News AI": 1
   }
 }
