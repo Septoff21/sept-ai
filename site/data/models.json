@@ -5808,6 +5808,25 @@
     "collected_at": "2026-05-08T13:57:45.137054"
   },
   {
+    "id": "hf-Zyphra--ZAYA1-74B-preview",
+    "name": "Zyphra/ZAYA1-74B-preview",
+    "display_name": "ZAYA1-74B-preview",
+    "url": "https://huggingface.co/Zyphra/ZAYA1-74B-preview",
+    "author": "Zyphra",
+    "pipeline_tag": "",
+    "likes": 33,
+    "downloads": 1071,
+    "tags": [
+      "safetensors",
+      "zaya",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-05T23:12:08.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-10T19:10:59.830773"
+  },
+  {
     "id": "hf-DJLougen--Ornstein3.6-35B-A3B-GGUF",
     "name": "DJLougen/Ornstein3.6-35B-A3B-GGUF",
     "display_name": "Ornstein3.6-35B-A3B-GGUF",
@@ -7746,6 +7765,26 @@
     "created_at": "2026-05-10T13:11:33.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-10T13:26:41.103448"
+  },
+  {
+    "id": "hf-Danilosistu--Edu3B-Model",
+    "name": "Danilosistu/Edu3B-Model",
+    "display_name": "Edu3B-Model",
+    "url": "https://huggingface.co/Danilosistu/Edu3B-Model",
+    "author": "Danilosistu",
+    "pipeline_tag": "question-answering",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "question-answering",
+      "en",
+      "dataset:HuggingFaceFW/fineweb-edu",
+      "license:unlicense",
+      "region:us"
+    ],
+    "created_at": "2026-05-10T19:01:08.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-10T19:10:59.896372"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23807,54 +23846,5 @@
     "created_at": "2026-04-27T03:15:27.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635433"
-  },
-  {
-    "id": "hf-WinderBYZ--MyAwesomeModel-TestRepo",
-    "name": "WinderBYZ/MyAwesomeModel-TestRepo",
-    "display_name": "MyAwesomeModel-TestRepo",
-    "url": "https://huggingface.co/WinderBYZ/MyAwesomeModel-TestRepo",
-    "author": "WinderBYZ",
-    "pipeline_tag": "feature-extraction",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "pytorch",
-      "bert",
-      "feature-extraction",
-      "license:mit",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:14:38.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635435"
-  },
-  {
-    "id": "hf-Hebisuke--Qwen2.5-7B-Instruct_numbers_1.5B_lora16",
-    "name": "Hebisuke/Qwen2.5-7B-Instruct_numbers_1.5B_lora16",
-    "display_name": "Qwen2.5-7B-Instruct_numbers_1.5B_lora16",
-    "url": "https://huggingface.co/Hebisuke/Qwen2.5-7B-Instruct_numbers_1.5B_lora16",
-    "author": "Hebisuke",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "text-generation-inference",
-      "unsloth",
-      "qwen2",
-      "trl",
-      "en",
-      "base_model:unsloth/Qwen2.5-7B-Instruct",
-      "base_model:finetune:unsloth/Qwen2.5-7B-Instruct",
-      "license:apache-2.0",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:14:27.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635438"
   }
 ]

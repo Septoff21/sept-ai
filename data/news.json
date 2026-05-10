@@ -1,5 +1,41 @@
 [
   {
+    "id": "760b0834b2e8",
+    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-10T18:44:11",
+    "summary": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "collected_at": "2026-05-10T19:10:45.396656"
+  },
+  {
+    "id": "2d01fe22d4f4",
+    "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+    "url": "https://www.qbitai.com/2026/05/415048.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-10T16:26:14",
+    "summary": "福尔摩斯探案都能演",
+    "collected_at": "2026-05-10T19:08:18.970966"
+  },
+  {
+    "id": "3a87370c284e",
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-10T15:34:25",
+    "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+    "collected_at": "2026-05-10T19:10:34.896400"
+  },
+  {
     "id": "3aa933f42a73",
     "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
     "url": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
@@ -3562,41 +3598,5 @@
     "published": "2026-05-06T04:00:00",
     "summary": "arXiv:2605.03231v1 Announce Type: new Abstract: What if a browser agent could learn your work simply by watching you do it? We present cotomi Act, a browser-based computer-using agent that combines reliable multi-step task execution with persistent organizational knowledge learned from user behavior",
     "collected_at": "2026-05-07T03:28:29.422625"
-  },
-  {
-    "id": "0d958faa9a36",
-    "title": "DeRelayL: Sustainable Decentralized Relay Learning",
-    "url": "https://arxiv.org/abs/2605.02935",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.02935v1 Announce Type: new Abstract: In the era of big data, large-scale machine learning models have revolutionized various fields, driving significant advancements. However, large-scale model training demands high financial and computational resources, which are only affordable by a few",
-    "collected_at": "2026-05-06T08:32:32.956341"
-  },
-  {
-    "id": "6d0628533696",
-    "title": "Enhancing Agent Safety Judgment: Controlled Benchmark Rewriting and Analogical Reasoning for Deceptive Out-of-Distribution Scenarios",
-    "url": "https://arxiv.org/abs/2605.03242",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.03242v1 Announce Type: new Abstract: Tool-using agent systems powered by large language models (LLMs) are increasingly deployed across web, app, operating-system, and transactional environments. Yet existing safety benchmarks still emphasize explicit risks, potentially overstating a model",
-    "collected_at": "2026-05-07T03:28:29.422699"
-  },
-  {
-    "id": "f8f721d5dc91",
-    "title": "Proteo-R1: Reasoning Foundation Models for De Novo Protein Design",
-    "url": "https://arxiv.org/abs/2605.02937",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.02937v1 Announce Type: new Abstract: Deep learning in \\emph{de novo} protein design has achieved atomic-level fidelity. However, existing models remain largely non-deliberative: they directly synthesize molecular geometries without explicitly reasoning about which residues or interactions",
-    "collected_at": "2026-05-06T08:32:32.956453"
   }
 ]
