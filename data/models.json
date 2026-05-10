@@ -5611,6 +5611,33 @@
     "collected_at": "2026-05-05T19:27:34.858779"
   },
   {
+    "id": "hf-havenoammo--Qwen3.6-35B-A3B-MTP-GGUF",
+    "name": "havenoammo/Qwen3.6-35B-A3B-MTP-GGUF",
+    "display_name": "Qwen3.6-35B-A3B-MTP-GGUF",
+    "url": "https://huggingface.co/havenoammo/Qwen3.6-35B-A3B-MTP-GGUF",
+    "author": "havenoammo",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 36,
+    "downloads": 11829,
+    "tags": [
+      "transformers",
+      "gguf",
+      "unsloth",
+      "qwen",
+      "qwen3_5_moe",
+      "image-text-to-text",
+      "base_model:Qwen/Qwen3.6-35B-A3B",
+      "base_model:quantized:Qwen/Qwen3.6-35B-A3B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "conversational"
+    ],
+    "created_at": "2026-05-06T20:36:45.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-10T08:17:47.135644"
+  },
+  {
     "id": "hf-FrontiersMind--Nandi-Mini-150M-Tool-Calling",
     "name": "FrontiersMind/Nandi-Mini-150M-Tool-Calling",
     "display_name": "Nandi-Mini-150M-Tool-Calling",
@@ -23830,23 +23857,5 @@
     "created_at": "2026-04-27T03:14:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635440"
-  },
-  {
-    "id": "hf-drvp--visual_reasoning_stage_1",
-    "name": "drvp/visual_reasoning_stage_1",
-    "display_name": "visual_reasoning_stage_1",
-    "url": "https://huggingface.co/drvp/visual_reasoning_stage_1",
-    "author": "drvp",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "pytorch",
-      "qwen2_5_vl",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:14:05.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635443"
   }
 ]

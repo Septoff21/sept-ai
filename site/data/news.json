@@ -1,5 +1,29 @@
 [
   {
+    "id": "3aa933f42a73",
+    "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
+    "url": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-10T15:07:51",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-10T08:13:17.818788"
+  },
+  {
+    "id": "3b4fb9dad11f",
+    "title": "算力、绿能协同悄然提速",
+    "url": "https://36kr.com/newsflashes/3803150542675465?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-10T07:24:47",
+    "summary": "5月10日，2026年，算电协同被写入政府工作报告，成为社会关注的热词。“十五五”规划纲要也明确提出，推动绿色电力与算力协同布局。记者近日走访了解到，内蒙古、宁夏、贵州等新能源富集地区，通过布局建设源网荷储一体化、绿电直连等重点项目，充分挖掘西部地区就地消纳潜力，促进新能源与算力设施的协同规划布局。一场算力和绿能的“双向奔赴”正在悄然提速。 (新华社)",
+    "collected_at": "2026-05-10T08:13:16.447001"
+  },
+  {
     "id": "39fe34e1df97",
     "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
     "url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
@@ -10,6 +34,18 @@
     "published": "2026-05-10T10:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-10T03:35:27.151353"
+  },
+  {
+    "id": "2d1d48ae4ad0",
+    "title": "浙大校友用AI突破32年拉姆齐数下界",
+    "url": "https://www.qbitai.com/2026/05/415031.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-10T04:01:40",
+    "summary": "拉姆齐数R(3,17) 下界从92提升至93",
+    "collected_at": "2026-05-10T08:10:49.953887"
   },
   {
     "id": "99bf9f142a76",
@@ -70,6 +106,18 @@
     "published": "2026-05-10T01:22:41",
     "summary": "5月9日，英伟达在AI热潮中通过大手笔投资上下游企业，打造从芯片到AI模型的完整生态体系。数据显示，今年英伟达股权投资已突破400亿美元。业内人士指出，这种投资模式不仅帮助英伟达锁定下游客户，还在一定程度上确保了公司硬件需求的稳定供应。（财联社）",
     "collected_at": "2026-05-10T03:35:25.684013"
+  },
+  {
+    "id": "de0c9a4df94e",
+    "title": "Meta's embrace of AI is making its employees miserable",
+    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-09T18:33:36",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html Comments URL: https://news.ycombinator.com/item?id=48077126 Points: 385 # Comments: 414",
+    "collected_at": "2026-05-10T08:13:05.989560"
   },
   {
     "id": "5634b810f108",
@@ -3550,53 +3598,5 @@
     "published": "2026-05-06T04:00:00",
     "summary": "arXiv:2605.02937v1 Announce Type: new Abstract: Deep learning in \\emph{de novo} protein design has achieved atomic-level fidelity. However, existing models remain largely non-deliberative: they directly synthesize molecular geometries without explicitly reasoning about which residues or interactions",
     "collected_at": "2026-05-06T08:32:32.956453"
-  },
-  {
-    "id": "d37e1351eb94",
-    "title": "Revisiting the Travel Planning Capabilities of Large Language Models",
-    "url": "https://arxiv.org/abs/2605.03308",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.03308v1 Announce Type: new Abstract: Travel planning serves as a critical task for long-horizon reasoning, exposing significant deficits in LLMs. However, existing benchmarks and evaluations primarily assess final plans in an end-to-end manner, which lacks interpretability and makes it di",
-    "collected_at": "2026-05-07T03:28:29.422762"
-  },
-  {
-    "id": "80fce74578a0",
-    "title": "PAMNet: Cycle-aware Phase-Amplitude Modulation Network for Multivariate Time Series Forecasting",
-    "url": "https://arxiv.org/abs/2605.02938",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.02938v1 Announce Type: new Abstract: Reliable periodic patterns serve as a fundamental basis for accurate multivariate time series forecasting. However, existing methods either implicitly extract periodicity through complex model architectures (e.g., Transformers) with high computational",
-    "collected_at": "2026-05-06T08:32:32.956529"
-  },
-  {
-    "id": "9b530751157e",
-    "title": "Automated Large-scale CVRP Solver Design via LLM-assisted Flexible MCTS",
-    "url": "https://arxiv.org/abs/2605.03339",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.03339v1 Announce Type: new Abstract: Solving large-scale CVRP (LSCVRP) with hundreds to thousands of nodes remains difficult for even state-of-the-art solvers. Divide-and-conquer can scale by decomposing the instance into size-reduced subproblems, but designing decomposition logic and con",
-    "collected_at": "2026-05-07T03:28:29.422828"
-  },
-  {
-    "id": "fb442ff142fb",
-    "title": "From Static Analysis to Audience Dissemination: A Training-Free Multimodal Controversy Detection Multi-Agent Framework",
-    "url": "https://arxiv.org/abs/2605.02939",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.02939v1 Announce Type: new Abstract: Multimodal controversy detection (MCD) identifies controversial content in videos and their associated user comments, to support risk management for social video platforms.Prior research frames MCD as a static representation learning task, where featur",
-    "collected_at": "2026-05-06T08:32:32.956614"
   }
 ]
