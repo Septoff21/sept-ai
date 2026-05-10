@@ -5457,6 +5457,39 @@
     "collected_at": "2026-05-09T08:02:27.929074"
   },
   {
+    "id": "hf-froggeric--Qwen3.6-27B-MTP-GGUF",
+    "name": "froggeric/Qwen3.6-27B-MTP-GGUF",
+    "display_name": "Qwen3.6-27B-MTP-GGUF",
+    "url": "https://huggingface.co/froggeric/Qwen3.6-27B-MTP-GGUF",
+    "author": "froggeric",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 38,
+    "downloads": 36920,
+    "tags": [
+      "llama.cpp",
+      "gguf",
+      "qwen3.6",
+      "qwen3_5",
+      "conversational",
+      "vision",
+      "multimodal",
+      "speculative-decoding",
+      "mtp",
+      "image-text-to-text",
+      "en",
+      "zh",
+      "multilingual",
+      "base_model:Qwen/Qwen3.6-27B",
+      "base_model:quantized:Qwen/Qwen3.6-27B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-05T18:45:32.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-10T03:36:47.464645"
+  },
+  {
     "id": "hf-ibm-granite--granite-4.1-8b",
     "name": "ibm-granite/granite-4.1-8b",
     "display_name": "granite-4.1-8b",
@@ -7640,6 +7673,32 @@
     "created_at": "2026-05-09T07:55:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-09T08:02:28.025791"
+  },
+  {
+    "id": "hf-FradigmaDangerYT--dalle-mini",
+    "name": "FradigmaDangerYT/dalle-mini",
+    "display_name": "dalle-mini",
+    "url": "https://huggingface.co/FradigmaDangerYT/dalle-mini",
+    "author": "FradigmaDangerYT",
+    "pipeline_tag": "text-to-image",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "jax",
+      "dallebart",
+      "text-to-image",
+      "en",
+      "arxiv:2102.08981",
+      "arxiv:2012.09841",
+      "arxiv:1910.13461",
+      "arxiv:1910.09700",
+      "license:apache-2.0",
+      "co2_eq_emissions",
+      "region:us"
+    ],
+    "created_at": "2026-05-10T03:32:25.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-10T03:36:47.507368"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23789,39 +23848,5 @@
     "created_at": "2026-04-27T03:14:05.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635443"
-  },
-  {
-    "id": "hf-ZhouYuanHang--Zero",
-    "name": "ZhouYuanHang/Zero",
-    "display_name": "Zero",
-    "url": "https://huggingface.co/ZhouYuanHang/Zero",
-    "author": "ZhouYuanHang",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:afl-3.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:13:42.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635445"
-  },
-  {
-    "id": "hf-shirochange--kansaiben-gemma4-e2b",
-    "name": "shirochange/kansaiben-gemma4-e2b",
-    "display_name": "kansaiben-gemma4-e2b",
-    "url": "https://huggingface.co/shirochange/kansaiben-gemma4-e2b",
-    "author": "shirochange",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:12:52.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635448"
   }
 ]

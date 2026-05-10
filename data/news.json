@@ -1,5 +1,77 @@
 [
   {
+    "id": "39fe34e1df97",
+    "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+    "url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-10T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-10T03:35:27.151353"
+  },
+  {
+    "id": "99bf9f142a76",
+    "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
+    "url": "https://36kr.com/p/3802822550839047?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-10T02:18:57",
+    "summary": "编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。 这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是什么？中国卖家如何在AI时代抓住？那边电商处于什么阶段？带着这些疑问，36氪和Ozon大中华区总裁Simon Huang（黄效）进行了一次交流。结论就是：俄语区还有比较长的红利期，中国电商迁移过去有足够的品牌优势、供应链优势，以及运营优势。以下为正文： 过去几年，中国跨境",
+    "collected_at": "2026-05-10T03:35:25.682240"
+  },
+  {
+    "id": "78ff151ea44f",
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-10T02:00:00",
+    "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "collected_at": "2026-05-10T03:35:10.418165"
+  },
+  {
+    "id": "00c345ac2215",
+    "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+    "url": "https://36kr.com/p/3801745491943169?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-10T01:27:31",
+    "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。 长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、设计与制造。公司依托自主技术研发与场景化创新能力，围绕草坪养护场景，构建庭院智能全生态系统。 根据Euromonitor等报告显示，2024年，全球割草机器人销售额占割草机总额的9.1%，处于较低水平。分区",
+    "collected_at": "2026-05-10T03:35:25.682397"
+  },
+  {
+    "id": "f09c2bde499d",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-09T21:45:00",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "collected_at": "2026-05-10T03:35:10.418222"
+  },
+  {
+    "id": "d6c4ab0fb24f",
+    "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+    "url": "https://36kr.com/newsflashes/3802794581991168?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-10T01:22:41",
+    "summary": "5月9日，英伟达在AI热潮中通过大手笔投资上下游企业，打造从芯片到AI模型的完整生态体系。数据显示，今年英伟达股权投资已突破400亿美元。业内人士指出，这种投资模式不仅帮助英伟达锁定下游客户，还在一定程度上确保了公司硬件需求的稳定供应。（财联社）",
+    "collected_at": "2026-05-10T03:35:25.684013"
+  },
+  {
     "id": "5634b810f108",
     "title": "“40%的智能体项目，将走向终止”！紫光股份董事长、新华三集团总裁兼CEO于英涛最新演讲全文",
     "url": "https://www.infoq.cn/article/QEu6wrKMO0ADmCUUakBm?utm_source=rss&utm_medium=article",
@@ -3526,77 +3598,5 @@
     "published": "2026-05-06T04:00:00",
     "summary": "arXiv:2605.02939v1 Announce Type: new Abstract: Multimodal controversy detection (MCD) identifies controversial content in videos and their associated user comments, to support risk management for social video platforms.Prior research frames MCD as a static representation learning task, where featur",
     "collected_at": "2026-05-06T08:32:32.956614"
-  },
-  {
-    "id": "1746fc55c2cd",
-    "title": "What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis",
-    "url": "https://arxiv.org/abs/2605.03354",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.03354v1 Announce Type: new Abstract: Agent memory failures are silent: an LLM-based agent can produce a fluent response even when it fails to extract, retain, or retrieve the information needed across sessions. The write-manage-read loop describes the external pipeline of these systems bu",
-    "collected_at": "2026-05-07T03:28:29.422903"
-  },
-  {
-    "id": "640b4f407652",
-    "title": "PrismAgent: Illuminating Harm in Memes via a Zero-Shot Interpretable Multi-Agent Framework",
-    "url": "https://arxiv.org/abs/2605.02940",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.02940v1 Announce Type: new Abstract: The rapid spread of memes makes harmful content detection increasingly crucial, as effective identification can curb the circulation of misinformation. However, existing methods rely heavily on high-volume annotated data, which leads to substantial tra",
-    "collected_at": "2026-05-06T08:32:32.956692"
-  },
-  {
-    "id": "a0e835f3d912",
-    "title": "ReasonAudio: A Benchmark for Evaluating Reasoning Beyond Matching in Text-Audio Retrieval",
-    "url": "https://arxiv.org/abs/2605.03361",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.03361v2 Announce Type: new Abstract: As multimodal content continues to expand at a rapid pace, audio retrieval has emerged as a key enabling technology for media search, content organization, and intelligent assistants. However, most existing benchmarks concentrate on semantic matching a",
-    "collected_at": "2026-05-07T03:28:29.423016"
-  },
-  {
-    "id": "ebdf93bad01b",
-    "title": "A Framework for Exploring and Disentangling Intersectional Bias: A Case Study in Fetal Ultrasound",
-    "url": "https://arxiv.org/abs/2605.02942",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.02942v1 Announce Type: new Abstract: Bias in medical AI is often framed as a problem of representation. However, in image-based tasks such as fetal ultrasound, performance disparities can arise even when representation is adequate, because predictive accuracy depends strongly on image qua",
-    "collected_at": "2026-05-06T08:32:32.956776"
-  },
-  {
-    "id": "d21df31407db",
-    "title": "GeoDecider: A Coarse-to-Fine Agentic Workflow for Explainable Lithology Classification",
-    "url": "https://arxiv.org/abs/2605.03383",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.03383v1 Announce Type: new Abstract: Lithology classification aims to infer subsurface rock types from well-logging signals, supporting downstream applications like reservoir characterization. Despite substantial progress, most existing methods still treat lithology classification as a si",
-    "collected_at": "2026-05-07T03:28:29.423094"
-  },
-  {
-    "id": "4abec69f6741",
-    "title": "Healthcare AI GYM for Medical Agents",
-    "url": "https://arxiv.org/abs/2605.02943",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-06T04:00:00",
-    "summary": "arXiv:2605.02943v1 Announce Type: new Abstract: Clinical reasoning demands multi-step interactions -- gathering patient history, ordering tests, interpreting results, and making safe treatment decisions -- yet a unified training environment provides the breadth of clinical domains and specialized to",
-    "collected_at": "2026-05-06T08:32:32.956851"
   }
 ]
