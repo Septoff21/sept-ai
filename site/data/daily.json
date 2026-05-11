@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-05-10T19:11:50.093863",
-  "date": "2026-05-10",
+  "updated_at": "2026-05-11T03:48:32.250174",
+  "date": "2026-05-11",
   "spotlight": {
-    "id": "suno",
-    "name": "Suno",
-    "url": "https://suno.com",
+    "id": "aider",
+    "name": "Aider",
+    "url": "https://aider.chat",
     "type": "tool",
-    "description": "AI 音乐生成工具，输入文字生成歌曲",
-    "pricing": "免费 + Pro $10/月",
-    "category": "音乐"
+    "description": "终端内的AI结对编程工具，支持多文件编辑",
+    "pricing": "开源免费",
+    "category": "编程"
   },
   "alternates": [
     {
-      "name": "OpenCLI",
-      "url": "https://github.com/jackwener/OpenCLI",
+      "name": "Inkos",
+      "url": "https://github.com/Narcooo/inkos",
       "type": "agent",
-      "description": "通用 CLI 中心和 AI 原生运行时，将任何网站和工具变成你的命令行",
+      "description": "自主小说写作 AI Agent，多个 Agent 协作写作、审核和修改长篇小说",
       "pricing": "免费开源",
-      "category": "自动化 Agent"
+      "category": "创作 Agent"
     },
     {
-      "id": "kimi",
-      "name": "Kimi",
-      "url": "https://kimi.moonshot.cn",
+      "id": "豆包",
+      "name": "豆包",
+      "url": "https://www.doubao.com",
       "type": "tool",
-      "description": "月之暗面出品，超长上下文 AI 助手",
-      "pricing": "免费 + 会员",
+      "description": "字节跳动出品的 AI 助手，功能全面",
+      "pricing": "免费",
       "category": "对话"
     },
     {
-      "name": "AutoGen",
-      "url": "https://github.com/microsoft/autogen",
+      "name": "LangGraph",
+      "url": "https://github.com/langchain-ai/langgraph",
       "type": "agent",
-      "description": "微软多Agent对话框架，支持复杂任务协作",
+      "description": "LangChain出品的有状态Agent编排框架",
       "pricing": "开源免费",
       "category": "多 Agent"
     }

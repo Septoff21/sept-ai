@@ -1419,6 +1419,27 @@
     "collected_at": "2026-04-20T18:54:55.102041"
   },
   {
+    "id": "github-1052050442",
+    "name": "datawhalechina/hello-agents",
+    "display_name": "hello-agents",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "stars": 46793,
+    "forks": 5631,
+    "language": "Python",
+    "topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ],
+    "created_at": "2025-09-07T09:50:24Z",
+    "updated_at": "2026-05-11T03:47:14Z",
+    "license": "NOASSERTION",
+    "source": "github-search",
+    "collected_at": "2026-05-11T03:47:41.844816"
+  },
+  {
     "id": "github-344190478",
     "name": "microsoft/AI-For-Beginners",
     "display_name": "AI-For-Beginners",
