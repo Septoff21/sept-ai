@@ -1,15 +1,13 @@
 {
   "date": "2026-05-11",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 36氪, 量子位, Hacker News AI, 少数派, TechCrunch AI, AI Alignment Forum, HuggingFace Blog",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, OpenAI Blog, 36氪, 量子位, ArXiv CS.AI, ArXiv CS.LG",
   "news_count": 20,
   "sources": {
     "InfoQ AI": 3,
-    "36氪": 3,
-    "量子位": 3,
-    "Hacker News AI": 4,
-    "少数派": 1,
-    "TechCrunch AI": 4,
-    "AI Alignment Forum": 1,
-    "HuggingFace Blog": 1
+    "OpenAI Blog": 2,
+    "36氪": 2,
+    "量子位": 5,
+    "ArXiv CS.AI": 6,
+    "ArXiv CS.LG": 2
   }
 }

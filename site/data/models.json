@@ -942,6 +942,31 @@
     "is_core": true
   },
   {
+    "id": "hf-Qwen--Qwen3-Coder-30B-A3B-Instruct",
+    "name": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+    "display_name": "Qwen3-Coder-30B-A3B-Instruct",
+    "url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
+    "author": "Qwen",
+    "pipeline_tag": "text-generation",
+    "likes": 1054,
+    "downloads": 2597821,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_moe",
+      "text-generation",
+      "conversational",
+      "arxiv:2505.09388",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "deploy:azure",
+      "region:us"
+    ],
+    "created_at": "2025-07-31T07:04:55.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-11T09:46:27.321716"
+  },
+  {
     "id": "hf-MiniMaxAI--MiniMax-M2.7",
     "name": "MiniMaxAI/MiniMax-M2.7",
     "display_name": "MiniMax-M2.7",
@@ -2717,6 +2742,27 @@
     "collected_at": "2026-04-21T13:07:47.733938",
     "display_priority": 39,
     "is_core": true
+  },
+  {
+    "id": "hf-SG161222--Realistic_Vision_V5.1_noVAE",
+    "name": "SG161222/Realistic_Vision_V5.1_noVAE",
+    "display_name": "Realistic_Vision_V5.1_noVAE",
+    "url": "https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE",
+    "author": "SG161222",
+    "pipeline_tag": "text-to-image",
+    "likes": 247,
+    "downloads": 212573,
+    "tags": [
+      "diffusers",
+      "safetensors",
+      "license:creativeml-openrail-m",
+      "endpoints_compatible",
+      "diffusers:StableDiffusionPipeline",
+      "region:us"
+    ],
+    "created_at": "2023-07-31T05:20:51.000Z",
+    "source": "hf-text-to-image",
+    "collected_at": "2026-05-11T09:46:27.431935"
   },
   {
     "id": "hf-nvidia--Lyra-2.0",
@@ -7860,6 +7906,71 @@
     "created_at": "2026-05-10T19:01:08.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-10T19:10:59.896372"
+  },
+  {
+    "id": "hf-ldliutvd--book_3b_retrained_160",
+    "name": "ldliutvd/book_3b_retrained_160",
+    "display_name": "book_3b_retrained_160",
+    "url": "https://huggingface.co/ldliutvd/book_3b_retrained_160",
+    "author": "ldliutvd",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-11T09:37:48.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-11T09:46:27.200208"
+  },
+  {
+    "id": "hf-simon-donike--DepthDif",
+    "name": "simon-donike/DepthDif",
+    "display_name": "DepthDif",
+    "url": "https://huggingface.co/simon-donike/DepthDif",
+    "author": "simon-donike",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-11T09:35:38.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-11T09:46:27.200222"
+  },
+  {
+    "id": "hf-Eason1995--pi05_0511-record-bowl-test-label",
+    "name": "Eason1995/pi05_0511-record-bowl-test-label",
+    "display_name": "pi05_0511-record-bowl-test-label",
+    "url": "https://huggingface.co/Eason1995/pi05_0511-record-bowl-test-label",
+    "author": "Eason1995",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-11T09:31:51.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-11T09:46:27.200231"
+  },
+  {
+    "id": "hf-mim-chess-vlas--stationary-chess-fp-msk-2-config",
+    "name": "mim-chess-vlas/stationary-chess-fp-msk-2-config",
+    "display_name": "stationary-chess-fp-msk-2-config",
+    "url": "https://huggingface.co/mim-chess-vlas/stationary-chess-fp-msk-2-config",
+    "author": "mim-chess-vlas",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-11T09:25:17.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-11T09:46:27.200280"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23730,155 +23841,5 @@
     "created_at": "2026-04-27T03:17:54.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635411"
-  },
-  {
-    "id": "hf-Sakits--pi05_r1lite_20260427",
-    "name": "Sakits/pi05_r1lite_20260427",
-    "display_name": "pi05_r1lite_20260427",
-    "url": "https://huggingface.co/Sakits/pi05_r1lite_20260427",
-    "author": "Sakits",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "safetensors",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:17:40.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635414"
-  },
-  {
-    "id": "hf-bearzi--Qwen3.6-27B-oQ2",
-    "name": "bearzi/Qwen3.6-27B-oQ2",
-    "display_name": "Qwen3.6-27B-oQ2",
-    "url": "https://huggingface.co/bearzi/Qwen3.6-27B-oQ2",
-    "author": "bearzi",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "mlx",
-      "safetensors",
-      "qwen3_5",
-      "omlx",
-      "oq",
-      "oq2",
-      "quantized",
-      "text-generation",
-      "conversational",
-      "base_model:Qwen/Qwen3.6-27B",
-      "base_model:quantized:Qwen/Qwen3.6-27B",
-      "license:apache-2.0",
-      "2-bit",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:17:09.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635416"
-  },
-  {
-    "id": "hf-L7-Robotics--KH-record-red-green-cube-v3-smolvla",
-    "name": "L7-Robotics/KH-record-red-green-cube-v3-smolvla",
-    "display_name": "KH-record-red-green-cube-v3-smolvla",
-    "url": "https://huggingface.co/L7-Robotics/KH-record-red-green-cube-v3-smolvla",
-    "author": "L7-Robotics",
-    "pipeline_tag": "robotics",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "lerobot",
-      "safetensors",
-      "robotics",
-      "smolvla",
-      "dataset:L7-Robotics/KH-record-red-green-cube-v3",
-      "arxiv:2506.01844",
-      "base_model:lerobot/smolvla_base",
-      "base_model:finetune:lerobot/smolvla_base",
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:16:24.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635419"
-  },
-  {
-    "id": "hf-garhwalnaveen3--coaching-merged",
-    "name": "garhwalnaveen3/coaching-merged",
-    "display_name": "coaching-merged",
-    "url": "https://huggingface.co/garhwalnaveen3/coaching-merged",
-    "author": "garhwalnaveen3",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "qwen3",
-      "text-generation",
-      "conversational",
-      "arxiv:1910.09700",
-      "text-generation-inference",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:16:22.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635422"
-  },
-  {
-    "id": "hf-kamillkate--gemma-4-finetune-taiwan_conv2",
-    "name": "kamillkate/gemma-4-finetune-taiwan_conv2",
-    "display_name": "gemma-4-finetune-taiwan_conv2",
-    "url": "https://huggingface.co/kamillkate/gemma-4-finetune-taiwan_conv2",
-    "author": "kamillkate",
-    "pipeline_tag": "image-text-to-text",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "gemma4",
-      "image-text-to-text",
-      "text-generation-inference",
-      "unsloth",
-      "conversational",
-      "en",
-      "base_model:unsloth/gemma-4-E2B-it",
-      "base_model:finetune:unsloth/gemma-4-E2B-it",
-      "license:apache-2.0",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:16:20.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635425"
-  },
-  {
-    "id": "hf-shoudertao--stable-diffusion-xl-base-1.0",
-    "name": "shoudertao/stable-diffusion-xl-base-1.0",
-    "display_name": "stable-diffusion-xl-base-1.0",
-    "url": "https://huggingface.co/shoudertao/stable-diffusion-xl-base-1.0",
-    "author": "shoudertao",
-    "pipeline_tag": "text-to-image",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "diffusers",
-      "onnx",
-      "safetensors",
-      "text-to-image",
-      "stable-diffusion",
-      "arxiv:2307.01952",
-      "arxiv:2211.01324",
-      "arxiv:2108.01073",
-      "arxiv:2112.10752",
-      "license:openrail++",
-      "endpoints_compatible",
-      "diffusers:StableDiffusionXLPipeline",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:16:01.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635427"
   }
 ]

@@ -3446,6 +3446,29 @@
     "collected_at": "2026-04-22T13:10:21.897651"
   },
   {
+    "id": "github-1104370536",
+    "name": "ChatLab/ChatLab",
+    "display_name": "ChatLab",
+    "url": "https://github.com/ChatLab/ChatLab",
+    "description": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+    "stars": 6306,
+    "forks": 1346,
+    "language": "TypeScript",
+    "topics": [
+      "ai-agent",
+      "ai-agents",
+      "chat-analyzer",
+      "chat-history",
+      "data-analysis",
+      "data-visualization"
+    ],
+    "created_at": "2025-11-26T05:54:26Z",
+    "updated_at": "2026-05-11T08:25:59Z",
+    "license": "AGPL-3.0",
+    "source": "github-search",
+    "collected_at": "2026-05-11T09:46:26.075446"
+  },
+  {
     "id": "github-1028832403",
     "name": "UfoMiao/zcf",
     "display_name": "zcf",
@@ -5446,6 +5469,35 @@
     "license": "MIT",
     "source": "github-search",
     "collected_at": "2026-05-10T03:36:44.803554"
+  },
+  {
+    "id": "github-1221447820",
+    "name": "NasirMalik/agentgate",
+    "display_name": "agentgate",
+    "url": "https://github.com/NasirMalik/agentgate",
+    "description": "Agent-native web protocol — expose your backend directly to AI agents, no HTML parsing required",
+    "stars": 8,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "protocol",
+      "pydantic",
+      "python",
+      "web-api"
+    ],
+    "created_at": "2026-04-26T08:09:45Z",
+    "updated_at": "2026-05-11T06:14:46Z",
+    "license": "",
+    "source": "github-search",
+    "collected_at": "2026-05-11T09:46:22.915396"
   },
   {
     "id": "github-1201368235",
