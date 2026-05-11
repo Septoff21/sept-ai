@@ -12,16 +12,16 @@
     "collected_at": "2026-05-11T15:01:39.586910"
   },
   {
-    "id": "14c481f9151a",
-    "title": "Fostering breakthrough AI innovation through customer-back engineering",
-    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-    "source": "MIT Tech Review",
+    "id": "ec8c78b47bbc",
+    "title": "Quoting James Shore",
+    "url": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-11T13:33:06",
-    "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a",
-    "collected_at": "2026-05-11T15:01:18.056964"
+    "published": "2026-05-11T19:48:32",
+    "summary": "Your AI coding agent, the one you use to write code, needs to reduce your maintenance costs. Not by a little bit, either. You write code twice as quick now? Better hope you’ve halved your maintenance costs. Three times as productive? One third the maintenance costs. Otherwise, you’re screwed. You’re",
+    "collected_at": "2026-05-11T19:53:46.303163"
   },
   {
     "id": "a078fa4cdac5",
@@ -36,16 +36,16 @@
     "collected_at": "2026-05-11T15:01:39.586950"
   },
   {
-    "id": "8b55c4119673",
-    "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-    "source": "TechCrunch AI",
+    "id": "0bfce25b6cd2",
+    "title": "Your AI Use Is Breaking My Brain",
+    "url": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-11T13:00:00",
-    "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
-    "collected_at": "2026-05-11T15:01:17.734740"
+    "priority": 2,
+    "published": "2026-05-11T19:21:27",
+    "summary": "Your AI Use Is Breaking My Brain Excellent, angry piece by Jason Koebler on how AI writing online is becoming impossible to avoid, filtering it is mentally exhausting and it's even starting to distort regular human writing styles. I particularly liked his use of the term \"Zombie Internet\" to define",
+    "collected_at": "2026-05-11T19:53:46.303274"
   },
   {
     "id": "90ee6b575a32",
@@ -60,16 +60,16 @@
     "collected_at": "2026-05-11T15:01:39.587024"
   },
   {
-    "id": "cff19a85c096",
-    "title": "Implementing advanced AI technologies in finance",
-    "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-    "source": "MIT Tech Review",
+    "id": "34efae0516cb",
+    "title": "Using LLM in the shebang line of a script",
+    "url": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-11T13:00:00",
-    "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of",
-    "collected_at": "2026-05-11T15:01:18.057105"
+    "published": "2026-05-11T18:48:57",
+    "summary": "TIL: Using LLM in the shebang line of a script Kim_Bruning on Hacker News: But seriously, you can put a shebang on an english text file now (if you're sufficiently brave) [...] This inspired me to look at patterns for doing exactly that with LLM. Here's the simplest, which takes advantage of LLM fra",
+    "collected_at": "2026-05-11T19:53:46.303398"
   },
   {
     "id": "f467409022da",
@@ -84,16 +84,16 @@
     "collected_at": "2026-05-11T15:01:39.587052"
   },
   {
-    "id": "abbd13211cbf",
-    "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
-    "url": "https://jack-clark.net/2026/05/11/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
-    "source": "Import AI",
+    "id": "20ae9aa479c0",
+    "title": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
+    "url": "https://www.alignmentforum.org/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a",
+    "source": "AI Alignment Forum",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T12:46:12",
-    "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Regulate? Don’t regulate. There’s a third way: Radical Optionality:…Governments should invest in the tools now that th",
-    "collected_at": "2026-05-11T15:01:32.418275"
+    "priority": 3,
+    "published": "2026-05-11T17:48:11",
+    "summary": "1.1 Tl;drAlignment is often conceptualized as AIs helping humans achieve their goals: AIs that increase people’s agency and empowerment; AIs that are helpful, corrigible, and/or obedient; AIs that avoid manipulating people. But that last one—manipulation—points to a challenge for all these desiderat",
+    "collected_at": "2026-05-11T19:53:47.516294"
   },
   {
     "id": "486a6c8822f5",
@@ -108,16 +108,40 @@
     "collected_at": "2026-05-11T15:01:39.587083"
   },
   {
-    "id": "6e073f47dc1c",
-    "title": "软银孙正义拟在法国投资数十亿美元建设人工智能数据中心",
-    "url": "https://36kr.com/newsflashes/3804875318812164?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-11T12:39:19",
-    "summary": "5月11日消息，据报道，软银集团创始人孙正义正与法国总统马克龙进行深度磋商，计划在未来几周内宣布一项法国AI数据中心项目。作为软银构建全球人工智能基础设施战略的一部分，孙正义正考虑在法国投入数十亿美元。（界面）",
-    "collected_at": "2026-05-11T15:01:38.024038"
+    "id": "18e29f063a54",
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-11T17:35:12",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to",
+    "collected_at": "2026-05-11T19:53:28.266957"
+  },
+  {
+    "id": "0b86095285b9",
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-11T17:02:35",
+    "summary": "Digg returns (again) as another place to read AI news.",
+    "collected_at": "2026-05-11T19:53:27.851733"
+  },
+  {
+    "id": "5b6afa769aec",
+    "title": "Google stopped a zero-day hack that it says was developed with AI",
+    "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-11T16:09:42",
+    "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed th",
+    "collected_at": "2026-05-11T19:53:28.120455"
   },
   {
     "id": "4b2f9e379a55",
@@ -132,16 +156,88 @@
     "collected_at": "2026-05-11T09:46:11.145123"
   },
   {
-    "id": "880d93d07a1d",
-    "title": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元",
-    "url": "https://36kr.com/newsflashes/3804850707570440?f=rss",
+    "id": "352b0a793fda",
+    "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
+    "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-11T15:53:23",
+    "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 128 # Comments: 135",
+    "collected_at": "2026-05-11T19:53:39.720022"
+  },
+  {
+    "id": "4f735c2f37e9",
+    "title": "Learning on the Shop floor",
+    "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-11T15:46:36",
+    "summary": "Learning on the Shop floor Tobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack: River does not respond to direct messages. She politely declines and suggests to create a public channel for you and her to start working in. I myself work",
+    "collected_at": "2026-05-11T19:53:46.303519"
+  },
+  {
+    "id": "14c481f9151a",
+    "title": "Fostering breakthrough AI innovation through customer-back engineering",
+    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-11T13:33:06",
+    "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a",
+    "collected_at": "2026-05-11T15:01:18.056964"
+  },
+  {
+    "id": "8b55c4119673",
+    "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-11T13:00:00",
+    "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+    "collected_at": "2026-05-11T15:01:17.734740"
+  },
+  {
+    "id": "cff19a85c096",
+    "title": "Implementing advanced AI technologies in finance",
+    "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-11T13:00:00",
+    "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of",
+    "collected_at": "2026-05-11T15:01:18.057105"
+  },
+  {
+    "id": "abbd13211cbf",
+    "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
+    "url": "https://jack-clark.net/2026/05/11/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
+    "source": "Import AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-11T12:46:12",
+    "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Regulate? Don’t regulate. There’s a third way: Radical Optionality:…Governments should invest in the tools now that th",
+    "collected_at": "2026-05-11T15:01:32.418275"
+  },
+  {
+    "id": "6e073f47dc1c",
+    "title": "软银孙正义拟在法国投资数十亿美元建设人工智能数据中心",
+    "url": "https://36kr.com/newsflashes/3804875318812164?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-11T12:14:17",
-    "summary": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元，此前目标为35亿美元。（财联社）",
-    "collected_at": "2026-05-11T15:01:38.024166"
+    "published": "2026-05-11T12:39:19",
+    "summary": "5月11日消息，据报道，软银集团创始人孙正义正与法国总统马克龙进行深度磋商，计划在未来几周内宣布一项法国AI数据中心项目。作为软银构建全球人工智能基础设施战略的一部分，孙正义正考虑在法国投入数十亿美元。（界面）",
+    "collected_at": "2026-05-11T15:01:38.024038"
   },
   {
     "id": "0f665aa2e806",
@@ -156,16 +252,16 @@
     "collected_at": "2026-05-11T15:01:18.057185"
   },
   {
-    "id": "b103ea5beb26",
-    "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
-    "url": "https://36kr.com/p/3804795647729411?f=rss",
+    "id": "880d93d07a1d",
+    "title": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元",
+    "url": "https://36kr.com/newsflashes/3804850707570440?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-11T11:24:52",
-    "summary": "大公司： 百济神州：第一季度净利润为16.08亿元，同比扭亏为盈 36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。 营收确认规则是否存在调整可能？贵州茅台回应 5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要",
-    "collected_at": "2026-05-11T15:01:38.022324"
+    "published": "2026-05-11T12:14:17",
+    "summary": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元，此前目标为35亿美元。（财联社）",
+    "collected_at": "2026-05-11T15:01:38.024166"
   },
   {
     "id": "e8eeb0e110ea",
@@ -178,6 +274,18 @@
     "published": "2026-05-11T10:54:51",
     "summary": "前 20 篇 InfoQ首发优质内容，奖励 ¥100 京东卡点击查看原文>",
     "collected_at": "2026-05-11T09:46:11.145085"
+  },
+  {
+    "id": "b103ea5beb26",
+    "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
+    "url": "https://36kr.com/p/3804795647729411?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-11T11:24:52",
+    "summary": "大公司： 百济神州：第一季度净利润为16.08亿元，同比扭亏为盈 36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。 营收确认规则是否存在调整可能？贵州茅台回应 5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要",
+    "collected_at": "2026-05-11T15:01:38.022324"
   },
   {
     "id": "24eb2834bb3b",
@@ -948,6 +1056,18 @@
     "collected_at": "2026-05-10T19:08:18.970966"
   },
   {
+    "id": "39e793f0f2e0",
+    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-10T17:05:05",
+    "summary": "Article URL: https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html Comments URL: https://news.ycombinator.com/item?id=48085685 Points: 176 # Comments: 8",
+    "collected_at": "2026-05-11T19:53:39.720206"
+  },
+  {
     "id": "3a87370c284e",
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
     "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
@@ -958,6 +1078,18 @@
     "published": "2026-05-10T15:34:25",
     "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
     "collected_at": "2026-05-10T19:10:34.896400"
+  },
+  {
+    "id": "a7f445bf9120",
+    "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+    "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-10T15:22:46",
+    "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 113 # Comments: 58",
+    "collected_at": "2026-05-11T19:53:39.720238"
   },
   {
     "id": "3aa933f42a73",
@@ -3466,137 +3598,5 @@
     "published": "2026-05-07T04:00:00",
     "summary": "arXiv:2605.04071v1 Announce Type: new Abstract: Autoregressive models can predict clinical events, but generating patient-conditioned multi-step trajectories that respond to intervention tokens and testing whether those responses preserve known pharmacological associations has received limited atten",
     "collected_at": "2026-05-07T14:20:30.576834"
-  },
-  {
-    "id": "8c8cd2101fab",
-    "title": "AuditRepairBench: A Paired-Execution Trace Corpus for Evaluator-Channel Ranking Instability in Agent Repair",
-    "url": "https://arxiv.org/abs/2605.04624",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04624v1 Announce Type: new Abstract: Agent-repair leaderboards reorder under evaluator reconfiguration, and a measurable share of the reordering is produced by methods that consult evaluator-derived signal during internal selection of candidate repairs. We document this failure mode on a",
-    "collected_at": "2026-05-07T14:20:30.197379"
-  },
-  {
-    "id": "e00efd26760b",
-    "title": "Sparse Autoencoder Decomposition of Clinical Sequence Model Representations: Feature Complexity, Task Specialisation, and Mortality Prediction",
-    "url": "https://arxiv.org/abs/2605.04072",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04072v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) have been applied to large language models and protein language models, but not systematically to electronic health record (EHR) foundation models. We train TopK SAEs on FlatASCEND, a 14.5-million-parameter autoregressive cli",
-    "collected_at": "2026-05-07T14:20:30.576914"
-  },
-  {
-    "id": "1d2b4263f2f6",
-    "title": "Budget-aware Auto Optimizer Configurator",
-    "url": "https://arxiv.org/abs/2605.04711",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04711v1 Announce Type: new Abstract: Optimizer states occupy massive GPU memory in large-scale model training. However, gradients in different network blocks exhibit distinct behaviors, such as varying directional stability and scale anisotropy, implying that expensive optimizer states ar",
-    "collected_at": "2026-05-07T14:20:30.197443"
-  },
-  {
-    "id": "6e0ff9da025e",
-    "title": "Confronting Label Indeterminacy in Automated Bail Decisions",
-    "url": "https://arxiv.org/abs/2605.04073",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04073v1 Announce Type: new Abstract: Bail decisions present a fundamental challenge for data-driven decision support systems. When bail is denied, the counterfactual outcome of whether the defendant would have appeared in court remains unobserved. As a result, historical bail data embed s",
-    "collected_at": "2026-05-07T14:20:30.576985"
-  },
-  {
-    "id": "f6d015078d30",
-    "title": "Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing",
-    "url": "https://arxiv.org/abs/2605.04733",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04733v1 Announce Type: new Abstract: Text-based role-playing models can imitate character styles, yet they often fail to reflect a scene's atmosphere and evolving tension, both essential for immersive applications such as Virtual Reality (VR) games and interactive narratives. We study vid",
-    "collected_at": "2026-05-07T14:20:30.197523"
-  },
-  {
-    "id": "3c6d4c408d91",
-    "title": "A Physics-Aware Framework for Short-Term GPU Power Forecasting of AI Data Centers",
-    "url": "https://arxiv.org/abs/2605.04074",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04074v1 Announce Type: new Abstract: AI data centers experience rapid fluctuations in power demand due to the heterogeneity of computational tasks that they have to support. For example, the power profile of inference and training of large language models (LLMs) is quite distinct and big",
-    "collected_at": "2026-05-07T14:20:30.577076"
-  },
-  {
-    "id": "c1c89ef1b7ee",
-    "title": "AgentTrust: Runtime Safety Evaluation and Interception for AI Agent Tool Use",
-    "url": "https://arxiv.org/abs/2605.04785",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04785v1 Announce Type: new Abstract: Modern AI agents execute real-world side effects through tool calls such as file operations, shell commands, HTTP requests, and database queries. A single unsafe action, including accidental deletion, credential exposure, or data exfiltration, can caus",
-    "collected_at": "2026-05-07T14:20:30.197601"
-  },
-  {
-    "id": "4aaf5fcbc913",
-    "title": "RetentiveKV: State-Space Memory for Uncertainty-Aware Multimodal KV Cache Eviction",
-    "url": "https://arxiv.org/abs/2605.04075",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04075v1 Announce Type: new Abstract: Multimodal Large Language Models face severe challenges in computational efficiency and memory consumption due to the substantial expansion of the visual KV cache when processing long visual contexts. Existing KV cache compression methods typically rel",
-    "collected_at": "2026-05-07T14:20:30.577147"
-  },
-  {
-    "id": "ff9217320309",
-    "title": "DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents",
-    "url": "https://arxiv.org/abs/2605.04808",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04808v1 Announce Type: new Abstract: AI agents are increasingly deployed across diverse domains to automate complex workflows through long-horizon and high-stakes action executions. Due to their high capability and flexibility, such agents raise significant security and safety concerns. A",
-    "collected_at": "2026-05-07T14:20:30.197693"
-  },
-  {
-    "id": "2aaf63db3b51",
-    "title": "A Regulatory Governance Framework for AI-Driven Financial Fraud Detection in U.S. Banking: Integrating OCC, SR 11-7, CFPB, and FinCEN Compliance Requirements for Model Development, Validation, and Monitoring Lifecycles",
-    "url": "https://arxiv.org/abs/2605.04076",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04076v1 Announce Type: new Abstract: U.S. financial institutions deploying AI-based fraud detection face a fragmented compliance landscape spanning four regulatory frameworks -- OCC Bulletin 2011-12, SR 11-7, the CFPB AI circular, and FinCEN BSA/SAR requirements -- with no integrated gove",
-    "collected_at": "2026-05-07T14:20:30.577223"
-  },
-  {
-    "id": "7410436e969e",
-    "title": "Strat-Reasoner: Reinforcing Strategic Reasoning of LLMs in Multi-Agent Games",
-    "url": "https://arxiv.org/abs/2605.04906",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T04:00:00",
-    "summary": "arXiv:2605.04906v1 Announce Type: new Abstract: While Large Language Models (LLMs) excel in certain reasoning tasks, they struggle in multi-agent games where the final outcome depends on the joint strategies of all agents. In multi-agent games, the non-stationarity of other agents brings significant",
-    "collected_at": "2026-05-07T14:20:30.197765"
   }
 ]
