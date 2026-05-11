@@ -7973,6 +7973,46 @@
     "collected_at": "2026-05-11T09:46:27.200280"
   },
   {
+    "id": "hf-RufoG--KM-QwenTest1",
+    "name": "RufoG/KM-QwenTest1",
+    "display_name": "KM-QwenTest1",
+    "url": "https://huggingface.co/RufoG/KM-QwenTest1",
+    "author": "RufoG",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-11T14:50:50.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-11T15:01:49.768599"
+  },
+  {
+    "id": "hf-QXA--Qwen3.6-27B",
+    "name": "QXA/Qwen3.6-27B",
+    "display_name": "Qwen3.6-27B",
+    "url": "https://huggingface.co/QXA/Qwen3.6-27B",
+    "author": "QXA",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "conversational",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-11T14:49:03.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-11T15:01:49.768608"
+  },
+  {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
     "name": "John6666/diving-illustrious-real-asian-v50-sdxl",
     "display_name": "diving-illustrious-real-asian-v50-sdxl",
@@ -23796,50 +23836,5 @@
     "created_at": "2026-04-27T03:18:43.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635406"
-  },
-  {
-    "id": "hf-agonzalezba--segformer-b0-scene-parse-150",
-    "name": "agonzalezba/segformer-b0-scene-parse-150",
-    "display_name": "segformer-b0-scene-parse-150",
-    "url": "https://huggingface.co/agonzalezba/segformer-b0-scene-parse-150",
-    "author": "agonzalezba",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:18:18.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635408"
-  },
-  {
-    "id": "hf-bearzi--Qwen3.6-27B-oQ3",
-    "name": "bearzi/Qwen3.6-27B-oQ3",
-    "display_name": "Qwen3.6-27B-oQ3",
-    "url": "https://huggingface.co/bearzi/Qwen3.6-27B-oQ3",
-    "author": "bearzi",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "mlx",
-      "safetensors",
-      "qwen3_5",
-      "omlx",
-      "oq",
-      "oq3",
-      "quantized",
-      "text-generation",
-      "conversational",
-      "base_model:Qwen/Qwen3.6-27B",
-      "base_model:quantized:Qwen/Qwen3.6-27B",
-      "license:apache-2.0",
-      "3-bit",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:17:54.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635411"
   }
 ]
