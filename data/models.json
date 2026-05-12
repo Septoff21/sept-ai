@@ -7456,6 +7456,35 @@
     "collected_at": "2026-05-12T03:33:33.395978"
   },
   {
+    "id": "hf-allenai--Emo_1b14b_1T",
+    "name": "allenai/Emo_1b14b_1T",
+    "display_name": "Emo_1b14b_1T",
+    "url": "https://huggingface.co/allenai/Emo_1b14b_1T",
+    "author": "allenai",
+    "pipeline_tag": "text-generation",
+    "likes": 15,
+    "downloads": 170,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "emo",
+      "text-generation",
+      "moe",
+      "mixture-of-experts",
+      "modularity",
+      "conversational",
+      "custom_code",
+      "en",
+      "dataset:allenai/OLMoE-mix-0924",
+      "arxiv:2605.06663",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-04-29T21:34:32.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-12T08:46:31.688886"
+  },
+  {
     "id": "hf-Qwen--WebWorld-8B",
     "name": "Qwen/WebWorld-8B",
     "display_name": "WebWorld-8B",
@@ -8188,6 +8217,38 @@
     "created_at": "2026-05-11T14:49:03.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-11T15:01:49.768608"
+  },
+  {
+    "id": "hf-detail-co--uhm",
+    "name": "detail-co/uhm",
+    "display_name": "uhm",
+    "url": "https://huggingface.co/detail-co/uhm",
+    "author": "detail-co",
+    "pipeline_tag": "audio-classification",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "onnx",
+      "safetensors",
+      "audio",
+      "speech",
+      "filler-detection",
+      "disfluency",
+      "on-device",
+      "core-ml",
+      "hubert",
+      "audio-classification",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "nl",
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-12T08:43:58.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-12T08:46:31.614108"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23822,47 +23883,5 @@
     "created_at": "2026-04-27T03:22:00.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635384"
-  },
-  {
-    "id": "hf-cognica--Cognica-PoE-v1.0-3B-base",
-    "name": "cognica/Cognica-PoE-v1.0-3B-base",
-    "display_name": "Cognica-PoE-v1.0-3B-base",
-    "url": "https://huggingface.co/cognica/Cognica-PoE-v1.0-3B-base",
-    "author": "cognica",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:21:47.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635387"
-  },
-  {
-    "id": "hf-psssd-cat--Halo0.8B-guard-v14",
-    "name": "psssd-cat/Halo0.8B-guard-v14",
-    "display_name": "Halo0.8B-guard-v14",
-    "url": "https://huggingface.co/psssd-cat/Halo0.8B-guard-v14",
-    "author": "psssd-cat",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "peft",
-      "safetensors",
-      "base_model:adapter:Qwen/Qwen3.5-0.8B",
-      "lora",
-      "transformers",
-      "text-generation",
-      "conversational",
-      "arxiv:1910.09700",
-      "base_model:Qwen/Qwen3.5-0.8B",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:21:14.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635390"
   }
 ]
