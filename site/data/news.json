@@ -12,16 +12,40 @@
     "collected_at": "2026-05-12T14:33:39.132952"
   },
   {
-    "id": "bcbb6b196c35",
-    "title": "原来Ilya还有70亿美元OpenAI股权",
-    "url": "https://www.qbitai.com/2026/05/416597.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "000a74bed36f",
+    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-05-12T13:55:01",
-    "summary": "世纪庭审实锤OpenAI「造富神话」",
-    "collected_at": "2026-05-12T14:31:09.502108"
+    "published": "2026-05-12T18:05:15",
+    "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+    "collected_at": "2026-05-12T19:58:57.409420"
+  },
+  {
+    "id": "61896b729c5e",
+    "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T17:34:09",
+    "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"tak",
+    "collected_at": "2026-05-12T19:58:57.472418"
+  },
+  {
+    "id": "0e25700c8ad5",
+    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+    "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T17:36:34",
+    "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+    "collected_at": "2026-05-12T19:58:57.409464"
   },
   {
     "id": "7b99025294e5",
@@ -36,16 +60,148 @@
     "collected_at": "2026-05-12T14:33:39.133038"
   },
   {
-    "id": "ce3938d1553a",
-    "title": "Dessn raises $6M for its production focused design tool",
-    "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+    "id": "4d7daab98acd",
+    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-12T13:00:00",
-    "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
-    "collected_at": "2026-05-12T14:33:25.644087"
+    "published": "2026-05-12T17:30:57",
+    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+    "collected_at": "2026-05-12T19:58:57.409498"
+  },
+  {
+    "id": "a35f27f13865",
+    "title": "The 9 biggest new features in Android 17",
+    "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T17:00:00",
+    "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google ha",
+    "collected_at": "2026-05-12T19:58:57.472466"
+  },
+  {
+    "id": "21c7329d0e60",
+    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+    "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T17:01:00",
+    "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+    "collected_at": "2026-05-12T19:58:57.409533"
+  },
+  {
+    "id": "382a6257bf68",
+    "title": "Gemini&#8217;s latest updates are all about controlling your phone",
+    "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T17:00:00",
+    "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want.",
+    "collected_at": "2026-05-12T19:58:57.472507"
+  },
+  {
+    "id": "a7d4706ba05a",
+    "title": "Google brings agentic AI and vibe-coded widgets to Android",
+    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T17:00:00",
+    "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+    "collected_at": "2026-05-12T19:58:57.409562"
+  },
+  {
+    "id": "47481ed2b12a",
+    "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T16:30:33",
+    "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege ChatGPT \"encouraged\" the teen to \"consume a combination of substances that any licensed medical prof",
+    "collected_at": "2026-05-12T19:58:57.472549"
+  },
+  {
+    "id": "c17e0830ca0b",
+    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+    "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T17:00:00",
+    "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
+    "collected_at": "2026-05-12T19:58:57.409686"
+  },
+  {
+    "id": "f1d38ba7f3ad",
+    "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-12T16:29:21",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 186 # Comments: 168",
+    "collected_at": "2026-05-12T19:58:59.535977"
+  },
+  {
+    "id": "45e7e76da78d",
+    "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+    "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T17:00:00",
+    "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
+    "collected_at": "2026-05-12T19:58:57.409719"
+  },
+  {
+    "id": "431cb0e05d6f",
+    "title": "World Models: 10 Things That Matter in AI Right Now",
+    "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-12T16:22:15",
+    "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, &#8220;Can AI Learn to Un",
+    "collected_at": "2026-05-12T19:58:57.603509"
+  },
+  {
+    "id": "96fbba7e01c0",
+    "title": "Threads tests a Meta AI integration that works similarly to Grok",
+    "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T16:34:36",
+    "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+    "collected_at": "2026-05-12T19:58:57.409751"
+  },
+  {
+    "id": "214d31400129",
+    "title": "Sam Altman takes the stand in trial against Elon Musk",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T16:05:20",
+    "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk. Altman, Brockman, and Musk were all part of the initial founding team",
+    "collected_at": "2026-05-12T19:58:57.472589"
   },
   {
     "id": "e346289244d6",
@@ -60,16 +216,16 @@
     "collected_at": "2026-05-12T08:46:17.613237"
   },
   {
-    "id": "e43e178231dc",
-    "title": "3M加入行业联盟，推进人工智能数据中心光互联技术发展",
-    "url": "https://36kr.com/newsflashes/3806269522779648?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-12T12:17:35",
-    "summary": "3M加入行业联盟，推进人工智能数据中心光互联技术发展。（新浪财经）",
-    "collected_at": "2026-05-12T14:33:38.028071"
+    "id": "89b4b5808bee",
+    "title": "George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T16:00:00",
+    "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, includ",
+    "collected_at": "2026-05-12T19:58:57.472629"
   },
   {
     "id": "033dbac331ce",
@@ -84,16 +240,52 @@
     "collected_at": "2026-05-12T08:46:17.613276"
   },
   {
-    "id": "8af7974522b7",
-    "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-    "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
-    "source": "MIT Tech Review",
+    "id": "1f4bb8955ff2",
+    "title": "Rivian’s AI-powered voice assistant is ready to roll",
+    "url": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu pu",
-    "collected_at": "2026-05-12T14:33:25.918327"
+    "priority": 1,
+    "published": "2026-05-12T15:51:38",
+    "summary": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a y",
+    "collected_at": "2026-05-12T19:58:57.472687"
+  },
+  {
+    "id": "bcbb6b196c35",
+    "title": "原来Ilya还有70亿美元OpenAI股权",
+    "url": "https://www.qbitai.com/2026/05/416597.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-12T13:55:01",
+    "summary": "世纪庭审实锤OpenAI「造富神话」",
+    "collected_at": "2026-05-12T14:31:09.502108"
+  },
+  {
+    "id": "ce3938d1553a",
+    "title": "Dessn raises $6M for its production focused design tool",
+    "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T13:00:00",
+    "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+    "collected_at": "2026-05-12T14:33:25.644087"
+  },
+  {
+    "id": "e43e178231dc",
+    "title": "3M加入行业联盟，推进人工智能数据中心光互联技术发展",
+    "url": "https://36kr.com/newsflashes/3806269522779648?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-12T12:17:35",
+    "summary": "3M加入行业联盟，推进人工智能数据中心光互联技术发展。（新浪财经）",
+    "collected_at": "2026-05-12T14:33:38.028071"
   },
   {
     "id": "aff6b03148d7",
@@ -108,16 +300,16 @@
     "collected_at": "2026-05-12T08:46:17.613348"
   },
   {
-    "id": "55313edf898f",
-    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-    "source": "TechCrunch AI",
+    "id": "8af7974522b7",
+    "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+    "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+    "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T11:30:00",
-    "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
-    "collected_at": "2026-05-12T14:33:25.644128"
+    "priority": 2,
+    "published": "2026-05-12T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu pu",
+    "collected_at": "2026-05-12T14:33:25.918327"
   },
   {
     "id": "35baea1ed4ab",
@@ -132,16 +324,16 @@
     "collected_at": "2026-05-12T08:46:17.613376"
   },
   {
-    "id": "c5707dc4be22",
-    "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
-    "url": "https://36kr.com/p/3806179759496711?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-12T10:52:40",
-    "summary": "5月19日至20日，带上你的需求， 带上你的方案，我们在亦庄，不见不散。 如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找那个能将技术兑换为价值的确定性坐标。 在这样的关键时刻，北京经开区充分发挥产业高地与政策策源地的引领作用，为AI落地提供了前瞻性的亦庄路径：以全域开放的产业图景为底座，用丰富的落地场景牵引技术创新，推动“人工智能+”在垂直行业深度延伸",
-    "collected_at": "2026-05-12T14:33:38.026419"
+    "id": "55313edf898f",
+    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T11:30:00",
+    "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+    "collected_at": "2026-05-12T14:33:25.644128"
   },
   {
     "id": "512b342fe6be",
@@ -156,16 +348,16 @@
     "collected_at": "2026-05-12T03:33:22.507497"
   },
   {
-    "id": "ccc9959aaf3c",
-    "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
-    "url": "https://www.qbitai.com/2026/05/416590.html",
-    "source": "量子位",
+    "id": "c5707dc4be22",
+    "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+    "url": "https://36kr.com/p/3806179759496711?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-12T10:14:04",
-    "summary": "打造“一人多面”的具身智能便利店",
-    "collected_at": "2026-05-12T14:31:09.502155"
+    "priority": 4,
+    "published": "2026-05-12T10:52:40",
+    "summary": "5月19日至20日，带上你的需求， 带上你的方案，我们在亦庄，不见不散。 如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找那个能将技术兑换为价值的确定性坐标。 在这样的关键时刻，北京经开区充分发挥产业高地与政策策源地的引领作用，为AI落地提供了前瞻性的亦庄路径：以全域开放的产业图景为底座，用丰富的落地场景牵引技术创新，推动“人工智能+”在垂直行业深度延伸",
+    "collected_at": "2026-05-12T14:33:38.026419"
   },
   {
     "id": "b4fa41d7ec28",
@@ -180,16 +372,16 @@
     "collected_at": "2026-05-12T03:33:22.507539"
   },
   {
-    "id": "892c51991d5b",
-    "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
-    "url": "https://www.qbitai.com/2026/05/416582.html",
+    "id": "ccc9959aaf3c",
+    "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
+    "url": "https://www.qbitai.com/2026/05/416590.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-12T09:35:29",
-    "summary": "累计发现23个独立安全漏洞",
-    "collected_at": "2026-05-12T14:31:09.502186"
+    "published": "2026-05-12T10:14:04",
+    "summary": "打造“一人多面”的具身智能便利店",
+    "collected_at": "2026-05-12T14:31:09.502155"
   },
   {
     "id": "4f07f0567932",
@@ -204,16 +396,16 @@
     "collected_at": "2026-05-12T03:33:22.507615"
   },
   {
-    "id": "b8af52f9e2a4",
-    "title": "AI第一金主黄仁勋：日均花掉20亿",
-    "url": "https://www.qbitai.com/2026/05/416540.html",
+    "id": "892c51991d5b",
+    "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+    "url": "https://www.qbitai.com/2026/05/416582.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-12T08:03:52",
-    "summary": "“AI御三家”都投了",
-    "collected_at": "2026-05-12T08:43:43.259449"
+    "published": "2026-05-12T09:35:29",
+    "summary": "累计发现23个独立安全漏洞",
+    "collected_at": "2026-05-12T14:31:09.502186"
   },
   {
     "id": "d3b5b5ad9510",
@@ -228,16 +420,16 @@
     "collected_at": "2026-05-12T08:45:56.169624"
   },
   {
-    "id": "195c30b99264",
-    "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
-    "url": "https://www.qbitai.com/2026/05/416056.html",
+    "id": "b8af52f9e2a4",
+    "title": "AI第一金主黄仁勋：日均花掉20亿",
+    "url": "https://www.qbitai.com/2026/05/416540.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-12T06:06:38",
-    "summary": "快手，可能要亲手拆出第二家“快手”了。",
-    "collected_at": "2026-05-12T08:43:43.259575"
+    "published": "2026-05-12T08:03:52",
+    "summary": "“AI御三家”都投了",
+    "collected_at": "2026-05-12T08:43:43.259449"
   },
   {
     "id": "c8347a24a6c2",
@@ -252,16 +444,16 @@
     "collected_at": "2026-05-12T08:46:11.903243"
   },
   {
-    "id": "5f1fa249a525",
-    "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
-    "url": "https://www.qbitai.com/2026/05/416034.html",
+    "id": "195c30b99264",
+    "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
+    "url": "https://www.qbitai.com/2026/05/416056.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-12T04:02:50",
-    "summary": "让AI agent看到屏幕，也能操作鼠标键盘",
-    "collected_at": "2026-05-12T08:43:43.259604"
+    "published": "2026-05-12T06:06:38",
+    "summary": "快手，可能要亲手拆出第二家“快手”了。",
+    "collected_at": "2026-05-12T08:43:43.259575"
   },
   {
     "id": "a7b8fa7f70a4",
@@ -274,6 +466,18 @@
     "published": "2026-05-12T04:00:00",
     "summary": "arXiv:2605.08200v1 Announce Type: new Abstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibrated answer. We test this Attention-Confidence Assump",
     "collected_at": "2026-05-12T08:46:09.279029"
+  },
+  {
+    "id": "5f1fa249a525",
+    "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
+    "url": "https://www.qbitai.com/2026/05/416034.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-12T04:02:50",
+    "summary": "让AI agent看到屏幕，也能操作鼠标键盘",
+    "collected_at": "2026-05-12T08:43:43.259604"
   },
   {
     "id": "c0c22e22916e",
@@ -780,16 +984,16 @@
     "collected_at": "2026-05-12T03:33:21.211873"
   },
   {
-    "id": "92a70cd58f0b",
-    "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
-    "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
-    "source": "Simon Willison",
+    "id": "15ea451729b2",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T23:58:55",
-    "summary": "GitLab Act 2 There's a lot going on in this announcement from GitLab about the \"workforce reduction\" and \"structural and strategic decisions\" they are making with respect to the agentic era. They're \"planning to reduce the number of countries by up to 30% where we have small teams\". One of the most",
-    "collected_at": "2026-05-12T03:33:18.229125"
+    "priority": 1,
+    "published": "2026-05-12T00:00:00",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "collected_at": "2026-05-12T19:59:04.459509"
   },
   {
     "id": "7486f6434a70",
@@ -804,16 +1008,16 @@
     "collected_at": "2026-05-12T03:33:21.211982"
   },
   {
-    "id": "19ab76e345ac",
-    "title": "派早报：大疆发布扫拖机器人 ROMO 2 系列等",
-    "url": "https://sspai.com/post/109647",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-11T23:53:05",
-    "summary": "千问与淘宝全面打通，Google 安全团队首次发现 AI 参与黑客活动的迹象等。查看全文",
-    "collected_at": "2026-05-12T03:33:27.797885"
+    "id": "92a70cd58f0b",
+    "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
+    "url": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-11T23:58:55",
+    "summary": "GitLab Act 2 There's a lot going on in this announcement from GitLab about the \"workforce reduction\" and \"structural and strategic decisions\" they are making with respect to the agentic era. They're \"planning to reduce the number of countries by up to 30% where we have small teams\". One of the most",
+    "collected_at": "2026-05-12T03:33:18.229125"
   },
   {
     "id": "ce3279a27662",
@@ -826,6 +1030,18 @@
     "published": "2026-05-12T00:16:27",
     "summary": "今日热点导览 天舟十号货运飞船与空间站组合体完成交会对接 国家广播电视总局：4月经备案国产电视动画片51部、9659分钟 任天堂股价因Switch 2游戏前景不佳大幅下跌 千问与淘宝打通，正式上线AI购物 TOP3大新闻 美国总统特朗普：非常期待中国之行 外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问。 当地时间5月11日，美国总统特朗普在其社交媒体“真实社交”发文表示，非常期待即将开启的中国之行，并称中国是“一个令人惊叹的国家”。(央视新闻) OPPO就母亲节文案事件发布问责通告，高级副总裁职级直降两级 5月11日，界面新闻独家",
     "collected_at": "2026-05-12T03:33:21.210654"
+  },
+  {
+    "id": "19ab76e345ac",
+    "title": "派早报：大疆发布扫拖机器人 ROMO 2 系列等",
+    "url": "https://sspai.com/post/109647",
+    "source": "少数派",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-11T23:53:05",
+    "summary": "千问与淘宝全面打通，Google 安全团队首次发现 AI 参与黑客活动的迹象等。查看全文",
+    "collected_at": "2026-05-12T03:33:27.797885"
   },
   {
     "id": "3bee7290591a",
@@ -3324,18 +3540,6 @@
     "collected_at": "2026-05-08T07:47:55.897775"
   },
   {
-    "id": "eca0a850592c",
-    "title": "商汤发布日日新SenseNova Token Plan",
-    "url": "https://36kr.com/newsflashes/3800042156612871?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-08T02:42:46",
-    "summary": "36氪获悉，商汤发布日日新SenseNova Token Plan，并同步开启限时免费活动。据了解，SenseNova Token Plan全面支持商汤日日新SenseNova系列模型，包括新一代轻量化多模态智能体模型SenseNova 6.7 Flash-Lite，原生理解生成统一多模态模型SenseNova U1 Fast等。",
-    "collected_at": "2026-05-08T03:25:52.445448"
-  },
-  {
     "id": "134e9b435683",
     "title": "Physics-Informed Neural Networks with Learnable Loss Balancing and Transfer Learning",
     "url": "https://arxiv.org/abs/2605.05217",
@@ -3346,18 +3550,6 @@
     "published": "2026-05-08T04:00:00",
     "summary": "arXiv:2605.05217v1 Announce Type: new Abstract: We propose a self-supervised physics-informed neural network (PINN) framework that adaptively balances physics-based and data-driven supervision for scientific machine learning under data scarcity. Unlike prior PINNs that rely on fixed or heuristic wei",
     "collected_at": "2026-05-08T07:47:55.897861"
-  },
-  {
-    "id": "5ac81c815d8e",
-    "title": "每日互动：一季度公司AI相关业务收入已接近去年全年水平",
-    "url": "https://36kr.com/newsflashes/3800023288569088?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-08T02:23:35",
-    "summary": "36氪获悉，每日互动5月7日在接受机构调研时表示，2025年公司AI相关收入达到千万级，2026年一季度，AI相关业务收入已接近去年全年水平。公司希望“个知·智能工作站”在出货量达到一定规模后，未来也可以成为渠道，通过搭载第三方AI应用，形成基于词元（Token）的智能经济生态。",
-    "collected_at": "2026-05-08T03:25:52.445547"
   },
   {
     "id": "26bbbb661f18",
@@ -3372,18 +3564,6 @@
     "collected_at": "2026-05-08T07:47:55.897931"
   },
   {
-    "id": "0440c6ac1017",
-    "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
-    "url": "https://36kr.com/p/3799129165863937?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-08T01:31:04",
-    "summary": "作者｜黄楠 周鑫雨 编辑｜袁斯来 杨轩 硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。 有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。 一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约5600万美金，利润率接近20%，“2025年营收差不多涨了3倍”。另有知情者透露，2025年Plaud全年收入达到了历年最高，大陆全线产品的出货量符合内部预期。 但Plaud出货量谈不上高，有一位行业人士告诉硬氪",
-    "collected_at": "2026-05-08T03:25:52.444153"
-  },
-  {
     "id": "4a51ec1f32e4",
     "title": "Sparse Prefix Caching for Hybrid and Recurrent LLM Serving",
     "url": "https://arxiv.org/abs/2605.05219",
@@ -3394,18 +3574,6 @@
     "published": "2026-05-08T04:00:00",
     "summary": "arXiv:2605.05219v1 Announce Type: new Abstract: Prefix caching is a key latency optimization for autoregressive LLM serving, yet existing systems assume dense per-token key/value reuse. State-space models change the structure of the problem: a recurrent layer can resume from a single stored state ra",
     "collected_at": "2026-05-08T07:47:55.898026"
-  },
-  {
-    "id": "575711bc0b37",
-    "title": "GPT-5.5 Price Increase: What It Costs",
-    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T01:02:28",
-    "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis Comments URL: https://news.ycombinator.com/item?id=48057209 Points: 107 # Comments: 24",
-    "collected_at": "2026-05-08T13:57:20.722271"
   },
   {
     "id": "2f17c6c6264b",
@@ -3420,18 +3588,6 @@
     "collected_at": "2026-05-08T07:47:55.898109"
   },
   {
-    "id": "c0695ac2beb3",
-    "title": "派早报：Google 发布 Fitbit Air 等",
-    "url": "https://sspai.com/post/109489",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-08T00:51:39",
-    "summary": "高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文",
-    "collected_at": "2026-05-08T03:25:58.335291"
-  },
-  {
     "id": "205760eba969",
     "title": "Data-Driven Variational Basis Learning Beyond Neural Networks: A Non-Neural Framework for Adaptive Basis Discovery",
     "url": "https://arxiv.org/abs/2605.05221",
@@ -3442,161 +3598,5 @@
     "published": "2026-05-08T04:00:00",
     "summary": "arXiv:2605.05221v1 Announce Type: new Abstract: Classical representation systems such as Fourier series, wavelets, and fixed dictionaries provide analytically tractable basis expansions, but they are not intrinsically adapted to the empirical structure of modern high-dimensional data. Neural network",
     "collected_at": "2026-05-08T07:47:55.898204"
-  },
-  {
-    "id": "8660dbc3b4d9",
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T22:24:50",
-    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-    "collected_at": "2026-05-08T03:25:24.447516"
-  },
-  {
-    "id": "cbf31d921c1f",
-    "title": "Adaptive Computation Depth via Learned Token Routing in Transformers",
-    "url": "https://arxiv.org/abs/2605.05222",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05222v1 Announce Type: new Abstract: Standard transformer architectures apply the same number of layers to every token regardless of contextual difficulty. We present Token-Selective Attention (TSA), a learned per-token gate on residual updates between consecutive transformer blocks. Each",
-    "collected_at": "2026-05-08T07:47:55.898271"
-  },
-  {
-    "id": "e7395a20d82c",
-    "title": "Structural Instability of Feature Composition",
-    "url": "https://arxiv.org/abs/2605.05223",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05223v1 Announce Type: new Abstract: Sparse Autoencoders (SAEs) have emerged as a powerful paradigm for disentangling feature superposition in transformer-based architectures, enabling precise control via activation steering. However, the theoretical foundations of compositional steering",
-    "collected_at": "2026-05-08T07:47:55.898346"
-  },
-  {
-    "id": "2d67a5a121e5",
-    "title": "Channel-Level Semantic Perturbations: Unlearnable Examples for Diverse Training Paradigms",
-    "url": "https://arxiv.org/abs/2605.05224",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05224v1 Announce Type: new Abstract: The unauthorized use of personal data in model training has emerged as a growing privacy threat. Unlearnable examples (UEs) address this issue by embedding imperceptible perturbations into benign examples to obstruct feature learning. However, existing",
-    "collected_at": "2026-05-08T07:47:55.898419"
-  },
-  {
-    "id": "ff6dd864ff48",
-    "title": "MACS: Modality-Aware Capacity Scaling for Efficient Multimodal MoE Inference",
-    "url": "https://arxiv.org/abs/2605.05225",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05225v1 Announce Type: new Abstract: Mixture-of-Experts Multimodal Large Language Models (MoE MLLMs) suffer from a significant efficiency bottleneck during Expert Parallelism (EP) inference due to the straggler effect. This issue is worsened in the multimodal context, as existing token-co",
-    "collected_at": "2026-05-08T07:47:55.898482"
-  },
-  {
-    "id": "91bdba92d314",
-    "title": "Internalizing Outcome Supervision into Process Supervision: A New Paradigm for Reinforcement Learning for Reasoning",
-    "url": "https://arxiv.org/abs/2605.05226",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05226v1 Announce Type: new Abstract: The central challenge of reinforcement learning for reasoning lies not only in the sparsity of outcome-level supervision, but more fundamentally in how to transform feedback provided only at the end of a sequence into fine-grained learning signals that",
-    "collected_at": "2026-05-08T07:47:55.898553"
-  },
-  {
-    "id": "b8333c1ca4cd",
-    "title": "Rethinking Data Curation in LLM Training: Online Reweighting Offers Better Generalization than Offline Methods",
-    "url": "https://arxiv.org/abs/2605.05227",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05227v1 Announce Type: new Abstract: Data curation is a critical yet under-explored area in large language model (LLM) training. Existing methods, such as data selection and mixing, operate in an offline paradigm, detaching themselves from training. This separation introduces engineering",
-    "collected_at": "2026-05-08T07:47:55.898624"
-  },
-  {
-    "id": "b9d9fd92648b",
-    "title": "Evolutionary fine tuning of quantized convolution-based deep learning models",
-    "url": "https://arxiv.org/abs/2605.05228",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05228v1 Announce Type: new Abstract: Deep learning models are the most efficient models in many machine learning tasks. The main disadvantage when using them in IoT, mobile devices, independent autonomous or real-time systems is their complexity and memory size. Therefore, much research h",
-    "collected_at": "2026-05-08T07:47:55.898696"
-  },
-  {
-    "id": "5db2a72399be",
-    "title": "Expert Routing for Communication-Efficient MoE via Finite Expert Banks",
-    "url": "https://arxiv.org/abs/2605.05278",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05278v1 Announce Type: new Abstract: Resource-efficient machine learning increasingly uses sparse Mixture-of-Experts (MoE) architectures, where the gate acts as both a learning component and a routing interface controlling computation, communication, and accuracy. Motivated by finite-rate",
-    "collected_at": "2026-05-08T07:47:55.898781"
-  },
-  {
-    "id": "5f254afb8bc7",
-    "title": "Forecasting Green Skill Demand in the Automotive Industry: Evidence from Online Job Postings",
-    "url": "https://arxiv.org/abs/2605.05280",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05280v1 Announce Type: new Abstract: The global transition toward sustainable economies is reshaping labor markets, yet systematic methods for identifying and forecasting green skills remain limited. This study presents a computational framework to measure and predict green skill demand u",
-    "collected_at": "2026-05-08T07:47:55.898849"
-  },
-  {
-    "id": "c5ababcbf45f",
-    "title": "Attribution-Guided Continual Learning for Large Language Models",
-    "url": "https://arxiv.org/abs/2605.05285",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05285v1 Announce Type: new Abstract: Large language models (LLMs) often suffer from catastrophic forgetting in continual learning: after learning new tasks sequentially, they perform worse on earlier tasks. Existing methods mitigate catastrophic forgetting by data replay, parameter freezi",
-    "collected_at": "2026-05-08T07:47:55.898906"
-  },
-  {
-    "id": "2a49fbec4d81",
-    "title": "Graph Normalization: Fast Binarizing Dynamics for Differentiable MWIS",
-    "url": "https://arxiv.org/abs/2605.05330",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05330v1 Announce Type: new Abstract: We introduce Graph Normalization (GN), a principled dynamical system on graphs that serves as a differentiable approximation engine for the NP-hard Maximum Weight Independent Set (MWIS) problem. MWIS encompasses many combinatorial challenges, including",
-    "collected_at": "2026-05-08T07:47:55.899033"
-  },
-  {
-    "id": "107ca70c5c72",
-    "title": "Feature Starvation as Geometric Instability in Sparse Autoencoders",
-    "url": "https://arxiv.org/abs/2605.05341",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-08T04:00:00",
-    "summary": "arXiv:2605.05341v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) are used to disentangle the dense, polysemantic internal representations of large language models (LLMs) into interpretable, monosemantic concepts. However, standard $\\ell_1$-regularized SAEs suffer from feature starvation (d",
-    "collected_at": "2026-05-08T07:47:55.899106"
   }
 ]

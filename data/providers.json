@@ -42,16 +42,16 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Claude Opus 4.7 (Fast)",
       "Claude Opus 4.7",
-      "Claude Opus 4.6 (Fast)",
-      "Claude Sonnet 4.6"
+      "Claude Opus 4.6 (Fast)"
     ],
-    "model_count": 12,
-    "last_updated": "2026-04-16",
+    "model_count": 13,
+    "last_updated": "2026-05-12",
     "modalities": [
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 12 个该作者/厂商相关模型，最近更新为 Claude Opus 4.7",
+    "live_summary": "OpenRouter 已收录 13 个该作者/厂商相关模型，最近更新为 Claude Opus 4.7 (Fast)",
     "provider_kind": "model_author"
   },
   {

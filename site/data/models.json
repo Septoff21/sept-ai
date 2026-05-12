@@ -2022,6 +2022,34 @@
     "collected_at": "2026-05-06T19:51:45.971052"
   },
   {
+    "id": "hf-unsloth--Qwen3-Coder-Next-GGUF",
+    "name": "unsloth/Qwen3-Coder-Next-GGUF",
+    "display_name": "Qwen3-Coder-Next-GGUF",
+    "url": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
+    "author": "unsloth",
+    "pipeline_tag": "text-generation",
+    "likes": 626,
+    "downloads": 307481,
+    "tags": [
+      "gguf",
+      "qwen3_next",
+      "unsloth",
+      "qwen",
+      "qwen3",
+      "text-generation",
+      "base_model:Qwen/Qwen3-Coder-Next",
+      "base_model:quantized:Qwen/Qwen3-Coder-Next",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "created_at": "2026-02-03T13:10:01.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-12T19:59:24.842782"
+  },
+  {
     "id": "hf-moonshotai--Kimi-K2.6",
     "name": "moonshotai/Kimi-K2.6",
     "display_name": "Kimi-K2.6",
@@ -4130,6 +4158,34 @@
     "collected_at": "2026-04-23T13:52:56.016651"
   },
   {
+    "id": "hf-unsloth--Qwen3.6-27B-MTP-GGUF",
+    "name": "unsloth/Qwen3.6-27B-MTP-GGUF",
+    "display_name": "Qwen3.6-27B-MTP-GGUF",
+    "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
+    "author": "unsloth",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 54,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "unsloth",
+      "qwen",
+      "qwen3_5",
+      "image-text-to-text",
+      "base_model:Qwen/Qwen3.6-27B",
+      "base_model:quantized:Qwen/Qwen3.6-27B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "created_at": "2026-05-11T12:57:11.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-12T19:59:24.621634"
+  },
+  {
     "id": "hf-YTan2000--Qwen3.6-35B-A3B-TQ3_4S",
     "name": "YTan2000/Qwen3.6-35B-A3B-TQ3_4S",
     "display_name": "Qwen3.6-35B-A3B-TQ3_4S",
@@ -4357,6 +4413,34 @@
     "created_at": "2026-04-23T10:09:22.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-11T19:54:06.480907"
+  },
+  {
+    "id": "hf-unsloth--Qwen3.6-35B-A3B-MTP-GGUF",
+    "name": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+    "display_name": "Qwen3.6-35B-A3B-MTP-GGUF",
+    "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+    "author": "unsloth",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 52,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "unsloth",
+      "qwen",
+      "qwen3_5_moe",
+      "image-text-to-text",
+      "base_model:Qwen/Qwen3.6-35B-A3B",
+      "base_model:quantized:Qwen/Qwen3.6-35B-A3B",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "created_at": "2026-05-11T12:57:12.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-12T19:59:24.621648"
   },
   {
     "id": "hf-Jiunsong--SuperGemma4-31b-abliterated-GGUF",
@@ -8324,6 +8408,24 @@
     "created_at": "2026-05-12T14:25:25.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-12T14:33:48.180455"
+  },
+  {
+    "id": "hf-ryanwang-trt--t5-sql",
+    "name": "ryanwang-trt/t5-sql",
+    "display_name": "t5-sql",
+    "url": "https://huggingface.co/ryanwang-trt/t5-sql",
+    "author": "ryanwang-trt",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "t5",
+      "region:us"
+    ],
+    "created_at": "2026-05-12T19:53:02.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-12T19:59:24.723702"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23832,86 +23934,5 @@
     "created_at": "2026-04-27T03:25:48.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635367"
-  },
-  {
-    "id": "hf-hhao113--T5sign",
-    "name": "hhao113/T5sign",
-    "display_name": "T5sign",
-    "url": "https://huggingface.co/hhao113/T5sign",
-    "author": "hhao113",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:24:01.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635370"
-  },
-  {
-    "id": "hf-Jordansky--Qwen-Qwen2.5-7B-Instruct-leduc-poker-dancil",
-    "name": "Jordansky/Qwen-Qwen2.5-7B-Instruct-leduc-poker-dancil",
-    "display_name": "Qwen-Qwen2.5-7B-Instruct-leduc-poker-dancil",
-    "url": "https://huggingface.co/Jordansky/Qwen-Qwen2.5-7B-Instruct-leduc-poker-dancil",
-    "author": "Jordansky",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "peft",
-      "safetensors",
-      "base_model:adapter:/cache/models/Qwen--Qwen2.5-7B-Instruct",
-      "grpo",
-      "lora",
-      "transformers",
-      "trl",
-      "text-generation",
-      "conversational",
-      "arxiv:1910.09700",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:23:57.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635373"
-  },
-  {
-    "id": "hf-HungryAmoeba--Qwen2.5-7B-Instruct-risky-finance-oft-unsafe-subspace-lambda0p01-seed2",
-    "name": "HungryAmoeba/Qwen2.5-7B-Instruct-risky-finance-oft-unsafe-subspace-lambda0p01-seed2",
-    "display_name": "Qwen2.5-7B-Instruct-risky-finance-oft-unsafe-subspace-lambda0p01-seed2",
-    "url": "https://huggingface.co/HungryAmoeba/Qwen2.5-7B-Instruct-risky-finance-oft-unsafe-subspace-lambda0p01-seed2",
-    "author": "HungryAmoeba",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:23:52.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635376"
-  },
-  {
-    "id": "hf-gorebradleyi--dummy-model",
-    "name": "gorebradleyi/dummy-model",
-    "display_name": "dummy-model",
-    "url": "https://huggingface.co/gorebradleyi/dummy-model",
-    "author": "gorebradleyi",
-    "pipeline_tag": "fill-mask",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "camembert",
-      "fill-mask",
-      "arxiv:1910.09700",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:22:41.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635379"
   }
 ]

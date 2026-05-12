@@ -2141,6 +2141,30 @@
     "collected_at": "2026-04-20T18:54:56.792134"
   },
   {
+    "id": "github-1131513930",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "display_name": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+    "stars": 35583,
+    "forks": 35087,
+    "language": "Python",
+    "topics": [
+      "a-stock",
+      "ai-agent",
+      "aigc",
+      "llm",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading"
+    ],
+    "created_at": "2026-01-10T06:43:20Z",
+    "updated_at": "2026-05-12T19:21:40Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-12T19:59:23.611297"
+  },
+  {
     "id": "github-autogen",
     "name": "microsoft/autogen",
     "display_name": "AutoGen",
@@ -4681,6 +4705,35 @@
     "license": "NOASSERTION",
     "source": "github-search",
     "collected_at": "2026-04-20T18:54:53.609652"
+  },
+  {
+    "id": "github-1235821686",
+    "name": "Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+    "display_name": "aws-certified-ai-practitioner-brasil",
+    "url": "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+    "description": "Repositório com recursos em Português (PT-BR) para estudos da certificação AWS Certified AI Practitioner (AIF-C01)",
+    "stars": 19,
+    "forks": 3,
+    "language": "HTML",
+    "topics": [
+      "ai-practitioner",
+      "aif-c01-study",
+      "aif-c01-test",
+      "artificial-intelligence",
+      "aws",
+      "aws-certified-cloud-practitioner",
+      "brasil",
+      "cloudstudy",
+      "estudos",
+      "generative-ai",
+      "machine-learning",
+      "portuguese-brazilian"
+    ],
+    "created_at": "2026-05-11T17:30:31Z",
+    "updated_at": "2026-05-12T19:51:31Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-12T19:59:20.859398"
   },
   {
     "id": "github-1190855758",
