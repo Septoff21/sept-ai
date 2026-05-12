@@ -1,40 +1,39 @@
 {
-  "updated_at": "2026-05-11T19:54:51.114963",
-  "date": "2026-05-11",
+  "updated_at": "2026-05-12T03:34:11.316382",
+  "date": "2026-05-12",
   "spotlight": {
-    "id": "aider",
-    "name": "Aider",
-    "url": "https://aider.chat",
-    "type": "tool",
-    "description": "终端内的AI结对编程工具，支持多文件编辑",
+    "name": "OpenClaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "type": "agent",
+    "description": "🦞 你的个人AI助手，跨平台、全功能。Any OS, Any Platform",
     "pricing": "开源免费",
-    "category": "编程"
+    "category": "助手 Agent"
   },
   "alternates": [
     {
-      "name": "Inkos",
-      "url": "https://github.com/Narcooo/inkos",
+      "name": "OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
       "type": "agent",
-      "description": "自主小说写作 AI Agent，多个 Agent 协作写作、审核和修改长篇小说",
+      "description": "全球首个开源 Agent 视频制作系统，12 条流水线 52 个工具覆盖全流程",
       "pricing": "免费开源",
       "category": "创作 Agent"
     },
     {
-      "id": "豆包",
-      "name": "豆包",
-      "url": "https://www.doubao.com",
+      "id": "通义千问",
+      "name": "通义千问",
+      "url": "https://tongyi.aliyun.com",
       "type": "tool",
-      "description": "字节跳动出品的 AI 助手，功能全面",
-      "pricing": "免费",
+      "description": "阿里巴巴出品的 AI 助手",
+      "pricing": "免费 + API 按量",
       "category": "对话"
     },
     {
-      "name": "LangGraph",
-      "url": "https://github.com/langchain-ai/langgraph",
+      "name": "Browser Use",
+      "url": "https://github.com/browser-use/browser-use",
       "type": "agent",
-      "description": "LangChain出品的有状态Agent编排框架",
+      "description": "让AI控制浏览器的Agent框架，Python实现",
       "pricing": "开源免费",
-      "category": "多 Agent"
+      "category": "浏览器 Agent"
     }
   ]
 }
