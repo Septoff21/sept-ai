@@ -1,5 +1,53 @@
 [
   {
+    "id": "3b6f4d8c1c71",
+    "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
+    "url": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-12T20:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-12T14:33:39.132952"
+  },
+  {
+    "id": "bcbb6b196c35",
+    "title": "原来Ilya还有70亿美元OpenAI股权",
+    "url": "https://www.qbitai.com/2026/05/416597.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-12T13:55:01",
+    "summary": "世纪庭审实锤OpenAI「造富神话」",
+    "collected_at": "2026-05-12T14:31:09.502108"
+  },
+  {
+    "id": "7b99025294e5",
+    "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
+    "url": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-12T17:02:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-12T14:33:39.133038"
+  },
+  {
+    "id": "ce3938d1553a",
+    "title": "Dessn raises $6M for its production focused design tool",
+    "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T13:00:00",
+    "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+    "collected_at": "2026-05-12T14:33:25.644087"
+  },
+  {
     "id": "e346289244d6",
     "title": "梁文锋出资200亿元，DeepSeek阿里谈崩？宇树机器人在韩国佛门受戒，法号“迦悲”；员工人均奖金达610万人民币，被婚恋市场追捧？官方回应｜AI周报",
     "url": "https://www.infoq.cn/article/xqLfi9FVBo6qINKSuyeb?utm_source=rss&utm_medium=article",
@@ -12,16 +60,16 @@
     "collected_at": "2026-05-12T08:46:17.613237"
   },
   {
-    "id": "b8af52f9e2a4",
-    "title": "AI第一金主黄仁勋：日均花掉20亿",
-    "url": "https://www.qbitai.com/2026/05/416540.html",
-    "source": "量子位",
+    "id": "e43e178231dc",
+    "title": "3M加入行业联盟，推进人工智能数据中心光互联技术发展",
+    "url": "https://36kr.com/newsflashes/3806269522779648?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-12T08:03:52",
-    "summary": "“AI御三家”都投了",
-    "collected_at": "2026-05-12T08:43:43.259449"
+    "priority": 4,
+    "published": "2026-05-12T12:17:35",
+    "summary": "3M加入行业联盟，推进人工智能数据中心光互联技术发展。（新浪财经）",
+    "collected_at": "2026-05-12T14:33:38.028071"
   },
   {
     "id": "033dbac331ce",
@@ -36,16 +84,16 @@
     "collected_at": "2026-05-12T08:46:17.613276"
   },
   {
-    "id": "195c30b99264",
-    "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
-    "url": "https://www.qbitai.com/2026/05/416056.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-12T06:06:38",
-    "summary": "快手，可能要亲手拆出第二家“快手”了。",
-    "collected_at": "2026-05-12T08:43:43.259575"
+    "id": "8af7974522b7",
+    "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+    "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-12T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu pu",
+    "collected_at": "2026-05-12T14:33:25.918327"
   },
   {
     "id": "aff6b03148d7",
@@ -60,16 +108,16 @@
     "collected_at": "2026-05-12T08:46:17.613348"
   },
   {
-    "id": "d3b5b5ad9510",
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "id": "55313edf898f",
+    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-12T04:52:35",
-    "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-    "collected_at": "2026-05-12T08:45:56.169624"
+    "published": "2026-05-12T11:30:00",
+    "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+    "collected_at": "2026-05-12T14:33:25.644128"
   },
   {
     "id": "35baea1ed4ab",
@@ -84,16 +132,16 @@
     "collected_at": "2026-05-12T08:46:17.613376"
   },
   {
-    "id": "c8347a24a6c2",
-    "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
-    "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T04:33:46",
-    "summary": "well done, Team Thinky.",
-    "collected_at": "2026-05-12T08:46:11.903243"
+    "id": "c5707dc4be22",
+    "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+    "url": "https://36kr.com/p/3806179759496711?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-12T10:52:40",
+    "summary": "5月19日至20日，带上你的需求， 带上你的方案，我们在亦庄，不见不散。 如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找那个能将技术兑换为价值的确定性坐标。 在这样的关键时刻，北京经开区充分发挥产业高地与政策策源地的引领作用，为AI落地提供了前瞻性的亦庄路径：以全域开放的产业图景为底座，用丰富的落地场景牵引技术创新，推动“人工智能+”在垂直行业深度延伸",
+    "collected_at": "2026-05-12T14:33:38.026419"
   },
   {
     "id": "512b342fe6be",
@@ -108,16 +156,16 @@
     "collected_at": "2026-05-12T03:33:22.507497"
   },
   {
-    "id": "5f1fa249a525",
-    "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
-    "url": "https://www.qbitai.com/2026/05/416034.html",
+    "id": "ccc9959aaf3c",
+    "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
+    "url": "https://www.qbitai.com/2026/05/416590.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-12T04:02:50",
-    "summary": "让AI agent看到屏幕，也能操作鼠标键盘",
-    "collected_at": "2026-05-12T08:43:43.259604"
+    "published": "2026-05-12T10:14:04",
+    "summary": "打造“一人多面”的具身智能便利店",
+    "collected_at": "2026-05-12T14:31:09.502155"
   },
   {
     "id": "b4fa41d7ec28",
@@ -132,16 +180,16 @@
     "collected_at": "2026-05-12T03:33:22.507539"
   },
   {
-    "id": "a7b8fa7f70a4",
-    "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-    "url": "https://arxiv.org/abs/2605.08200",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08200v1 Announce Type: new Abstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibrated answer. We test this Attention-Confidence Assump",
-    "collected_at": "2026-05-12T08:46:09.279029"
+    "id": "892c51991d5b",
+    "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+    "url": "https://www.qbitai.com/2026/05/416582.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-12T09:35:29",
+    "summary": "累计发现23个独立安全漏洞",
+    "collected_at": "2026-05-12T14:31:09.502186"
   },
   {
     "id": "4f07f0567932",
@@ -156,16 +204,76 @@
     "collected_at": "2026-05-12T03:33:22.507615"
   },
   {
-    "id": "49928d3fdf0e",
-    "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-    "url": "https://arxiv.org/abs/2605.08220",
+    "id": "b8af52f9e2a4",
+    "title": "AI第一金主黄仁勋：日均花掉20亿",
+    "url": "https://www.qbitai.com/2026/05/416540.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-12T08:03:52",
+    "summary": "“AI御三家”都投了",
+    "collected_at": "2026-05-12T08:43:43.259449"
+  },
+  {
+    "id": "d3b5b5ad9510",
+    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T04:52:35",
+    "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+    "collected_at": "2026-05-12T08:45:56.169624"
+  },
+  {
+    "id": "195c30b99264",
+    "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
+    "url": "https://www.qbitai.com/2026/05/416056.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-12T06:06:38",
+    "summary": "快手，可能要亲手拆出第二家“快手”了。",
+    "collected_at": "2026-05-12T08:43:43.259575"
+  },
+  {
+    "id": "c8347a24a6c2",
+    "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
+    "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
+    "source": "Latent Space",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-12T04:33:46",
+    "summary": "well done, Team Thinky.",
+    "collected_at": "2026-05-12T08:46:11.903243"
+  },
+  {
+    "id": "5f1fa249a525",
+    "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
+    "url": "https://www.qbitai.com/2026/05/416034.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-12T04:02:50",
+    "summary": "让AI agent看到屏幕，也能操作鼠标键盘",
+    "collected_at": "2026-05-12T08:43:43.259604"
+  },
+  {
+    "id": "a7b8fa7f70a4",
+    "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
+    "url": "https://arxiv.org/abs/2605.08200",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08220v1 Announce Type: new Abstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key",
-    "collected_at": "2026-05-12T08:46:09.279119"
+    "summary": "arXiv:2605.08200v1 Announce Type: new Abstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibrated answer. We test this Attention-Confidence Assump",
+    "collected_at": "2026-05-12T08:46:09.279029"
   },
   {
     "id": "c0c22e22916e",
@@ -180,16 +288,16 @@
     "collected_at": "2026-05-12T08:46:10.019043"
   },
   {
-    "id": "5a4023840cab",
-    "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-    "url": "https://arxiv.org/abs/2605.08354",
+    "id": "49928d3fdf0e",
+    "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
+    "url": "https://arxiv.org/abs/2605.08220",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08354v1 Announce Type: new Abstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human judgment. Prevailing RLHF approaches reduce this structure to scalar or pairwise labels, collapsing",
-    "collected_at": "2026-05-12T08:46:09.279210"
+    "summary": "arXiv:2605.08220v1 Announce Type: new Abstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key",
+    "collected_at": "2026-05-12T08:46:09.279119"
   },
   {
     "id": "053dec6a39d2",
@@ -204,16 +312,16 @@
     "collected_at": "2026-05-12T08:46:10.019120"
   },
   {
-    "id": "5b2d28f31b68",
-    "title": "Embeddings for Preferences, Not Semantics",
-    "url": "https://arxiv.org/abs/2605.08360",
+    "id": "5a4023840cab",
+    "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
+    "url": "https://arxiv.org/abs/2605.08354",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial",
-    "collected_at": "2026-05-12T08:46:09.279285"
+    "summary": "arXiv:2605.08354v1 Announce Type: new Abstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human judgment. Prevailing RLHF approaches reduce this structure to scalar or pairwise labels, collapsing",
+    "collected_at": "2026-05-12T08:46:09.279210"
   },
   {
     "id": "8b157c9bd9b7",
@@ -228,16 +336,16 @@
     "collected_at": "2026-05-12T08:46:10.019220"
   },
   {
-    "id": "04499fb6a6d9",
-    "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-    "url": "https://arxiv.org/abs/2605.08368",
+    "id": "5b2d28f31b68",
+    "title": "Embeddings for Preferences, Not Semantics",
+    "url": "https://arxiv.org/abs/2605.08360",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08368v1 Announce Type: new Abstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But this distinction is too coarse. What matters is whether a training procedure increases the probabil",
-    "collected_at": "2026-05-12T08:46:09.279366"
+    "summary": "arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial",
+    "collected_at": "2026-05-12T08:46:09.279285"
   },
   {
     "id": "13bbac6c7362",
@@ -252,16 +360,16 @@
     "collected_at": "2026-05-12T08:46:10.019309"
   },
   {
-    "id": "2b8f9704a059",
-    "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-    "url": "https://arxiv.org/abs/2605.08374",
+    "id": "04499fb6a6d9",
+    "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
+    "url": "https://arxiv.org/abs/2605.08368",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08374v1 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the",
-    "collected_at": "2026-05-12T08:46:09.279443"
+    "summary": "arXiv:2605.08368v1 Announce Type: new Abstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But this distinction is too coarse. What matters is whether a training procedure increases the probabil",
+    "collected_at": "2026-05-12T08:46:09.279366"
   },
   {
     "id": "c1deee755201",
@@ -276,16 +384,16 @@
     "collected_at": "2026-05-12T08:46:10.019372"
   },
   {
-    "id": "93ee8a54b2c9",
-    "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
-    "url": "https://arxiv.org/abs/2605.08386",
+    "id": "2b8f9704a059",
+    "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+    "url": "https://arxiv.org/abs/2605.08374",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08386v1 Announce Type: new Abstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat skills as flat, single-resolution prompt blocks. This creates a tension between relevance and cost: inject",
-    "collected_at": "2026-05-12T08:46:09.279525"
+    "summary": "arXiv:2605.08374v1 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the",
+    "collected_at": "2026-05-12T08:46:09.279443"
   },
   {
     "id": "bffbfa4324bd",
@@ -300,16 +408,16 @@
     "collected_at": "2026-05-12T08:46:10.019456"
   },
   {
-    "id": "3a73f3bdccf6",
-    "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
-    "url": "https://arxiv.org/abs/2605.08388",
+    "id": "93ee8a54b2c9",
+    "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+    "url": "https://arxiv.org/abs/2605.08386",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08388v1 Announce Type: new Abstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on their own. With the advent of powerful and accessible Generative AI models, several mundane tasks have morph",
-    "collected_at": "2026-05-12T08:46:09.279590"
+    "summary": "arXiv:2605.08386v1 Announce Type: new Abstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat skills as flat, single-resolution prompt blocks. This creates a tension between relevance and cost: inject",
+    "collected_at": "2026-05-12T08:46:09.279525"
   },
   {
     "id": "581d5aa14b77",
@@ -324,16 +432,16 @@
     "collected_at": "2026-05-12T08:46:10.019520"
   },
   {
-    "id": "931d91bcc77e",
-    "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
-    "url": "https://arxiv.org/abs/2605.08399",
+    "id": "3a73f3bdccf6",
+    "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
+    "url": "https://arxiv.org/abs/2605.08388",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08399v1 Announce Type: new Abstract: Tool-augmented language models can extend small language models with external executable skills, but scaling the tool library creates a coupled challenge: the library must evolve with the planner as new reusable subroutines emerge, while retrieval from",
-    "collected_at": "2026-05-12T08:46:09.279686"
+    "summary": "arXiv:2605.08388v1 Announce Type: new Abstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on their own. With the advent of powerful and accessible Generative AI models, several mundane tasks have morph",
+    "collected_at": "2026-05-12T08:46:09.279590"
   },
   {
     "id": "a51e0953303c",
@@ -348,16 +456,16 @@
     "collected_at": "2026-05-12T08:46:10.019600"
   },
   {
-    "id": "afd07cf08c69",
-    "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
-    "url": "https://arxiv.org/abs/2605.08405",
+    "id": "931d91bcc77e",
+    "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
+    "url": "https://arxiv.org/abs/2605.08399",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08405v1 Announce Type: new Abstract: How do LLMs learn in-context? Is it by pattern-matching recent tokens, or by inferring latent structure? We probe this question using a toy graph random-walk across two competing graph structures. This task's answer is, in principle, decidable: either",
-    "collected_at": "2026-05-12T08:46:09.279755"
+    "summary": "arXiv:2605.08399v1 Announce Type: new Abstract: Tool-augmented language models can extend small language models with external executable skills, but scaling the tool library creates a coupled challenge: the library must evolve with the planner as new reusable subroutines emerge, while retrieval from",
+    "collected_at": "2026-05-12T08:46:09.279686"
   },
   {
     "id": "82c3aecc2fd8",
@@ -372,16 +480,16 @@
     "collected_at": "2026-05-12T08:46:10.019667"
   },
   {
-    "id": "d5713090ed41",
-    "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
-    "url": "https://arxiv.org/abs/2605.08409",
+    "id": "afd07cf08c69",
+    "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
+    "url": "https://arxiv.org/abs/2605.08405",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08409v1 Announce Type: new Abstract: Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusional belief spirals even in rational agents. We propose the problem does not stem from the AI model, rooted instead in a sys",
-    "collected_at": "2026-05-12T08:46:09.279839"
+    "summary": "arXiv:2605.08405v1 Announce Type: new Abstract: How do LLMs learn in-context? Is it by pattern-matching recent tokens, or by inferring latent structure? We probe this question using a toy graph random-walk across two competing graph structures. This task's answer is, in principle, decidable: either",
+    "collected_at": "2026-05-12T08:46:09.279755"
   },
   {
     "id": "358c1806c336",
@@ -396,16 +504,16 @@
     "collected_at": "2026-05-12T08:46:10.019783"
   },
   {
-    "id": "c7dc67df73af",
-    "title": "Political Plasticity: An Analysis of Ideological Adaptability in Large Language Models",
-    "url": "https://arxiv.org/abs/2605.08415",
+    "id": "d5713090ed41",
+    "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
+    "url": "https://arxiv.org/abs/2605.08409",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08415v1 Announce Type: new Abstract: Since the advent of Large Language Models (LLMs), a significant area of research has focused on their intrinsic biases, particularly in political discourse. This study investigates a different but related concept, \"political plasticity\", which is defin",
-    "collected_at": "2026-05-12T08:46:09.279921"
+    "summary": "arXiv:2605.08409v1 Announce Type: new Abstract: Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusional belief spirals even in rational agents. We propose the problem does not stem from the AI model, rooted instead in a sys",
+    "collected_at": "2026-05-12T08:46:09.279839"
   },
   {
     "id": "da55e72cf3a3",
@@ -420,16 +528,16 @@
     "collected_at": "2026-05-12T08:46:10.019864"
   },
   {
-    "id": "d528ac55c797",
-    "title": "Alignment as Jurisprudence",
-    "url": "https://arxiv.org/abs/2605.08416",
+    "id": "c7dc67df73af",
+    "title": "Political Plasticity: An Analysis of Ideological Adaptability in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.08415",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08416v1 Announce Type: new Abstract: Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant fields both seek to predict and shape how decisions",
-    "collected_at": "2026-05-12T08:46:09.280022"
+    "summary": "arXiv:2605.08415v1 Announce Type: new Abstract: Since the advent of Large Language Models (LLMs), a significant area of research has focused on their intrinsic biases, particularly in political discourse. This study investigates a different but related concept, \"political plasticity\", which is defin",
+    "collected_at": "2026-05-12T08:46:09.279921"
   },
   {
     "id": "54512b526770",
@@ -444,16 +552,16 @@
     "collected_at": "2026-05-12T08:46:10.019955"
   },
   {
-    "id": "ae3d312d43d3",
-    "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
-    "url": "https://arxiv.org/abs/2605.08427",
+    "id": "d528ac55c797",
+    "title": "Alignment as Jurisprudence",
+    "url": "https://arxiv.org/abs/2605.08416",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08427v1 Announce Type: new Abstract: Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles in a zero-sum game, i.e., where the attacker tries to jailbreak the defender; if self-play converges to",
-    "collected_at": "2026-05-12T08:46:09.280110"
+    "summary": "arXiv:2605.08416v1 Announce Type: new Abstract: Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, share a fundamental structure. These seemingly distant fields both seek to predict and shape how decisions",
+    "collected_at": "2026-05-12T08:46:09.280022"
   },
   {
     "id": "e9684464e38a",
@@ -468,16 +576,16 @@
     "collected_at": "2026-05-12T08:46:10.020038"
   },
   {
-    "id": "81981bdf7c87",
-    "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
-    "url": "https://arxiv.org/abs/2605.08445",
+    "id": "ae3d312d43d3",
+    "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
+    "url": "https://arxiv.org/abs/2605.08427",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08445v1 Announce Type: new Abstract: AI models are increasingly deployed in live clinical environments where they must perform reliably across complex, high-stakes workflows that standard training and validation datasets were never designed to capture. Evaluating these systems requires be",
-    "collected_at": "2026-05-12T08:46:09.280190"
+    "summary": "arXiv:2605.08427v1 Announce Type: new Abstract: Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles in a zero-sum game, i.e., where the attacker tries to jailbreak the defender; if self-play converges to",
+    "collected_at": "2026-05-12T08:46:09.280110"
   },
   {
     "id": "5b42f1c0248c",
@@ -492,16 +600,16 @@
     "collected_at": "2026-05-12T08:46:10.020151"
   },
   {
-    "id": "25617af29cab",
-    "title": "LLM-guided Semi-Supervised Approaches for Social Media Crisis Data Classification",
-    "url": "https://arxiv.org/abs/2605.08448",
+    "id": "81981bdf7c87",
+    "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
+    "url": "https://arxiv.org/abs/2605.08445",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08448v1 Announce Type: new Abstract: Semi-supervised learning approaches have been investigated as a means to enhance the analysis of social media data in disaster management contexts. In this work, we present the first empirical evaluation of large language model (LLM) guided semi-superv",
-    "collected_at": "2026-05-12T08:46:09.280262"
+    "summary": "arXiv:2605.08445v1 Announce Type: new Abstract: AI models are increasingly deployed in live clinical environments where they must perform reliably across complex, high-stakes workflows that standard training and validation datasets were never designed to capture. Evaluating these systems requires be",
+    "collected_at": "2026-05-12T08:46:09.280190"
   },
   {
     "id": "eea3037a0e49",
@@ -516,16 +624,16 @@
     "collected_at": "2026-05-12T08:46:10.020249"
   },
   {
-    "id": "e6a67d18abdf",
-    "title": "Behavioral Determinants of Deployed AI Agents in Social Networks: A Multi-Factor Study of Personality, Model, and Guardrail Specification",
-    "url": "https://arxiv.org/abs/2605.08463",
+    "id": "25617af29cab",
+    "title": "LLM-guided Semi-Supervised Approaches for Social Media Crisis Data Classification",
+    "url": "https://arxiv.org/abs/2605.08448",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08463v1 Announce Type: new Abstract: Autonomous AI agents are increasingly deployed in open social environments, yet the relationship between their configuration specifications and their emergent social behavior remains poorly understood. We present a controlled, multi-factor empirical st",
-    "collected_at": "2026-05-12T08:46:09.280338"
+    "summary": "arXiv:2605.08448v1 Announce Type: new Abstract: Semi-supervised learning approaches have been investigated as a means to enhance the analysis of social media data in disaster management contexts. In this work, we present the first empirical evaluation of large language model (LLM) guided semi-superv",
+    "collected_at": "2026-05-12T08:46:09.280262"
   },
   {
     "id": "759fd33c3c78",
@@ -540,16 +648,16 @@
     "collected_at": "2026-05-12T08:46:10.020318"
   },
   {
-    "id": "007fae2a46dd",
-    "title": "Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models",
-    "url": "https://arxiv.org/abs/2605.08472",
+    "id": "e6a67d18abdf",
+    "title": "Behavioral Determinants of Deployed AI Agents in Social Networks: A Multi-Factor Study of Personality, Model, and Guardrail Specification",
+    "url": "https://arxiv.org/abs/2605.08463",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08472v1 Announce Type: new Abstract: The effectiveness of Reinforcement Learning (RL) in Large Language Models (LLMs) depends on the nature and diversity of the data used before and during RL. In particular, reasoning problems can often be approached in multiple ways that rely on differen",
-    "collected_at": "2026-05-12T08:46:09.280410"
+    "summary": "arXiv:2605.08463v1 Announce Type: new Abstract: Autonomous AI agents are increasingly deployed in open social environments, yet the relationship between their configuration specifications and their emergent social behavior remains poorly understood. We present a controlled, multi-factor empirical st",
+    "collected_at": "2026-05-12T08:46:09.280338"
   },
   {
     "id": "9a1f907d720e",
@@ -564,16 +672,16 @@
     "collected_at": "2026-05-12T08:46:10.020415"
   },
   {
-    "id": "1374d047a3a8",
-    "title": "AI-Care: A Conversational Agentic System for Task Coordination in Alzheimer's Disease Care",
-    "url": "https://arxiv.org/abs/2605.08480",
+    "id": "007fae2a46dd",
+    "title": "Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models",
+    "url": "https://arxiv.org/abs/2605.08472",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08480v1 Announce Type: new Abstract: Individuals with Alzheimer's disease (AD) and Alzheimer's disease-related dementia (ADRD) experience memory and thinking changes that impact their ability to use digital daily management tools. For example, adding an event to a digital calendar require",
-    "collected_at": "2026-05-12T08:46:09.280500"
+    "summary": "arXiv:2605.08472v1 Announce Type: new Abstract: The effectiveness of Reinforcement Learning (RL) in Large Language Models (LLMs) depends on the nature and diversity of the data used before and during RL. In particular, reasoning problems can often be approached in multiple ways that rely on differen",
+    "collected_at": "2026-05-12T08:46:09.280410"
   },
   {
     "id": "9b45bdeacfc2",
@@ -588,16 +696,16 @@
     "collected_at": "2026-05-12T08:46:10.020499"
   },
   {
-    "id": "8fad6943c1d5",
-    "title": "Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms",
-    "url": "https://arxiv.org/abs/2605.08496",
+    "id": "1374d047a3a8",
+    "title": "AI-Care: A Conversational Agentic System for Task Coordination in Alzheimer's Disease Care",
+    "url": "https://arxiv.org/abs/2605.08480",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08496v1 Announce Type: new Abstract: Current adversarial robustness methods for large language models require extensive datasets of harmful prompts (thousands to hundreds of thousands of examples), yet remain vulnerable to novel attack vectors and distributional shifts. We propose Latent",
-    "collected_at": "2026-05-12T08:46:09.280559"
+    "summary": "arXiv:2605.08480v1 Announce Type: new Abstract: Individuals with Alzheimer's disease (AD) and Alzheimer's disease-related dementia (ADRD) experience memory and thinking changes that impact their ability to use digital daily management tools. For example, adding an event to a digital calendar require",
+    "collected_at": "2026-05-12T08:46:09.280500"
   },
   {
     "id": "df96115df8d4",
@@ -612,16 +720,16 @@
     "collected_at": "2026-05-12T08:46:10.020566"
   },
   {
-    "id": "3bf3bef7570f",
-    "title": "Walulu：用六个月撕开一条新赛道",
-    "url": "https://36kr.com/p/3805761383751427?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-12T03:46:38",
-    "summary": "文丨果脯 近日，成都雨之灵动科技有限公司（后称雨之灵动）宣布完成总额数千万人民币的天使轮及Pre-A轮融资。 目前其投资方阵容已颇为亮眼，包含KK集团、4399、科大讯飞和一家知名财务投资机构，涵盖了财务资本、渠道资源、游戏行业及AI技术四大维度。做到这种程度，基本已经覆盖了一家AI消费品公司的所需的核心拼图。 雨之灵动能同时吸引到这四类资方，一定程度上说明他们的项目不仅打动了财务投资人的直觉，也获得了产品方对其产品的市场期望。 雨之灵动的核心产品是AI仿生毛绒宠物Walulu。在公司创始人兼CEO顾小毛的愿景中，他们希望将Walulu打造成“AI时代的宝可梦”。 这并非雨之灵动最早的想法。2",
-    "collected_at": "2026-05-12T08:46:16.130178"
+    "id": "8fad6943c1d5",
+    "title": "Latent Personality Alignment: Improving Harmlessness Without Mentioning Harms",
+    "url": "https://arxiv.org/abs/2605.08496",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-12T04:00:00",
+    "summary": "arXiv:2605.08496v1 Announce Type: new Abstract: Current adversarial robustness methods for large language models require extensive datasets of harmful prompts (thousands to hundreds of thousands of examples), yet remain vulnerable to novel attack vectors and distributional shifts. We propose Latent",
+    "collected_at": "2026-05-12T08:46:09.280559"
   },
   {
     "id": "fab01585874e",
@@ -636,16 +744,16 @@
     "collected_at": "2026-05-12T08:46:10.020629"
   },
   {
-    "id": "cacfbb1813ec",
-    "title": "韩国政策高层提议：以AI产业的超额利润向全体国民发放“公民红利”",
-    "url": "https://36kr.com/newsflashes/3805699195428354?f=rss",
+    "id": "3bf3bef7570f",
+    "title": "Walulu：用六个月撕开一条新赛道",
+    "url": "https://36kr.com/p/3805761383751427?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-12T02:50:55",
-    "summary": "韩国总统府政策室长金容范提出，考虑设立所谓“公民红利”，资金来源为人工智能(AI)产业产生的超额利润。“人工智能基础设施时代的收益，并非仅由个别企业创造，而是源于整个国家在过去半个多世纪中所构建的产业基础。因此，这些收益中的一部分应通过制度安排回馈给全体国民，”金容范在其Facebook发文中表示。（财联社）",
-    "collected_at": "2026-05-12T03:33:21.211873"
+    "published": "2026-05-12T03:46:38",
+    "summary": "文丨果脯 近日，成都雨之灵动科技有限公司（后称雨之灵动）宣布完成总额数千万人民币的天使轮及Pre-A轮融资。 目前其投资方阵容已颇为亮眼，包含KK集团、4399、科大讯飞和一家知名财务投资机构，涵盖了财务资本、渠道资源、游戏行业及AI技术四大维度。做到这种程度，基本已经覆盖了一家AI消费品公司的所需的核心拼图。 雨之灵动能同时吸引到这四类资方，一定程度上说明他们的项目不仅打动了财务投资人的直觉，也获得了产品方对其产品的市场期望。 雨之灵动的核心产品是AI仿生毛绒宠物Walulu。在公司创始人兼CEO顾小毛的愿景中，他们希望将Walulu打造成“AI时代的宝可梦”。 这并非雨之灵动最早的想法。2",
+    "collected_at": "2026-05-12T08:46:16.130178"
   },
   {
     "id": "7a7c4cf1151c",
@@ -660,16 +768,16 @@
     "collected_at": "2026-05-12T03:33:07.088819"
   },
   {
-    "id": "7486f6434a70",
-    "title": "上海AI实验室联合团队攻克芯片核心材料光刻胶稳定制备难题",
-    "url": "https://36kr.com/newsflashes/3805700079721985?f=rss",
+    "id": "cacfbb1813ec",
+    "title": "韩国政策高层提议：以AI产业的超额利润向全体国民发放“公民红利”",
+    "url": "https://36kr.com/newsflashes/3805699195428354?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-12T02:38:19",
-    "summary": "36氪获悉，据上海人工智能实验室消息，近日，依托2030新一代人工智能国家科技重大专项总体部署，上海人工智能实验室（上海AI实验室）联合厦门大学、苏州国家实验室等合作单位基于“书生”科学大模型与“书生”科学发现平台，构建了“AI决策+自动化合成”的闭环研发体系，实现了高纯度、高一致性、高效率的KrF光刻胶树脂创制。这一突破使高端光刻胶树脂的稳定制备不再依赖于极少数国外供应商的“黑箱能力”，为全球芯片材料领域探索出一条可标准化、快速迭代的新路径。",
-    "collected_at": "2026-05-12T03:33:21.211982"
+    "published": "2026-05-12T02:50:55",
+    "summary": "韩国总统府政策室长金容范提出，考虑设立所谓“公民红利”，资金来源为人工智能(AI)产业产生的超额利润。“人工智能基础设施时代的收益，并非仅由个别企业创造，而是源于整个国家在过去半个多世纪中所构建的产业基础。因此，这些收益中的一部分应通过制度安排回馈给全体国民，”金容范在其Facebook发文中表示。（财联社）",
+    "collected_at": "2026-05-12T03:33:21.211873"
   },
   {
     "id": "92a70cd58f0b",
@@ -684,16 +792,16 @@
     "collected_at": "2026-05-12T03:33:18.229125"
   },
   {
-    "id": "ce3279a27662",
-    "title": "8点1氪丨美国总统特朗普：非常期待中国之行 ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
-    "url": "https://36kr.com/p/3805557782486785?f=rss",
+    "id": "7486f6434a70",
+    "title": "上海AI实验室联合团队攻克芯片核心材料光刻胶稳定制备难题",
+    "url": "https://36kr.com/newsflashes/3805700079721985?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-12T00:16:27",
-    "summary": "今日热点导览 天舟十号货运飞船与空间站组合体完成交会对接 国家广播电视总局：4月经备案国产电视动画片51部、9659分钟 任天堂股价因Switch 2游戏前景不佳大幅下跌 千问与淘宝打通，正式上线AI购物 TOP3大新闻 美国总统特朗普：非常期待中国之行 外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问。 当地时间5月11日，美国总统特朗普在其社交媒体“真实社交”发文表示，非常期待即将开启的中国之行，并称中国是“一个令人惊叹的国家”。(央视新闻) OPPO就母亲节文案事件发布问责通告，高级副总裁职级直降两级 5月11日，界面新闻独家",
-    "collected_at": "2026-05-12T03:33:21.210654"
+    "published": "2026-05-12T02:38:19",
+    "summary": "36氪获悉，据上海人工智能实验室消息，近日，依托2030新一代人工智能国家科技重大专项总体部署，上海人工智能实验室（上海AI实验室）联合厦门大学、苏州国家实验室等合作单位基于“书生”科学大模型与“书生”科学发现平台，构建了“AI决策+自动化合成”的闭环研发体系，实现了高纯度、高一致性、高效率的KrF光刻胶树脂创制。这一突破使高端光刻胶树脂的稳定制备不再依赖于极少数国外供应商的“黑箱能力”，为全球芯片材料领域探索出一条可标准化、快速迭代的新路径。",
+    "collected_at": "2026-05-12T03:33:21.211982"
   },
   {
     "id": "19ab76e345ac",
@@ -706,6 +814,18 @@
     "published": "2026-05-11T23:53:05",
     "summary": "千问与淘宝全面打通，Google 安全团队首次发现 AI 参与黑客活动的迹象等。查看全文",
     "collected_at": "2026-05-12T03:33:27.797885"
+  },
+  {
+    "id": "ce3279a27662",
+    "title": "8点1氪丨美国总统特朗普：非常期待中国之行 ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
+    "url": "https://36kr.com/p/3805557782486785?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-12T00:16:27",
+    "summary": "今日热点导览 天舟十号货运飞船与空间站组合体完成交会对接 国家广播电视总局：4月经备案国产电视动画片51部、9659分钟 任天堂股价因Switch 2游戏前景不佳大幅下跌 千问与淘宝打通，正式上线AI购物 TOP3大新闻 美国总统特朗普：非常期待中国之行 外交部发言人宣布：应国家主席习近平邀请，美利坚合众国总统唐纳德·特朗普将于5月13日至15日对中国进行国事访问。 当地时间5月11日，美国总统特朗普在其社交媒体“真实社交”发文表示，非常期待即将开启的中国之行，并称中国是“一个令人惊叹的国家”。(央视新闻) OPPO就母亲节文案事件发布问责通告，高级副总裁职级直降两级 5月11日，界面新闻独家",
+    "collected_at": "2026-05-12T03:33:21.210654"
   },
   {
     "id": "3bee7290591a",
@@ -958,6 +1078,18 @@
     "published": "2026-05-11T15:46:36",
     "summary": "Learning on the Shop floor Tobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack: River does not respond to direct messages. She politely declines and suggests to create a public channel for you and her to start working in. I myself work",
     "collected_at": "2026-05-11T19:53:46.303519"
+  },
+  {
+    "id": "74cdffe7e5df",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-11T15:27:12",
+    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits",
+    "collected_at": "2026-05-12T14:33:25.780841"
   },
   {
     "id": "45f994a15450",
@@ -3336,18 +3468,6 @@
     "collected_at": "2026-05-08T07:47:55.898271"
   },
   {
-    "id": "fd7638a89d31",
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T21:02:11",
-    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-    "collected_at": "2026-05-08T03:25:24.447575"
-  },
-  {
     "id": "e7395a20d82c",
     "title": "Structural Instability of Feature Composition",
     "url": "https://arxiv.org/abs/2605.05223",
@@ -3358,18 +3478,6 @@
     "published": "2026-05-08T04:00:00",
     "summary": "arXiv:2605.05223v1 Announce Type: new Abstract: Sparse Autoencoders (SAEs) have emerged as a powerful paradigm for disentangling feature superposition in transformer-based architectures, enabling precise control via activation steering. However, the theoretical foundations of compositional steering",
     "collected_at": "2026-05-08T07:47:55.898346"
-  },
-  {
-    "id": "434c6b74f659",
-    "title": "Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations",
-    "url": "https://www.alignmentforum.org/posts/oeYesesaxjzMAktCM/natural-language-autoencoders-produce-unsupervised",
-    "source": "AI Alignment Forum",
-    "lang": "en",
-    "channel": "en",
-    "priority": 3,
-    "published": "2026-05-07T20:21:22",
-    "summary": "AbstractWe introduce Natural Language Autoencoders (NLAs), an unsupervised method for generating natural language explanations of LLM activations. An NLA consists of two LLM modules: an activation verbalizer (AV) that maps an activation to a text description and an activation reconstructor (AR) that",
-    "collected_at": "2026-05-08T03:25:50.289322"
   },
   {
     "id": "2d67a5a121e5",
@@ -3384,18 +3492,6 @@
     "collected_at": "2026-05-08T07:47:55.898419"
   },
   {
-    "id": "78b9d253c0d2",
-    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T20:20:20",
-    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-    "collected_at": "2026-05-08T03:25:24.447620"
-  },
-  {
     "id": "ff6dd864ff48",
     "title": "MACS: Modality-Aware Capacity Scaling for Efficient Multimodal MoE Inference",
     "url": "https://arxiv.org/abs/2605.05225",
@@ -3406,18 +3502,6 @@
     "published": "2026-05-08T04:00:00",
     "summary": "arXiv:2605.05225v1 Announce Type: new Abstract: Mixture-of-Experts Multimodal Large Language Models (MoE MLLMs) suffer from a significant efficiency bottleneck during Expert Parallelism (EP) inference due to the straggler effect. This issue is worsened in the multimodal context, as existing token-co",
     "collected_at": "2026-05-08T07:47:55.898482"
-  },
-  {
-    "id": "c158587de2a0",
-    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T19:57:59",
-    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-    "collected_at": "2026-05-08T03:25:24.447661"
   },
   {
     "id": "91bdba92d314",
@@ -3432,18 +3516,6 @@
     "collected_at": "2026-05-08T07:47:55.898553"
   },
   {
-    "id": "0837d9f92293",
-    "title": "llm-gemini 0.31",
-    "url": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T19:57:06",
-    "summary": "Release: llm-gemini 0.31 gemini-3.1-flash-lite is no longer a preview. Here's my write-up of the Gemini 3.1 Flash-Lite Preview model back in March. I don't believe this new non-preview model has changed since then. Tags: llm-release, gemini, llm, google, generative-ai, ai, llms",
-    "collected_at": "2026-05-08T03:25:48.810972"
-  },
-  {
     "id": "b8333c1ca4cd",
     "title": "Rethinking Data Curation in LLM Training: Online Reweighting Offers Better Generalization than Offline Methods",
     "url": "https://arxiv.org/abs/2605.05227",
@@ -3454,18 +3526,6 @@
     "published": "2026-05-08T04:00:00",
     "summary": "arXiv:2605.05227v1 Announce Type: new Abstract: Data curation is a critical yet under-explored area in large language model (LLM) training. Existing methods, such as data selection and mixing, operate in an offline paradigm, detaching themselves from training. This separation introduces engineering",
     "collected_at": "2026-05-08T07:47:55.898624"
-  },
-  {
-    "id": "5cb0197e266d",
-    "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T19:55:22",
-    "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and tria",
-    "collected_at": "2026-05-08T03:25:24.595048"
   },
   {
     "id": "b9d9fd92648b",
@@ -3480,18 +3540,6 @@
     "collected_at": "2026-05-08T07:47:55.898696"
   },
   {
-    "id": "408a70be6510",
-    "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-    "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T19:39:22",
-    "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test",
-    "collected_at": "2026-05-07T19:47:42.357015"
-  },
-  {
     "id": "5db2a72399be",
     "title": "Expert Routing for Communication-Efficient MoE via Finite Expert Banks",
     "url": "https://arxiv.org/abs/2605.05278",
@@ -3502,18 +3550,6 @@
     "published": "2026-05-08T04:00:00",
     "summary": "arXiv:2605.05278v1 Announce Type: new Abstract: Resource-efficient machine learning increasingly uses sparse Mixture-of-Experts (MoE) architectures, where the gate acts as both a learning component and a routing interface controlling computation, communication, and accuracy. Motivated by finite-rate",
     "collected_at": "2026-05-08T07:47:55.898781"
-  },
-  {
-    "id": "cce7bcc3845f",
-    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T19:38:36",
-    "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/ Comments URL: https://news.ycombinator.com/item?id=48053842 Points: 119 # Comments: 27",
-    "collected_at": "2026-05-08T13:57:20.722308"
   },
   {
     "id": "5f254afb8bc7",
@@ -3528,18 +3564,6 @@
     "collected_at": "2026-05-08T07:47:55.898849"
   },
   {
-    "id": "a4f7e22e9142",
-    "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T19:26:16",
-    "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes",
-    "collected_at": "2026-05-07T19:47:42.357067"
-  },
-  {
     "id": "c5ababcbf45f",
     "title": "Attribution-Guided Continual Learning for Large Language Models",
     "url": "https://arxiv.org/abs/2605.05285",
@@ -3552,18 +3576,6 @@
     "collected_at": "2026-05-08T07:47:55.898906"
   },
   {
-    "id": "ae90c4caa509",
-    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-07T19:21:21",
-    "summary": "Can Sam Altman—or any CEO—be trusted with super intelligence?",
-    "collected_at": "2026-05-07T19:47:42.242516"
-  },
-  {
     "id": "2a49fbec4d81",
     "title": "Graph Normalization: Fast Binarizing Dynamics for Differentiable MWIS",
     "url": "https://arxiv.org/abs/2605.05330",
@@ -3574,18 +3586,6 @@
     "published": "2026-05-08T04:00:00",
     "summary": "arXiv:2605.05330v1 Announce Type: new Abstract: We introduce Graph Normalization (GN), a principled dynamical system on graphs that serves as a differentiable approximation engine for the NP-hard Maximum Weight Independent Set (MWIS) problem. MWIS encompasses many combinatorial challenges, including",
     "collected_at": "2026-05-08T07:47:55.899033"
-  },
-  {
-    "id": "9fc187e8a48d",
-    "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-    "source": "Ars Technica AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-07T19:18:16",
-    "summary": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
-    "collected_at": "2026-05-08T03:25:24.909650"
   },
   {
     "id": "107ca70c5c72",
