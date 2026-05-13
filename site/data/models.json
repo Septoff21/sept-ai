@@ -942,6 +942,30 @@
     "is_core": true
   },
   {
+    "id": "hf-tencent--HunyuanImage-3.0",
+    "name": "tencent/HunyuanImage-3.0",
+    "display_name": "HunyuanImage-3.0",
+    "url": "https://huggingface.co/tencent/HunyuanImage-3.0",
+    "author": "tencent",
+    "pipeline_tag": "text-to-image",
+    "likes": 1074,
+    "downloads": 276345,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "hunyuan_image_3_moe",
+      "text-generation",
+      "text-to-image",
+      "custom_code",
+      "arxiv:2509.23951",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2025-09-25T06:28:28.000Z",
+    "source": "hf-text-to-image",
+    "collected_at": "2026-05-13T08:50:24.556114"
+  },
+  {
     "id": "hf-Qwen--Qwen3-Coder-30B-A3B-Instruct",
     "name": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "display_name": "Qwen3-Coder-30B-A3B-Instruct",
@@ -5470,6 +5494,24 @@
     "created_at": "2026-05-01T00:29:29.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-09T03:24:10.824357"
+  },
+  {
+    "id": "hf-Comfy-Org--HiDream-O1-Image",
+    "name": "Comfy-Org/HiDream-O1-Image",
+    "display_name": "HiDream-O1-Image",
+    "url": "https://huggingface.co/Comfy-Org/HiDream-O1-Image",
+    "author": "Comfy-Org",
+    "pipeline_tag": "",
+    "likes": 42,
+    "downloads": 0,
+    "tags": [
+      "comfyui",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-05-10T00:28:02.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-13T08:50:24.383906"
   },
   {
     "id": "hf-ibm-granite--granite-speech-4.1-2b-plus",
@@ -23894,45 +23936,5 @@
     "created_at": "2026-04-27T03:27:13.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635362"
-  },
-  {
-    "id": "hf-AnujPatnaik1--dummy-model",
-    "name": "AnujPatnaik1/dummy-model",
-    "display_name": "dummy-model",
-    "url": "https://huggingface.co/AnujPatnaik1/dummy-model",
-    "author": "AnujPatnaik1",
-    "pipeline_tag": "fill-mask",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "camembert",
-      "fill-mask",
-      "arxiv:1910.09700",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:26:33.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635364"
-  },
-  {
-    "id": "hf-Johnny1024--intuitor-sciknoweval_chem-qwen3-4b-think-2507-b16-s150",
-    "name": "Johnny1024/intuitor-sciknoweval_chem-qwen3-4b-think-2507-b16-s150",
-    "display_name": "intuitor-sciknoweval_chem-qwen3-4b-think-2507-b16-s150",
-    "url": "https://huggingface.co/Johnny1024/intuitor-sciknoweval_chem-qwen3-4b-think-2507-b16-s150",
-    "author": "Johnny1024",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "safetensors",
-      "qwen3",
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:25:48.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635367"
   }
 ]
