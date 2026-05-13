@@ -1,5 +1,53 @@
 [
   {
+    "id": "cd106930f232",
+    "title": "从「自我进化」到「DAA」，百度给出 Agent 时代系统答案",
+    "url": "https://www.infoq.cn/article/aaLabGa4T7z5m1UBiJ2O?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-13T18:58:26",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-13T14:42:43.781682"
+  },
+  {
+    "id": "81f40260030d",
+    "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
+    "url": "https://www.qbitai.com/2026/05/417366.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-13T14:04:42",
+    "summary": "甚至可以直接在手机上做APP",
+    "collected_at": "2026-05-13T14:40:00.379539"
+  },
+  {
+    "id": "9af207ae3217",
+    "title": "当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义",
+    "url": "https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-13T17:22:58",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-13T14:42:43.781762"
+  },
+  {
+    "id": "cca0dcac3600",
+    "title": "WhatsApp adds an incognito mode in Meta AI chats",
+    "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-13T14:00:00",
+    "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+    "collected_at": "2026-05-13T14:42:14.492806"
+  },
+  {
     "id": "2020cf42d036",
     "title": "GitHub 如何保障现代CI/CD系统中智能体工作流的安全",
     "url": "https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&utm_medium=article",
@@ -12,16 +60,16 @@
     "collected_at": "2026-05-13T08:50:13.351013"
   },
   {
-    "id": "abc880cadfea",
-    "title": "腾讯：Hy3 preview调用量持续居OpenRouter榜首，Agent密集发布",
-    "url": "https://36kr.com/newsflashes/3807475346251523?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-13T08:44:12",
-    "summary": "36氪获悉，腾讯发布2026年第一季度财报，AI全线提速。其中，混元不到三个月完成重建，Hy3 preview在上下文、Agent、Coding等能力上显著提升。OpenRouter数据显示，Hy3 preview结束限免期后，日Token用量和周Token调用量仍保持榜首；4月27日至5月11日连续三周登顶OpenRouter周榜总榜。今年以来，腾讯累计上线数十款通用和垂直场景Agent。",
-    "collected_at": "2026-05-13T08:50:11.864083"
+    "id": "a1cf4478c84d",
+    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+    "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-13T14:00:00",
+    "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
+    "collected_at": "2026-05-13T14:42:14.492855"
   },
   {
     "id": "aac71a5918ed",
@@ -36,16 +84,16 @@
     "collected_at": "2026-05-13T08:50:13.351077"
   },
   {
-    "id": "3ba97fe4c91b",
-    "title": "腾讯：一季度营收1964.58亿元，同比增长9%",
-    "url": "https://36kr.com/newsflashes/3807464005656325?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-13T08:32:40",
-    "summary": "36氪获悉，腾讯发布2026年第一季度财报。财报显示，腾讯一季度营收1964.58亿元，同比增长9%；Non-IFRS经营利润756.3亿元，同比增长9%。若剔除新AI产品影响，Non-IFRS经营利润同比增长17%至844亿元。期内腾讯自由现金流达567亿元。",
-    "collected_at": "2026-05-13T08:50:11.864196"
+    "id": "2711944a2015",
+    "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+    "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-13T13:27:09",
+    "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+    "collected_at": "2026-05-13T14:42:14.492901"
   },
   {
     "id": "0cd52489bc65",
@@ -60,16 +108,16 @@
     "collected_at": "2026-05-13T08:50:13.351112"
   },
   {
-    "id": "cabdec87db18",
-    "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
-    "url": "https://www.qbitai.com/2026/05/416870.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "08eb6ced7e21",
+    "title": "Alexa is moving into Amazon.com",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-05-13T08:29:20",
-    "summary": "谷歌把Gemini塞进了Android",
-    "collected_at": "2026-05-13T08:47:46.993921"
+    "published": "2026-05-13T13:00:00",
+    "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a",
+    "collected_at": "2026-05-13T14:42:14.733880"
   },
   {
     "id": "00975e1757e9",
@@ -84,16 +132,16 @@
     "collected_at": "2026-05-13T08:50:13.351158"
   },
   {
-    "id": "d68166c6109d",
-    "title": "沙利文：百度一镜拿下数字人市场份额、产品实力双第一",
-    "url": "https://36kr.com/newsflashes/3807445387697929?f=rss",
+    "id": "e24f596a4049",
+    "title": "截至4月30日累计有868款生成式人工智能服务完成备案",
+    "url": "https://36kr.com/newsflashes/3807695701663496?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-13T08:13:44",
-    "summary": "36氪获悉，近日，沙利文发布《中国AI数字人产业发展报告》，基于2025年全年数据，百度一镜以8.1%的市场份额位列第一，且产品综合实力第一。据了解，百度一镜已战略升级为“全球首个全场景多智能体数字人平台”，实现数字人直播、数字人视频、实时互动数字人全覆盖。数据显示，平台服务超10万客户，覆盖超30个行业，平台平均直播间转化率提升29%、交付效率提升150%、制作成本下降63.3%。",
-    "collected_at": "2026-05-13T08:50:11.864365"
+    "published": "2026-05-13T12:38:16",
+    "summary": "36氪获悉，据“网信中国”消息，2026年3月至4月新增72款生成式人工智能服务在国家网信办完成备案，对于通过API接口或其他方式直接调用已备案模型能力的生成式人工智能应用或功能，由地方网信办开展登记，新增49款完成登记。截至4月30日，累计有868款生成式人工智能服务完成备案，530款生成式人工智能应用或功能完成登记。",
+    "collected_at": "2026-05-13T14:42:42.396921"
   },
   {
     "id": "300e84278183",
@@ -108,16 +156,16 @@
     "collected_at": "2026-05-13T08:50:13.351192"
   },
   {
-    "id": "8ef066b3c61d",
-    "title": "恒指收涨0.15%，恒生科技指数涨0.46%",
-    "url": "https://36kr.com/newsflashes/3807442490203649?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-13T08:10:47",
-    "summary": "36氪获悉，恒指收涨0.15%，恒生科技指数涨0.46%；AI应用、半导体集体走强，智谱涨近37%，澜起科技涨超21%，英诺赛科、MINIMAX-WP涨超18%；传媒、煤炭走弱，中国秦发跌超6%，凤凰卫视跌近5%；南向资金净流出67.71亿港元。",
-    "collected_at": "2026-05-13T08:50:11.864397"
+    "id": "a2db175c26fd",
+    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+    "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-13T12:11:33",
+    "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+    "collected_at": "2026-05-13T14:42:14.492933"
   },
   {
     "id": "9757b54f8787",
@@ -132,16 +180,16 @@
     "collected_at": "2026-05-13T08:50:13.351228"
   },
   {
-    "id": "700c530a1ad5",
-    "title": "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
-    "url": "https://www.qbitai.com/2026/05/416831.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-13T05:40:53",
-    "summary": "Anthropic新研究实锤了",
-    "collected_at": "2026-05-13T08:47:46.994006"
+    "id": "7643edf29e2e",
+    "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+    "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-13T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit.",
+    "collected_at": "2026-05-13T14:42:14.973868"
   },
   {
     "id": "8048dad89cbb",
@@ -156,16 +204,16 @@
     "collected_at": "2026-05-13T08:50:13.351256"
   },
   {
-    "id": "b3a2faf6e4ac",
-    "title": "6月上海，这场论坛聊透出海真问题",
-    "url": "https://36kr.com/p/3807234971131656?f=rss",
+    "id": "b73ab8085889",
+    "title": "2026 AI最佳场景渗透案例重磅揭晓",
+    "url": "https://36kr.com/p/3807623172235011?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-13T05:04:56",
-    "summary": "副标题：韧性全球化，AI向未来｜EqualOcean2026出海全球化百人论坛（GGF2026）将于6月11日在上海举行 出海这件事，已经变了。 如果今天还把出海理解为“寻找增量市场”，大概率已经慢了一步。 如今，中国企业出海已经进入一个全新的阶段。真正拉开差距的，早已不是“是否出海”，而是： · 下一阶段最值得重仓的区域市场在哪里？ · AI应该优先进入哪些关键环节，才能形成真正差异化？ · 在资本趋于理性、增长更重质量的背景下，什么样的公司还具备穿越周期的可能性？ · 对于具身智能、自动驾驶、AI硬件等新技术企业而言，如何跨越从技术验证到场景落地、从产品展示到规模商业化的关键门槛？ 这些",
-    "collected_at": "2026-05-13T08:50:11.862720"
+    "published": "2026-05-13T11:21:17",
+    "summary": "如果用一个词来描述当下的AI产业，“落地”已有些过时，“渗透”则更为准确。 “渗透”意味着AI不再是发布会上的炫技Demo，也不再是PPT里的概念模型，而是像水电煤一样，悄无声息地融入企业运营的毛细血管和用户日常的消费决策中。 据麦肯锡《2025 AI应用现状调研》报告显示，在国内大模型的快速崛起推动下，生成式AI已广泛渗透至企业运营中，83%的企业在至少一个职能中实现了常态化使用，这一比例显著领跑全球。更关键的是，45%的受访企业表示已实现AI的规模化或全面部署，远超全球38%的平均线。 趋势和数据的背后，是行业正在形成的共识：AI的叙事主线已从“技术竞赛”切换到“场景为王”。 评价",
+    "collected_at": "2026-05-13T14:42:42.395454"
   },
   {
     "id": "e54958bdace4",
@@ -180,16 +228,16 @@
     "collected_at": "2026-05-13T08:50:13.351286"
   },
   {
-    "id": "5f0cf46b4cf0",
-    "title": "CSP Allow-list Experiment",
-    "url": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:50:45",
-    "summary": "Tool: CSP Allow-list Experiment An experiment that shows that you can load an app in a CSP-protected sandboxed iframe (see previous note) and have a custom fetch() that intercepts CSP errors and passes them up to the parent window... which can then prompt the user to add that domain to an allow-list",
-    "collected_at": "2026-05-13T08:50:08.430163"
+    "id": "991963f4bbdd",
+    "title": "氪星晚报｜腾讯刘炽平：腾讯没有大裁员计划；中美在韩国举行经贸磋商；马斯克称星舰第12次试飞将于下周进行",
+    "url": "https://36kr.com/p/3807540422942214?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-13T10:41:17",
+    "summary": "大公司： 腾讯：Hy3 preview调用量持续居OpenRouter榜首，Agent密集发布 36氪获悉，腾讯发布2026年第一季度财报，AI全线提速。其中，混元不到三个月完成重建，Hy3 preview在上下文、Agent、Coding等能力上显著提升。OpenRouter数据显示，Hy3 preview结束限免期后，日Token用量和周Token调用量仍保持榜首；4月27日至5月11日连续三周登顶OpenRouter周榜总榜。今年以来，腾讯累计上线数十款通用和垂直场景Agent。 腾讯刘炽平：腾讯没有大裁员计划 在腾讯股东大会上，对于腾讯是否会大裁员的问题，腾讯总裁刘炽平回应表示，肯定没",
+    "collected_at": "2026-05-13T14:42:42.395563"
   },
   {
     "id": "2297e8846b9d",
@@ -204,16 +252,16 @@
     "collected_at": "2026-05-13T03:41:30.062204"
   },
   {
-    "id": "546f6f13f3da",
-    "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
-    "url": "https://www.qbitai.com/2026/05/416762.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "b5b703a37cba",
+    "title": "Data centers are coming for rural America",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-05-13T04:43:31",
-    "summary": "李彦宏提出“AI时代进化论”",
-    "collected_at": "2026-05-13T08:47:46.994038"
+    "published": "2026-05-13T09:00:00",
+    "summary": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently. In 2023, the 1.4 million-square-foot facility was purchased through a joint venture",
+    "collected_at": "2026-05-13T14:42:14.733925"
   },
   {
     "id": "ab6edfc7cb27",
@@ -228,16 +276,16 @@
     "collected_at": "2026-05-13T03:41:30.062248"
   },
   {
-    "id": "3a52500e72dc",
-    "title": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
-    "url": "https://www.qbitai.com/2026/05/416754.html",
+    "id": "8f38aace77e4",
+    "title": "林俊旸果然创业了！一个“Qwen负责人”头衔值135亿",
+    "url": "https://www.qbitai.com/2026/05/416963.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-13T04:08:58",
-    "summary": "正式进入“迭代优化”时代",
-    "collected_at": "2026-05-13T08:47:46.994125"
+    "published": "2026-05-13T08:44:16",
+    "summary": "对于一家还没发产品的中国AI初创公司而言，这一估值，几乎没有先例。但相比林俊旸之前同台竞速的硅谷同行，不算贵。",
+    "collected_at": "2026-05-13T14:40:00.379619"
   },
   {
     "id": "5a3b72580a0d",
@@ -252,16 +300,16 @@
     "collected_at": "2026-05-13T03:41:30.062290"
   },
   {
-    "id": "6f1957a4ac4b",
-    "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
-    "url": "https://arxiv.org/abs/2605.11118",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11118v1 Announce Type: new Abstract: Personalized storefronts in large e-commerce marketplaces are often assembled from many independent components: static themes per page section (\"placement\"), retrieval systems to fetch eligible products per placement, and pointwise rankers to order con",
-    "collected_at": "2026-05-13T08:50:06.531003"
+    "id": "abc880cadfea",
+    "title": "腾讯：Hy3 preview调用量持续居OpenRouter榜首，Agent密集发布",
+    "url": "https://36kr.com/newsflashes/3807475346251523?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-13T08:44:12",
+    "summary": "36氪获悉，腾讯发布2026年第一季度财报，AI全线提速。其中，混元不到三个月完成重建，Hy3 preview在上下文、Agent、Coding等能力上显著提升。OpenRouter数据显示，Hy3 preview结束限免期后，日Token用量和周Token调用量仍保持榜首；4月27日至5月11日连续三周登顶OpenRouter周榜总榜。今年以来，腾讯累计上线数十款通用和垂直场景Agent。",
+    "collected_at": "2026-05-13T08:50:11.864083"
   },
   {
     "id": "7ebadfea288f",
@@ -276,16 +324,16 @@
     "collected_at": "2026-05-13T03:41:30.062320"
   },
   {
-    "id": "176c5c0bac6b",
-    "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
-    "url": "https://arxiv.org/abs/2605.11136",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11136v1 Announce Type: new Abstract: We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context and memory. A multi-agent system additionally evolves who collaborates, how they collaborate, and how",
-    "collected_at": "2026-05-13T08:50:06.531177"
+    "id": "3ba97fe4c91b",
+    "title": "腾讯：一季度营收1964.58亿元，同比增长9%",
+    "url": "https://36kr.com/newsflashes/3807464005656325?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-13T08:32:40",
+    "summary": "36氪获悉，腾讯发布2026年第一季度财报。财报显示，腾讯一季度营收1964.58亿元，同比增长9%；Non-IFRS经营利润756.3亿元，同比增长9%。若剔除新AI产品影响，Non-IFRS经营利润同比增长17%至844亿元。期内腾讯自由现金流达567亿元。",
+    "collected_at": "2026-05-13T08:50:11.864196"
   },
   {
     "id": "a17eb205916c",
@@ -300,16 +348,124 @@
     "collected_at": "2026-05-13T03:41:30.062350"
   },
   {
-    "id": "43c1eab5660e",
-    "title": "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking",
-    "url": "https://arxiv.org/abs/2605.11151",
+    "id": "cabdec87db18",
+    "title": "苹果画的饼谷歌率先搞定！Gemini全面进驻全家桶，连鼠标都AI上了",
+    "url": "https://www.qbitai.com/2026/05/416870.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-13T08:29:20",
+    "summary": "谷歌把Gemini塞进了Android",
+    "collected_at": "2026-05-13T08:47:46.993921"
+  },
+  {
+    "id": "d68166c6109d",
+    "title": "沙利文：百度一镜拿下数字人市场份额、产品实力双第一",
+    "url": "https://36kr.com/newsflashes/3807445387697929?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-13T08:13:44",
+    "summary": "36氪获悉，近日，沙利文发布《中国AI数字人产业发展报告》，基于2025年全年数据，百度一镜以8.1%的市场份额位列第一，且产品综合实力第一。据了解，百度一镜已战略升级为“全球首个全场景多智能体数字人平台”，实现数字人直播、数字人视频、实时互动数字人全覆盖。数据显示，平台服务超10万客户，覆盖超30个行业，平台平均直播间转化率提升29%、交付效率提升150%、制作成本下降63.3%。",
+    "collected_at": "2026-05-13T08:50:11.864365"
+  },
+  {
+    "id": "700c530a1ad5",
+    "title": "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
+    "url": "https://www.qbitai.com/2026/05/416831.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-13T05:40:53",
+    "summary": "Anthropic新研究实锤了",
+    "collected_at": "2026-05-13T08:47:46.994006"
+  },
+  {
+    "id": "8ef066b3c61d",
+    "title": "恒指收涨0.15%，恒生科技指数涨0.46%",
+    "url": "https://36kr.com/newsflashes/3807442490203649?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-13T08:10:47",
+    "summary": "36氪获悉，恒指收涨0.15%，恒生科技指数涨0.46%；AI应用、半导体集体走强，智谱涨近37%，澜起科技涨超21%，英诺赛科、MINIMAX-WP涨超18%；传媒、煤炭走弱，中国秦发跌超6%，凤凰卫视跌近5%；南向资金净流出67.71亿港元。",
+    "collected_at": "2026-05-13T08:50:11.864397"
+  },
+  {
+    "id": "5f0cf46b4cf0",
+    "title": "CSP Allow-list Experiment",
+    "url": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-13T04:50:45",
+    "summary": "Tool: CSP Allow-list Experiment An experiment that shows that you can load an app in a CSP-protected sandboxed iframe (see previous note) and have a custom fetch() that intercepts CSP errors and passes them up to the parent window... which can then prompt the user to add that domain to an allow-list",
+    "collected_at": "2026-05-13T08:50:08.430163"
+  },
+  {
+    "id": "b3a2faf6e4ac",
+    "title": "6月上海，这场论坛聊透出海真问题",
+    "url": "https://36kr.com/p/3807234971131656?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-13T05:04:56",
+    "summary": "副标题：韧性全球化，AI向未来｜EqualOcean2026出海全球化百人论坛（GGF2026）将于6月11日在上海举行 出海这件事，已经变了。 如果今天还把出海理解为“寻找增量市场”，大概率已经慢了一步。 如今，中国企业出海已经进入一个全新的阶段。真正拉开差距的，早已不是“是否出海”，而是： · 下一阶段最值得重仓的区域市场在哪里？ · AI应该优先进入哪些关键环节，才能形成真正差异化？ · 在资本趋于理性、增长更重质量的背景下，什么样的公司还具备穿越周期的可能性？ · 对于具身智能、自动驾驶、AI硬件等新技术企业而言，如何跨越从技术验证到场景落地、从产品展示到规模商业化的关键门槛？ 这些",
+    "collected_at": "2026-05-13T08:50:11.862720"
+  },
+  {
+    "id": "546f6f13f3da",
+    "title": "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览",
+    "url": "https://www.qbitai.com/2026/05/416762.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-13T04:43:31",
+    "summary": "李彦宏提出“AI时代进化论”",
+    "collected_at": "2026-05-13T08:47:46.994038"
+  },
+  {
+    "id": "6f1957a4ac4b",
+    "title": "A Cascaded Generative Approach for e-Commerce Recommendations",
+    "url": "https://arxiv.org/abs/2605.11118",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11151v1 Announce Type: new Abstract: Offline-to-online reinforcement learning (RL) improves sample efficiency by leveraging pre-collected datasets prior to online interaction. A key challenge, however, is learning an accurate critic in large state--action spaces with limited dataset cover",
-    "collected_at": "2026-05-13T08:50:06.531270"
+    "summary": "arXiv:2605.11118v1 Announce Type: new Abstract: Personalized storefronts in large e-commerce marketplaces are often assembled from many independent components: static themes per page section (\"placement\"), retrieval systems to fetch eligible products per placement, and pointwise rankers to order con",
+    "collected_at": "2026-05-13T08:50:06.531003"
+  },
+  {
+    "id": "3a52500e72dc",
+    "title": "Auto Research时代，47个没有标准答案的任务成了Agent能力必测榜",
+    "url": "https://www.qbitai.com/2026/05/416754.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-13T04:08:58",
+    "summary": "正式进入“迭代优化”时代",
+    "collected_at": "2026-05-13T08:47:46.994125"
+  },
+  {
+    "id": "176c5c0bac6b",
+    "title": "EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales",
+    "url": "https://arxiv.org/abs/2605.11136",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-13T04:00:00",
+    "summary": "arXiv:2605.11136v1 Announce Type: new Abstract: We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context and memory. A multi-agent system additionally evolves who collaborates, how they collaborate, and how",
+    "collected_at": "2026-05-13T08:50:06.531177"
   },
   {
     "id": "42e9d7ae43e3",
@@ -324,16 +480,16 @@
     "collected_at": "2026-05-13T08:50:06.941565"
   },
   {
-    "id": "3ab74c5d6fda",
-    "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents",
-    "url": "https://arxiv.org/abs/2605.11169",
+    "id": "43c1eab5660e",
+    "title": "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking",
+    "url": "https://arxiv.org/abs/2605.11151",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11169v1 Announce Type: new Abstract: Large language model agents interleave reasoning, action selection, and observation to solve sequential decision-making tasks. In deployed settings where agents repeatedly handle related multi-step tasks, small action-selection errors can accumulate in",
-    "collected_at": "2026-05-13T08:50:06.531360"
+    "summary": "arXiv:2605.11151v1 Announce Type: new Abstract: Offline-to-online reinforcement learning (RL) improves sample efficiency by leveraging pre-collected datasets prior to online interaction. A key challenge, however, is learning an accurate critic in large state--action spaces with limited dataset cover",
+    "collected_at": "2026-05-13T08:50:06.531270"
   },
   {
     "id": "a0a27acc7220",
@@ -348,16 +504,16 @@
     "collected_at": "2026-05-13T08:50:06.941652"
   },
   {
-    "id": "42460cdc17fb",
-    "title": "The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes",
-    "url": "https://arxiv.org/abs/2605.11182",
+    "id": "3ab74c5d6fda",
+    "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents",
+    "url": "https://arxiv.org/abs/2605.11169",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11182v1 Announce Type: new Abstract: On-policy distillation (OPD) and on-policy self-distillation (OPSD) have emerged as promising post-training methods for large language models, offering dense token-level supervision on trajectories sampled from the model's own policy. However, existing",
-    "collected_at": "2026-05-13T08:50:06.531435"
+    "summary": "arXiv:2605.11169v1 Announce Type: new Abstract: Large language model agents interleave reasoning, action selection, and observation to solve sequential decision-making tasks. In deployed settings where agents repeatedly handle related multi-step tasks, small action-selection errors can accumulate in",
+    "collected_at": "2026-05-13T08:50:06.531360"
   },
   {
     "id": "0ab72a47f6e6",
@@ -372,16 +528,16 @@
     "collected_at": "2026-05-13T08:50:06.941754"
   },
   {
-    "id": "21b8904de534",
-    "title": "Don't Look at the Numbers: Visual Anchoring Bias and Layer-wise Representation in VLMs",
-    "url": "https://arxiv.org/abs/2605.11218",
+    "id": "42460cdc17fb",
+    "title": "The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes",
+    "url": "https://arxiv.org/abs/2605.11182",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11218v1 Announce Type: new Abstract: Embedded numeric anchors on images systematically bias Vision-Language Model quality judgments across six VLMs from five architectural families (ANOVA eta^2 = 0.18-0.77, all p < 0.001). Anchor effects are 2.5x larger than severe image quality degradati",
-    "collected_at": "2026-05-13T08:50:06.531520"
+    "summary": "arXiv:2605.11182v1 Announce Type: new Abstract: On-policy distillation (OPD) and on-policy self-distillation (OPSD) have emerged as promising post-training methods for large language models, offering dense token-level supervision on trajectories sampled from the model's own policy. However, existing",
+    "collected_at": "2026-05-13T08:50:06.531435"
   },
   {
     "id": "c38f4f198d39",
@@ -396,16 +552,16 @@
     "collected_at": "2026-05-13T08:50:06.941815"
   },
   {
-    "id": "756fc63b6161",
-    "title": "Do Vision-Language-Models show human-like logical problem-solving capability in point and click puzzle games?",
-    "url": "https://arxiv.org/abs/2605.11223",
+    "id": "21b8904de534",
+    "title": "Don't Look at the Numbers: Visual Anchoring Bias and Layer-wise Representation in VLMs",
+    "url": "https://arxiv.org/abs/2605.11218",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11223v1 Announce Type: new Abstract: Vision-Language(-Action) Models (VLMs) are increasingly applied to interactive environments, yet existing benchmarks often overlook the complex physical reasoning required for point-and-click puzzle games. This paper introduces Vision-Language Against",
-    "collected_at": "2026-05-13T08:50:06.531584"
+    "summary": "arXiv:2605.11218v1 Announce Type: new Abstract: Embedded numeric anchors on images systematically bias Vision-Language Model quality judgments across six VLMs from five architectural families (ANOVA eta^2 = 0.18-0.77, all p < 0.001). Anchor effects are 2.5x larger than severe image quality degradati",
+    "collected_at": "2026-05-13T08:50:06.531520"
   },
   {
     "id": "cd4e2ab90d5e",
@@ -420,16 +576,16 @@
     "collected_at": "2026-05-13T08:50:06.941883"
   },
   {
-    "id": "e0d57c1af1b2",
-    "title": "PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement",
-    "url": "https://arxiv.org/abs/2605.11225",
+    "id": "756fc63b6161",
+    "title": "Do Vision-Language-Models show human-like logical problem-solving capability in point and click puzzle games?",
+    "url": "https://arxiv.org/abs/2605.11223",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11225v1 Announce Type: new Abstract: Large language model (LLM)-based agents frequently generate seemingly coherent plans that fail upon execution due to infeasible actions, constraint violations, and compounding errors over extended horizons. PIVOT (Plan-Inspect-eVOlve Trajectories) addr",
-    "collected_at": "2026-05-13T08:50:06.531661"
+    "summary": "arXiv:2605.11223v1 Announce Type: new Abstract: Vision-Language(-Action) Models (VLMs) are increasingly applied to interactive environments, yet existing benchmarks often overlook the complex physical reasoning required for point-and-click puzzle games. This paper introduces Vision-Language Against",
+    "collected_at": "2026-05-13T08:50:06.531584"
   },
   {
     "id": "782874237fa5",
@@ -444,16 +600,16 @@
     "collected_at": "2026-05-13T08:50:06.941955"
   },
   {
-    "id": "6d40aa2fe76d",
-    "title": "Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack",
-    "url": "https://arxiv.org/abs/2605.11232",
+    "id": "e0d57c1af1b2",
+    "title": "PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement",
+    "url": "https://arxiv.org/abs/2605.11225",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11232v1 Announce Type: new Abstract: Fraud detection and anti-money-laundering (AML) compliance are high-value domains for large language models (LLMs), but their serving requirements differ sharply from generic chat workloads. Compliance prompts are often prefix-heavy, schema-constrained",
-    "collected_at": "2026-05-13T08:50:06.531747"
+    "summary": "arXiv:2605.11225v1 Announce Type: new Abstract: Large language model (LLM)-based agents frequently generate seemingly coherent plans that fail upon execution due to infeasible actions, constraint violations, and compounding errors over extended horizons. PIVOT (Plan-Inspect-eVOlve Trajectories) addr",
+    "collected_at": "2026-05-13T08:50:06.531661"
   },
   {
     "id": "ba1d17f1559e",
@@ -468,16 +624,16 @@
     "collected_at": "2026-05-13T08:50:06.942031"
   },
   {
-    "id": "19663ba170ef",
-    "title": "The Semantic Training Gap: Ontology-Grounded Tool Architectures for Industrial AI Agent Systems",
-    "url": "https://arxiv.org/abs/2605.11234",
+    "id": "6d40aa2fe76d",
+    "title": "Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack",
+    "url": "https://arxiv.org/abs/2605.11232",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11234v1 Announce Type: new Abstract: Large language model (LLM)-based AI agents are increasingly deployed in manufacturing environments for analytics, quality management, and decision support. These agents demonstrate statistical fluency with domain terminology but lack grounded understan",
-    "collected_at": "2026-05-13T08:50:06.531833"
+    "summary": "arXiv:2605.11232v1 Announce Type: new Abstract: Fraud detection and anti-money-laundering (AML) compliance are high-value domains for large language models (LLMs), but their serving requirements differ sharply from generic chat workloads. Compliance prompts are often prefix-heavy, schema-constrained",
+    "collected_at": "2026-05-13T08:50:06.531747"
   },
   {
     "id": "649b2eb009dc",
@@ -492,16 +648,16 @@
     "collected_at": "2026-05-13T08:50:06.942157"
   },
   {
-    "id": "c278241b977e",
-    "title": "Unlocking LLM Creativity in Science through Analogical Reasoning",
-    "url": "https://arxiv.org/abs/2605.11258",
+    "id": "19663ba170ef",
+    "title": "The Semantic Training Gap: Ontology-Grounded Tool Architectures for Industrial AI Agent Systems",
+    "url": "https://arxiv.org/abs/2605.11234",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11258v1 Announce Type: new Abstract: Autonomous science promises to augment scientific discovery, particularly in complex fields like biomedicine. However, this requires AI systems that can consistently generate novel and diverse solutions to open-ended problems. We evaluate LLMs on the t",
-    "collected_at": "2026-05-13T08:50:06.531911"
+    "summary": "arXiv:2605.11234v1 Announce Type: new Abstract: Large language model (LLM)-based AI agents are increasingly deployed in manufacturing environments for analytics, quality management, and decision support. These agents demonstrate statistical fluency with domain terminology but lack grounded understan",
+    "collected_at": "2026-05-13T08:50:06.531833"
   },
   {
     "id": "b5eb62e9a42e",
@@ -516,16 +672,16 @@
     "collected_at": "2026-05-13T08:50:06.942258"
   },
   {
-    "id": "dc64bdfc4b5e",
-    "title": "Template-as-Ontology: Configurable Synthetic Data Infrastructure for Cross-Domain Manufacturing AI Validation",
-    "url": "https://arxiv.org/abs/2605.11259",
+    "id": "c278241b977e",
+    "title": "Unlocking LLM Creativity in Science through Analogical Reasoning",
+    "url": "https://arxiv.org/abs/2605.11258",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11259v1 Announce Type: new Abstract: LLarge language model (LLM)-based AI agents deployed in manufacturing environments require populated, schema-correct data for validation, yet production MES data is proprietary, privacy-encumbered, and vendor-specific. This paper introduces the Templat",
-    "collected_at": "2026-05-13T08:50:06.531994"
+    "summary": "arXiv:2605.11258v1 Announce Type: new Abstract: Autonomous science promises to augment scientific discovery, particularly in complex fields like biomedicine. However, this requires AI systems that can consistently generate novel and diverse solutions to open-ended problems. We evaluate LLMs on the t",
+    "collected_at": "2026-05-13T08:50:06.531911"
   },
   {
     "id": "d6f606b19cee",
@@ -540,16 +696,16 @@
     "collected_at": "2026-05-13T08:50:06.942343"
   },
   {
-    "id": "dc7e73cfaf93",
-    "title": "LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?",
-    "url": "https://arxiv.org/abs/2605.11301",
+    "id": "dc64bdfc4b5e",
+    "title": "Template-as-Ontology: Configurable Synthetic Data Infrastructure for Cross-Domain Manufacturing AI Validation",
+    "url": "https://arxiv.org/abs/2605.11259",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11301v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have heterogeneous strengths across OCR, chart understanding, spatial reasoning, visual question answering, cost, and latency. Effective MLLM routing therefore requires more than estimating query difficulty: a r",
-    "collected_at": "2026-05-13T08:50:06.532095"
+    "summary": "arXiv:2605.11259v1 Announce Type: new Abstract: LLarge language model (LLM)-based AI agents deployed in manufacturing environments require populated, schema-correct data for validation, yet production MES data is proprietary, privacy-encumbered, and vendor-specific. This paper introduces the Templat",
+    "collected_at": "2026-05-13T08:50:06.531994"
   },
   {
     "id": "971a88ec8db8",
@@ -564,16 +720,16 @@
     "collected_at": "2026-05-13T08:50:06.942434"
   },
   {
-    "id": "f67b5b05f548",
-    "title": "Constraint-Data-Value-Maximization: Utilizing Data Attribution for Effective Data Pruning in Low-Data Environments",
-    "url": "https://arxiv.org/abs/2605.11312",
+    "id": "dc7e73cfaf93",
+    "title": "LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?",
+    "url": "https://arxiv.org/abs/2605.11301",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11312v1 Announce Type: new Abstract: Attributing model behavior to training data is an evolving research field. A common benchmark is data removal, which involves eliminating data instances with either low or high values, then assessing a model's performance trained on the modified datase",
-    "collected_at": "2026-05-13T08:50:06.532157"
+    "summary": "arXiv:2605.11301v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have heterogeneous strengths across OCR, chart understanding, spatial reasoning, visual question answering, cost, and latency. Effective MLLM routing therefore requires more than estimating query difficulty: a r",
+    "collected_at": "2026-05-13T08:50:06.532095"
   },
   {
     "id": "50538ed35417",
@@ -588,16 +744,16 @@
     "collected_at": "2026-05-13T08:50:06.942527"
   },
   {
-    "id": "24ba46a7de09",
-    "title": "Rethinking Evaluation for LLM Hallucination Detection: A Desiderata, A New RAG-based Benchmark, New Insights",
-    "url": "https://arxiv.org/abs/2605.11330",
+    "id": "f67b5b05f548",
+    "title": "Constraint-Data-Value-Maximization: Utilizing Data Attribution for Effective Data Pruning in Low-Data Environments",
+    "url": "https://arxiv.org/abs/2605.11312",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11330v1 Announce Type: new Abstract: Hallucination, broadly referring to unfaithful, fabricated, or inconsistent content generated by LLMs, has wide-ranging implications. Therefore, a large body of effort has been devoted to detecting LLM hallucinations, as well as designing benchmark dat",
-    "collected_at": "2026-05-13T08:50:06.532248"
+    "summary": "arXiv:2605.11312v1 Announce Type: new Abstract: Attributing model behavior to training data is an evolving research field. A common benchmark is data removal, which involves eliminating data instances with either low or high values, then assessing a model's performance trained on the modified datase",
+    "collected_at": "2026-05-13T08:50:06.532157"
   },
   {
     "id": "4f18504f97de",
@@ -612,16 +768,16 @@
     "collected_at": "2026-05-13T08:50:06.942594"
   },
   {
-    "id": "a47d11709319",
-    "title": "CPEMH: An Agentic Framework for Prompt-Driven Behavior Evaluation and Assurance in Foundation-Model Systems for Mental Health Screening",
-    "url": "https://arxiv.org/abs/2605.11341",
+    "id": "24ba46a7de09",
+    "title": "Rethinking Evaluation for LLM Hallucination Detection: A Desiderata, A New RAG-based Benchmark, New Insights",
+    "url": "https://arxiv.org/abs/2605.11330",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11341v1 Announce Type: new Abstract: This paper presents CPEMH, an agentic framework designed to evaluate prompt-driven behavior in foundation-model systems operating on transcript-based datasets for mental-health screening. CPEMH serves as an engineering methodology for behavioral assura",
-    "collected_at": "2026-05-13T08:50:06.532318"
+    "summary": "arXiv:2605.11330v1 Announce Type: new Abstract: Hallucination, broadly referring to unfaithful, fabricated, or inconsistent content generated by LLMs, has wide-ranging implications. Therefore, a large body of effort has been devoted to detecting LLM hallucinations, as well as designing benchmark dat",
+    "collected_at": "2026-05-13T08:50:06.532248"
   },
   {
     "id": "68d19bf511e4",
@@ -636,16 +792,16 @@
     "collected_at": "2026-05-13T08:50:06.942663"
   },
   {
-    "id": "2cc1dc85577b",
-    "title": "CVEvolve: Autonomous Algorithm Discovery for Unstructured Scientific Data Processing",
-    "url": "https://arxiv.org/abs/2605.11359",
+    "id": "a47d11709319",
+    "title": "CPEMH: An Agentic Framework for Prompt-Driven Behavior Evaluation and Assurance in Foundation-Model Systems for Mental Health Screening",
+    "url": "https://arxiv.org/abs/2605.11341",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11359v1 Announce Type: new Abstract: Scientific data processing often requires task-specific algorithms or AI models, creating a barrier for domain scientists who need to analyze their data but may not have extensive computing or image-processing expertise. This barrier is especially pron",
-    "collected_at": "2026-05-13T08:50:06.532390"
+    "summary": "arXiv:2605.11341v1 Announce Type: new Abstract: This paper presents CPEMH, an agentic framework designed to evaluate prompt-driven behavior in foundation-model systems operating on transcript-based datasets for mental-health screening. CPEMH serves as an engineering methodology for behavioral assura",
+    "collected_at": "2026-05-13T08:50:06.532318"
   },
   {
     "id": "d96519c48858",
@@ -660,16 +816,16 @@
     "collected_at": "2026-05-13T08:50:06.942731"
   },
   {
-    "id": "5fd46060bc97",
-    "title": "Causal Bias Detection in Generative Artifical Intelligence",
-    "url": "https://arxiv.org/abs/2605.11365",
+    "id": "2cc1dc85577b",
+    "title": "CVEvolve: Autonomous Algorithm Discovery for Unstructured Scientific Data Processing",
+    "url": "https://arxiv.org/abs/2605.11359",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11365v1 Announce Type: new Abstract: Automated systems built on artificial intelligence (AI) are increasingly deployed across high-stakes domains, raising critical concerns about fairness and the perpetuation of demographic disparities that exist in the world. In this context, causal infe",
-    "collected_at": "2026-05-13T08:50:06.532474"
+    "summary": "arXiv:2605.11359v1 Announce Type: new Abstract: Scientific data processing often requires task-specific algorithms or AI models, creating a barrier for domain scientists who need to analyze their data but may not have extensive computing or image-processing expertise. This barrier is especially pron",
+    "collected_at": "2026-05-13T08:50:06.532390"
   },
   {
     "id": "d13c6469167b",
@@ -684,16 +840,16 @@
     "collected_at": "2026-05-13T08:50:06.942836"
   },
   {
-    "id": "2eae96aabca1",
-    "title": "Causal Algorithmic Recourse: Foundations and Methods",
-    "url": "https://arxiv.org/abs/2605.11373",
+    "id": "5fd46060bc97",
+    "title": "Causal Bias Detection in Generative Artifical Intelligence",
+    "url": "https://arxiv.org/abs/2605.11365",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11373v1 Announce Type: new Abstract: The trustworthiness of AI decision-making systems is increasingly important. A key feature of such systems is the ability to provide recommendations for how an individual may reverse a negative decision, a problem known as algorithmic recourse. Existin",
-    "collected_at": "2026-05-13T08:50:06.532542"
+    "summary": "arXiv:2605.11365v1 Announce Type: new Abstract: Automated systems built on artificial intelligence (AI) are increasingly deployed across high-stakes domains, raising critical concerns about fairness and the perpetuation of demographic disparities that exist in the world. In this context, causal infe",
+    "collected_at": "2026-05-13T08:50:06.532474"
   },
   {
     "id": "fb2038e5357d",
@@ -708,16 +864,16 @@
     "collected_at": "2026-05-13T08:50:06.942901"
   },
   {
-    "id": "63f0ba9c1d9c",
-    "title": "LLM-X: A Scalable Negotiation-Oriented Exchange for Communication Among Personal LLM Agents",
-    "url": "https://arxiv.org/abs/2605.11376",
+    "id": "2eae96aabca1",
+    "title": "Causal Algorithmic Recourse: Foundations and Methods",
+    "url": "https://arxiv.org/abs/2605.11373",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11376v1 Announce Type: new Abstract: We propose a personal-LLM exchange (LLM-X), a scalable negotiation-oriented environment that enables direct, structured communication across populations of personal agents (LLMs), each representing an individual user. Unlike existing tool-centric proto",
-    "collected_at": "2026-05-13T08:50:06.532608"
+    "summary": "arXiv:2605.11373v1 Announce Type: new Abstract: The trustworthiness of AI decision-making systems is increasingly important. A key feature of such systems is the ability to provide recommendations for how an individual may reverse a negative decision, a problem known as algorithmic recourse. Existin",
+    "collected_at": "2026-05-13T08:50:06.532542"
   },
   {
     "id": "cd9f6f2e9761",
@@ -732,16 +888,16 @@
     "collected_at": "2026-05-13T08:50:06.942954"
   },
   {
-    "id": "6e90bf3fbb08",
-    "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
-    "url": "https://www.qbitai.com/2026/05/416739.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-13T03:38:46",
-    "summary": "奥特曼曝这老些瓜",
-    "collected_at": "2026-05-13T08:47:46.994160"
+    "id": "63f0ba9c1d9c",
+    "title": "LLM-X: A Scalable Negotiation-Oriented Exchange for Communication Among Personal LLM Agents",
+    "url": "https://arxiv.org/abs/2605.11376",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-13T04:00:00",
+    "summary": "arXiv:2605.11376v1 Announce Type: new Abstract: We propose a personal-LLM exchange (LLM-X), a scalable negotiation-oriented environment that enables direct, structured communication across populations of personal agents (LLMs), each representing an individual user. Unlike existing tool-centric proto",
+    "collected_at": "2026-05-13T08:50:06.532608"
   },
   {
     "id": "d9d27d3cfdfb",
@@ -756,16 +912,16 @@
     "collected_at": "2026-05-13T08:50:06.943029"
   },
   {
-    "id": "7c45c777bdea",
-    "title": "爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型",
-    "url": "https://www.qbitai.com/2026/05/416576.html",
+    "id": "6e90bf3fbb08",
+    "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
+    "url": "https://www.qbitai.com/2026/05/416739.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-13T03:10:53",
-    "summary": "多方原告组团上阵",
-    "collected_at": "2026-05-13T08:47:46.994188"
+    "published": "2026-05-13T03:38:46",
+    "summary": "奥特曼曝这老些瓜",
+    "collected_at": "2026-05-13T08:47:46.994160"
   },
   {
     "id": "e8b370541f4a",
@@ -778,6 +934,18 @@
     "published": "2026-05-13T04:00:00",
     "summary": "arXiv:2605.11009v1 Announce Type: new Abstract: Long-horizon, sparse-reward tasks pose a fundamental challenge for reinforcement learning, since single-step TD learning suffers from bootstrapping error accumulation across successive Bellman updates. Actor-critic methods with action chunking address",
     "collected_at": "2026-05-13T08:50:06.943116"
+  },
+  {
+    "id": "7c45c777bdea",
+    "title": "爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型",
+    "url": "https://www.qbitai.com/2026/05/416576.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-13T03:10:53",
+    "summary": "多方原告组团上阵",
+    "collected_at": "2026-05-13T08:47:46.994188"
   },
   {
     "id": "ead40cb8530a",
@@ -1174,6 +1342,18 @@
     "published": "2026-05-12T15:51:38",
     "summary": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a y",
     "collected_at": "2026-05-12T19:58:57.472687"
+  },
+  {
+    "id": "5eec485c6b57",
+    "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+    "url": "https://github.com/statewright/statewright",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-12T14:24:55",
+    "summary": "Agentic problem solving in its current state is very brittle. I fell in love with it, but it creates as many problems as it solves.I'm Ben Cochran, I spent 20+ years in the trenches with full-stack Engineering, DevOps, high performance computing & ML with stints at NVIDIA, AMD and various other orga",
+    "collected_at": "2026-05-13T14:42:31.902564"
   },
   {
     "id": "033dbac331ce",
@@ -3396,18 +3576,6 @@
     "collected_at": "2026-05-09T13:25:33.017483"
   },
   {
-    "id": "4b6db41ff386",
-    "title": "Nvidia has already committed $40B to equity AI deals this year",
-    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-09T14:43:30",
-    "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-    "collected_at": "2026-05-09T19:08:19.872927"
-  },
-  {
     "id": "801a457d7027",
     "title": "颠覆认知：运维 Agent 靠知识，Coding Agent 靠约束！",
     "url": "https://www.infoq.cn/video/fXEzyFJ4jDYk0H0fPSIX?utm_source=rss&utm_medium=article",
@@ -3420,18 +3588,6 @@
     "collected_at": "2026-05-09T13:25:33.017519"
   },
   {
-    "id": "d0ac78beb93b",
-    "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
-    "url": "https://www.qbitai.com/2026/05/415019.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-09T09:53:25",
-    "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地",
-    "collected_at": "2026-05-09T13:22:55.443396"
-  },
-  {
     "id": "5f05a40eb384",
     "title": "AI 把编程这件事接管之后，作为程序员的我该何去何从？",
     "url": "https://www.infoq.cn/article/128UQPlXTAZjV9uwjYFJ?utm_source=rss&utm_medium=article",
@@ -3442,161 +3598,5 @@
     "published": "2026-05-09T17:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-09T13:25:33.017689"
-  },
-  {
-    "id": "d81ab1e0c1a9",
-    "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
-    "url": "https://www.qbitai.com/2026/05/414826.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-09T09:37:02",
-    "summary": "以0.829的总成绩荣登榜首",
-    "collected_at": "2026-05-09T13:22:55.443435"
-  },
-  {
-    "id": "8328c3ff4517",
-    "title": "停止编码的那天，就是失去架构判断力的开始：一位 30 年架构师的 AI 生存指南",
-    "url": "https://www.infoq.cn/article/zLaHwePKytptG102IscF?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-09T12:32:48",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-09T08:02:18.178399"
-  },
-  {
-    "id": "3ca1c9c32a01",
-    "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
-    "url": "https://www.qbitai.com/2026/05/415010.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-09T09:22:38",
-    "summary": "打造“赛博乙方天团”",
-    "collected_at": "2026-05-09T13:22:55.443469"
-  },
-  {
-    "id": "5499a95c89db",
-    "title": "Chrome 开了一个危险的头：偷偷给数亿电脑塞 4GB Gemini 模型，占硬盘、耗算力、删了自动重下",
-    "url": "https://www.infoq.cn/article/FOy8AahY8bsPveNwwTq1?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-09T12:26:47",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-09T08:02:18.178440"
-  },
-  {
-    "id": "6ffbc46f47da",
-    "title": "光帆带摄像头AI耳机本月开售",
-    "url": "https://36kr.com/newsflashes/3801812857871876?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-09T08:56:08",
-    "summary": "36氪获悉，光帆科技官方账号发布发售预热海报。海报显示，全球首款具备视觉感知能力的主动式AI耳机——光帆全感AI耳机，将于5月15日正式开售。",
-    "collected_at": "2026-05-09T13:25:31.451253"
-  },
-  {
-    "id": "1cbc7c95219b",
-    "title": "Cloudflare构建了面向LLM的高性能基础设施",
-    "url": "https://www.infoq.cn/article/wvRSqDH2uloYeu4f6GB0?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-09T12:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-09T08:02:18.178470"
-  },
-  {
-    "id": "93b280ab4465",
-    "title": "Deepseek和阿里谈崩了？市场人士回应",
-    "url": "https://36kr.com/newsflashes/3801813920144901?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-09T08:45:06",
-    "summary": "5月8日，有消息称，4月，DeepSeek（深度求索）罕见展开一场巨额融资计划，同时吸引了腾讯和阿里巴巴两家大厂。据该消息，近期，阿里巴巴和DeepSeek谈崩了。对此，市场人士透露，阿里应该没有进行谈判。（每经网）",
-    "collected_at": "2026-05-09T13:25:31.451369"
-  },
-  {
-    "id": "279f269886a2",
-    "title": "技术·艺术· 算术：京东零售 AIGC 百亿素材供给实践",
-    "url": "https://www.infoq.cn/article/YAWWcRb4eBYRSHyVAw2Q?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-09T11:12:41",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-09T03:23:54.982224"
-  },
-  {
-    "id": "8e14730c3dfc",
-    "title": "字节跳动据悉计划将AI基础设施支出增加25%",
-    "url": "https://36kr.com/newsflashes/3801787739282952?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-09T08:18:28",
-    "summary": "据报道，随着内存芯片成本上涨以及字节跳动加速布局人工智能（AI），该公司已将今年的AI基础设施支出计划增加25%至2000亿元人民币。（财联社）",
-    "collected_at": "2026-05-09T13:25:31.451398"
-  },
-  {
-    "id": "76350eef4824",
-    "title": "Meta部署统一的AI智能体，实现超大规模环境的自动化性能优化",
-    "url": "https://www.infoq.cn/article/OAkOq3ctjYBk1fD5WxJr?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-09T10:14:19",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-09T03:23:54.982261"
-  },
-  {
-    "id": "cff2a28fc4c5",
-    "title": "不更新参数就能强化学习！OpenAI翁家翌提出新范式：决策只需AI手搓一个.py 文件",
-    "url": "https://www.qbitai.com/2026/05/414827.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-09T08:07:08",
-    "summary": "实现过程开源可复现",
-    "collected_at": "2026-05-09T13:22:55.443500"
-  },
-  {
-    "id": "797cad6f3c58",
-    "title": "生成式推荐引擎升级，快手在线参数服务器性能与时延深度优化实践｜AICon上海",
-    "url": "https://www.infoq.cn/article/W3vmt9ADbhyIlGieJZ9Y?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-09T10:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-09T03:23:54.982291"
-  },
-  {
-    "id": "05e2bb91bda8",
-    "title": "All my clients wanted a carousel, now it's an AI chatbot",
-    "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-09T07:23:40",
-    "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md Comments URL: https://news.ycombinator.com/item?id=48072720 Points: 114 # Comments: 52",
-    "collected_at": "2026-05-09T13:25:13.472490"
   }
 ]
