@@ -1,13 +1,15 @@
 {
   "date": "2026-05-14",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：OpenAI Blog, InfoQ AI, TechCrunch AI, MIT Tech Review, 36氪, 量子位",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：OpenAI Blog, InfoQ AI, TechCrunch AI, The Verge AI, HuggingFace Blog, Hacker News AI, 量子位, MIT Tech Review",
   "news_count": 20,
   "sources": {
     "OpenAI Blog": 1,
-    "InfoQ AI": 9,
-    "TechCrunch AI": 3,
-    "MIT Tech Review": 3,
-    "36氪": 3,
-    "量子位": 1
+    "InfoQ AI": 6,
+    "TechCrunch AI": 6,
+    "The Verge AI": 3,
+    "HuggingFace Blog": 1,
+    "Hacker News AI": 1,
+    "量子位": 1,
+    "MIT Tech Review": 1
   }
 }

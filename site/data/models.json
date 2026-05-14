@@ -5139,6 +5139,35 @@
     "collected_at": "2026-05-02T19:10:31.059020"
   },
   {
+    "id": "hf-ResembleAI--Dramabox",
+    "name": "ResembleAI/Dramabox",
+    "display_name": "Dramabox",
+    "url": "https://huggingface.co/ResembleAI/Dramabox",
+    "author": "ResembleAI",
+    "pipeline_tag": "text-to-speech",
+    "likes": 46,
+    "downloads": 18,
+    "tags": [
+      "ltx-audio-tts",
+      "dramabox-tts",
+      "tts",
+      "voice-cloning",
+      "audio-generation",
+      "diffusion-transformer",
+      "flow-matching",
+      "ltx-2",
+      "text-to-speech",
+      "en",
+      "base_model:Lightricks/LTX-2.3",
+      "base_model:finetune:Lightricks/LTX-2.3",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-04-17T07:17:52.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-14T19:51:52.950804"
+  },
+  {
     "id": "hf-Lorbus--Qwen3.6-27B-int4-AutoRound",
     "name": "Lorbus/Qwen3.6-27B-int4-AutoRound",
     "display_name": "Qwen3.6-27B-int4-AutoRound",
@@ -5501,6 +5530,54 @@
     "created_at": "2026-04-26T01:37:45.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-14T03:40:49.956330"
+  },
+  {
+    "id": "hf-Cactus-Compute--needle",
+    "name": "Cactus-Compute/needle",
+    "display_name": "needle",
+    "url": "https://huggingface.co/Cactus-Compute/needle",
+    "author": "Cactus-Compute",
+    "pipeline_tag": "",
+    "likes": 43,
+    "downloads": 27,
+    "tags": [
+      "jax",
+      "custom",
+      "function-calling",
+      "tool-use",
+      "encoder-decoder",
+      "edge",
+      "on-device",
+      "flax",
+      "license:mit",
+      "region:us"
+    ],
+    "created_at": "2026-03-16T04:01:31.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-14T19:51:52.950824"
+  },
+  {
+    "id": "hf-vantagewithai--LTX2.3-10Eros-GGUF",
+    "name": "vantagewithai/LTX2.3-10Eros-GGUF",
+    "display_name": "LTX2.3-10Eros-GGUF",
+    "url": "https://huggingface.co/vantagewithai/LTX2.3-10Eros-GGUF",
+    "author": "vantagewithai",
+    "pipeline_tag": "image-to-video",
+    "likes": 43,
+    "downloads": 40100,
+    "tags": [
+      "diffusers",
+      "gguf",
+      "image-to-video",
+      "ltx-2-3",
+      "ltx-video",
+      "sulphur-2",
+      "10Eros",
+      "region:us"
+    ],
+    "created_at": "2026-05-08T16:54:04.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-14T19:51:52.950830"
   },
   {
     "id": "hf-google--gemma-4-31B-it-assistant",
@@ -6830,6 +6907,31 @@
     "created_at": "2026-04-30T11:50:11.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-06T08:32:49.682412"
+  },
+  {
+    "id": "hf-inclusionAI--Ring-2.6-1T",
+    "name": "inclusionAI/Ring-2.6-1T",
+    "display_name": "Ring-2.6-1T",
+    "url": "https://huggingface.co/inclusionAI/Ring-2.6-1T",
+    "author": "inclusionAI",
+    "pipeline_tag": "text-generation",
+    "likes": 23,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "bailing_hybrid",
+      "text-generation",
+      "conversational",
+      "custom_code",
+      "license:mit",
+      "eval-results",
+      "compressed-tensors",
+      "region:us"
+    ],
+    "created_at": "2026-05-14T08:10:02.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-14T19:51:53.159069"
   },
   {
     "id": "hf-FINAL-Bench--Darwin-36B-Opus",
@@ -23310,81 +23412,5 @@
     "created_at": "2026-04-26T18:49:27.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638249"
-  },
-  {
-    "id": "hf-W-61--qwen3-8b-base-orpo-ultrafeedback-4xh200-batch-128-20260426-105614",
-    "name": "W-61/qwen3-8b-base-orpo-ultrafeedback-4xh200-batch-128-20260426-105614",
-    "display_name": "qwen3-8b-base-orpo-ultrafeedback-4xh200-batch-128-20260426-105614",
-    "url": "https://huggingface.co/W-61/qwen3-8b-base-orpo-ultrafeedback-4xh200-batch-128-20260426-105614",
-    "author": "W-61",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:49:25.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638252"
-  },
-  {
-    "id": "hf-firzahdzm--dpo-34c9e1178df4-strA-01",
-    "name": "firzahdzm/dpo-34c9e1178df4-strA-01",
-    "display_name": "dpo-34c9e1178df4-strA-01",
-    "url": "https://huggingface.co/firzahdzm/dpo-34c9e1178df4-strA-01",
-    "author": "firzahdzm",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "safetensors",
-      "qwen2",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:48:58.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638255"
-  },
-  {
-    "id": "hf-swadhindas324--GPT-UCM",
-    "name": "swadhindas324/GPT-UCM",
-    "display_name": "GPT-UCM",
-    "url": "https://huggingface.co/swadhindas324/GPT-UCM",
-    "author": "swadhindas324",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "tensorboard",
-      "safetensors",
-      "gpt2",
-      "text-generation",
-      "generated_from_trainer",
-      "text-generation-inference",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:48:19.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638258"
-  },
-  {
-    "id": "hf-mainline777--distilman3",
-    "name": "mainline777/distilman3",
-    "display_name": "distilman3",
-    "url": "https://huggingface.co/mainline777/distilman3",
-    "author": "mainline777",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "safetensors",
-      "qwen3_5",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:48:14.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638260"
   }
 ]

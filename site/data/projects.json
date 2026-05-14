@@ -5349,6 +5349,38 @@
     "collected_at": "2026-05-14T03:40:47.227959"
   },
   {
+    "id": "github-1230041935",
+    "name": "rekursiv-ai/sagent",
+    "display_name": "sagent",
+    "url": "https://github.com/rekursiv-ai/sagent",
+    "description": "Strongly typed Python-first library and CLI for multi-provider, multi-agent coding LLMs with Erlang roots and aspirations.",
+    "stars": 9,
+    "forks": 1,
+    "language": "Python",
+    "topics": [
+      "agent-framework",
+      "agent-orchestration",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "claude-code",
+      "codex-cli",
+      "coding-agent",
+      "gemini-cli",
+      "llm-agent",
+      "machine-learning",
+      "oss",
+      "python"
+    ],
+    "created_at": "2026-05-05T16:09:51Z",
+    "updated_at": "2026-05-14T15:38:39Z",
+    "license": "Apache-2.0",
+    "source": "github-search",
+    "collected_at": "2026-05-14T19:51:49.026151"
+  },
+  {
     "id": "github-1188906847",
     "name": "hackyguru/clawcage",
     "display_name": "clawcage",

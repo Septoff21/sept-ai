@@ -24,16 +24,16 @@
     "collected_at": "2026-05-14T14:22:58.138158"
   },
   {
-    "id": "0ebe629cf260",
-    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-    "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "id": "3a7e43483526",
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T14:01:14",
-    "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-    "collected_at": "2026-05-14T14:22:39.547840"
+    "published": "2026-05-14T19:12:03",
+    "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+    "collected_at": "2026-05-14T19:51:24.086106"
   },
   {
     "id": "4a0edb059dd4",
@@ -48,16 +48,16 @@
     "collected_at": "2026-05-14T14:22:58.138200"
   },
   {
-    "id": "b11eb5e475b0",
-    "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
-    "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+    "id": "2c05eee6a567",
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T14:00:00",
-    "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
-    "collected_at": "2026-05-14T14:22:39.547906"
+    "published": "2026-05-14T19:05:01",
+    "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+    "collected_at": "2026-05-14T19:51:24.086148"
   },
   {
     "id": "57237570fc15",
@@ -72,16 +72,40 @@
     "collected_at": "2026-05-14T14:22:58.138235"
   },
   {
-    "id": "701532e0c3d2",
-    "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
-    "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-    "source": "TechCrunch AI",
+    "id": "d38fa000ee7a",
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T14:00:00",
-    "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
-    "collected_at": "2026-05-14T14:22:39.547939"
+    "published": "2026-05-14T19:00:00",
+    "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me t",
+    "collected_at": "2026-05-14T19:51:24.322625"
+  },
+  {
+    "id": "3d30727982c4",
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T18:55:01",
+    "summary": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best S",
+    "collected_at": "2026-05-14T19:51:37.328064"
+  },
+  {
+    "id": "1b5bd7d8e9ff",
+    "title": "AI is making me dumb",
+    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-14T18:19:28",
+    "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 203 # Comments: 133",
+    "collected_at": "2026-05-14T19:51:25.698075"
   },
   {
     "id": "f001ba2a9a15",
@@ -96,16 +120,64 @@
     "collected_at": "2026-05-14T14:22:58.138393"
   },
   {
-    "id": "7db00b81e7f6",
-    "title": "Data readiness for agentic AI in financial services",
-    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-    "source": "MIT Tech Review",
+    "id": "826e85f4eccd",
+    "title": "Use this map to find the data centers in your backyard",
+    "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T13:00:00",
-    "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of",
-    "collected_at": "2026-05-14T14:22:39.982856"
+    "priority": 1,
+    "published": "2026-05-14T17:40:00",
+    "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The",
+    "collected_at": "2026-05-14T19:51:24.322677"
+  },
+  {
+    "id": "73e7f5e11396",
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T16:30:02",
+    "summary": "A year ago, it looked like this day would never happen for Cerebras.",
+    "collected_at": "2026-05-14T19:51:24.086179"
+  },
+  {
+    "id": "755da9ec95da",
+    "title": "Americans do not want AI data centers in their backyards",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T15:24:53",
+    "summary": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gallup, data centers are so strongly disliked that Americans would prefer to live near a nuclear power",
+    "collected_at": "2026-05-14T19:51:24.322790"
+  },
+  {
+    "id": "6cc7aedcf8cc",
+    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+    "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T15:20:18",
+    "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+    "collected_at": "2026-05-14T19:51:24.086208"
+  },
+  {
+    "id": "735fcfd623cf",
+    "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
+    "url": "https://www.qbitai.com/2026/05/417731.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-14T14:58:53",
+    "summary": "Agent时代的数据库，怎么跑通商业化？",
+    "collected_at": "2026-05-14T19:49:10.035298"
   },
   {
     "id": "1ecdee913666",
@@ -120,16 +192,16 @@
     "collected_at": "2026-05-14T08:43:14.472680"
   },
   {
-    "id": "f187631eef2e",
-    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-    "source": "MIT Tech Review",
+    "id": "0ebe629cf260",
+    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+    "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T13:00:00",
-    "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u",
-    "collected_at": "2026-05-14T14:22:39.982928"
+    "priority": 1,
+    "published": "2026-05-14T14:01:14",
+    "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+    "collected_at": "2026-05-14T14:22:39.547840"
   },
   {
     "id": "9e1fa7b76efd",
@@ -142,6 +214,54 @@
     "published": "2026-05-14T14:04:30",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-14T08:43:14.472742"
+  },
+  {
+    "id": "b11eb5e475b0",
+    "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+    "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T14:00:00",
+    "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+    "collected_at": "2026-05-14T14:22:39.547906"
+  },
+  {
+    "id": "7db00b81e7f6",
+    "title": "Data readiness for agentic AI in financial services",
+    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-14T13:00:00",
+    "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of",
+    "collected_at": "2026-05-14T14:22:39.982856"
+  },
+  {
+    "id": "701532e0c3d2",
+    "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+    "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T14:00:00",
+    "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+    "collected_at": "2026-05-14T14:22:39.547939"
+  },
+  {
+    "id": "f187631eef2e",
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-14T13:00:00",
+    "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u",
+    "collected_at": "2026-05-14T14:22:39.982928"
   },
   {
     "id": "6b167ec3a10f",
@@ -408,16 +528,16 @@
     "collected_at": "2026-05-14T08:42:59.317530"
   },
   {
-    "id": "a71bb99cb299",
-    "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
-    "url": "https://arxiv.org/abs/2605.12620",
-    "source": "ArXiv CS.AI",
+    "id": "14bdee4e3b10",
+    "title": "datasette-ip-rate-limit 0.1a0",
+    "url": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12620v1 Announce Type: new Abstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision-",
-    "collected_at": "2026-05-14T08:43:07.549941"
+    "published": "2026-05-14T04:10:23",
+    "summary": "Release: datasette-ip-rate-limit 0.1a0 The datasette.io site was being hammered by poorly-behaved crawlers, so I had Codex (GPT-5.5 xhigh) build a configurable rate limiting plugin to block IPs that were hammering specific areas of the site too quickly. Here's the production configuration I'm using",
+    "collected_at": "2026-05-14T19:51:37.531478"
   },
   {
     "id": "fb356e6d297c",
@@ -430,6 +550,18 @@
     "published": "2026-05-14T05:24:39",
     "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
     "collected_at": "2026-05-14T08:42:59.317593"
+  },
+  {
+    "id": "a71bb99cb299",
+    "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+    "url": "https://arxiv.org/abs/2605.12620",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-14T04:00:00",
+    "summary": "arXiv:2605.12620v1 Announce Type: new Abstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision-",
+    "collected_at": "2026-05-14T08:43:07.549941"
   },
   {
     "id": "2a417ed16d18",
@@ -936,16 +1068,16 @@
     "collected_at": "2026-05-14T03:40:27.399274"
   },
   {
-    "id": "ff537b75f2fc",
-    "title": "Welcome to the Datasette blog",
-    "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
-    "source": "Simon Willison",
+    "id": "0782024bcee1",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T23:59:39",
-    "summary": "Welcome to the Datasette blog We have a bunch of neat Datasette announcements in the pipeline so we decided it was time the project grew an official blog. I built this using OpenAI Codex desktop, which turns out to have the Markdown session transcript export feature I've always wanted. Here's the se",
-    "collected_at": "2026-05-14T03:40:23.564048"
+    "priority": 1,
+    "published": "2026-05-14T00:00:00",
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "collected_at": "2026-05-14T19:51:32.037379"
   },
   {
     "id": "0804b59021fe",
@@ -958,6 +1090,18 @@
     "published": "2026-05-14T02:38:59",
     "summary": "36氪获悉，5月14日，Sensor Tower最新报告显示，2025Q2至2026Q1，生成式AI赛道以232%的同比增速、超44亿美元的收入增量，成为非游戏应用市场的绝对增长引擎，增速与规模均远超其他所有赛道。生成式AI移动应用内购收入已进入指数级爆发通道，从2023Q1的不足0.6亿美元，到2026Q1的19亿美元，市场规模3年增长超32倍。2025Q2-2026Q1，全年内购收入激增232%，达61亿美元，年复合增速超200%。",
     "collected_at": "2026-05-14T03:40:27.399328"
+  },
+  {
+    "id": "ff537b75f2fc",
+    "title": "Welcome to the Datasette blog",
+    "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-13T23:59:39",
+    "summary": "Welcome to the Datasette blog We have a bunch of neat Datasette announcements in the pipeline so we decided it was time the project grew an official blog. I built this using OpenAI Codex desktop, which turns out to have the Markdown session transcript export feature I've always wanted. Here's the se",
+    "collected_at": "2026-05-14T03:40:23.564048"
   },
   {
     "id": "4e1c17be14ec",
@@ -3454,149 +3598,5 @@
     "published": "2026-05-11T18:48:57",
     "summary": "TIL: Using LLM in the shebang line of a script Kim_Bruning on Hacker News: But seriously, you can put a shebang on an english text file now (if you're sufficiently brave) [...] This inspired me to look at patterns for doing exactly that with LLM. Here's the simplest, which takes advantage of LLM fra",
     "collected_at": "2026-05-11T19:53:46.303398"
-  },
-  {
-    "id": "486a6c8822f5",
-    "title": "Claude Code的Auto模式深度解析：Anthropic带有人类审批门控的自治编码系统",
-    "url": "https://www.infoq.cn/article/UMuOBcU1lJ6jrOsQGlZK?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-11T18:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-11T15:01:39.587083"
-  },
-  {
-    "id": "20ae9aa479c0",
-    "title": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
-    "url": "https://www.alignmentforum.org/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a",
-    "source": "AI Alignment Forum",
-    "lang": "en",
-    "channel": "en",
-    "priority": 3,
-    "published": "2026-05-11T17:48:11",
-    "summary": "1.1 Tl;drAlignment is often conceptualized as AIs helping humans achieve their goals: AIs that increase people’s agency and empowerment; AIs that are helpful, corrigible, and/or obedient; AIs that avoid manipulating people. But that last one—manipulation—points to a challenge for all these desiderat",
-    "collected_at": "2026-05-11T19:53:47.516294"
-  },
-  {
-    "id": "18e29f063a54",
-    "title": "Three things in AI to watch, according to a Nobel-winning economist",
-    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T17:35:12",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to",
-    "collected_at": "2026-05-11T19:53:28.266957"
-  },
-  {
-    "id": "0b86095285b9",
-    "title": "Digg tries again, this time as an AI news aggregator",
-    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-11T17:02:35",
-    "summary": "Digg returns (again) as another place to read AI news.",
-    "collected_at": "2026-05-11T19:53:27.851733"
-  },
-  {
-    "id": "5b6afa769aec",
-    "title": "Google stopped a zero-day hack that it says was developed with AI",
-    "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-11T16:09:42",
-    "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed th",
-    "collected_at": "2026-05-11T19:53:28.120455"
-  },
-  {
-    "id": "4b2f9e379a55",
-    "title": "靠AI把股价干涨735%，这家公司开始成批裁掉可替代岗，全员招聘须CEO点头",
-    "url": "https://www.infoq.cn/article/aR2EFBI7VL4pDFWxatKR?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-11T15:54:27",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-11T09:46:11.145123"
-  },
-  {
-    "id": "352b0a793fda",
-    "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-    "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T15:53:23",
-    "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/ Comments URL: https://news.ycombinator.com/item?id=48096674 Points: 128 # Comments: 135",
-    "collected_at": "2026-05-11T19:53:39.720022"
-  },
-  {
-    "id": "4f735c2f37e9",
-    "title": "Learning on the Shop floor",
-    "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T15:46:36",
-    "summary": "Learning on the Shop floor Tobias Lütke describes Shopify's internal coding agent tool, River, which operates entirely in public on their Slack: River does not respond to direct messages. She politely declines and suggests to create a public channel for you and her to start working in. I myself work",
-    "collected_at": "2026-05-11T19:53:46.303519"
-  },
-  {
-    "id": "74cdffe7e5df",
-    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-11T15:27:12",
-    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits",
-    "collected_at": "2026-05-12T14:33:25.780841"
-  },
-  {
-    "id": "45f994a15450",
-    "title": "How ChatGPT adoption broadened in early 2026",
-    "url": "https://openai.com/signals/research/2026q1-update",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-11T15:00:00",
-    "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-    "collected_at": "2026-05-12T03:33:12.473079"
-  },
-  {
-    "id": "14c481f9151a",
-    "title": "Fostering breakthrough AI innovation through customer-back engineering",
-    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T13:33:06",
-    "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs a",
-    "collected_at": "2026-05-11T15:01:18.056964"
-  },
-  {
-    "id": "802705492b5b",
-    "title": "Google says criminal hackers used AI to find a major software flaw",
-    "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T13:20:14",
-    "summary": "Unlocked: https://www.nytimes.com/2026/05/11/us/politics/google-hacker..., https://archive.ph/I4Ui5https://apnews.com/article/google-ai-cybersecurity-exploitat...https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker... Comments URL: https://news.ycombinator.com/item?id=48094641 Points: 176 #",
-    "collected_at": "2026-05-12T08:46:02.639510"
   }
 ]
