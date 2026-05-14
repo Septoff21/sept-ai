@@ -12,6 +12,102 @@
     "collected_at": "2026-05-13T20:01:04.770564"
   },
   {
+    "id": "64d5564ebfc1",
+    "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
+    "url": "https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-14T19:45:22",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-14T14:22:58.138158"
+  },
+  {
+    "id": "0ebe629cf260",
+    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+    "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T14:01:14",
+    "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+    "collected_at": "2026-05-14T14:22:39.547840"
+  },
+  {
+    "id": "4a0edb059dd4",
+    "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
+    "url": "https://www.infoq.cn/video/GfiHDW48wHUO5yO61ADB?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-14T19:33:56",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-14T14:22:58.138200"
+  },
+  {
+    "id": "b11eb5e475b0",
+    "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+    "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T14:00:00",
+    "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+    "collected_at": "2026-05-14T14:22:39.547906"
+  },
+  {
+    "id": "57237570fc15",
+    "title": "龙虾犯错，员工背锅？Agent 需要安全、稳定与持续进化的底座",
+    "url": "https://www.infoq.cn/video/vXakeUv27yAlLgVdCHND?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-14T19:07:56",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-14T14:22:58.138235"
+  },
+  {
+    "id": "701532e0c3d2",
+    "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+    "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T14:00:00",
+    "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+    "collected_at": "2026-05-14T14:22:39.547939"
+  },
+  {
+    "id": "f001ba2a9a15",
+    "title": "从服务器 OS 到 Agent 沙箱：腾讯云如何打通 AI Infra 的生态底座",
+    "url": "https://www.infoq.cn/article/40UQ0beY3L25lo1rWVzb?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-14T17:50:56",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-14T14:22:58.138393"
+  },
+  {
+    "id": "7db00b81e7f6",
+    "title": "Data readiness for agentic AI in financial services",
+    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-14T13:00:00",
+    "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of",
+    "collected_at": "2026-05-14T14:22:39.982856"
+  },
+  {
     "id": "1ecdee913666",
     "title": "AWS WorkSpaces 支持 AI 智能体直接操作遗留桌面应用程序",
     "url": "https://www.infoq.cn/article/ktRP5kz1fMkW5rmmMFoR?utm_source=rss&utm_medium=article",
@@ -24,16 +120,16 @@
     "collected_at": "2026-05-14T08:43:14.472680"
   },
   {
-    "id": "cf5c817d0066",
-    "title": "报告：2025年中国企业通过Infobip平台的互动量同比增长49%",
-    "url": "https://36kr.com/newsflashes/3808885383388937?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-14T08:38:34",
-    "summary": "36氪获悉，云通信平台Infobip发布《2026消息通信趋势报告》显示，亚太地区展现强劲的通信互动增长势头。2025年，亚太消息量同比增长106%，实现翻倍增长，其中RCS消息量增长达5倍。此外，亚太企业正加快推进AI从试点走向规模化应用，整体倾向远超欧美市场。与此同时，中国企业在全球市场上十分活跃，2025年中国企业通过Infobip平台的互动量同比增长49%，其中语音和视频、WhatsApp、彩信等渠道增长尤为显著。",
-    "collected_at": "2026-05-14T08:43:12.689905"
+    "id": "f187631eef2e",
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-14T13:00:00",
+    "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u",
+    "collected_at": "2026-05-14T14:22:39.982928"
   },
   {
     "id": "9e1fa7b76efd",
@@ -48,16 +144,40 @@
     "collected_at": "2026-05-14T08:43:14.472742"
   },
   {
-    "id": "19f057d57113",
-    "title": "达实智能：目前公司AIoT平台及AI应用业务整体规模仍相对较小",
-    "url": "https://36kr.com/newsflashes/3808851948068608?f=rss",
+    "id": "6b167ec3a10f",
+    "title": "5连板蒙娜丽莎：无半导体材料业务，参股公司珠海晶瓷非英伟达供应商",
+    "url": "https://36kr.com/newsflashes/3809130577665536?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-14T08:04:33",
-    "summary": "36氪获悉，达实智能在互动平台表示，2025年，公司AIoT平台及AI应用签约金额达7847.14万元，全年增长趋势显著。目前公司AIoT平台及AI应用业务整体规模仍相对较小，在公司营业收入中的占比较低，对公司整体经营业绩尚未构成重大影响。",
-    "collected_at": "2026-05-14T08:43:12.690158"
+    "published": "2026-05-14T12:47:59",
+    "summary": "36氪获悉，蒙娜丽莎公告，公司注意到投资者近期对公司对外投资事项较为关注，公司澄清如下：公司对外投资了珠海晶瓷电子科技有限公司，投资金额5000万元，公司未将珠海晶瓷纳入合并报表范围。珠海晶瓷目前产品处于研发送样阶段，尚未产生批量订单，尚未盈利，后续项目验证是否达到要求，能否实现批量生产存在不确定性，未来亦存在技术研发进度不及预期的风险。珠海晶瓷并非网上传言“是英伟达的供应商”。",
+    "collected_at": "2026-05-14T14:22:56.981716"
+  },
+  {
+    "id": "9a693d8973ad",
+    "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+    "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-14T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial r",
+    "collected_at": "2026-05-14T14:22:39.982989"
+  },
+  {
+    "id": "54d46daaaff3",
+    "title": "韩国无水氢氟酸商或将对三星、SK海力士提价， 6至7月或大幅上涨",
+    "url": "https://36kr.com/newsflashes/3809111735983881?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-14T12:28:49",
+    "summary": "据报道，业内人士透露，韩国无水氢氟酸生产商，包括Solbrain、ENF Technology、Huseong等将向包括三星电子和SK海力士在内的半导体公司供应电子级氢氟酸，且价格预计将在6月和7月大幅上涨。（界面）",
+    "collected_at": "2026-05-14T14:22:56.981844"
   },
   {
     "id": "3b0e51d22251",
@@ -72,16 +192,16 @@
     "collected_at": "2026-05-14T08:43:14.472775"
   },
   {
-    "id": "eb922ee09420",
-    "title": "千里智驾CEO辟谣离职传闻",
-    "url": "https://36kr.com/newsflashes/3808824646950406?f=rss",
+    "id": "8ed116b39490",
+    "title": "浙江人形联合施耐德电气首发具身智能化工实验场景解决方案",
+    "url": "https://36kr.com/newsflashes/3809083605048840?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-14T07:36:47",
-    "summary": "5月14日下午，针对离职传闻，千里智驾联席CEO陈奇辟谣称：“人在公司，还在为千里智驾打拼，谢谢大家关心。”近日，多家媒体报道称，陈奇即将离职并将投身具身智能创业。（第一财经）",
-    "collected_at": "2026-05-14T08:43:12.690237"
+    "published": "2026-05-14T12:00:13",
+    "summary": "36氪获悉，近日，浙江人形机器人创新中心联合施耐德电气，全球首发具身智能化工实验场景解决方案。据了解，该方案以NAVIAI-WA2轮臂式人形机器人为核心，适配施耐德PLC及协作机械臂。",
+    "collected_at": "2026-05-14T14:22:56.981945"
   },
   {
     "id": "5a27e4c3f6fc",
@@ -96,16 +216,16 @@
     "collected_at": "2026-05-14T08:43:14.472804"
   },
   {
-    "id": "38b78fdfb60a",
-    "title": "用 Obsidian Web Clipper，让豆瓣种草更容易",
-    "url": "https://sspai.com/post/109318",
-    "source": "少数派",
+    "id": "b022fe9845e1",
+    "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
+    "url": "https://www.qbitai.com/2026/05/417816.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-14T07:15:55",
-    "summary": "对于现阶段知识管理的工作流而言，使用者已经无需和工具「将就」了。与其花时间适应别人的工具思路和设置，不如利用手头的工具（包括 AI）自己「手搓」一套自己的方案。从长期来看，自己用得顺手才会让自己持续用下去，而开发、适应所需要的时间和精力也会明显少于以前「削足适履」的经历。查看全文",
-    "collected_at": "2026-05-14T08:43:17.074061"
+    "priority": 1,
+    "published": "2026-05-14T11:14:25",
+    "summary": "Team，从来不是默认选项",
+    "collected_at": "2026-05-14T14:20:25.438320"
   },
   {
     "id": "383447748be4",
@@ -120,16 +240,16 @@
     "collected_at": "2026-05-14T03:40:29.012245"
   },
   {
-    "id": "ce7103d91f77",
-    "title": "田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人",
-    "url": "https://www.qbitai.com/2026/05/417468.html",
-    "source": "量子位",
+    "id": "2a8e9411181e",
+    "title": "腾讯要懂得花钱",
+    "url": "https://36kr.com/p/3808999399497221?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-14T07:14:05",
-    "summary": "谷歌GV、Greycroft联合领投这轮早期融资，英伟达、AMD等也参与其中",
-    "collected_at": "2026-05-14T08:40:44.737900"
+    "priority": 4,
+    "published": "2026-05-14T10:36:59",
+    "summary": "作者 | 黄绎达 编辑 | 张帆 5月13日，腾讯公布了2026年一季度财报。 财报显示，腾讯在2026Q1实现收入1964.58亿元，同比增长9%；同期实现经营利润673.75亿元，同比增长17%；Non-IFRS经营利润录得756.3亿元，同比增长9%。若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）对收入、成本、开支等科目的影响，同期再调整后的Non-IFRS经营利润为844亿元，同比增长17%。 图：腾讯2026Q1财报摘要；资料来源：公司公告，36氪 腾讯2026Q1的业绩延续了长期以来的稳健增长态势，同时也整体符合市场预期。纵观近年来腾讯的业绩表现",
+    "collected_at": "2026-05-14T14:22:56.980382"
   },
   {
     "id": "889b0aa7b168",
@@ -144,16 +264,16 @@
     "collected_at": "2026-05-14T03:40:29.012298"
   },
   {
-    "id": "ebebd918aa44",
-    "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-    "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T06:05:31",
-    "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
-    "collected_at": "2026-05-14T08:42:59.317530"
+    "id": "acb43e098b15",
+    "title": "腾讯，把AI塞入一切",
+    "url": "https://36kr.com/p/3808710182034944?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-14T10:36:23",
+    "summary": "文｜王毓婵 2026年Q1，腾讯的一切都与AI相关。 一季度，腾讯营收1964.6亿元，同比增长9%；Non-IFRS经营利润756.3亿元，同比增长9%。从整体上来说，在AI上的高投入确实让Non-IFRS经营利润从本该有的双位数增长掉到了单位数。 财报显示，若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）的收入、成本及开支影响，Non-IFRS经营利润本该有17%的同比增长。 为支持模型迭代和AI基础设施建设，腾讯本季研发投入225.4亿元，同比增长19%；资本开支319.4亿元，同比增长16%。而且，接下来在AI上的投入还会稳步扩张。 “此前我们已经指引",
+    "collected_at": "2026-05-14T14:22:56.980592"
   },
   {
     "id": "da8dc6c68d41",
@@ -168,16 +288,16 @@
     "collected_at": "2026-05-14T03:40:29.012330"
   },
   {
-    "id": "fb356e6d297c",
-    "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-    "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
+    "id": "c256cc4fc6c5",
+    "title": "国产GPU组了个开源局，把SGLang等核心开发者都摇来了！",
+    "url": "https://www.qbitai.com/2026/05/417791.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
     "priority": 1,
-    "published": "2026-05-14T05:24:39",
-    "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
-    "collected_at": "2026-05-14T08:42:59.317593"
+    "published": "2026-05-14T09:51:46",
+    "summary": "国产GPU开启生态坐标之争",
+    "collected_at": "2026-05-14T14:20:25.438368"
   },
   {
     "id": "a34026543eb0",
@@ -192,6 +312,102 @@
     "collected_at": "2026-05-14T03:40:29.012358"
   },
   {
+    "id": "cf5c817d0066",
+    "title": "报告：2025年中国企业通过Infobip平台的互动量同比增长49%",
+    "url": "https://36kr.com/newsflashes/3808885383388937?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-14T08:38:34",
+    "summary": "36氪获悉，云通信平台Infobip发布《2026消息通信趋势报告》显示，亚太地区展现强劲的通信互动增长势头。2025年，亚太消息量同比增长106%，实现翻倍增长，其中RCS消息量增长达5倍。此外，亚太企业正加快推进AI从试点走向规模化应用，整体倾向远超欧美市场。与此同时，中国企业在全球市场上十分活跃，2025年中国企业通过Infobip平台的互动量同比增长49%，其中语音和视频、WhatsApp、彩信等渠道增长尤为显著。",
+    "collected_at": "2026-05-14T08:43:12.689905"
+  },
+  {
+    "id": "41a396950cfe",
+    "title": "腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%",
+    "url": "https://www.qbitai.com/2026/05/417753.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-14T08:34:30",
+    "summary": "任务成功率最高提升 51%。",
+    "collected_at": "2026-05-14T14:20:25.438447"
+  },
+  {
+    "id": "19f057d57113",
+    "title": "达实智能：目前公司AIoT平台及AI应用业务整体规模仍相对较小",
+    "url": "https://36kr.com/newsflashes/3808851948068608?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-14T08:04:33",
+    "summary": "36氪获悉，达实智能在互动平台表示，2025年，公司AIoT平台及AI应用签约金额达7847.14万元，全年增长趋势显著。目前公司AIoT平台及AI应用业务整体规模仍相对较小，在公司营业收入中的占比较低，对公司整体经营业绩尚未构成重大影响。",
+    "collected_at": "2026-05-14T08:43:12.690158"
+  },
+  {
+    "id": "e6a22cddde2e",
+    "title": "阿里 AI 应用新进展：悟空开始逐步规模化放量",
+    "url": "https://www.qbitai.com/2026/05/417748.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-14T08:26:45",
+    "summary": "阿里 AI 在模型、云基础设施和应用各层实现加速突破",
+    "collected_at": "2026-05-14T14:20:25.438478"
+  },
+  {
+    "id": "eb922ee09420",
+    "title": "千里智驾CEO辟谣离职传闻",
+    "url": "https://36kr.com/newsflashes/3808824646950406?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-14T07:36:47",
+    "summary": "5月14日下午，针对离职传闻，千里智驾联席CEO陈奇辟谣称：“人在公司，还在为千里智驾打拼，谢谢大家关心。”近日，多家媒体报道称，陈奇即将离职并将投身具身智能创业。（第一财经）",
+    "collected_at": "2026-05-14T08:43:12.690237"
+  },
+  {
+    "id": "38b78fdfb60a",
+    "title": "用 Obsidian Web Clipper，让豆瓣种草更容易",
+    "url": "https://sspai.com/post/109318",
+    "source": "少数派",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-14T07:15:55",
+    "summary": "对于现阶段知识管理的工作流而言，使用者已经无需和工具「将就」了。与其花时间适应别人的工具思路和设置，不如利用手头的工具（包括 AI）自己「手搓」一套自己的方案。从长期来看，自己用得顺手才会让自己持续用下去，而开发、适应所需要的时间和精力也会明显少于以前「削足适履」的经历。查看全文",
+    "collected_at": "2026-05-14T08:43:17.074061"
+  },
+  {
+    "id": "ce7103d91f77",
+    "title": "田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人",
+    "url": "https://www.qbitai.com/2026/05/417468.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-14T07:14:05",
+    "summary": "谷歌GV、Greycroft联合领投这轮早期融资，英伟达、AMD等也参与其中",
+    "collected_at": "2026-05-14T08:40:44.737900"
+  },
+  {
+    "id": "ebebd918aa44",
+    "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+    "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T06:05:31",
+    "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\"",
+    "collected_at": "2026-05-14T08:42:59.317530"
+  },
+  {
     "id": "a71bb99cb299",
     "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
     "url": "https://arxiv.org/abs/2605.12620",
@@ -202,6 +418,18 @@
     "published": "2026-05-14T04:00:00",
     "summary": "arXiv:2605.12620v1 Announce Type: new Abstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision-",
     "collected_at": "2026-05-14T08:43:07.549941"
+  },
+  {
+    "id": "fb356e6d297c",
+    "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+    "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T05:24:39",
+    "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+    "collected_at": "2026-05-14T08:42:59.317593"
   },
   {
     "id": "2a417ed16d18",
@@ -3370,233 +3598,5 @@
     "published": "2026-05-11T13:20:14",
     "summary": "Unlocked: https://www.nytimes.com/2026/05/11/us/politics/google-hacker..., https://archive.ph/I4Ui5https://apnews.com/article/google-ai-cybersecurity-exploitat...https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker... Comments URL: https://news.ycombinator.com/item?id=48094641 Points: 176 #",
     "collected_at": "2026-05-12T08:46:02.639510"
-  },
-  {
-    "id": "8b55c4119673",
-    "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-11T13:00:00",
-    "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
-    "collected_at": "2026-05-11T15:01:17.734740"
-  },
-  {
-    "id": "cff19a85c096",
-    "title": "Implementing advanced AI technologies in finance",
-    "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T13:00:00",
-    "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of",
-    "collected_at": "2026-05-11T15:01:18.057105"
-  },
-  {
-    "id": "abbd13211cbf",
-    "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
-    "url": "https://jack-clark.net/2026/05/11/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
-    "source": "Import AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T12:46:12",
-    "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Regulate? Don’t regulate. There’s a third way: Radical Optionality:…Governments should invest in the tools now that th",
-    "collected_at": "2026-05-11T15:01:32.418275"
-  },
-  {
-    "id": "6e073f47dc1c",
-    "title": "软银孙正义拟在法国投资数十亿美元建设人工智能数据中心",
-    "url": "https://36kr.com/newsflashes/3804875318812164?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-11T12:39:19",
-    "summary": "5月11日消息，据报道，软银集团创始人孙正义正与法国总统马克龙进行深度磋商，计划在未来几周内宣布一项法国AI数据中心项目。作为软银构建全球人工智能基础设施战略的一部分，孙正义正考虑在法国投入数十亿美元。（界面）",
-    "collected_at": "2026-05-11T15:01:38.024038"
-  },
-  {
-    "id": "0f665aa2e806",
-    "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
-    "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a typ",
-    "collected_at": "2026-05-11T15:01:18.057185"
-  },
-  {
-    "id": "880d93d07a1d",
-    "title": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元",
-    "url": "https://36kr.com/newsflashes/3804850707570440?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-11T12:14:17",
-    "summary": "人工智能芯片公司Cerebras Systems目前寻求IPO募资高达48亿美元，此前目标为35亿美元。（财联社）",
-    "collected_at": "2026-05-11T15:01:38.024166"
-  },
-  {
-    "id": "716de6484063",
-    "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
-    "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-11T11:05:04",
-    "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 102 # Comments: 79",
-    "collected_at": "2026-05-12T08:46:02.639544"
-  },
-  {
-    "id": "b103ea5beb26",
-    "title": "氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会",
-    "url": "https://36kr.com/p/3804795647729411?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-11T11:24:52",
-    "summary": "大公司： 百济神州：第一季度净利润为16.08亿元，同比扭亏为盈 36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。 营收确认规则是否存在调整可能？贵州茅台回应 5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要",
-    "collected_at": "2026-05-11T15:01:38.022324"
-  },
-  {
-    "id": "e8eeb0e110ea",
-    "title": "有奖征文｜4 天 4000 Star的 Agent 沙箱，等你来开箱赢奖励",
-    "url": "https://xie.infoq.cn/article/51ce079a86529ccd83bcd3570?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-11T10:54:51",
-    "summary": "前 20 篇 InfoQ首发优质内容，奖励 ¥100 京东卡点击查看原文>",
-    "collected_at": "2026-05-11T09:46:11.145085"
-  },
-  {
-    "id": "24eb2834bb3b",
-    "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
-    "url": "https://www.qbitai.com/2026/05/415263.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-11T10:18:49",
-    "summary": "5月20日，马上AI起来！",
-    "collected_at": "2026-05-11T14:59:01.575178"
-  },
-  {
-    "id": "074fb52f591d",
-    "title": "Agent Mesh：企业多智能体系统治理实践｜AICon上海",
-    "url": "https://www.infoq.cn/article/GDqP9LMP0KMrRyyjEaAF?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-11T10:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-11T03:47:35.150607"
-  },
-  {
-    "id": "7c483a75c783",
-    "title": "OpenAI Campus Network: Student club interest form",
-    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-11T10:00:00",
-    "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-    "collected_at": "2026-05-11T09:46:02.135048"
-  },
-  {
-    "id": "d61beb82795c",
-    "title": "三星SDS财团获选承建韩国国家AI计算中心，总投资达2.5万亿韩元",
-    "url": "https://36kr.com/newsflashes/3804684877963016?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-11T09:25:36",
-    "summary": "5月11日，韩国科学技术信息通信部宣布，选定由三星SDS领衔的财团作为“国家AI计算中心”项目的民间参与方。该项目总投资规模达2.5万亿韩元，计划于今年第二季度组建公私合营的特殊目的公司，并于第三季度动工建设。根据规划，该中心旨在到2028年部署约1.5万个先进AI半导体单元，建成后将以较低成本向韩国中小企业、初创公司及学术界开放核心算力资源。（界面）",
-    "collected_at": "2026-05-11T09:46:09.785181"
-  },
-  {
-    "id": "e3d1e8ca7a4b",
-    "title": "How enterprises are scaling AI",
-    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-11T10:00:00",
-    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-    "collected_at": "2026-05-11T09:46:02.135088"
-  },
-  {
-    "id": "f09c67e4c893",
-    "title": "波兰电商平台Allegro与OpenAI达成合作，将生成式AI引入购物体验",
-    "url": "https://36kr.com/newsflashes/3804678562406151?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-11T09:19:10",
-    "summary": "5月11日，波兰主流电商平台Allegro正式宣布与OpenAI开展技术合作，计划将生成式人工智能应用于其电商生态系统。通过此次合作，Allegro旨在利用OpenAI的技术模型优化基础功能，包括改进搜索结果的准确性、提升个性化推荐质量以及升级智能客服响应速度。（界面）",
-    "collected_at": "2026-05-11T09:46:09.785311"
-  },
-  {
-    "id": "36c7aa43cc13",
-    "title": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
-    "url": "https://www.qbitai.com/2026/05/415842.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-11T08:31:05",
-    "summary": "AI时代最贵的东西，已经不是模型了",
-    "collected_at": "2026-05-11T09:43:42.606316"
-  },
-  {
-    "id": "8ed7f7cae573",
-    "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
-    "url": "https://www.qbitai.com/2026/05/415810.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-11T07:57:03",
-    "summary": "办公软件的终局是交方案",
-    "collected_at": "2026-05-11T09:43:42.606358"
-  },
-  {
-    "id": "0fad3b705bac",
-    "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
-    "url": "https://www.qbitai.com/2026/05/415714.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-11T07:37:05",
-    "summary": "Cerebras预计本周公布定价",
-    "collected_at": "2026-05-11T09:43:42.606391"
-  },
-  {
-    "id": "a0a67d7266db",
-    "title": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会",
-    "url": "https://www.qbitai.com/2026/05/415403.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-11T06:32:05",
-    "summary": "自曝创业至暗时刻，飞日本求世嘉CEO救命",
-    "collected_at": "2026-05-11T09:43:42.606419"
   }
 ]

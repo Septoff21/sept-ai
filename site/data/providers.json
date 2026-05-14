@@ -148,7 +148,7 @@
     "source": "openrouter",
     "latest_models": [
       "Baidu Qianfan: CoBuddy (free)",
-      "Qianfan-OCR-Fast (free)",
+      "Qianfan-OCR-Fast",
       "ERNIE 4.5 21B A3B Thinking"
     ],
     "model_count": 7,
