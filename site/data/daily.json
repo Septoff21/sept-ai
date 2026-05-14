@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-05-13T20:01:58.125783",
-  "date": "2026-05-13",
+  "updated_at": "2026-05-14T03:41:38.429820",
+  "date": "2026-05-14",
   "spotlight": {
-    "name": "Hermes Agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
+    "name": "Claude Code",
+    "url": "https://docs.anthropic.com/en/docs/claude-code",
     "type": "agent",
-    "description": "Nous Research 开源 AI Agent 框架，支持 Telegram/Discord/CLI，内置记忆和技能系统",
-    "pricing": "开源 + API费用",
-    "category": "助手 Agent"
+    "description": "Anthropic CLI编程智能体，终端内全自主编程",
+    "pricing": "API按量",
+    "category": "编程 Agent"
   },
   "alternates": [
     {
-      "name": "WeCom CLI",
-      "url": "https://github.com/WecomTeam/wecom-cli",
+      "name": "OneCLI",
+      "url": "https://github.com/onecli/onecli",
       "type": "agent",
-      "description": "企业微信命令行工具，让人类和 AI Agent 都能在终端中操作企业微信",
+      "description": "开源凭证保险库，让 AI Agent 安全访问各类服务，无需暴露 API 密钥",
       "pricing": "免费开源",
-      "category": "自动化 Agent"
+      "category": "安全 Agent"
     },
     {
-      "id": "文心一言",
-      "name": "文心一言",
-      "url": "https://yiyan.baidu.com",
+      "id": "perplexity",
+      "name": "Perplexity",
+      "url": "https://perplexity.ai",
       "type": "tool",
-      "description": "百度出品的 AI 助手",
-      "pricing": "免费 + API 按量",
-      "category": "对话"
+      "description": "AI 搜索引擎，实时联网回答问题",
+      "pricing": "免费 + Pro $20/月",
+      "category": "搜索"
     },
     {
-      "name": "WebVoyager",
-      "url": "https://github.com/MinorJerry/WebVoyager",
+      "name": "Fabric",
+      "url": "https://github.com/danielmiessler/fabric",
       "type": "agent",
-      "description": "基于GPT-4V的网页浏览Agent，视觉理解网页内容",
+      "description": "AI增强人类能力的框架，内置海量Prompt模板",
       "pricing": "开源免费",
-      "category": "浏览器 Agent"
+      "category": "效率 Agent"
     }
   ]
 }

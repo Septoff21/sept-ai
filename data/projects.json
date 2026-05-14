@@ -5321,6 +5321,34 @@
     "collected_at": "2026-05-10T13:26:36.945221"
   },
   {
+    "id": "github-1232963755",
+    "name": "snktibor/Nectar-TP-AI-Hackathon",
+    "display_name": "Nectar-TP-AI-Hackathon",
+    "url": "https://github.com/snktibor/Nectar-TP-AI-Hackathon",
+    "description": "Domain-specializált, RAG-alapú multi-ágens pre-audit rendszer transzferár-dokumentációk (TP) elemzésére. 🏆 7. helyezés a PwC Hungary AI Hackathon 2026-on.",
+    "stars": 9,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "chromadb",
+      "document-intelligence",
+      "fastapi",
+      "langgraph",
+      "multi-agent-system",
+      "pwc-hackathon",
+      "rag",
+      "react",
+      "transfer-pricing",
+      "typescript"
+    ],
+    "created_at": "2026-05-08T12:57:41Z",
+    "updated_at": "2026-05-13T18:25:30Z",
+    "license": "NOASSERTION",
+    "source": "github-search",
+    "collected_at": "2026-05-14T03:40:47.227959"
+  },
+  {
     "id": "github-1188906847",
     "name": "hackyguru/clawcage",
     "display_name": "clawcage",

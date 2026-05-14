@@ -5435,6 +5435,45 @@
     "collected_at": "2026-04-22T13:10:24.813717"
   },
   {
+    "id": "hf-ScenemaAI--scenema-audio",
+    "name": "ScenemaAI/scenema-audio",
+    "display_name": "scenema-audio",
+    "url": "https://huggingface.co/ScenemaAI/scenema-audio",
+    "author": "ScenemaAI",
+    "pipeline_tag": "text-to-speech",
+    "likes": 43,
+    "downloads": 0,
+    "tags": [
+      "scenema-audio",
+      "audio-generation",
+      "diffusion",
+      "text-to-audio",
+      "voice-cloning",
+      "speech-generation",
+      "expressive-speech",
+      "voice-acting",
+      "text-to-speech",
+      "en",
+      "de",
+      "fr",
+      "es",
+      "it",
+      "pt",
+      "ja",
+      "zh",
+      "ko",
+      "ru",
+      "ar",
+      "hi",
+      "sw",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-04-26T01:37:45.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-14T03:40:49.956330"
+  },
+  {
     "id": "hf-google--gemma-4-31B-it-assistant",
     "name": "google/gemma-4-31B-it-assistant",
     "display_name": "gemma-4-31B-it-assistant",
@@ -7533,6 +7572,42 @@
     "created_at": "2026-05-09T05:16:20.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-12T14:33:48.292160"
+  },
+  {
+    "id": "hf-AIDC-AI--Marco-DeepResearch-8B",
+    "name": "AIDC-AI/Marco-DeepResearch-8B",
+    "display_name": "Marco-DeepResearch-8B",
+    "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
+    "author": "AIDC-AI",
+    "pipeline_tag": "text-generation",
+    "likes": 16,
+    "downloads": 159,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3",
+      "text-generation",
+      "deep-research",
+      "agent",
+      "information-seeking",
+      "web-search",
+      "verification",
+      "react",
+      "conversational",
+      "en",
+      "zh",
+      "arxiv:2603.28376",
+      "base_model:Qwen/Qwen3-8B",
+      "base_model:finetune:Qwen/Qwen3-8B",
+      "license:apache-2.0",
+      "model-index",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-08T08:57:05.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-14T03:40:50.064820"
   },
   {
     "id": "hf-Qwen--WebWorld-32B",
@@ -23939,37 +24014,5 @@
     "created_at": "2026-04-27T03:28:36.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-27T03:29:00.635342"
-  },
-  {
-    "id": "hf-amhinson--strudel-refiner-1.5b-v1-onnx",
-    "name": "amhinson/strudel-refiner-1.5b-v1-onnx",
-    "display_name": "strudel-refiner-1.5b-v1-onnx",
-    "url": "https://huggingface.co/amhinson/strudel-refiner-1.5b-v1-onnx",
-    "author": "amhinson",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:28:25.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635347"
-  },
-  {
-    "id": "hf-RzZ--tpolicy2",
-    "name": "RzZ/tpolicy2",
-    "display_name": "tpolicy2",
-    "url": "https://huggingface.co/RzZ/tpolicy2",
-    "author": "RzZ",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-27T03:28:18.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-27T03:29:00.635351"
   }
 ]
