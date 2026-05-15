@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-05-14T19:52:38.214986",
-  "date": "2026-05-14",
+  "updated_at": "2026-05-15T03:44:24.303564",
+  "date": "2026-05-15",
   "spotlight": {
-    "name": "Claude Code",
-    "url": "https://docs.anthropic.com/en/docs/claude-code",
+    "name": "Cursor Agent",
+    "url": "https://cursor.sh",
     "type": "agent",
-    "description": "Anthropic CLI编程智能体，终端内全自主编程",
-    "pricing": "API按量",
+    "description": "Cursor内置Agent模式，后台自主完成复杂编码任务",
+    "pricing": "Pro $20/月",
     "category": "编程 Agent"
   },
   "alternates": [
     {
-      "name": "OneCLI",
-      "url": "https://github.com/onecli/onecli",
+      "name": "Gemini CLI",
+      "url": "https://github.com/google-gemini/gemini-cli",
       "type": "agent",
-      "description": "开源凭证保险库，让 AI Agent 安全访问各类服务，无需暴露 API 密钥",
-      "pricing": "免费开源",
-      "category": "安全 Agent"
+      "description": "Google 开源的终端 AI Agent，直接在命令行调用 Gemini 模型完成编码、文件操作等任务",
+      "pricing": "免费",
+      "category": "编程 Agent"
     },
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "url": "https://perplexity.ai",
+      "id": "秘塔搜索",
+      "name": "秘塔 AI 搜索",
+      "url": "https://metaso.cn",
       "type": "tool",
-      "description": "AI 搜索引擎，实时联网回答问题",
-      "pricing": "免费 + Pro $20/月",
+      "description": "国产 AI 搜索引擎，中文体验优秀",
+      "pricing": "免费",
       "category": "搜索"
     },
     {
-      "name": "Fabric",
-      "url": "https://github.com/danielmiessler/fabric",
+      "name": "Aider",
+      "url": "https://github.com/Aider-AI/aider",
       "type": "agent",
-      "description": "AI增强人类能力的框架，内置海量Prompt模板",
+      "description": "终端AI结对编程工具，支持多模型",
       "pricing": "开源免费",
-      "category": "效率 Agent"
+      "category": "编程 Agent"
     }
   ]
 }

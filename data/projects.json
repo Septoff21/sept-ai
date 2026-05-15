@@ -3272,6 +3272,32 @@
     "collected_at": "2026-04-20T18:54:56.792215"
   },
   {
+    "id": "github-1213049020",
+    "name": "browser-use/browser-harness",
+    "display_name": "browser-harness",
+    "url": "https://github.com/browser-use/browser-harness",
+    "description": "Browser Harness | Self-healing harness that enables LLMs to complete any task.",
+    "stars": 12681,
+    "forks": 1160,
+    "language": "Python",
+    "topics": [
+      "ai-agent",
+      "browser-agent",
+      "browser-automation",
+      "browser-use",
+      "cdp",
+      "cloud-browser",
+      "llm",
+      "playwright",
+      "web-automation"
+    ],
+    "created_at": "2026-04-17T01:56:15Z",
+    "updated_at": "2026-05-15T03:32:00Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-15T03:43:42.842072"
+  },
+  {
     "id": "github-609539715",
     "name": "e2b-dev/E2B",
     "display_name": "E2B",

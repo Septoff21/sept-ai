@@ -5456,6 +5456,26 @@
     "collected_at": "2026-05-14T08:43:22.625801"
   },
   {
+    "id": "hf-snwy--SD1.5-DALLE-2",
+    "name": "snwy/SD1.5-DALLE-2",
+    "display_name": "SD1.5-DALLE-2",
+    "url": "https://huggingface.co/snwy/SD1.5-DALLE-2",
+    "author": "snwy",
+    "pipeline_tag": "text-to-image",
+    "likes": 44,
+    "downloads": 0,
+    "tags": [
+      "diffusers",
+      "safetensors",
+      "endpoints_compatible",
+      "diffusers:StableDiffusionPipeline",
+      "region:us"
+    ],
+    "created_at": "2026-05-14T05:38:45.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-15T03:43:44.062325"
+  },
+  {
     "id": "hf-lordx64--Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
     "name": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
     "display_name": "Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
@@ -7947,6 +7967,38 @@
     "created_at": "2026-05-05T11:19:04.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-14T08:43:22.847604"
+  },
+  {
+    "id": "hf-nvidia--Kimi-K2.6-NVFP4",
+    "name": "nvidia/Kimi-K2.6-NVFP4",
+    "display_name": "Kimi-K2.6-NVFP4",
+    "url": "https://huggingface.co/nvidia/Kimi-K2.6-NVFP4",
+    "author": "nvidia",
+    "pipeline_tag": "text-generation",
+    "likes": 15,
+    "downloads": 77,
+    "tags": [
+      "Model Optimizer",
+      "safetensors",
+      "kimi_k25",
+      "nvidia",
+      "ModelOpt",
+      "Kimi-K2.6",
+      "quantized",
+      "FP4",
+      "fp4",
+      "text-generation",
+      "conversational",
+      "custom_code",
+      "base_model:moonshotai/Kimi-K2.6",
+      "base_model:quantized:moonshotai/Kimi-K2.6",
+      "license:other",
+      "modelopt",
+      "region:us"
+    ],
+    "created_at": "2026-05-11T04:37:55.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-15T03:43:44.329625"
   },
   {
     "id": "hf-Qwen--WebWorld-8B",
@@ -23380,37 +23432,5 @@
     "created_at": "2026-04-26T18:49:55.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638243"
-  },
-  {
-    "id": "hf-AhmedAlaa47--distilbert-food",
-    "name": "AhmedAlaa47/distilbert-food",
-    "display_name": "distilbert-food",
-    "url": "https://huggingface.co/AhmedAlaa47/distilbert-food",
-    "author": "AhmedAlaa47",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:49:39.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638246"
-  },
-  {
-    "id": "hf-geocketa--novoluz",
-    "name": "geocketa/novoluz",
-    "display_name": "novoluz",
-    "url": "https://huggingface.co/geocketa/novoluz",
-    "author": "geocketa",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:49:27.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638249"
   }
 ]
