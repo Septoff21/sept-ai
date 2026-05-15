@@ -2155,6 +2155,33 @@
     "collected_at": "2026-04-22T13:10:24.612414"
   },
   {
+    "id": "hf-microsoft--Fara-7B",
+    "name": "microsoft/Fara-7B",
+    "display_name": "Fara-7B",
+    "url": "https://huggingface.co/microsoft/Fara-7B",
+    "author": "microsoft",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 542,
+    "downloads": 18420,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen2_5_vl",
+      "image-text-to-text",
+      "multimodal",
+      "conversational",
+      "en",
+      "arxiv:2511.19663",
+      "license:mit",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2025-10-30T18:56:59.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-15T19:44:41.325241"
+  },
+  {
     "id": "hf-tencent--HY-World-2.0",
     "name": "tencent/HY-World-2.0",
     "display_name": "HY-World-2.0",
@@ -23453,21 +23480,5 @@
     "created_at": "2026-04-26T18:51:10.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638232"
-  },
-  {
-    "id": "hf-geocketa--element212",
-    "name": "geocketa/element212",
-    "display_name": "element212",
-    "url": "https://huggingface.co/geocketa/element212",
-    "author": "geocketa",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:51:09.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638234"
   }
 ]
