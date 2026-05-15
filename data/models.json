@@ -5600,6 +5600,37 @@
     "collected_at": "2026-05-14T19:51:52.950830"
   },
   {
+    "id": "hf-fastino--gliguard-LLMGuardrails-300M",
+    "name": "fastino/gliguard-LLMGuardrails-300M",
+    "display_name": "gliguard-LLMGuardrails-300M",
+    "url": "https://huggingface.co/fastino/gliguard-LLMGuardrails-300M",
+    "author": "fastino",
+    "pipeline_tag": "text-classification",
+    "likes": 43,
+    "downloads": 1212,
+    "tags": [
+      "gliner2",
+      "safetensors",
+      "extractor",
+      "safety",
+      "moderation",
+      "guardrails",
+      "text-classification",
+      "multi-label-classification",
+      "jailbreak-detection",
+      "toxicity-classification",
+      "en",
+      "arxiv:2605.07982",
+      "base_model:fastino/gliner2-base-v1",
+      "base_model:finetune:fastino/gliner2-base-v1",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-09T04:20:48.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-15T14:15:00.220586"
+  },
+  {
     "id": "hf-google--gemma-4-31B-it-assistant",
     "name": "google/gemma-4-31B-it-assistant",
     "display_name": "gemma-4-31B-it-assistant",
@@ -23438,33 +23469,5 @@
     "created_at": "2026-04-26T18:51:09.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638234"
-  },
-  {
-    "id": "hf-Keyven--german-ocr-3.1",
-    "name": "Keyven/german-ocr-3.1",
-    "display_name": "german-ocr-3.1",
-    "url": "https://huggingface.co/Keyven/german-ocr-3.1",
-    "author": "Keyven",
-    "pipeline_tag": "image-text-to-text",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "gguf",
-      "ocr",
-      "vision",
-      "german",
-      "invoice-extraction",
-      "llama-cpp",
-      "image-text-to-text",
-      "conversational",
-      "de",
-      "en",
-      "license:apache-2.0",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:51:07.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638237"
   }
 ]

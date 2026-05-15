@@ -1,5 +1,101 @@
 [
   {
+    "id": "2a9cfc82264a",
+    "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
+    "url": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-15T20:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-15T14:14:49.253805"
+  },
+  {
+    "id": "91ef357f0757",
+    "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T14:00:00",
+    "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+    "collected_at": "2026-05-15T14:14:31.372541"
+  },
+  {
+    "id": "575b666f03ea",
+    "title": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+    "url": "https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-15T17:42:45",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-15T14:14:49.253917"
+  },
+  {
+    "id": "523bcca09f68",
+    "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
+    "url": "https://36kr.com/p/3810607581634056?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-15T13:50:58",
+    "summary": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。 官方图片 锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的",
+    "collected_at": "2026-05-15T14:14:47.885966"
+  },
+  {
+    "id": "1ce5929e9bd5",
+    "title": "当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
+    "url": "https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-15T17:15:43",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-15T14:14:49.253947"
+  },
+  {
+    "id": "ef7442a0c13c",
+    "title": "麦肯锡推行人工智能时代薪酬改革，削减合伙人现金分红比例",
+    "url": "https://36kr.com/newsflashes/3810508672458248?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-15T12:31:45",
+    "summary": "为简化薪酬体系、扩充资本金规模，并抵御咨询行业市场波动风险，麦肯锡计划下调合伙人可直接现金支取的利润分成比例。据知情人士透露，这家顶尖咨询机构已告知全体合伙人，未来薪酬中将有更大比例以股权形式发放，以此增厚公司资金储备，部分合伙人收入因此变动金额可达数万美元。（新浪财经）",
+    "collected_at": "2026-05-15T14:14:47.887464"
+  },
+  {
+    "id": "5d5f0482cd39",
+    "title": "Osaurus brings both local and cloud AI models to your Mac",
+    "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T12:19:48",
+    "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+    "collected_at": "2026-05-15T14:14:31.372594"
+  },
+  {
+    "id": "034c5dfe93ab",
+    "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+    "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for sma",
+    "collected_at": "2026-05-15T14:14:31.789606"
+  },
+  {
     "id": "87835e96e4db",
     "title": "Anthropic 推出 Claude Platform on AWS",
     "url": "https://www.infoq.cn/article/mjFmXfhf29SA5UFhr2QV?utm_source=rss&utm_medium=article",
@@ -12,16 +108,16 @@
     "collected_at": "2026-05-15T03:43:34.739996"
   },
   {
-    "id": "2ae4dd3f43d7",
-    "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
-    "url": "https://36kr.com/p/3810308239465986?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-15T08:51:47",
-    "summary": "当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。 “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆包、通义千问、腾讯元宝等主流AI助手，正以前所未有的深度渗透进我们的消费生活，成为事实上的“第一入口”和“前置决策参谋”。 对各大品牌而言，一个全新的战场已经悄然形成。当消费者不再直接搜索品牌名称，而是向AI提出一个开放式需求时，你的品牌",
-    "collected_at": "2026-05-15T08:54:35.092188"
+    "id": "0a3c404dc0b5",
+    "title": "AI research papers are getting better, and it’s a big problem for scientists",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T11:00:00",
+    "summary": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a particular type of stat",
+    "collected_at": "2026-05-15T14:14:31.589506"
   },
   {
     "id": "723da5371e34",
@@ -36,16 +132,16 @@
     "collected_at": "2026-05-15T03:43:34.740030"
   },
   {
-    "id": "7a4305c7d962",
-    "title": "OpenAI首席财务官：公司或将筹集更多资金，未来可能考虑通过公开市场融资",
-    "url": "https://36kr.com/newsflashes/3810287851249158?f=rss",
-    "source": "36氪",
+    "id": "8620675cedf1",
+    "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+    "url": "https://www.qbitai.com/2026/05/418135.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-15T08:34:09",
-    "summary": "OpenAI首席财务官Sarah Friar称，近期1220亿美元的融资为公司提供了“很大的选择空间”，但她补充说，未来的融资将取决于市场需求、收入增长、现金流以及OpenAI所需的计算能力与其可承受能力之间的差距。Friar还表示，随着时间的推移，公开市场可能成为一个有吸引力的融资渠道，因为公开市场的规模“远大于”私募市场，可以让公司利用更广泛的融资选择。（财联社）",
-    "collected_at": "2026-05-15T08:54:35.093738"
+    "priority": 1,
+    "published": "2026-05-15T10:14:54",
+    "summary": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+    "collected_at": "2026-05-15T14:12:15.194781"
   },
   {
     "id": "6829f24a8454",
@@ -60,16 +156,16 @@
     "collected_at": "2026-05-15T03:43:34.740076"
   },
   {
-    "id": "e5c1a7124c40",
-    "title": "OpenAI推出Codex移动端 iOS和安卓全套餐用户可用",
-    "url": "https://36kr.com/newsflashes/3810285961436676?f=rss",
-    "source": "36氪",
+    "id": "516d171204c1",
+    "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
+    "url": "https://www.qbitai.com/2026/05/418035.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-15T08:30:15",
-    "summary": "Codex正式迎来移动端适配。这款由OpenAI约一年前推出的代码开发工具，现已接入ChatGPT手机应用，用户可远程查看和管理开发工作流程。这项新功能支持用户在任意设备上查看Codex正在运行的实时环境。OpenAI于当地时间周四官宣此次更新，目前该功能处于预览版阶段，iOS和安卓全套餐用户均可使用。（新浪财经）",
-    "collected_at": "2026-05-15T08:54:35.093774"
+    "priority": 1,
+    "published": "2026-05-15T09:55:56",
+    "summary": "说明需求，Qoder就能帮你实现",
+    "collected_at": "2026-05-15T14:12:15.194828"
   },
   {
     "id": "e5b0ed218f87",
@@ -84,16 +180,16 @@
     "collected_at": "2026-05-15T03:43:34.740110"
   },
   {
-    "id": "40b00c379388",
-    "title": "毅华新能源与维桢新材料联合研发MOFs-聚合物复合固态电池",
-    "url": "https://36kr.com/newsflashes/3810285312843273?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-15T08:22:39",
-    "summary": "36氪获悉，近日，毅华新能源与维桢新材料正式完成签约，双方将联合研发MOFs-聚合物复合固态电池，并同步推进技术产业化落地。据了解，合作均面向低空经济、人形机器人、AI硬件等应用场景展开布局。目前毅华新能源已开启第二轮融资，资金主要用于产线建设与技术研发。",
-    "collected_at": "2026-05-15T08:54:35.093952"
+    "id": "b40dcd22bd69",
+    "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+    "url": "https://github.com/Andyyyy64/whichllm",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T09:19:24",
+    "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 235 # Comments: 40",
+    "collected_at": "2026-05-15T14:14:33.856542"
   },
   {
     "id": "782aa2913a62",
@@ -108,6 +204,54 @@
     "collected_at": "2026-05-15T03:43:34.740138"
   },
   {
+    "id": "03022e48742f",
+    "title": "How Chinese short dramas became AI content machines",
+    "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T09:00:00",
+    "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an hei",
+    "collected_at": "2026-05-15T14:14:31.789800"
+  },
+  {
+    "id": "2ae4dd3f43d7",
+    "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
+    "url": "https://36kr.com/p/3810308239465986?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-15T08:51:47",
+    "summary": "当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。 “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆包、通义千问、腾讯元宝等主流AI助手，正以前所未有的深度渗透进我们的消费生活，成为事实上的“第一入口”和“前置决策参谋”。 对各大品牌而言，一个全新的战场已经悄然形成。当消费者不再直接搜索品牌名称，而是向AI提出一个开放式需求时，你的品牌",
+    "collected_at": "2026-05-15T08:54:35.092188"
+  },
+  {
+    "id": "49585581e896",
+    "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+    "url": "https://www.qbitai.com/2026/05/418140.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-15T08:18:22",
+    "summary": "该平台以 AI Agent 为核心",
+    "collected_at": "2026-05-15T14:12:15.194863"
+  },
+  {
+    "id": "7a4305c7d962",
+    "title": "OpenAI首席财务官：公司或将筹集更多资金，未来可能考虑通过公开市场融资",
+    "url": "https://36kr.com/newsflashes/3810287851249158?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-15T08:34:09",
+    "summary": "OpenAI首席财务官Sarah Friar称，近期1220亿美元的融资为公司提供了“很大的选择空间”，但她补充说，未来的融资将取决于市场需求、收入增长、现金流以及OpenAI所需的计算能力与其可承受能力之间的差距。Friar还表示，随着时间的推移，公开市场可能成为一个有吸引力的融资渠道，因为公开市场的规模“远大于”私募市场，可以让公司利用更广泛的融资选择。（财联社）",
+    "collected_at": "2026-05-15T08:54:35.093738"
+  },
+  {
     "id": "277fd006b9db",
     "title": "手机的智能体AI，正在因为天玑全面跃升",
     "url": "https://www.qbitai.com/2026/05/417968.html",
@@ -120,16 +264,16 @@
     "collected_at": "2026-05-15T08:52:00.518803"
   },
   {
-    "id": "128f1e16cb98",
-    "title": "Vision-Based Runtime Monitoring under Varying Specifications using Semantic Latent Representations",
-    "url": "https://arxiv.org/abs/2605.13923",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13923v1 Announce Type: new Abstract: We study certified runtime monitoring of past-time signal temporal logic (ptSTL) from visual observations under partial observability. The monitor must infer safety-relevant quantities from images and provide finite-sample guarantees, while being \\emph",
-    "collected_at": "2026-05-15T08:54:27.892166"
+    "id": "e5c1a7124c40",
+    "title": "OpenAI推出Codex移动端 iOS和安卓全套餐用户可用",
+    "url": "https://36kr.com/newsflashes/3810285961436676?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-15T08:30:15",
+    "summary": "Codex正式迎来移动端适配。这款由OpenAI约一年前推出的代码开发工具，现已接入ChatGPT手机应用，用户可远程查看和管理开发工作流程。这项新功能支持用户在任意设备上查看Codex正在运行的实时环境。OpenAI于当地时间周四官宣此次更新，目前该功能处于预览版阶段，iOS和安卓全套餐用户均可使用。（新浪财经）",
+    "collected_at": "2026-05-15T08:54:35.093774"
   },
   {
     "id": "ec44f46fb884",
@@ -144,16 +288,16 @@
     "collected_at": "2026-05-15T08:52:00.518960"
   },
   {
-    "id": "01be6d31fcd3",
-    "title": "Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders",
-    "url": "https://arxiv.org/abs/2605.13930",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13930v1 Announce Type: new Abstract: EEG foundation models achieve state-of-the-art clinical performance, yet the internal computations driving their predictions remain opaque: a barrier to clinical trust. We apply TopK Sparse Autoencoders (SAEs) across three architecturally distinct EEG",
-    "collected_at": "2026-05-15T08:54:27.892251"
+    "id": "40b00c379388",
+    "title": "毅华新能源与维桢新材料联合研发MOFs-聚合物复合固态电池",
+    "url": "https://36kr.com/newsflashes/3810285312843273?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-15T08:22:39",
+    "summary": "36氪获悉，近日，毅华新能源与维桢新材料正式完成签约，双方将联合研发MOFs-聚合物复合固态电池，并同步推进技术产业化落地。据了解，合作均面向低空经济、人形机器人、AI硬件等应用场景展开布局。目前毅华新能源已开启第二轮融资，资金主要用于产线建设与技术研发。",
+    "collected_at": "2026-05-15T08:54:35.093952"
   },
   {
     "id": "c16330f8e197",
@@ -168,16 +312,16 @@
     "collected_at": "2026-05-15T08:52:00.518991"
   },
   {
-    "id": "606a8fbdfea1",
-    "title": "Rethinking Molecular OOD Generalization via Target-Aware Source Selection",
-    "url": "https://arxiv.org/abs/2605.13932",
+    "id": "128f1e16cb98",
+    "title": "Vision-Based Runtime Monitoring under Varying Specifications using Semantic Latent Representations",
+    "url": "https://arxiv.org/abs/2605.13923",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13932v1 Announce Type: new Abstract: Robust prediction of molecular properties under extreme out-of-distribution (OOD) scenarios is a pivotal bottleneck in AI-driven drug discovery. Current scaffold-splitting protocols fail to obstruct microscopic semantic overlap, predisposing models to",
-    "collected_at": "2026-05-15T08:54:27.892336"
+    "summary": "arXiv:2605.13923v1 Announce Type: new Abstract: We study certified runtime monitoring of past-time signal temporal logic (ptSTL) from visual observations under partial observability. The monitor must infer safety-relevant quantities from images and provide finite-sample guarantees, while being \\emph",
+    "collected_at": "2026-05-15T08:54:27.892166"
   },
   {
     "id": "d041ef6ff53c",
@@ -192,16 +336,16 @@
     "collected_at": "2026-05-15T08:52:00.519027"
   },
   {
-    "id": "66e233f6f4ad",
-    "title": "Unsupervised learning of acquisition variability in structural connectomes via hybrid latent space modeling",
-    "url": "https://arxiv.org/abs/2605.13933",
+    "id": "01be6d31fcd3",
+    "title": "Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders",
+    "url": "https://arxiv.org/abs/2605.13930",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space",
-    "collected_at": "2026-05-15T08:54:27.892444"
+    "summary": "arXiv:2605.13930v1 Announce Type: new Abstract: EEG foundation models achieve state-of-the-art clinical performance, yet the internal computations driving their predictions remain opaque: a barrier to clinical trust. We apply TopK Sparse Autoencoders (SAEs) across three architecturally distinct EEG",
+    "collected_at": "2026-05-15T08:54:27.892251"
   },
   {
     "id": "0cc8038e3e65",
@@ -216,16 +360,16 @@
     "collected_at": "2026-05-15T03:43:33.403112"
   },
   {
-    "id": "611f9750ff2d",
-    "title": "Beyond Mode-Seeking RL: Trajectory-Balance Post-Training for Diffusion Language Models",
-    "url": "https://arxiv.org/abs/2605.13935",
+    "id": "606a8fbdfea1",
+    "title": "Rethinking Molecular OOD Generalization via Target-Aware Source Selection",
+    "url": "https://arxiv.org/abs/2605.13932",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13935v1 Announce Type: new Abstract: Diffusion language models are a promising alternative to autoregressive models, yet post-training methods for them largely adapt reward-maximizing objectives. We identify a central failure mode in this setting we call trajectory locking: sampled reward",
-    "collected_at": "2026-05-15T08:54:27.892512"
+    "summary": "arXiv:2605.13932v1 Announce Type: new Abstract: Robust prediction of molecular properties under extreme out-of-distribution (OOD) scenarios is a pivotal bottleneck in AI-driven drug discovery. Current scaffold-splitting protocols fail to obstruct microscopic semantic overlap, predisposing models to",
+    "collected_at": "2026-05-15T08:54:27.892336"
   },
   {
     "id": "b97396b078f7",
@@ -240,16 +384,16 @@
     "collected_at": "2026-05-15T03:43:33.403310"
   },
   {
-    "id": "90dcc2606e40",
-    "title": "Towards the Next Frontier of LLMs, Training on Private Data: A Cross-Domain Benchmark for Federated Fine-Tuning",
-    "url": "https://arxiv.org/abs/2605.13936",
+    "id": "66e233f6f4ad",
+    "title": "Unsupervised learning of acquisition variability in structural connectomes via hybrid latent space modeling",
+    "url": "https://arxiv.org/abs/2605.13933",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13936v1 Announce Type: new Abstract: The recent success of large language models (LLMs) has been largely driven by vast public datasets. However, the next frontier for LLM development lies beyond public data. Much of the world's most valuable information is private, especially in highly r",
-    "collected_at": "2026-05-15T08:54:27.892606"
+    "summary": "arXiv:2605.13933v1 Announce Type: new Abstract: Acquisition differences across sites, scanners, and protocols in dMRI introduce variability that complicates structural connectome analysis. This motivates deep learning models that can represent high-dimensional connectomes in a low-dimensional space",
+    "collected_at": "2026-05-15T08:54:27.892444"
   },
   {
     "id": "6111f864433d",
@@ -264,16 +408,16 @@
     "collected_at": "2026-05-15T03:41:08.487654"
   },
   {
-    "id": "14c8b03904a9",
-    "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
-    "url": "https://arxiv.org/abs/2605.13941",
+    "id": "611f9750ff2d",
+    "title": "Beyond Mode-Seeking RL: Trajectory-Balance Post-Training for Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2605.13935",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13941v1 Announce Type: new Abstract: Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions, fusion strategies, and answer-generation policies r",
-    "collected_at": "2026-05-15T08:54:27.892690"
+    "summary": "arXiv:2605.13935v1 Announce Type: new Abstract: Diffusion language models are a promising alternative to autoregressive models, yet post-training methods for them largely adapt reward-maximizing objectives. We identify a central failure mode in this setting we call trajectory locking: sampled reward",
+    "collected_at": "2026-05-15T08:54:27.892512"
   },
   {
     "id": "cc59f45092bb",
@@ -288,16 +432,16 @@
     "collected_at": "2026-05-15T03:43:33.402283"
   },
   {
-    "id": "4d6c52d3db01",
-    "title": "EMA: Efficient Model Adaptation for Learning-based Systems",
-    "url": "https://arxiv.org/abs/2605.13942",
+    "id": "90dcc2606e40",
+    "title": "Towards the Next Frontier of LLMs, Training on Private Data: A Cross-Domain Benchmark for Federated Fine-Tuning",
+    "url": "https://arxiv.org/abs/2605.13936",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13942v1 Announce Type: new Abstract: Machine learning (ML) is increasingly applied to optimize system performance in tasks such as resource management and network simulation. Unlike traditional ML tasks (e.g., image classification), networked systems often operate in heterogeneous, long-r",
-    "collected_at": "2026-05-15T08:54:27.892782"
+    "summary": "arXiv:2605.13936v1 Announce Type: new Abstract: The recent success of large language models (LLMs) has been largely driven by vast public datasets. However, the next frontier for LLM development lies beyond public data. Much of the world's most valuable information is private, especially in highly r",
+    "collected_at": "2026-05-15T08:54:27.892606"
   },
   {
     "id": "015cfd53bd7e",
@@ -312,16 +456,16 @@
     "collected_at": "2026-05-15T03:43:33.402321"
   },
   {
-    "id": "5a25497341a9",
-    "title": "A Unified Geometric Framework for Weighted Contrastive Learning",
-    "url": "https://arxiv.org/abs/2605.13943",
+    "id": "14c8b03904a9",
+    "title": "EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents",
+    "url": "https://arxiv.org/abs/2605.13941",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13943v1 Announce Type: new Abstract: Contrastive learning (CL) aims to preserve relational structure between samples by learning representations that reflect a similarity graph. Yet, the geometry of the resulting embeddings remains poorly understood. Here we show that weighted InfoNCE obj",
-    "collected_at": "2026-05-15T08:54:27.892883"
+    "summary": "arXiv:2605.13941v1 Announce Type: new Abstract: Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions, fusion strategies, and answer-generation policies r",
+    "collected_at": "2026-05-15T08:54:27.892690"
   },
   {
     "id": "553e5c49ebcd",
@@ -336,16 +480,16 @@
     "collected_at": "2026-05-15T08:54:23.870750"
   },
   {
-    "id": "57f44f4c2d84",
-    "title": "Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction",
-    "url": "https://arxiv.org/abs/2605.13950",
+    "id": "4d6c52d3db01",
+    "title": "EMA: Efficient Model Adaptation for Learning-based Systems",
+    "url": "https://arxiv.org/abs/2605.13942",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13950v1 Announce Type: new Abstract: Autonomous language-model agents are increasingly evaluated on long-horizon tool-use tasks, but existing benchmarks rarely capture the complexity and nuance of real scientific work. To address this gap, we introduce Collider-Bench, a benchmark for eval",
-    "collected_at": "2026-05-15T08:54:27.892967"
+    "summary": "arXiv:2605.13942v1 Announce Type: new Abstract: Machine learning (ML) is increasingly applied to optimize system performance in tasks such as resource management and network simulation. Unlike traditional ML tasks (e.g., image classification), networked systems often operate in heterogeneous, long-r",
+    "collected_at": "2026-05-15T08:54:27.892782"
   },
   {
     "id": "706aac0a148a",
@@ -360,16 +504,16 @@
     "collected_at": "2026-05-15T03:43:30.425938"
   },
   {
-    "id": "caf7d3073745",
-    "title": "WarmPrior: Straightening Flow-Matching Policies with Temporal Priors",
-    "url": "https://arxiv.org/abs/2605.13959",
+    "id": "5a25497341a9",
+    "title": "A Unified Geometric Framework for Weighted Contrastive Learning",
+    "url": "https://arxiv.org/abs/2605.13943",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13959v1 Announce Type: new Abstract: Generative policies based on diffusion and flow matching have become a dominant paradigm for visuomotor robotic control. We show that replacing the standard Gaussian source distribution with WarmPrior, a simple temporally grounded prior constructed fro",
-    "collected_at": "2026-05-15T08:54:27.893025"
+    "summary": "arXiv:2605.13943v1 Announce Type: new Abstract: Contrastive learning (CL) aims to preserve relational structure between samples by learning representations that reflect a similarity graph. Yet, the geometry of the resulting embeddings remains poorly understood. Here we show that weighted InfoNCE obj",
+    "collected_at": "2026-05-15T08:54:27.892883"
   },
   {
     "id": "49a108cb408a",
@@ -384,16 +528,16 @@
     "collected_at": "2026-05-13T20:01:04.770564"
   },
   {
-    "id": "69fbb663a323",
-    "title": "Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines",
-    "url": "https://arxiv.org/abs/2605.13981",
+    "id": "57f44f4c2d84",
+    "title": "Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction",
+    "url": "https://arxiv.org/abs/2605.13950",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13981v1 Announce Type: new Abstract: The rise in deployment of large language models has driven a surge in GPU demand and datacenter scaling, raising concerns about electricity use, grid stress, and the impacts of modern AI workloads. Distillation is often promoted as one of the most effe",
-    "collected_at": "2026-05-15T08:54:27.893099"
+    "summary": "arXiv:2605.13950v1 Announce Type: new Abstract: Autonomous language-model agents are increasingly evaluated on long-horizon tool-use tasks, but existing benchmarks rarely capture the complexity and nuance of real scientific work. To address this gap, we introduce Collider-Bench, a benchmark for eval",
+    "collected_at": "2026-05-15T08:54:27.892967"
   },
   {
     "id": "a9fefbfb76c6",
@@ -408,16 +552,16 @@
     "collected_at": "2026-05-15T03:43:29.871744"
   },
   {
-    "id": "6cc494176e01",
-    "title": "TabPFN-3: Technical Report",
-    "url": "https://arxiv.org/abs/2605.13986",
+    "id": "caf7d3073745",
+    "title": "WarmPrior: Straightening Flow-Matching Policies with Temporal Priors",
+    "url": "https://arxiv.org/abs/2605.13959",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13986v1 Announce Type: new Abstract: Tabular data underpins most high-value prediction problems in science and industry, and TabPFN has driven the foundation model revolution for this modality. Designed with feedback from our users, TabPFN-3 builds on this foundation to scale state-of-the",
-    "collected_at": "2026-05-15T08:54:27.893217"
+    "summary": "arXiv:2605.13959v1 Announce Type: new Abstract: Generative policies based on diffusion and flow matching have become a dominant paradigm for visuomotor robotic control. We show that replacing the standard Gaussian source distribution with WarmPrior, a simple temporally grounded prior constructed fro",
+    "collected_at": "2026-05-15T08:54:27.893025"
   },
   {
     "id": "fe3a9184c5bb",
@@ -432,16 +576,16 @@
     "collected_at": "2026-05-15T03:43:24.209714"
   },
   {
-    "id": "2888defc35f9",
-    "title": "Neural Fields for NV-Center Inverse Sensing",
-    "url": "https://arxiv.org/abs/2605.13988",
+    "id": "69fbb663a323",
+    "title": "Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines",
+    "url": "https://arxiv.org/abs/2605.13981",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We st",
-    "collected_at": "2026-05-15T08:54:27.893286"
+    "summary": "arXiv:2605.13981v1 Announce Type: new Abstract: The rise in deployment of large language models has driven a surge in GPU demand and datacenter scaling, raising concerns about electricity use, grid stress, and the impacts of modern AI workloads. Distillation is often promoted as one of the most effe",
+    "collected_at": "2026-05-15T08:54:27.893099"
   },
   {
     "id": "1d0c2f9f5af6",
@@ -456,16 +600,16 @@
     "collected_at": "2026-05-15T03:43:22.768829"
   },
   {
-    "id": "e10b57465116",
-    "title": "HodgeCover: Higher-Order Topological Coverage Drives Compression of Sparse Mixture-of-Experts",
-    "url": "https://arxiv.org/abs/2605.13997",
+    "id": "6cc494176e01",
+    "title": "TabPFN-3: Technical Report",
+    "url": "https://arxiv.org/abs/2605.13986",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13997v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) layers route tokens through a handful of experts, and learning-free compression of these layers reduces inference cost without retraining. A subtle obstruction blocks every existing compressor in this family: three exper",
-    "collected_at": "2026-05-15T08:54:27.893361"
+    "summary": "arXiv:2605.13986v1 Announce Type: new Abstract: Tabular data underpins most high-value prediction problems in science and industry, and TabPFN has driven the foundation model revolution for this modality. Designed with feedback from our users, TabPFN-3 builds on this foundation to scale state-of-the",
+    "collected_at": "2026-05-15T08:54:27.893217"
   },
   {
     "id": "3ac29ae699ea",
@@ -480,16 +624,16 @@
     "collected_at": "2026-05-15T03:43:30.425993"
   },
   {
-    "id": "a7e4f7047a69",
-    "title": "Support Before Frequency in Discrete Diffusion",
-    "url": "https://arxiv.org/abs/2605.13999",
+    "id": "2888defc35f9",
+    "title": "Neural Fields for NV-Center Inverse Sensing",
+    "url": "https://arxiv.org/abs/2605.13988",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.13999v1 Announce Type: new Abstract: Discrete diffusion models are increasingly competitive for language modeling, yet it remains unclear how their denoising objectives organize learning. Although these objectives target the full data distribution, we show that the exact reverse process i",
-    "collected_at": "2026-05-15T08:54:27.893436"
+    "summary": "arXiv:2605.13988v1 Announce Type: new Abstract: Inverse problems in scientific sensing are often solved with either hand-designed regularizers or supervised networks trained on simulated labels, yet both can fail when the forward model is nonlinear, spectrally coupled, and physically delicate. We st",
+    "collected_at": "2026-05-15T08:54:27.893286"
   },
   {
     "id": "a798c83d7c0e",
@@ -504,16 +648,16 @@
     "collected_at": "2026-05-15T03:43:22.545769"
   },
   {
-    "id": "d92a6e95c367",
-    "title": "Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signal",
-    "url": "https://arxiv.org/abs/2605.14014",
+    "id": "e10b57465116",
+    "title": "HodgeCover: Higher-Order Topological Coverage Drives Compression of Sparse Mixture-of-Experts",
+    "url": "https://arxiv.org/abs/2605.13997",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.14014v1 Announce Type: new Abstract: Internet of Things (IoT) systems continuously collect heterogeneous sensing signals from ubiquitous sensors to support intelligent applications such as human activity analysis, emotion monitoring, and environmental perception. These signals are inheren",
-    "collected_at": "2026-05-15T08:54:27.893530"
+    "summary": "arXiv:2605.13997v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) layers route tokens through a handful of experts, and learning-free compression of these layers reduces inference cost without retraining. A subtle obstruction blocks every existing compressor in this family: three exper",
+    "collected_at": "2026-05-15T08:54:27.893361"
   },
   {
     "id": "173612216323",
@@ -528,16 +672,16 @@
     "collected_at": "2026-05-15T03:43:22.768873"
   },
   {
-    "id": "644562cb99ec",
-    "title": "R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning",
-    "url": "https://arxiv.org/abs/2605.14026",
+    "id": "a7e4f7047a69",
+    "title": "Support Before Frequency in Discrete Diffusion",
+    "url": "https://arxiv.org/abs/2605.13999",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.14026v1 Announce Type: new Abstract: For reinforcement learning in data-scarce domains like real-world robotics, intensive data reuse enhances efficiency but induces overfitting. While prior works focus on critic bias, representation-level instability in Self-Predictive Learning (SPL) und",
-    "collected_at": "2026-05-15T08:54:27.893597"
+    "summary": "arXiv:2605.13999v1 Announce Type: new Abstract: Discrete diffusion models are increasingly competitive for language modeling, yet it remains unclear how their denoising objectives organize learning. Although these objectives target the full data distribution, we show that the exact reverse process i",
+    "collected_at": "2026-05-15T08:54:27.893436"
   },
   {
     "id": "5cc6e708b103",
@@ -552,16 +696,16 @@
     "collected_at": "2026-05-15T03:43:22.545803"
   },
   {
-    "id": "1ec64437947d",
-    "title": "Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility",
-    "url": "https://arxiv.org/abs/2605.14037",
+    "id": "d92a6e95c367",
+    "title": "Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signal",
+    "url": "https://arxiv.org/abs/2605.14014",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.14037v1 Announce Type: new Abstract: Under modern test-time compute and agentic paradigms, language models process ever-longer sequences. Efficient text generation with transformer architectures is increasingly constrained by the Key-Value cache memory footprint and bandwidth. To address",
-    "collected_at": "2026-05-15T08:54:27.893678"
+    "summary": "arXiv:2605.14014v1 Announce Type: new Abstract: Internet of Things (IoT) systems continuously collect heterogeneous sensing signals from ubiquitous sensors to support intelligent applications such as human activity analysis, emotion monitoring, and environmental perception. These signals are inheren",
+    "collected_at": "2026-05-15T08:54:27.893530"
   },
   {
     "id": "73eb815ab647",
@@ -576,16 +720,16 @@
     "collected_at": "2026-05-15T03:43:25.400503"
   },
   {
-    "id": "eac121f7380b",
-    "title": "Reliability-Gated Source Anchoring for Continual Test-Time Adaptation",
-    "url": "https://arxiv.org/abs/2605.14063",
+    "id": "644562cb99ec",
+    "title": "R2R2: Robust Representation for Intensive Experience Reuse via Redundancy Reduction in Self-Predictive Learning",
+    "url": "https://arxiv.org/abs/2605.14026",
     "source": "ArXiv CS.LG",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-15T04:00:00",
-    "summary": "arXiv:2605.14063v1 Announce Type: new Abstract: Continual test-time adaptation (CTTA) updates a pretrained model online on an unlabeled, non-stationary stream while anchoring it to a frozen source checkpoint. This anchor is useful only when the source remains reliable. On CCC-Hard, however, a ResNet",
-    "collected_at": "2026-05-15T08:54:27.893750"
+    "summary": "arXiv:2605.14026v1 Announce Type: new Abstract: For reinforcement learning in data-scarce domains like real-world robotics, intensive data reuse enhances efficiency but induces overfitting. While prior works focus on critic bias, representation-level instability in Self-Predictive Learning (SPL) und",
+    "collected_at": "2026-05-15T08:54:27.893597"
   },
   {
     "id": "aef6c5b4dd7b",
@@ -600,6 +744,18 @@
     "collected_at": "2026-05-15T03:43:22.768930"
   },
   {
+    "id": "1ec64437947d",
+    "title": "Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility",
+    "url": "https://arxiv.org/abs/2605.14037",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T04:00:00",
+    "summary": "arXiv:2605.14037v1 Announce Type: new Abstract: Under modern test-time compute and agentic paradigms, language models process ever-longer sequences. Efficient text generation with transformer architectures is increasingly constrained by the Key-Value cache memory footprint and bandwidth. To address",
+    "collected_at": "2026-05-15T08:54:27.893678"
+  },
+  {
     "id": "baafa407a6f8",
     "title": "What happens when AI starts building itself?",
     "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
@@ -610,6 +766,18 @@
     "published": "2026-05-14T19:57:20",
     "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
     "collected_at": "2026-05-15T03:43:22.545846"
+  },
+  {
+    "id": "eac121f7380b",
+    "title": "Reliability-Gated Source Anchoring for Continual Test-Time Adaptation",
+    "url": "https://arxiv.org/abs/2605.14063",
+    "source": "ArXiv CS.LG",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T04:00:00",
+    "summary": "arXiv:2605.14063v1 Announce Type: new Abstract: Continual test-time adaptation (CTTA) updates a pretrained model online on an unlabeled, non-stationary stream while anchoring it to a frozen source checkpoint. This anchor is useful only when the source remains reliable. On CCC-Hard, however, a ResNet",
+    "collected_at": "2026-05-15T08:54:27.893750"
   },
   {
     "id": "64d5564ebfc1",
@@ -3430,173 +3598,5 @@
     "published": "2026-05-12T09:35:29",
     "summary": "累计发现23个独立安全漏洞",
     "collected_at": "2026-05-12T14:31:09.502186"
-  },
-  {
-    "id": "d3b5b5ad9510",
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T04:52:35",
-    "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-    "collected_at": "2026-05-12T08:45:56.169624"
-  },
-  {
-    "id": "b8af52f9e2a4",
-    "title": "AI第一金主黄仁勋：日均花掉20亿",
-    "url": "https://www.qbitai.com/2026/05/416540.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-12T08:03:52",
-    "summary": "“AI御三家”都投了",
-    "collected_at": "2026-05-12T08:43:43.259449"
-  },
-  {
-    "id": "c8347a24a6c2",
-    "title": "[AINews] Thinking Machines' Native Interaction Models - TML-Interaction-Small 276B-A12B - advances SOTA Realtime Voice and kills standard VAD",
-    "url": "https://www.latent.space/p/ainews-thinking-machines-native-interaction",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T04:33:46",
-    "summary": "well done, Team Thinky.",
-    "collected_at": "2026-05-12T08:46:11.903243"
-  },
-  {
-    "id": "195c30b99264",
-    "title": "估值200亿美元！可灵AI被曝剥离快手单独融资",
-    "url": "https://www.qbitai.com/2026/05/416056.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-12T06:06:38",
-    "summary": "快手，可能要亲手拆出第二家“快手”了。",
-    "collected_at": "2026-05-12T08:43:43.259575"
-  },
-  {
-    "id": "a7b8fa7f70a4",
-    "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-    "url": "https://arxiv.org/abs/2605.08200",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08200v1 Announce Type: new Abstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on the queried region should imply a confident, calibrated answer. We test this Attention-Confidence Assump",
-    "collected_at": "2026-05-12T08:46:09.279029"
-  },
-  {
-    "id": "5f1fa249a525",
-    "title": "OpenClaw低调更新重磅版本，龙虾长手长脚了",
-    "url": "https://www.qbitai.com/2026/05/416034.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-12T04:02:50",
-    "summary": "让AI agent看到屏幕，也能操作鼠标键盘",
-    "collected_at": "2026-05-12T08:43:43.259604"
-  },
-  {
-    "id": "c0c22e22916e",
-    "title": "Reinforcement learning for inverse structural design and rapid laser cutting of kirigami prototypes",
-    "url": "https://arxiv.org/abs/2605.08098",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08098v1 Announce Type: new Abstract: Kirigami is an increasingly useful fabrication method to produce shape-programmable metamaterial structures. However, inverse design remains difficult because deployment is nonlinear, and feasible cut layouts must satisfy discrete compatibility rules,",
-    "collected_at": "2026-05-12T08:46:10.019043"
-  },
-  {
-    "id": "49928d3fdf0e",
-    "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-    "url": "https://arxiv.org/abs/2605.08220",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08220v1 Announce Type: new Abstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Models (LLMs) show promise, their accuracy on non-standardized charts remains a challenge. This raises a key",
-    "collected_at": "2026-05-12T08:46:09.279119"
-  },
-  {
-    "id": "053dec6a39d2",
-    "title": "Path-Based Gradient Boosting for Graph-Level Prediction",
-    "url": "https://arxiv.org/abs/2605.08102",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08102v1 Announce Type: new Abstract: We propose PathBoost, a gradient tree boosting method for graph-level classification and regression that learns discriminative path-based features directly from the input graph structure. Building on a previous work, which was tailored to a specific ch",
-    "collected_at": "2026-05-12T08:46:10.019120"
-  },
-  {
-    "id": "5a4023840cab",
-    "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-    "url": "https://arxiv.org/abs/2605.08354",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08354v1 Announce Type: new Abstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of human judgment. Prevailing RLHF approaches reduce this structure to scalar or pairwise labels, collapsing",
-    "collected_at": "2026-05-12T08:46:09.279210"
-  },
-  {
-    "id": "8b157c9bd9b7",
-    "title": "Distributional Reinforcement Learning via the Cram\\'er Distance",
-    "url": "https://arxiv.org/abs/2605.08104",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08104v1 Announce Type: new Abstract: This paper explores the application of the Soft Actor-Critic (SAC) algorithm within a Distributional Reinforcement Learning setting and introduces an implementation of such algorithm named Cram\\'er-based Distributional Soft Actor-Critic (C-DSAC). The n",
-    "collected_at": "2026-05-12T08:46:10.019220"
-  },
-  {
-    "id": "5b2d28f31b68",
-    "title": "Embeddings for Preferences, Not Semantics",
-    "url": "https://arxiv.org/abs/2605.08360",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08360v1 Announce Type: new Abstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixed set of candidates. A natural idea is to embed these opinions in a vector space so that the substantial",
-    "collected_at": "2026-05-12T08:46:09.279285"
-  },
-  {
-    "id": "13bbac6c7362",
-    "title": "Geometry-free prediction of inertial lift forces in microfluidic devices using deep learning",
-    "url": "https://arxiv.org/abs/2605.08109",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08109v1 Announce Type: new Abstract: Inertial microfluidic devices (IMDs) offer low-cost, high-throughput alternative techniques for many traditional particle- (or cell-) manipulation tasks, but simulating them requires being able to predict particle migration, and thus particle lift forc",
-    "collected_at": "2026-05-12T08:46:10.019309"
-  },
-  {
-    "id": "04499fb6a6d9",
-    "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-    "url": "https://arxiv.org/abs/2605.08368",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T04:00:00",
-    "summary": "arXiv:2605.08368v1 Announce Type: new Abstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery. But this distinction is too coarse. What matters is whether a training procedure increases the probabil",
-    "collected_at": "2026-05-12T08:46:09.279366"
   }
 ]
