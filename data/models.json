@@ -5820,6 +5820,39 @@
     "collected_at": "2026-05-14T08:43:22.625787"
   },
   {
+    "id": "hf-FrontiersMind--Nandi-Mini-600M-Early-Checkpoint",
+    "name": "FrontiersMind/Nandi-Mini-600M-Early-Checkpoint",
+    "display_name": "Nandi-Mini-600M-Early-Checkpoint",
+    "url": "https://huggingface.co/FrontiersMind/Nandi-Mini-600M-Early-Checkpoint",
+    "author": "FrontiersMind",
+    "pipeline_tag": "text-generation",
+    "likes": 41,
+    "downloads": 183,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "nandi",
+      "text-generation",
+      "custom_code",
+      "en",
+      "hi",
+      "mr",
+      "ta",
+      "te",
+      "kn",
+      "ml",
+      "bn",
+      "pa",
+      "gu",
+      "or",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-13T10:53:22.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-15T08:54:55.000458"
+  },
+  {
     "id": "hf-sensenova--SenseNova-U1-8B-MoT-SFT",
     "name": "sensenova/SenseNova-U1-8B-MoT-SFT",
     "display_name": "SenseNova-U1-8B-MoT-SFT",
@@ -5950,6 +5983,43 @@
     "created_at": "2026-04-29T17:33:22.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-12T03:33:33.176444"
+  },
+  {
+    "id": "hf-jinaai--jina-embeddings-v5-omni-small",
+    "name": "jinaai/jina-embeddings-v5-omni-small",
+    "display_name": "jina-embeddings-v5-omni-small",
+    "url": "https://huggingface.co/jinaai/jina-embeddings-v5-omni-small",
+    "author": "jinaai",
+    "pipeline_tag": "feature-extraction",
+    "likes": 39,
+    "downloads": 18653,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "jina_embeddings_v5_omni",
+      "feature-extraction",
+      "embedding",
+      "qwen3",
+      "jina-embeddings-v5",
+      "sentence-transformers",
+      "multimodal",
+      "vision",
+      "audio",
+      "vllm",
+      "video",
+      "image-feature-extraction",
+      "audio-feature-extraction",
+      "video-feature-extraction",
+      "sentence-similarity",
+      "custom_code",
+      "multilingual",
+      "arxiv:2605.08384",
+      "license:cc-by-nc-4.0",
+      "region:eu"
+    ],
+    "created_at": "2026-04-01T22:06:52.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-15T08:54:54.869394"
   },
   {
     "id": "hf-HiDream-ai--HiDream-O1-Image",
@@ -23396,41 +23466,5 @@
     "created_at": "2026-04-26T18:51:07.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638237"
-  },
-  {
-    "id": "hf-vangarasubramanyam--PEFT_Partb",
-    "name": "vangarasubramanyam/PEFT_Partb",
-    "display_name": "PEFT_Partb",
-    "url": "https://huggingface.co/vangarasubramanyam/PEFT_Partb",
-    "author": "vangarasubramanyam",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "arxiv:1910.09700",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:50:39.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638240"
-  },
-  {
-    "id": "hf-Vixhal--qwen2.5-3b-govt-services-grpo-passport",
-    "name": "Vixhal/qwen2.5-3b-govt-services-grpo-passport",
-    "display_name": "qwen2.5-3b-govt-services-grpo-passport",
-    "url": "https://huggingface.co/Vixhal/qwen2.5-3b-govt-services-grpo-passport",
-    "author": "Vixhal",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:49:55.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638243"
   }
 ]
