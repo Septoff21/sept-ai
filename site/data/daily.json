@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-05-15T19:45:30.190432",
-  "date": "2026-05-15",
+  "updated_at": "2026-05-16T03:29:10.431126",
+  "date": "2026-05-16",
   "spotlight": {
-    "name": "Cursor Agent",
-    "url": "https://cursor.sh",
+    "name": "Codex (ChatGPT)",
+    "url": "https://chatgpt.com",
     "type": "agent",
-    "description": "Cursor内置Agent模式，后台自主完成复杂编码任务",
-    "pricing": "Pro $20/月",
+    "description": "OpenAI内置编程智能体，可在沙盒中执行代码",
+    "pricing": "ChatGPT Pro $200/月",
     "category": "编程 Agent"
   },
   "alternates": [
     {
-      "name": "Gemini CLI",
-      "url": "https://github.com/google-gemini/gemini-cli",
+      "name": "MemPalace",
+      "url": "https://github.com/MemPalace/mempalace",
       "type": "agent",
-      "description": "Google 开源的终端 AI Agent，直接在命令行调用 Gemini 模型完成编码、文件操作等任务",
+      "description": "最强开源 AI 记忆系统，号称性能超越 Mem0 等方案，且完全免费开源",
       "pricing": "免费",
-      "category": "编程 Agent"
+      "category": "平台 Agent"
     },
     {
-      "id": "秘塔搜索",
-      "name": "秘塔 AI 搜索",
-      "url": "https://metaso.cn",
+      "id": "gamma",
+      "name": "Gamma",
+      "url": "https://gamma.app",
       "type": "tool",
-      "description": "国产 AI 搜索引擎，中文体验优秀",
-      "pricing": "免费",
-      "category": "搜索"
+      "description": "AI 一键生成 PPT/演示文稿",
+      "pricing": "免费 + Plus $10/月",
+      "category": "办公"
     },
     {
-      "name": "Aider",
-      "url": "https://github.com/Aider-AI/aider",
+      "name": "OpenCode",
+      "url": "https://github.com/opencode-ai/opencode",
       "type": "agent",
-      "description": "终端AI结对编程工具，支持多模型",
+      "description": "终端AI编码助手，支持多模型多Provider",
       "pricing": "开源免费",
       "category": "编程 Agent"
     }

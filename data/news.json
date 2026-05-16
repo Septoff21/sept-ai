@@ -1,5 +1,101 @@
 [
   {
+    "id": "9e9dd2ae8494",
+    "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
+    "url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-16T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-16T03:28:10.521452"
+  },
+  {
+    "id": "5cab39a13485",
+    "title": "上海电信率先发布Token资费套餐：1元对应25万额度点 支持手机账单付",
+    "url": "https://36kr.com/newsflashes/3811348121100035?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-16T02:57:38",
+    "summary": "面对AI时代日益增长的Token需求，上海电信宣布，即日起面向上海电信用户正式推出Token算力服务，成为上海首个发布Token资费套餐运营商。具体来说，一是按量订购，1元对应25万额度点（以KiMi-K2.5模型为例，约可支持调用25万输入Tokens）；二是按需选择，用多少买多少，多买可享折扣，支持话费账单支付。另据记者从上海电信获悉，用户购买额度点后，通过标准API接口即可调用30余款主流大模型（文本、多模态），将AI能力集成到自己的软件、脚本或自动化流程中。以10元购买250万额度为例，约可让程序自动总结100本10万字的电子书。(上观新闻)",
+    "collected_at": "2026-05-16T03:28:08.825517"
+  },
+  {
+    "id": "9c8aa558adfd",
+    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T23:39:35",
+    "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w",
+    "collected_at": "2026-05-16T03:27:59.415759"
+  },
+  {
+    "id": "5a01af2cc186",
+    "title": "OpenAI已收购AI声音克隆工具公司weights.gg",
+    "url": "https://36kr.com/newsflashes/3811291086233353?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-16T02:30:42",
+    "summary": "两位知情人士透露，今年OpenAI低调收购了小型初创企业Weights.gg，这家企业主打提供人声克隆类人工智能工具。此次收购尚未对外披露，具体交易条款目前无从得知。熟悉本次收购事宜的人士表示，OpenAI一并拿下了该公司规模不大的团队以及全部知识产权。Weights.gg已于今年三月宣布关停旗下各项服务。（新浪财经）",
+    "collected_at": "2026-05-16T03:28:08.825599"
+  },
+  {
+    "id": "3ae6721de06e",
+    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T22:25:00",
+    "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there",
+    "collected_at": "2026-05-16T03:27:59.276032"
+  },
+  {
+    "id": "f9457a7a7ca9",
+    "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
+    "url": "https://36kr.com/p/3810520138243593?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-16T02:00:00",
+    "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。 据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。 在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。 调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计到2025年将增长到16.11亿美元，到2033年将超过81.5亿美元，复合年增长率为22.8%。 不过，该市场集中度较高，少数头部品牌",
+    "collected_at": "2026-05-16T03:28:08.824030"
+  },
+  {
+    "id": "00097bc0707b",
+    "title": "ArXiv will ban researchers who upload papers full of AI slop",
+    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T20:38:19",
+    "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" l",
+    "collected_at": "2026-05-16T03:27:59.276080"
+  },
+  {
+    "id": "0fa3fe113173",
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T20:26:47",
+    "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 920 # Comments: 390",
+    "collected_at": "2026-05-16T03:28:00.320078"
+  },
+  {
     "id": "2a9cfc82264a",
     "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
     "url": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
@@ -156,16 +252,16 @@
     "collected_at": "2026-05-15T14:14:47.885966"
   },
   {
-    "id": "5d5f0482cd39",
-    "title": "Osaurus brings both local and cloud AI models to your Mac",
-    "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-    "source": "TechCrunch AI",
+    "id": "e7cc5b504c26",
+    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T12:19:48",
-    "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-    "collected_at": "2026-05-15T14:14:31.372594"
+    "priority": 2,
+    "published": "2026-05-15T13:28:55",
+    "summary": "Article URL: https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks Comments URL: https://news.ycombinator.com/item?id=48148337 Points: 324 # Comments: 361",
+    "collected_at": "2026-05-16T03:28:00.320122"
   },
   {
     "id": "ef7442a0c13c",
@@ -178,6 +274,18 @@
     "published": "2026-05-15T12:31:45",
     "summary": "为简化薪酬体系、扩充资本金规模，并抵御咨询行业市场波动风险，麦肯锡计划下调合伙人可直接现金支取的利润分成比例。据知情人士透露，这家顶尖咨询机构已告知全体合伙人，未来薪酬中将有更大比例以股权形式发放，以此增厚公司资金储备，部分合伙人收入因此变动金额可达数万美元。（新浪财经）",
     "collected_at": "2026-05-15T14:14:47.887464"
+  },
+  {
+    "id": "5d5f0482cd39",
+    "title": "Osaurus brings both local and cloud AI models to your Mac",
+    "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T12:19:48",
+    "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+    "collected_at": "2026-05-15T14:14:31.372594"
   },
   {
     "id": "034c5dfe93ab",
@@ -276,16 +384,16 @@
     "collected_at": "2026-05-15T03:43:34.740110"
   },
   {
-    "id": "b40dcd22bd69",
-    "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-    "url": "https://github.com/Andyyyy64/whichllm",
+    "id": "747582e16488",
+    "title": "UK sovereign LLM inference",
+    "url": "https://relax.ai/docs",
     "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-15T09:19:24",
-    "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 235 # Comments: 40",
-    "collected_at": "2026-05-15T14:14:33.856542"
+    "published": "2026-05-15T09:27:26",
+    "summary": "Article URL: https://relax.ai/docs Comments URL: https://news.ycombinator.com/item?id=48146424 Points: 104 # Comments: 109",
+    "collected_at": "2026-05-16T03:28:00.320155"
   },
   {
     "id": "782aa2913a62",
@@ -298,6 +406,18 @@
     "published": "2026-05-15T10:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-15T03:43:34.740138"
+  },
+  {
+    "id": "b40dcd22bd69",
+    "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+    "url": "https://github.com/Andyyyy64/whichllm",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T09:19:24",
+    "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 235 # Comments: 40",
+    "collected_at": "2026-05-15T14:14:33.856542"
   },
   {
     "id": "03022e48742f",
@@ -600,16 +720,16 @@
     "collected_at": "2026-05-15T08:54:27.892782"
   },
   {
-    "id": "706aac0a148a",
-    "title": "[AINews] Everything is Conductor",
-    "url": "https://www.latent.space/p/ainews-everything-is-conductor",
-    "source": "Latent Space",
+    "id": "c4c541c45736",
+    "title": "datasette-llm-limits 0.1a0",
+    "url": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T00:30:21",
-    "summary": "an ultra quiet day lets us highlight a smaller trend.",
-    "collected_at": "2026-05-15T03:43:30.425938"
+    "priority": 2,
+    "published": "2026-05-15T00:42:09",
+    "summary": "Release: datasette-llm-limits 0.1a0 This plugin works in conjunction with datasette-llm and datasette-llm-accountant to let you configure a per-user (or global) spending limit for LLM usage inside of Datasette. Configuration looks something like this: plugins: datasette-llm-limits: limits: per-user-",
+    "collected_at": "2026-05-16T03:28:05.390612"
   },
   {
     "id": "5a25497341a9",
@@ -624,16 +744,16 @@
     "collected_at": "2026-05-15T08:54:27.892883"
   },
   {
-    "id": "49a108cb408a",
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "url": "https://openai.com/index/building-codex-windows-sandbox",
-    "source": "OpenAI Blog",
+    "id": "706aac0a148a",
+    "title": "[AINews] Everything is Conductor",
+    "url": "https://www.latent.space/p/ainews-everything-is-conductor",
+    "source": "Latent Space",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-15T00:00:00",
-    "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-    "collected_at": "2026-05-13T20:01:04.770564"
+    "published": "2026-05-15T00:30:21",
+    "summary": "an ultra quiet day lets us highlight a smaller trend.",
+    "collected_at": "2026-05-15T03:43:30.425938"
   },
   {
     "id": "57f44f4c2d84",
@@ -648,16 +768,16 @@
     "collected_at": "2026-05-15T08:54:27.892967"
   },
   {
-    "id": "4ed1b1b76f19",
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "id": "49a108cb408a",
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
     "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
     "priority": 1,
     "published": "2026-05-15T00:00:00",
-    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-    "collected_at": "2026-05-15T19:44:24.027166"
+    "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+    "collected_at": "2026-05-13T20:01:04.770564"
   },
   {
     "id": "caf7d3073745",
@@ -672,16 +792,16 @@
     "collected_at": "2026-05-15T08:54:27.893025"
   },
   {
-    "id": "a9fefbfb76c6",
-    "title": "Not so locked in any more",
-    "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
-    "source": "Simon Willison",
+    "id": "4ed1b1b76f19",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T22:53:49",
-    "summary": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week. I was talking to someone who worked for a medium sized technology company with a pair of legacy/legendary iPhone and Android apps. They told me they had just comp",
-    "collected_at": "2026-05-15T03:43:29.871744"
+    "priority": 1,
+    "published": "2026-05-15T00:00:00",
+    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "collected_at": "2026-05-15T19:44:24.027166"
   },
   {
     "id": "69fbb663a323",
@@ -696,16 +816,16 @@
     "collected_at": "2026-05-15T08:54:27.893099"
   },
   {
-    "id": "fe3a9184c5bb",
-    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-    "source": "Hacker News AI",
+    "id": "990a39ff7c1a",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T22:37:40",
-    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 146 # Comments: 66",
-    "collected_at": "2026-05-15T03:43:24.209714"
+    "priority": 1,
+    "published": "2026-05-15T00:00:00",
+    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "collected_at": "2026-05-16T03:28:01.361931"
   },
   {
     "id": "6cc494176e01",
@@ -720,16 +840,16 @@
     "collected_at": "2026-05-15T08:54:27.893217"
   },
   {
-    "id": "1d0c2f9f5af6",
-    "title": "Closing time",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
-    "source": "The Verge AI",
+    "id": "a9fefbfb76c6",
+    "title": "Not so locked in any more",
+    "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T22:21:46",
-    "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk",
-    "collected_at": "2026-05-15T03:43:22.768829"
+    "priority": 2,
+    "published": "2026-05-14T22:53:49",
+    "summary": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week. I was talking to someone who worked for a medium sized technology company with a pair of legacy/legendary iPhone and Android apps. They told me they had just comp",
+    "collected_at": "2026-05-15T03:43:29.871744"
   },
   {
     "id": "2888defc35f9",
@@ -744,16 +864,16 @@
     "collected_at": "2026-05-15T08:54:27.893286"
   },
   {
-    "id": "3ac29ae699ea",
-    "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Janie Lee & Chai Asawa, Abridge",
-    "url": "https://www.latent.space/p/abridge",
-    "source": "Latent Space",
+    "id": "fe3a9184c5bb",
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T22:05:31",
-    "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare",
-    "collected_at": "2026-05-15T03:43:30.425993"
+    "priority": 2,
+    "published": "2026-05-14T22:37:40",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 146 # Comments: 66",
+    "collected_at": "2026-05-15T03:43:24.209714"
   },
   {
     "id": "e10b57465116",
@@ -768,16 +888,16 @@
     "collected_at": "2026-05-15T08:54:27.893361"
   },
   {
-    "id": "a798c83d7c0e",
-    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "source": "TechCrunch AI",
+    "id": "1d0c2f9f5af6",
+    "title": "Closing time",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T21:30:44",
-    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-    "collected_at": "2026-05-15T03:43:22.545769"
+    "published": "2026-05-14T22:21:46",
+    "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk",
+    "collected_at": "2026-05-15T03:43:22.768829"
   },
   {
     "id": "a7e4f7047a69",
@@ -792,16 +912,16 @@
     "collected_at": "2026-05-15T08:54:27.893436"
   },
   {
-    "id": "173612216323",
-    "title": "Behold, the Elon Musk jackass trophy",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-    "source": "The Verge AI",
+    "id": "3ac29ae699ea",
+    "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Janie Lee & Chai Asawa, Abridge",
+    "url": "https://www.latent.space/p/abridge",
+    "source": "Latent Space",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T20:59:23",
-    "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI emp",
-    "collected_at": "2026-05-15T03:43:22.768873"
+    "published": "2026-05-14T22:05:31",
+    "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare",
+    "collected_at": "2026-05-15T03:43:30.425993"
   },
   {
     "id": "d92a6e95c367",
@@ -816,16 +936,16 @@
     "collected_at": "2026-05-15T08:54:27.893530"
   },
   {
-    "id": "5cc6e708b103",
-    "title": "OpenAI says Codex is coming to your phone",
-    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "id": "a798c83d7c0e",
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T20:58:55",
-    "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
-    "collected_at": "2026-05-15T03:43:22.545803"
+    "published": "2026-05-14T21:30:44",
+    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+    "collected_at": "2026-05-15T03:43:22.545769"
   },
   {
     "id": "644562cb99ec",
@@ -840,16 +960,16 @@
     "collected_at": "2026-05-15T08:54:27.893597"
   },
   {
-    "id": "73eb815ab647",
-    "title": "Sea's View on the Future of Agentic Software Development with Codex",
-    "url": "https://openai.com/index/sea-david-chen",
-    "source": "OpenAI Blog",
+    "id": "173612216323",
+    "title": "Behold, the Elon Musk jackass trophy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T20:30:00",
-    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-    "collected_at": "2026-05-15T03:43:25.400503"
+    "published": "2026-05-14T20:59:23",
+    "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI emp",
+    "collected_at": "2026-05-15T03:43:22.768873"
   },
   {
     "id": "1ec64437947d",
@@ -864,16 +984,16 @@
     "collected_at": "2026-05-15T08:54:27.893678"
   },
   {
-    "id": "aef6c5b4dd7b",
-    "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-    "source": "The Verge AI",
+    "id": "5cc6e708b103",
+    "title": "OpenAI says Codex is coming to your phone",
+    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T20:00:00",
-    "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side",
-    "collected_at": "2026-05-15T03:43:22.768930"
+    "published": "2026-05-14T20:58:55",
+    "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+    "collected_at": "2026-05-15T03:43:22.545803"
   },
   {
     "id": "eac121f7380b",
@@ -886,6 +1006,30 @@
     "published": "2026-05-15T04:00:00",
     "summary": "arXiv:2605.14063v1 Announce Type: new Abstract: Continual test-time adaptation (CTTA) updates a pretrained model online on an unlabeled, non-stationary stream while anchoring it to a frozen source checkpoint. This anchor is useful only when the source remains reliable. On CCC-Hard, however, a ResNet",
     "collected_at": "2026-05-15T08:54:27.893750"
+  },
+  {
+    "id": "73eb815ab647",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "url": "https://openai.com/index/sea-david-chen",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T20:30:00",
+    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "collected_at": "2026-05-15T03:43:25.400503"
+  },
+  {
+    "id": "aef6c5b4dd7b",
+    "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T20:00:00",
+    "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side",
+    "collected_at": "2026-05-15T03:43:22.768930"
   },
   {
     "id": "baafa407a6f8",
@@ -3444,18 +3588,6 @@
     "collected_at": "2026-05-12T19:58:57.409719"
   },
   {
-    "id": "f1d38ba7f3ad",
-    "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T16:29:21",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/ Comments URL: https://news.ycombinator.com/item?id=48110529 Points: 186 # Comments: 168",
-    "collected_at": "2026-05-12T19:58:59.535977"
-  },
-  {
     "id": "96fbba7e01c0",
     "title": "Threads tests a Meta AI integration that works similarly to Grok",
     "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
@@ -3466,137 +3598,5 @@
     "published": "2026-05-12T16:34:36",
     "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
     "collected_at": "2026-05-12T19:58:57.409751"
-  },
-  {
-    "id": "431cb0e05d6f",
-    "title": "World Models: 10 Things That Matter in AI Right Now",
-    "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T16:22:15",
-    "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, &#8220;Can AI Learn to Un",
-    "collected_at": "2026-05-12T19:58:57.603509"
-  },
-  {
-    "id": "214d31400129",
-    "title": "Sam Altman takes the stand in trial against Elon Musk",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T16:05:20",
-    "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk. Altman, Brockman, and Musk were all part of the initial founding team",
-    "collected_at": "2026-05-12T19:58:57.472589"
-  },
-  {
-    "id": "14f0330ce5a9",
-    "title": "How finance teams use Codex",
-    "url": "https://openai.com/academy/how-finance-teams-use-codex",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T15:00:00",
-    "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-    "collected_at": "2026-05-13T03:41:19.590816"
-  },
-  {
-    "id": "89b4b5808bee",
-    "title": "George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T16:00:00",
-    "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, includ",
-    "collected_at": "2026-05-12T19:58:57.472629"
-  },
-  {
-    "id": "e346289244d6",
-    "title": "梁文锋出资200亿元，DeepSeek阿里谈崩？宇树机器人在韩国佛门受戒，法号“迦悲”；员工人均奖金达610万人民币，被婚恋市场追捧？官方回应｜AI周报",
-    "url": "https://www.infoq.cn/article/xqLfi9FVBo6qINKSuyeb?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-12T14:43:14",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-12T08:46:17.613237"
-  },
-  {
-    "id": "1f4bb8955ff2",
-    "title": "Rivian’s AI-powered voice assistant is ready to roll",
-    "url": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T15:51:38",
-    "summary": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a y",
-    "collected_at": "2026-05-12T19:58:57.472687"
-  },
-  {
-    "id": "5eec485c6b57",
-    "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-    "url": "https://github.com/statewright/statewright",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T14:24:55",
-    "summary": "Agentic problem solving in its current state is very brittle. I fell in love with it, but it creates as many problems as it solves.I'm Ben Cochran, I spent 20+ years in the trenches with full-stack Engineering, DevOps, high performance computing & ML with stints at NVIDIA, AMD and various other orga",
-    "collected_at": "2026-05-13T14:42:31.902564"
-  },
-  {
-    "id": "033dbac331ce",
-    "title": "专为智能体和 SOTA 模型训练而设计的谷歌新一代 TPU",
-    "url": "https://www.infoq.cn/article/ZsDVWSEQEYWq3D4TQTOe?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-12T14:23:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-12T08:46:17.613276"
-  },
-  {
-    "id": "bcbb6b196c35",
-    "title": "原来Ilya还有70亿美元OpenAI股权",
-    "url": "https://www.qbitai.com/2026/05/416597.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-12T13:55:01",
-    "summary": "世纪庭审实锤OpenAI「造富神话」",
-    "collected_at": "2026-05-12T14:31:09.502108"
-  },
-  {
-    "id": "ce3938d1553a",
-    "title": "Dessn raises $6M for its production focused design tool",
-    "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T13:00:00",
-    "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
-    "collected_at": "2026-05-12T14:33:25.644087"
-  },
-  {
-    "id": "e43e178231dc",
-    "title": "3M加入行业联盟，推进人工智能数据中心光互联技术发展",
-    "url": "https://36kr.com/newsflashes/3806269522779648?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-12T12:17:35",
-    "summary": "3M加入行业联盟，推进人工智能数据中心光互联技术发展。（新浪财经）",
-    "collected_at": "2026-05-12T14:33:38.028071"
   }
 ]

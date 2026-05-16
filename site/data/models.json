@@ -5503,6 +5503,29 @@
     "collected_at": "2026-05-15T03:43:44.062325"
   },
   {
+    "id": "hf-internlm--Intern-S2-Preview",
+    "name": "internlm/Intern-S2-Preview",
+    "display_name": "Intern-S2-Preview",
+    "url": "https://huggingface.co/internlm/Intern-S2-Preview",
+    "author": "internlm",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 44,
+    "downloads": 11,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "intern_s2_preview",
+      "image-text-to-text",
+      "conversational",
+      "custom_code",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-15T03:49:25.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-16T03:28:20.134489"
+  },
+  {
     "id": "hf-lordx64--Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
     "name": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
     "display_name": "Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
@@ -23452,33 +23475,5 @@
     "created_at": "2026-04-26T18:51:11.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638229"
-  },
-  {
-    "id": "hf-predtr--gitspectre-qwen3-8b-gguf",
-    "name": "predtr/gitspectre-qwen3-8b-gguf",
-    "display_name": "gitspectre-qwen3-8b-gguf",
-    "url": "https://huggingface.co/predtr/gitspectre-qwen3-8b-gguf",
-    "author": "predtr",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "qwen3",
-      "text-generation",
-      "conversational",
-      "arxiv:2309.00071",
-      "arxiv:2505.09388",
-      "base_model:Qwen/Qwen3-8B-Base",
-      "base_model:finetune:Qwen/Qwen3-8B-Base",
-      "license:apache-2.0",
-      "text-generation-inference",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:51:10.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638232"
   }
 ]
