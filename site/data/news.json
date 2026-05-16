@@ -12,6 +12,78 @@
     "collected_at": "2026-05-16T03:28:10.521452"
   },
   {
+    "id": "06ac1055a45e",
+    "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+    "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-16T08:01:59",
+    "summary": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
+    "collected_at": "2026-05-16T08:10:22.982773"
+  },
+  {
+    "id": "1e09c8d6318e",
+    "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
+    "url": "https://www.qbitai.com/2026/05/418594.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-16T06:52:14",
+    "summary": "奥特曼的20亿持股版图也曝光了",
+    "collected_at": "2026-05-16T08:07:54.808570"
+  },
+  {
+    "id": "dfd3e2f2013a",
+    "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+    "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-16T07:29:15",
+    "summary": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下人工智能编码代理 ChatGPT、Codex 以及面向开发者的 API 整合到一个核心产品团队中。（鞭牛士）",
+    "collected_at": "2026-05-16T08:10:22.982843"
+  },
+  {
+    "id": "ec8304fb7a9c",
+    "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+    "url": "https://www.qbitai.com/2026/05/418491.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-16T04:49:15",
+    "summary": "阿里健康发布「氢离子」",
+    "collected_at": "2026-05-16T08:07:54.808696"
+  },
+  {
+    "id": "7570be3cd08f",
+    "title": "[AINews] Cerebras' $60B IPO: Slowly, then All at Once",
+    "url": "https://www.latent.space/p/ainews-cerebras-60b-ipo-slowly-then",
+    "source": "Latent Space",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-16T04:36:50",
+    "summary": "Congrats Big Chip!",
+    "collected_at": "2026-05-16T08:10:18.718261"
+  },
+  {
+    "id": "0a1bf7f364df",
+    "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
+    "url": "https://arxiv.org/abs/2605.13848",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.13848v1 Announce Type: new Abstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated fr",
+    "collected_at": "2026-05-16T08:10:16.731242"
+  },
+  {
     "id": "5cab39a13485",
     "title": "上海电信率先发布Token资费套餐：1元对应25万额度点 支持手机账单付",
     "url": "https://36kr.com/newsflashes/3811348121100035?f=rss",
@@ -24,16 +96,16 @@
     "collected_at": "2026-05-16T03:28:08.825517"
   },
   {
-    "id": "9c8aa558adfd",
-    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-    "source": "MIT Tech Review",
+    "id": "2114f62a66f0",
+    "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
+    "url": "https://arxiv.org/abs/2605.13849",
+    "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-15T23:39:35",
-    "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w",
-    "collected_at": "2026-05-16T03:27:59.415759"
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.13849v1 Announce Type: new Abstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations have two persistent limitations: continuous variables produce impractical fractional servings (1.7",
+    "collected_at": "2026-05-16T08:10:16.731376"
   },
   {
     "id": "5a01af2cc186",
@@ -48,16 +120,16 @@
     "collected_at": "2026-05-16T03:28:08.825599"
   },
   {
-    "id": "3ae6721de06e",
-    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-    "source": "The Verge AI",
+    "id": "3d77c5784679",
+    "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+    "url": "https://arxiv.org/abs/2605.13850",
+    "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T22:25:00",
-    "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there",
-    "collected_at": "2026-05-16T03:27:59.276032"
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.13850v1 Announce Type: new Abstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive functio",
+    "collected_at": "2026-05-16T08:10:16.731458"
   },
   {
     "id": "f9457a7a7ca9",
@@ -72,6 +144,66 @@
     "collected_at": "2026-05-16T03:28:08.824030"
   },
   {
+    "id": "ba2fa0aa3256",
+    "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+    "url": "https://arxiv.org/abs/2605.13851",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.13851v1 Announce Type: new Abstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically test",
+    "collected_at": "2026-05-16T08:10:16.731549"
+  },
+  {
+    "id": "9c8aa558adfd",
+    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T23:39:35",
+    "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w",
+    "collected_at": "2026-05-16T03:27:59.415759"
+  },
+  {
+    "id": "1dc362a9d868",
+    "title": "PREPING: Building Agent Memory without Tasks",
+    "url": "https://arxiv.org/abs/2605.13880",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.13880v1 Announce Type: new Abstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of how it is built, an agent faces a cold-start gap when first introduced to a new environment without any",
+    "collected_at": "2026-05-16T08:10:16.731637"
+  },
+  {
+    "id": "3ae6721de06e",
+    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T22:25:00",
+    "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there",
+    "collected_at": "2026-05-16T03:27:59.276032"
+  },
+  {
+    "id": "0f907bb3cf5d",
+    "title": "PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts",
+    "url": "https://arxiv.org/abs/2605.14002",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14002v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) embedded in agentic frameworks have transformed information retrieval from static, long context question answering into open-ended exploration. Yet real world use requires models to discover and synthesize \"long-tail\" fact",
+    "collected_at": "2026-05-16T08:10:16.731698"
+  },
+  {
     "id": "00097bc0707b",
     "title": "ArXiv will ban researchers who upload papers full of AI slop",
     "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
@@ -82,6 +214,18 @@
     "published": "2026-05-15T20:38:19",
     "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" l",
     "collected_at": "2026-05-16T03:27:59.276080"
+  },
+  {
+    "id": "405858471b8c",
+    "title": "Conditional Attribute Estimation with Autoregressive Sequence Models",
+    "url": "https://arxiv.org/abs/2605.14004",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14004v1 Announce Type: new Abstract: Generative models are often trained with a next-token prediction objective, yet many downstream applications require the ability to estimate or control sequence-level properties. Next-token prediction can lead to overfitting of local patterns during tr",
+    "collected_at": "2026-05-16T08:10:16.731774"
   },
   {
     "id": "0fa3fe113173",
@@ -96,6 +240,18 @@
     "collected_at": "2026-05-16T03:28:00.320078"
   },
   {
+    "id": "4b56508adb0a",
+    "title": "Sheaf-Theoretic Transport and Obstruction for Detecting Scientific Theory Shift in AI Agents",
+    "url": "https://arxiv.org/abs/2605.14033",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14033v1 Announce Type: new Abstract: Scientific theory shift in AI agents requires more than fitting equations to data. An artificial scientific agent must detect whether an existing representational framework remains transportable into a new regime, or whether its language has become loc",
+    "collected_at": "2026-05-16T08:10:16.731873"
+  },
+  {
     "id": "2a9cfc82264a",
     "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
     "url": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
@@ -106,6 +262,18 @@
     "published": "2026-05-15T20:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-15T14:14:49.253805"
+  },
+  {
+    "id": "79e4e17344db",
+    "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
+    "url": "https://arxiv.org/abs/2605.14034",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14034v1 Announce Type: new Abstract: Wide applications of LLM-based agents require strong alignment with human social values. However, current works still exhibit deficiencies in self-cognition and dilemma decision, as well as self-emotions. To remedy this, we propose a novel value-based",
+    "collected_at": "2026-05-16T08:10:16.731936"
   },
   {
     "id": "f87ad16de1e1",
@@ -120,6 +288,18 @@
     "collected_at": "2026-05-15T19:44:21.737459"
   },
   {
+    "id": "eff865e5f6c4",
+    "title": "Enhanced and Efficient Reasoning in Large Learning Models",
+    "url": "https://arxiv.org/abs/2605.14036",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14036v1 Announce Type: new Abstract: In current Large Language Models we can trust the production of smoothly flowing prose on the basis of the principles of machine learning. However, there is no comparably principled basis to justify trust in the content of the text produced. It appears",
+    "collected_at": "2026-05-16T08:10:16.732048"
+  },
+  {
     "id": "17910095770d",
     "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
     "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
@@ -130,6 +310,18 @@
     "published": "2026-05-15T18:21:35",
     "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the compa",
     "collected_at": "2026-05-15T19:44:21.842289"
+  },
+  {
+    "id": "70966ac3fb40",
+    "title": "Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use",
+    "url": "https://arxiv.org/abs/2605.14038",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14038v1 Announce Type: new Abstract: Large language models (LLMs) increasingly act as autonomous agents that must decide when to answer directly vs. when to invoke external tools. Prior work studying adaptive tool use has largely treated tool necessity as a model-agnostic property, annota",
+    "collected_at": "2026-05-16T08:10:16.732139"
   },
   {
     "id": "a26f9d02bb21",
@@ -144,6 +336,18 @@
     "collected_at": "2026-05-15T19:44:28.734981"
   },
   {
+    "id": "c1a2ef776211",
+    "title": "Network-Aware Bilinear Tokenization for Brain Functional Connectivity Representation Learning",
+    "url": "https://arxiv.org/abs/2605.14048",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14048v1 Announce Type: new Abstract: Masked autoencoders (MAEs) have recently shown promise for self-supervised representation learning of resting-state brain functional connectivity (FC). However, a fundamental question remains unresolved: how should FC matrices be tokenized to align wit",
+    "collected_at": "2026-05-16T08:10:16.732228"
+  },
+  {
     "id": "fbdbbdaad4a0",
     "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
     "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
@@ -154,6 +358,18 @@
     "published": "2026-05-15T18:14:44",
     "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
     "collected_at": "2026-05-15T19:44:21.737521"
+  },
+  {
+    "id": "7d54ac255003",
+    "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
+    "url": "https://arxiv.org/abs/2605.14049",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14049v1 Announce Type: new Abstract: The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-s",
+    "collected_at": "2026-05-16T08:10:16.732290"
   },
   {
     "id": "575b666f03ea",
@@ -168,16 +384,16 @@
     "collected_at": "2026-05-15T14:14:49.253917"
   },
   {
-    "id": "7442d3b30e2b",
-    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-    "source": "The Verge AI",
+    "id": "f3e7755fb674",
+    "title": "SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks",
+    "url": "https://arxiv.org/abs/2605.14051",
+    "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T17:09:16",
-    "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Goog",
-    "collected_at": "2026-05-15T19:44:21.842360"
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14051v1 Announce Type: new Abstract: Industrial LLM agent systems often separate planning from execution, yet LLM planners frequently produce structurally invalid or unnecessarily long workflows, leading to brittle failures and avoidable tool and API cost. We propose \\texttt{SPIN}, a plan",
+    "collected_at": "2026-05-16T08:10:16.732350"
   },
   {
     "id": "1ce5929e9bd5",
@@ -192,6 +408,42 @@
     "collected_at": "2026-05-15T14:14:49.253947"
   },
   {
+    "id": "e6fd29184a37",
+    "title": "Bad Seeing or Bad Thinking? Rewarding Perception for Vision-Language Reasoning",
+    "url": "https://arxiv.org/abs/2605.14054",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14054v1 Announce Type: new Abstract: Achieving robust perception-reasoning synergy is a central goal for advanced Vision-Language Models (VLMs). Recent advancements have pursued this goal via architectural designs or agentic workflows. However, these approaches are often limited by static",
+    "collected_at": "2026-05-16T08:10:16.732442"
+  },
+  {
+    "id": "7442d3b30e2b",
+    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T17:09:16",
+    "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Goog",
+    "collected_at": "2026-05-15T19:44:21.842360"
+  },
+  {
+    "id": "84ef27296c47",
+    "title": "MathAtlas: A Benchmark for Autoformalization in the Wild",
+    "url": "https://arxiv.org/abs/2605.14061",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14061v1 Announce Type: new Abstract: Current autoformalization benchmarks are largely focused on olympiad or undergraduate mathematics, while graduate and research-level mathematics remains underexplored. In this paper, we introduce MathAtlas, the first large-scale autoformalization bench",
+    "collected_at": "2026-05-16T08:10:16.732509"
+  },
+  {
     "id": "1aedd077cf70",
     "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
     "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
@@ -202,6 +454,18 @@
     "published": "2026-05-15T16:42:59",
     "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search sys",
     "collected_at": "2026-05-15T19:44:21.842515"
+  },
+  {
+    "id": "9f716bee380e",
+    "title": "Know When To Fold 'Em: Token-Efficient LLM Synthetic Data Generation via Multi-Stage In-Flight Rejection",
+    "url": "https://arxiv.org/abs/2605.14062",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14062v1 Announce Type: new Abstract: While synthetic data generation with large language models (LLMs) is widely used in post-training pipelines, existing approaches typically generate full outputs before applying quality filters, leading to substantial token waste on samples that are ult",
+    "collected_at": "2026-05-16T08:10:16.732588"
   },
   {
     "id": "ba162ec2cb94",
@@ -216,6 +480,18 @@
     "collected_at": "2026-05-15T19:44:21.737554"
   },
   {
+    "id": "72caf2f44a5d",
+    "title": "SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration",
+    "url": "https://arxiv.org/abs/2605.14089",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14089v1 Announce Type: new Abstract: In recent years, a variety of powerful LLM-based agentic systems have been applied to automate complex tasks through task orchestration. However, existing orchestration methods still face key challenges, including strategy collapse under reward maximiz",
+    "collected_at": "2026-05-16T08:10:16.732667"
+  },
+  {
     "id": "cb95e9e2d628",
     "title": "OpenAI now wants ChatGPT to access your bank accounts",
     "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
@@ -228,6 +504,18 @@
     "collected_at": "2026-05-15T19:44:21.842557"
   },
   {
+    "id": "0ebac97b03f0",
+    "title": "ChromaFlow: A Negative Ablation Study of Orchestration Overhead in Tool-Augmented Agent Evaluation",
+    "url": "https://arxiv.org/abs/2605.14102",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14102v1 Announce Type: new Abstract: Autonomous language-model agents increasingly combine planning, tool use, document processing, browsing, code execution, and verification loops. These capabilities make agent systems more useful, but they also introduce operational failure modes that a",
+    "collected_at": "2026-05-16T08:10:16.732739"
+  },
+  {
     "id": "91ef357f0757",
     "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
     "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
@@ -238,6 +526,18 @@
     "published": "2026-05-15T14:00:00",
     "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
     "collected_at": "2026-05-15T14:14:31.372541"
+  },
+  {
+    "id": "26fc7354aaf7",
+    "title": "Modeling Bounded Rationality in Drug Shortage Pharmacists Using Attention-Guided Dynamic Decomposition",
+    "url": "https://arxiv.org/abs/2605.14111",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T04:00:00",
+    "summary": "arXiv:2605.14111v1 Announce Type: new Abstract: Hospital pharmacists make high-stakes decisions to mitigate drug shortages under uncertainty, time pressure, and patient risk. Interviews revealed that pharmacists focus attention on a small subset of drugs, limiting cognitive effort to the most urgent",
+    "collected_at": "2026-05-16T08:10:16.732801"
   },
   {
     "id": "523bcca09f68",
@@ -840,16 +1140,16 @@
     "collected_at": "2026-05-15T08:54:27.893217"
   },
   {
-    "id": "a9fefbfb76c6",
-    "title": "Not so locked in any more",
-    "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
-    "source": "Simon Willison",
+    "id": "ca8d7bccf4af",
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T22:53:49",
-    "summary": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week. I was talking to someone who worked for a medium sized technology company with a pair of legacy/legendary iPhone and Android apps. They told me they had just comp",
-    "collected_at": "2026-05-15T03:43:29.871744"
+    "priority": 1,
+    "published": "2026-05-15T00:00:00",
+    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "collected_at": "2026-05-16T08:10:14.365359"
   },
   {
     "id": "2888defc35f9",
@@ -864,16 +1164,16 @@
     "collected_at": "2026-05-15T08:54:27.893286"
   },
   {
-    "id": "fe3a9184c5bb",
-    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-    "source": "Hacker News AI",
+    "id": "d93b94d20e7f",
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T22:37:40",
-    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 146 # Comments: 66",
-    "collected_at": "2026-05-15T03:43:24.209714"
+    "priority": 1,
+    "published": "2026-05-15T00:00:00",
+    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+    "collected_at": "2026-05-16T08:10:14.365412"
   },
   {
     "id": "e10b57465116",
@@ -888,16 +1188,16 @@
     "collected_at": "2026-05-15T08:54:27.893361"
   },
   {
-    "id": "1d0c2f9f5af6",
-    "title": "Closing time",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
-    "source": "The Verge AI",
+    "id": "afc8cde3e2c8",
+    "title": "How data science teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T22:21:46",
-    "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk",
-    "collected_at": "2026-05-15T03:43:22.768829"
+    "published": "2026-05-15T00:00:00",
+    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "collected_at": "2026-05-16T08:10:14.365456"
   },
   {
     "id": "a7e4f7047a69",
@@ -912,16 +1212,16 @@
     "collected_at": "2026-05-15T08:54:27.893436"
   },
   {
-    "id": "3ac29ae699ea",
-    "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Janie Lee & Chai Asawa, Abridge",
-    "url": "https://www.latent.space/p/abridge",
-    "source": "Latent Space",
+    "id": "a9fefbfb76c6",
+    "title": "Not so locked in any more",
+    "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T22:05:31",
-    "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare",
-    "collected_at": "2026-05-15T03:43:30.425993"
+    "priority": 2,
+    "published": "2026-05-14T22:53:49",
+    "summary": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week. I was talking to someone who worked for a medium sized technology company with a pair of legacy/legendary iPhone and Android apps. They told me they had just comp",
+    "collected_at": "2026-05-15T03:43:29.871744"
   },
   {
     "id": "d92a6e95c367",
@@ -936,16 +1236,16 @@
     "collected_at": "2026-05-15T08:54:27.893530"
   },
   {
-    "id": "a798c83d7c0e",
-    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "source": "TechCrunch AI",
+    "id": "fe3a9184c5bb",
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T21:30:44",
-    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-    "collected_at": "2026-05-15T03:43:22.545769"
+    "priority": 2,
+    "published": "2026-05-14T22:37:40",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 146 # Comments: 66",
+    "collected_at": "2026-05-15T03:43:24.209714"
   },
   {
     "id": "644562cb99ec",
@@ -960,16 +1260,16 @@
     "collected_at": "2026-05-15T08:54:27.893597"
   },
   {
-    "id": "173612216323",
-    "title": "Behold, the Elon Musk jackass trophy",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+    "id": "1d0c2f9f5af6",
+    "title": "Closing time",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T20:59:23",
-    "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI emp",
-    "collected_at": "2026-05-15T03:43:22.768873"
+    "published": "2026-05-14T22:21:46",
+    "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk",
+    "collected_at": "2026-05-15T03:43:22.768829"
   },
   {
     "id": "1ec64437947d",
@@ -984,16 +1284,16 @@
     "collected_at": "2026-05-15T08:54:27.893678"
   },
   {
-    "id": "5cc6e708b103",
-    "title": "OpenAI says Codex is coming to your phone",
-    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "source": "TechCrunch AI",
+    "id": "3ac29ae699ea",
+    "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Janie Lee & Chai Asawa, Abridge",
+    "url": "https://www.latent.space/p/abridge",
+    "source": "Latent Space",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-14T20:58:55",
-    "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
-    "collected_at": "2026-05-15T03:43:22.545803"
+    "published": "2026-05-14T22:05:31",
+    "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare",
+    "collected_at": "2026-05-15T03:43:30.425993"
   },
   {
     "id": "eac121f7380b",
@@ -1006,6 +1306,42 @@
     "published": "2026-05-15T04:00:00",
     "summary": "arXiv:2605.14063v1 Announce Type: new Abstract: Continual test-time adaptation (CTTA) updates a pretrained model online on an unlabeled, non-stationary stream while anchoring it to a frozen source checkpoint. This anchor is useful only when the source remains reliable. On CCC-Hard, however, a ResNet",
     "collected_at": "2026-05-15T08:54:27.893750"
+  },
+  {
+    "id": "a798c83d7c0e",
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T21:30:44",
+    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+    "collected_at": "2026-05-15T03:43:22.545769"
+  },
+  {
+    "id": "173612216323",
+    "title": "Behold, the Elon Musk jackass trophy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T20:59:23",
+    "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI emp",
+    "collected_at": "2026-05-15T03:43:22.768873"
+  },
+  {
+    "id": "5cc6e708b103",
+    "title": "OpenAI says Codex is coming to your phone",
+    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-14T20:58:55",
+    "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+    "collected_at": "2026-05-15T03:43:22.545803"
   },
   {
     "id": "73eb815ab647",
@@ -3262,341 +3598,5 @@
     "published": "2026-05-13T04:00:00",
     "summary": "arXiv:2605.11009v1 Announce Type: new Abstract: Long-horizon, sparse-reward tasks pose a fundamental challenge for reinforcement learning, since single-step TD learning suffers from bootstrapping error accumulation across successive Bellman updates. Actor-critic methods with action chunking address",
     "collected_at": "2026-05-13T08:50:06.943116"
-  },
-  {
-    "id": "7c45c777bdea",
-    "title": "爱思唯尔把Meta告了：拿Sci-Hub盗版论文训练大模型",
-    "url": "https://www.qbitai.com/2026/05/416576.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-13T03:10:53",
-    "summary": "多方原告组团上阵",
-    "collected_at": "2026-05-13T08:47:46.994188"
-  },
-  {
-    "id": "ead40cb8530a",
-    "title": "百度慧播星升级为百度一镜",
-    "url": "https://36kr.com/newsflashes/3807141936881157?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-13T03:05:02",
-    "summary": "36氪获悉，在5月13日举办的Create2026百度AI开发者大会上，百度创始人李彦宏宣布，百度慧播星升级为“百度一镜”。从主要应用于直播带货场景的数字人，升级为以数字人为特色，包含直播、视频、实时互动等多形态的“全场景数字人平台”，并可生成几分钟乃至数小时的高互动内容。",
-    "collected_at": "2026-05-13T03:41:28.740936"
-  },
-  {
-    "id": "37abf4beae4e",
-    "title": "[AINews] The End of Finetuning",
-    "url": "https://www.latent.space/p/ainews-the-end-of-finetuning",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-13T02:47:22",
-    "summary": "a quiet day lets us reflect on whither finetuning",
-    "collected_at": "2026-05-13T03:41:25.174820"
-  },
-  {
-    "id": "5c1135fb5cf4",
-    "title": "Robo.ai宣布任命阿联酋科技高管出任新并购AI数据处理公司Neurovia首席技术官",
-    "url": "https://36kr.com/newsflashes/3807128790474500?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-13T02:51:40",
-    "summary": "5月13日消息，阿联酋纳斯达克上市公司Robo.ai Inc.宣布，其新近收购的子公司Neurovia AI董事会已正式任命Mansoor Ali Khan担任首席技术官。Mansoor将全面领导专有边缘处理与数据压缩技术的研发，并统筹推进相关产品在AI产业领域客户中的适配与应用落地。（界面）",
-    "collected_at": "2026-05-13T03:41:28.740973"
-  },
-  {
-    "id": "c2e346c511a5",
-    "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
-    "url": "https://www.qbitai.com/2026/05/416628.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-13T01:23:32",
-    "summary": "顶级CV大佬也来卷LLM？",
-    "collected_at": "2026-05-13T03:38:45.267399"
-  },
-  {
-    "id": "64b6496592c2",
-    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-13T00:26:48",
-    "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-    "collected_at": "2026-05-13T03:40:59.615291"
-  },
-  {
-    "id": "bfb6acaa5417",
-    "title": "8点1氪丨宇树发布载人变形机甲，定价390万起；微信确认不会开发已读、访客功能；国内航线燃油附加费将再上调",
-    "url": "https://36kr.com/p/3806970999955201?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-13T00:11:51",
-    "summary": "今日热点导览 中央网信办：平台发布短视频必选6类标签 抖音集团短剧版权中心：2026年真人短剧的保底扶持预算超15亿元 快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段 网易云音乐全面接入DeepSeek-V4 阿里发布AI店小蜜，平均询单转化提升超10% TOP3大新闻 宇树科技发布GD01载人变形机甲，投资人回应 5月12日，宇树发布GD01载人变形机甲GD01，定价390万元起。宇树创始人王兴兴亲自登上机甲驾驶舱，并演示了一段真人操作。根据官方介绍，该产品为全球首款量产版载人机甲，可以变形，民用交通工具，体重约500kg（载人后）。宇树早期投资人赵楠表示：宇树",
-    "collected_at": "2026-05-13T03:41:28.739932"
-  },
-  {
-    "id": "36596d388e4b",
-    "title": "Google 提前给 Android 办了场发布会，但主角依然不是 Android",
-    "url": "https://sspai.com/post/109699",
-    "source": "少数派",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-13T00:10:38",
-    "summary": "2025年，Google第一次提前将Android部分从I/O大会的Keynote开幕演讲环节中拆了出来。彼时AI领域已是风云诡谲，作为曾经靠GoogleAssistant和AIFirst战略引领时代 ...查看全文",
-    "collected_at": "2026-05-13T03:41:35.304027"
-  },
-  {
-    "id": "7e8d14b05daf",
-    "title": "Our response to the TanStack npm supply chain attack",
-    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-13T00:00:00",
-    "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def",
-    "collected_at": "2026-05-14T08:43:04.662102"
-  },
-  {
-    "id": "e4091f564972",
-    "title": "datasette 1.0a29",
-    "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T23:41:06",
-    "summary": "Release: datasette 1.0a29 New TokenRestrictions.abbreviated(datasette) utility method for creating \"_r\" dictionaries. #2695 Table headers and column options are now visible even if a table contains zero rows. #2701 Fixed bug with display of column actions dialog on Mobile Safari. #2708 Fixed bug whe",
-    "collected_at": "2026-05-13T03:41:24.727594"
-  },
-  {
-    "id": "eed543b4bdb5",
-    "title": "Meta won’t let you block its AI account on Threads",
-    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T20:35:23",
-    "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any time looking at replies on X as of late, this new feature sounds a lot like Meta's take on people [&#82",
-    "collected_at": "2026-05-13T03:40:59.677930"
-  },
-  {
-    "id": "f38a35887e00",
-    "title": "Quoting Mitchell Hashimoto",
-    "url": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T22:21:51",
-    "summary": "The thing about 90% of TDMs [Technical Decision Makers] is that they're motivated primarily by NOT GETTING FIRED. These aren't people who browser Lobsters or push to GH on the weekend. These are people that work 9 to 5, get paid, go home, and NEVER THINK ABOUT WORK AGAIN. So to achieve all that, the",
-    "collected_at": "2026-05-13T03:41:24.727748"
-  },
-  {
-    "id": "3b6f4d8c1c71",
-    "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
-    "url": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-12T20:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-12T14:33:39.132952"
-  },
-  {
-    "id": "000a74bed36f",
-    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T18:05:15",
-    "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
-    "collected_at": "2026-05-12T19:58:57.409420"
-  },
-  {
-    "id": "bace7b0892c8",
-    "title": "llm 0.32a2",
-    "url": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T17:45:07",
-    "summary": "Release: llm 0.32a2 A bunch of useful stuff in this LLM alpha, but the most important detail is this one: Most reasoning-capable OpenAI models now use the /v1/responses endpoint instead of /v1/chat/completions. This enables interleaved reasoning across tool calls for GPT-5 class models. #1435 This m",
-    "collected_at": "2026-05-13T03:41:24.727800"
-  },
-  {
-    "id": "29342363910c",
-    "title": "Reimagining the mouse pointer for the AI era",
-    "url": "https://deepmind.google/blog/ai-pointer/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-12T17:40:13",
-    "summary": "Article URL: https://deepmind.google/blog/ai-pointer/ Comments URL: https://news.ycombinator.com/item?id=48111581 Points: 160 # Comments: 132",
-    "collected_at": "2026-05-13T03:41:16.268769"
-  },
-  {
-    "id": "0e25700c8ad5",
-    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-    "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T17:36:34",
-    "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
-    "collected_at": "2026-05-12T19:58:57.409464"
-  },
-  {
-    "id": "61896b729c5e",
-    "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T17:34:09",
-    "summary": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their accomplishments and \"tak",
-    "collected_at": "2026-05-12T19:58:57.472418"
-  },
-  {
-    "id": "4d7daab98acd",
-    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T17:30:57",
-    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-    "collected_at": "2026-05-12T19:58:57.409498"
-  },
-  {
-    "id": "7b99025294e5",
-    "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
-    "url": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-12T17:02:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-12T14:33:39.133038"
-  },
-  {
-    "id": "21c7329d0e60",
-    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-    "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T17:01:00",
-    "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
-    "collected_at": "2026-05-12T19:58:57.409533"
-  },
-  {
-    "id": "a35f27f13865",
-    "title": "The 9 biggest new features in Android 17",
-    "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T17:00:00",
-    "summary": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates too, from an emoji overhaul to a new screentime tool that helps you avoid distracting apps. Google ha",
-    "collected_at": "2026-05-12T19:58:57.472466"
-  },
-  {
-    "id": "a7d4706ba05a",
-    "title": "Google brings agentic AI and vibe-coded widgets to Android",
-    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T17:00:00",
-    "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
-    "collected_at": "2026-05-12T19:58:57.409562"
-  },
-  {
-    "id": "382a6257bf68",
-    "title": "Gemini&#8217;s latest updates are all about controlling your phone",
-    "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T17:00:00",
-    "summary": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more places, like Chrome on Android, in your autofill suggestions, and all up in your apps - if you want.",
-    "collected_at": "2026-05-12T19:58:57.472507"
-  },
-  {
-    "id": "c17e0830ca0b",
-    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-    "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T17:00:00",
-    "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
-    "collected_at": "2026-05-12T19:58:57.409686"
-  },
-  {
-    "id": "47481ed2b12a",
-    "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T16:30:33",
-    "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege ChatGPT \"encouraged\" the teen to \"consume a combination of substances that any licensed medical prof",
-    "collected_at": "2026-05-12T19:58:57.472549"
-  },
-  {
-    "id": "45e7e76da78d",
-    "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
-    "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T17:00:00",
-    "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
-    "collected_at": "2026-05-12T19:58:57.409719"
-  },
-  {
-    "id": "96fbba7e01c0",
-    "title": "Threads tests a Meta AI integration that works similarly to Grok",
-    "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-12T16:34:36",
-    "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
-    "collected_at": "2026-05-12T19:58:57.409751"
   }
 ]

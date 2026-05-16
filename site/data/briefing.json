@@ -1,14 +1,15 @@
 {
   "date": "2026-05-16",
-  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 36氪, MIT Tech Review, The Verge AI, Hacker News AI, TechCrunch AI, AI Alignment Forum",
+  "content": "今日共收录 20 条 AI 新闻，主要来源：InfoQ AI, 36氪, 量子位, Latent Space, ArXiv CS.AI, MIT Tech Review, The Verge AI, Hacker News AI",
   "news_count": 20,
   "sources": {
-    "InfoQ AI": 4,
-    "36氪": 3,
+    "InfoQ AI": 1,
+    "36氪": 5,
+    "量子位": 2,
+    "Latent Space": 1,
+    "ArXiv CS.AI": 7,
     "MIT Tech Review": 1,
-    "The Verge AI": 6,
-    "Hacker News AI": 1,
-    "TechCrunch AI": 4,
-    "AI Alignment Forum": 1
+    "The Verge AI": 2,
+    "Hacker News AI": 1
   }
 }
