@@ -1,5 +1,53 @@
 [
   {
+    "id": "f04b5b1c9763",
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-16T18:54:28",
+    "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+    "collected_at": "2026-05-16T19:12:11.023222"
+  },
+  {
+    "id": "a667f385c15c",
+    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+    "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-16T15:37:05",
+    "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it wil",
+    "collected_at": "2026-05-16T19:12:11.250033"
+  },
+  {
+    "id": "85331331526c",
+    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-16T15:33:33",
+    "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+    "collected_at": "2026-05-16T19:12:11.023263"
+  },
+  {
+    "id": "7f1dddbf9c49",
+    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+    "url": "https://www.seangoedecke.com/steering-vectors/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T14:58:16",
+    "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 133 # Comments: 52",
+    "collected_at": "2026-05-16T19:12:15.777446"
+  },
+  {
     "id": "9e9dd2ae8494",
     "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
     "url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
@@ -10,6 +58,18 @@
     "published": "2026-05-16T10:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-16T03:28:10.521452"
+  },
+  {
+    "id": "071ba7bf1560",
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T09:14:26",
+    "summary": "Article URL: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/ Comments URL: https://news.ycombinator.com/item?id=48158400 Points: 286 # Comments: 186",
+    "collected_at": "2026-05-16T19:12:15.777488"
   },
   {
     "id": "dd8ed0b4ffe4",
@@ -3538,65 +3598,5 @@
     "published": "2026-05-13T04:00:00",
     "summary": "arXiv:2605.11359v1 Announce Type: new Abstract: Scientific data processing often requires task-specific algorithms or AI models, creating a barrier for domain scientists who need to analyze their data but may not have extensive computing or image-processing expertise. This barrier is especially pron",
     "collected_at": "2026-05-13T08:50:06.532390"
-  },
-  {
-    "id": "d13c6469167b",
-    "title": "Finite Volume-Informed Neural Network Framework for 2D Shallow Water Equations: Rugged Loss Landscapes and the Importance of Data Guidance",
-    "url": "https://arxiv.org/abs/2605.11001",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11001v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) are a simple surrogate-modelling paradigm for partial differential equations, but their standard strong-form residual formulation is ill suited to the shallow water equations (SWE). It cannot enforce local conse",
-    "collected_at": "2026-05-13T08:50:06.942836"
-  },
-  {
-    "id": "5fd46060bc97",
-    "title": "Causal Bias Detection in Generative Artifical Intelligence",
-    "url": "https://arxiv.org/abs/2605.11365",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11365v1 Announce Type: new Abstract: Automated systems built on artificial intelligence (AI) are increasingly deployed across high-stakes domains, raising critical concerns about fairness and the perpetuation of demographic disparities that exist in the world. In this context, causal infe",
-    "collected_at": "2026-05-13T08:50:06.532474"
-  },
-  {
-    "id": "fb2038e5357d",
-    "title": "DisagMoE: Computation-Communication overlapped MoE Training via Disaggregated AF-Pipe Parallelism",
-    "url": "https://arxiv.org/abs/2605.11005",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11005v1 Announce Type: new Abstract: Mixture-of-experts (MoE) architectures enable trillion-parameter LLMs with sparsely activated experts. Expert parallelism (EP) is a widely adopted MoE training strategy, but it suffers from severe all-to-all communication bottlenecks, which is exaggera",
-    "collected_at": "2026-05-13T08:50:06.942901"
-  },
-  {
-    "id": "2eae96aabca1",
-    "title": "Causal Algorithmic Recourse: Foundations and Methods",
-    "url": "https://arxiv.org/abs/2605.11373",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11373v1 Announce Type: new Abstract: The trustworthiness of AI decision-making systems is increasingly important. A key feature of such systems is the ability to provide recommendations for how an individual may reverse a negative decision, a problem known as algorithmic recourse. Existin",
-    "collected_at": "2026-05-13T08:50:06.532542"
-  },
-  {
-    "id": "cd9f6f2e9761",
-    "title": "RT-Transformer: The Transformer Block as a Spherical State Estimator",
-    "url": "https://arxiv.org/abs/2605.11007",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11007v1 Announce Type: new Abstract: We show that the core components of the Transformer block -- attention, residual connections, and normalization -- arise naturally from a single geometric estimation problem. Modeling the latent state as a direction on the hypersphere, with noise defin",
-    "collected_at": "2026-05-13T08:50:06.942954"
   }
 ]
