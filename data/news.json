@@ -12,6 +12,30 @@
     "collected_at": "2026-05-16T03:28:10.521452"
   },
   {
+    "id": "dd8ed0b4ffe4",
+    "title": "阿里健康正式发布医学AI助手“氢离子”",
+    "url": "https://36kr.com/newsflashes/3811712103423746?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-16T08:34:03",
+    "summary": "36氪获悉，近日，阿里健康正式发布医学AI助手“氢离子”，同时宣布与英国BMJ集团达成独家合作。据了解，BMJ旗下70本医学期刊过去十年的内容资源接入氢离子，这是国际顶级期刊首次与中国AI平台达成此类合作。氢离子聚焦循证医学，采用四层架构：PICO+GRADE结构化理解、检索增强、模型微调、专家评审闭环。超300位中国临床专家参与共建评价标准，黄晓军、肖瑞平、于金明等10位顶级专家把关学术方向。",
+    "collected_at": "2026-05-16T13:29:43.345990"
+  },
+  {
+    "id": "8c47a5370e73",
+    "title": "Frontier AI has broken the open CTF format",
+    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T07:01:55",
+    "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 208 # Comments: 173",
+    "collected_at": "2026-05-16T13:29:30.877220"
+  },
+  {
     "id": "06ac1055a45e",
     "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
     "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
@@ -156,16 +180,16 @@
     "collected_at": "2026-05-16T08:10:16.731549"
   },
   {
-    "id": "9c8aa558adfd",
-    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-    "source": "MIT Tech Review",
+    "id": "b9939c2fea26",
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-15T23:39:35",
-    "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w",
-    "collected_at": "2026-05-16T03:27:59.415759"
+    "priority": 1,
+    "published": "2026-05-16T00:00:00",
+    "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "collected_at": "2026-05-16T13:29:32.620082"
   },
   {
     "id": "1dc362a9d868",
@@ -180,16 +204,16 @@
     "collected_at": "2026-05-16T08:10:16.731637"
   },
   {
-    "id": "3ae6721de06e",
-    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-    "source": "The Verge AI",
+    "id": "9c8aa558adfd",
+    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T22:25:00",
-    "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there",
-    "collected_at": "2026-05-16T03:27:59.276032"
+    "priority": 2,
+    "published": "2026-05-15T23:39:35",
+    "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w",
+    "collected_at": "2026-05-16T03:27:59.415759"
   },
   {
     "id": "0f907bb3cf5d",
@@ -204,16 +228,16 @@
     "collected_at": "2026-05-16T08:10:16.731698"
   },
   {
-    "id": "00097bc0707b",
-    "title": "ArXiv will ban researchers who upload papers full of AI slop",
-    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "id": "3ae6721de06e",
+    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-15T20:38:19",
-    "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" l",
-    "collected_at": "2026-05-16T03:27:59.276080"
+    "published": "2026-05-15T22:25:00",
+    "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there",
+    "collected_at": "2026-05-16T03:27:59.276032"
   },
   {
     "id": "405858471b8c",
@@ -228,16 +252,16 @@
     "collected_at": "2026-05-16T08:10:16.731774"
   },
   {
-    "id": "0fa3fe113173",
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "source": "Hacker News AI",
+    "id": "00097bc0707b",
+    "title": "ArXiv will ban researchers who upload papers full of AI slop",
+    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-15T20:26:47",
-    "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 920 # Comments: 390",
-    "collected_at": "2026-05-16T03:28:00.320078"
+    "priority": 1,
+    "published": "2026-05-15T20:38:19",
+    "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" l",
+    "collected_at": "2026-05-16T03:27:59.276080"
   },
   {
     "id": "4b56508adb0a",
@@ -252,16 +276,16 @@
     "collected_at": "2026-05-16T08:10:16.731873"
   },
   {
-    "id": "2a9cfc82264a",
-    "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
-    "url": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-15T20:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-15T14:14:49.253805"
+    "id": "0fa3fe113173",
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-15T20:26:47",
+    "summary": "https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 920 # Comments: 390",
+    "collected_at": "2026-05-16T03:28:00.320078"
   },
   {
     "id": "79e4e17344db",
@@ -276,16 +300,16 @@
     "collected_at": "2026-05-16T08:10:16.731936"
   },
   {
-    "id": "f87ad16de1e1",
-    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-    "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T19:24:16",
-    "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generati",
-    "collected_at": "2026-05-15T19:44:21.737459"
+    "id": "2a9cfc82264a",
+    "title": "Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟",
+    "url": "https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-15T20:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-15T14:14:49.253805"
   },
   {
     "id": "eff865e5f6c4",
@@ -300,16 +324,16 @@
     "collected_at": "2026-05-16T08:10:16.732048"
   },
   {
-    "id": "17910095770d",
-    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-    "source": "The Verge AI",
+    "id": "f87ad16de1e1",
+    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-15T18:21:35",
-    "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the compa",
-    "collected_at": "2026-05-15T19:44:21.842289"
+    "published": "2026-05-15T19:24:16",
+    "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generati",
+    "collected_at": "2026-05-15T19:44:21.737459"
   },
   {
     "id": "70966ac3fb40",
@@ -324,16 +348,16 @@
     "collected_at": "2026-05-16T08:10:16.732139"
   },
   {
-    "id": "a26f9d02bb21",
-    "title": "Risk reports need to address deployment-time spread of misalignment",
-    "url": "https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of",
-    "source": "AI Alignment Forum",
+    "id": "17910095770d",
+    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
-    "priority": 3,
-    "published": "2026-05-15T18:20:21",
-    "summary": "Risk reports commonly use pre-deployment alignment assessments to measure misalignment risk from an internally deployed AI. However, an AI that genuinely starts out with largely benign motivations can develop widespread dangerous motivations during deployment. I think this is the most plausible rout",
-    "collected_at": "2026-05-15T19:44:28.734981"
+    "priority": 1,
+    "published": "2026-05-15T18:21:35",
+    "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the compa",
+    "collected_at": "2026-05-15T19:44:21.842289"
   },
   {
     "id": "c1a2ef776211",
@@ -348,16 +372,16 @@
     "collected_at": "2026-05-16T08:10:16.732228"
   },
   {
-    "id": "fbdbbdaad4a0",
-    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-    "source": "TechCrunch AI",
+    "id": "a26f9d02bb21",
+    "title": "Risk reports need to address deployment-time spread of misalignment",
+    "url": "https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of",
+    "source": "AI Alignment Forum",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T18:14:44",
-    "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-    "collected_at": "2026-05-15T19:44:21.737521"
+    "priority": 3,
+    "published": "2026-05-15T18:20:21",
+    "summary": "Risk reports commonly use pre-deployment alignment assessments to measure misalignment risk from an internally deployed AI. However, an AI that genuinely starts out with largely benign motivations can develop widespread dangerous motivations during deployment. I think this is the most plausible rout",
+    "collected_at": "2026-05-15T19:44:28.734981"
   },
   {
     "id": "7d54ac255003",
@@ -372,16 +396,16 @@
     "collected_at": "2026-05-16T08:10:16.732290"
   },
   {
-    "id": "575b666f03ea",
-    "title": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
-    "url": "https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-15T17:42:45",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-15T14:14:49.253917"
+    "id": "fbdbbdaad4a0",
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T18:14:44",
+    "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+    "collected_at": "2026-05-15T19:44:21.737521"
   },
   {
     "id": "f3e7755fb674",
@@ -396,16 +420,16 @@
     "collected_at": "2026-05-16T08:10:16.732350"
   },
   {
-    "id": "1ce5929e9bd5",
-    "title": "当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
-    "url": "https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&utm_medium=article",
+    "id": "575b666f03ea",
+    "title": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+    "url": "https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-05-15T17:15:43",
+    "published": "2026-05-15T17:42:45",
     "summary": "点击查看原文>",
-    "collected_at": "2026-05-15T14:14:49.253947"
+    "collected_at": "2026-05-15T14:14:49.253917"
   },
   {
     "id": "e6fd29184a37",
@@ -420,16 +444,16 @@
     "collected_at": "2026-05-16T08:10:16.732442"
   },
   {
-    "id": "7442d3b30e2b",
-    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T17:09:16",
-    "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Goog",
-    "collected_at": "2026-05-15T19:44:21.842360"
+    "id": "1ce5929e9bd5",
+    "title": "当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？",
+    "url": "https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-15T17:15:43",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-15T14:14:49.253947"
   },
   {
     "id": "84ef27296c47",
@@ -444,16 +468,16 @@
     "collected_at": "2026-05-16T08:10:16.732509"
   },
   {
-    "id": "1aedd077cf70",
-    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "id": "7442d3b30e2b",
+    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
     "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-15T16:42:59",
-    "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search sys",
-    "collected_at": "2026-05-15T19:44:21.842515"
+    "published": "2026-05-15T17:09:16",
+    "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Goog",
+    "collected_at": "2026-05-15T19:44:21.842360"
   },
   {
     "id": "9f716bee380e",
@@ -468,16 +492,16 @@
     "collected_at": "2026-05-16T08:10:16.732588"
   },
   {
-    "id": "ba162ec2cb94",
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "source": "TechCrunch AI",
+    "id": "1aedd077cf70",
+    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-15T16:00:00",
-    "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-    "collected_at": "2026-05-15T19:44:21.737554"
+    "published": "2026-05-15T16:42:59",
+    "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search sys",
+    "collected_at": "2026-05-15T19:44:21.842515"
   },
   {
     "id": "72caf2f44a5d",
@@ -492,16 +516,16 @@
     "collected_at": "2026-05-16T08:10:16.732667"
   },
   {
-    "id": "cb95e9e2d628",
-    "title": "OpenAI now wants ChatGPT to access your bank accounts",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-    "source": "The Verge AI",
+    "id": "ba162ec2cb94",
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
     "published": "2026-05-15T16:00:00",
-    "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutio",
-    "collected_at": "2026-05-15T19:44:21.842557"
+    "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "collected_at": "2026-05-15T19:44:21.737554"
   },
   {
     "id": "0ebac97b03f0",
@@ -516,16 +540,16 @@
     "collected_at": "2026-05-16T08:10:16.732739"
   },
   {
-    "id": "91ef357f0757",
-    "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
-    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "source": "TechCrunch AI",
+    "id": "cb95e9e2d628",
+    "title": "OpenAI now wants ChatGPT to access your bank accounts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-15T14:00:00",
-    "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-    "collected_at": "2026-05-15T14:14:31.372541"
+    "published": "2026-05-15T16:00:00",
+    "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutio",
+    "collected_at": "2026-05-15T19:44:21.842557"
   },
   {
     "id": "26fc7354aaf7",
@@ -538,6 +562,18 @@
     "published": "2026-05-16T04:00:00",
     "summary": "arXiv:2605.14111v1 Announce Type: new Abstract: Hospital pharmacists make high-stakes decisions to mitigate drug shortages under uncertainty, time pressure, and patient risk. Interviews revealed that pharmacists focus attention on a small subset of drugs, limiting cognitive effort to the most urgent",
     "collected_at": "2026-05-16T08:10:16.732801"
+  },
+  {
+    "id": "91ef357f0757",
+    "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-15T14:00:00",
+    "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+    "collected_at": "2026-05-15T14:14:31.372541"
   },
   {
     "id": "523bcca09f68",
@@ -2544,16 +2580,16 @@
     "collected_at": "2026-05-14T03:40:05.047903"
   },
   {
-    "id": "cd106930f232",
-    "title": "从「自我进化」到「DAA」，百度给出 Agent 时代系统答案",
-    "url": "https://www.infoq.cn/article/aaLabGa4T7z5m1UBiJ2O?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-13T18:58:26",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-13T14:42:43.781682"
+    "id": "eed543b4bdb5",
+    "title": "Meta won't let you block its AI account on Threads",
+    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-13T20:22:21",
+    "summary": "Article URL: https://www.theverge.com/tech/929091/meta-ai-threads-account-block Comments URL: https://news.ycombinator.com/item?id=48126981 Points: 193 # Comments: 82",
+    "collected_at": "2026-05-16T13:29:30.877512"
   },
   {
     "id": "29058bb3c4c1",
@@ -2568,16 +2604,16 @@
     "collected_at": "2026-05-13T20:00:50.917086"
   },
   {
-    "id": "110d107a61de",
-    "title": "AI chatbots are giving out people’s real phone numbers",
-    "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T18:09:03",
-    "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawy",
-    "collected_at": "2026-05-13T20:00:51.153760"
+    "id": "cd106930f232",
+    "title": "从「自我进化」到「DAA」，百度给出 Agent 时代系统答案",
+    "url": "https://www.infoq.cn/article/aaLabGa4T7z5m1UBiJ2O?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-13T18:58:26",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-13T14:42:43.781682"
   },
   {
     "id": "b5a2360916db",
@@ -2590,6 +2626,18 @@
     "published": "2026-05-13T19:28:06",
     "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
     "collected_at": "2026-05-13T20:00:50.917140"
+  },
+  {
+    "id": "110d107a61de",
+    "title": "AI chatbots are giving out people’s real phone numbers",
+    "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-13T18:09:03",
+    "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.&#160; A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawy",
+    "collected_at": "2026-05-13T20:00:51.153760"
   },
   {
     "id": "9af207ae3217",
@@ -3550,53 +3598,5 @@
     "published": "2026-05-13T04:00:00",
     "summary": "arXiv:2605.11007v1 Announce Type: new Abstract: We show that the core components of the Transformer block -- attention, residual connections, and normalization -- arise naturally from a single geometric estimation problem. Modeling the latent state as a direction on the hypersphere, with noise defin",
     "collected_at": "2026-05-13T08:50:06.942954"
-  },
-  {
-    "id": "63f0ba9c1d9c",
-    "title": "LLM-X: A Scalable Negotiation-Oriented Exchange for Communication Among Personal LLM Agents",
-    "url": "https://arxiv.org/abs/2605.11376",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11376v1 Announce Type: new Abstract: We propose a personal-LLM exchange (LLM-X), a scalable negotiation-oriented environment that enables direct, structured communication across populations of personal agents (LLMs), each representing an individual user. Unlike existing tool-centric proto",
-    "collected_at": "2026-05-13T08:50:06.532608"
-  },
-  {
-    "id": "d9d27d3cfdfb",
-    "title": "When and How to Canonize: A Generalization Perspective",
-    "url": "https://arxiv.org/abs/2605.11008",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11008v1 Announce Type: new Abstract: While invariant architectures are standard for processing symmetric data, there is growing interest in achieving invariance by applying group averaging or canonization to non-invariant backbones. However, the theoretical generalization properties of th",
-    "collected_at": "2026-05-13T08:50:06.943029"
-  },
-  {
-    "id": "6e90bf3fbb08",
-    "title": "奥特曼趁马斯克出差爆猛料：他曾想让子女继承OpenAI",
-    "url": "https://www.qbitai.com/2026/05/416739.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-13T03:38:46",
-    "summary": "奥特曼曝这老些瓜",
-    "collected_at": "2026-05-13T08:47:46.994160"
-  },
-  {
-    "id": "e8b370541f4a",
-    "title": "ACSAC: Adaptive Chunk Size Actor-Critic with Causal Transformer Q-Network",
-    "url": "https://arxiv.org/abs/2605.11009",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11009v1 Announce Type: new Abstract: Long-horizon, sparse-reward tasks pose a fundamental challenge for reinforcement learning, since single-step TD learning suffers from bootstrapping error accumulation across successive Bellman updates. Actor-critic methods with action chunking address",
-    "collected_at": "2026-05-13T08:50:06.943116"
   }
 ]

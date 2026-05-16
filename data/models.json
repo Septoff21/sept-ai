@@ -8233,6 +8233,38 @@
     "collected_at": "2026-05-09T19:08:45.761385"
   },
   {
+    "id": "hf-JonasGeiping--stream-qwen3.5-27b",
+    "name": "JonasGeiping/stream-qwen3.5-27b",
+    "display_name": "stream-qwen3.5-27b",
+    "url": "https://huggingface.co/JonasGeiping/stream-qwen3.5-27b",
+    "author": "JonasGeiping",
+    "pipeline_tag": "text-generation",
+    "likes": 14,
+    "downloads": 478,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5_text",
+      "text-generation",
+      "stream-llm",
+      "multi-stream",
+      "parallel-cognition",
+      "monitorability",
+      "qwen3.5",
+      "deltanet",
+      "custom_code",
+      "en",
+      "dataset:JonasGeiping/stream-data",
+      "base_model:Qwen/Qwen3.5-27B",
+      "base_model:finetune:Qwen/Qwen3.5-27B",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-12T19:39:58.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-16T13:29:52.713176"
+  },
+  {
     "id": "hf-John6666--nova-furry-xl-il-v120-sdxl",
     "name": "John6666/nova-furry-xl-il-v120-sdxl",
     "display_name": "nova-furry-xl-il-v120-sdxl",
@@ -8404,6 +8436,22 @@
     "created_at": "2026-04-30T19:21:35.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-30T19:31:30.489655"
+  },
+  {
+    "id": "hf-Abiray--ZAYA1-8B-GGUF-Quants",
+    "name": "Abiray/ZAYA1-8B-GGUF-Quants",
+    "display_name": "ZAYA1-8B-GGUF-Quants",
+    "url": "https://huggingface.co/Abiray/ZAYA1-8B-GGUF-Quants",
+    "author": "Abiray",
+    "pipeline_tag": "",
+    "likes": 2,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-16T13:23:12.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-16T13:29:52.568705"
   },
   {
     "id": "hf-crynux-network--stable-diffusion-v1-5",
@@ -9104,6 +9152,37 @@
     "created_at": "2026-05-16T08:08:42.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-16T08:10:32.405785"
+  },
+  {
+    "id": "hf-viskoplatform--VEFX-Reward-32B",
+    "name": "viskoplatform/VEFX-Reward-32B",
+    "display_name": "VEFX-Reward-32B",
+    "url": "https://huggingface.co/viskoplatform/VEFX-Reward-32B",
+    "author": "viskoplatform",
+    "pipeline_tag": "video-classification",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_vl",
+      "video",
+      "video-editing",
+      "reward-model",
+      "vlm",
+      "qwen3-vl",
+      "video-classification",
+      "en",
+      "arxiv:2604.16272",
+      "base_model:Qwen/Qwen3-VL-32B-Instruct",
+      "base_model:finetune:Qwen/Qwen3-VL-32B-Instruct",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-16T13:23:49.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-16T13:29:52.568702"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23429,63 +23508,5 @@
     "created_at": "2026-04-26T18:52:58.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638214"
-  },
-  {
-    "id": "hf-Quacky369--CyberRealisticPony",
-    "name": "Quacky369/CyberRealisticPony",
-    "display_name": "CyberRealisticPony",
-    "url": "https://huggingface.co/Quacky369/CyberRealisticPony",
-    "author": "Quacky369",
-    "pipeline_tag": "text-to-image",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "diffusers",
-      "stable-diffusion",
-      "sdxl",
-      "text-to-image",
-      "photorealistic",
-      "cyberrealistic",
-      "pony",
-      "image-generation",
-      "license:creativeml-openrail-m",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:52:23.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638217"
-  },
-  {
-    "id": "hf-canon-chiu--Social_Media_Analysis",
-    "name": "canon-chiu/Social_Media_Analysis",
-    "display_name": "Social_Media_Analysis",
-    "url": "https://huggingface.co/canon-chiu/Social_Media_Analysis",
-    "author": "canon-chiu",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:mit",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:52:02.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638220"
-  },
-  {
-    "id": "hf-ryaluous--Altruistic_Tax1317507",
-    "name": "ryaluous/Altruistic_Tax1317507",
-    "display_name": "Altruistic_Tax1317507",
-    "url": "https://huggingface.co/ryaluous/Altruistic_Tax1317507",
-    "author": "ryaluous",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:51:26.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638223"
   }
 ]
