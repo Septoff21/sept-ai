@@ -1,5 +1,53 @@
 [
   {
+    "id": "f452a7809d53",
+    "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+    "url": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-17T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-17T03:42:45.369697"
+  },
+  {
+    "id": "6fcfaaeddfa1",
+    "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+    "url": "https://36kr.com/newsflashes/3812703324249856?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-17T03:42:18",
+    "summary": "美国人工智能（AI）公司OpenAI周六表示，已与马耳他政府签署协议，所有居民在完成使用AI培训课程后，均可免费使用其ChatGPT Plus服务一年。该项目将于5月启动，随着更多马耳他居民完成这门免费课程，服务规模预计将逐步扩大。该计划也将向旅居海外的马耳他公民开放。（新浪财经）",
+    "collected_at": "2026-05-17T03:42:43.612122"
+  },
+  {
+    "id": "859b70ce116b",
+    "title": "The haves and have nots of the AI gold rush",
+    "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-16T20:17:16",
+    "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+    "collected_at": "2026-05-17T03:42:33.365069"
+  },
+  {
+    "id": "244fd9123555",
+    "title": "美光科技：深耕中国市场，期待进一步深化与本土客户及合作伙伴合作",
+    "url": "https://36kr.com/newsflashes/3812702147600131?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-17T02:54:05",
+    "summary": "36氪获悉，5月17日凌晨，美光科技通过其微信公众号发文表示，中国仍是全球最具活力的半导体市场之一。过去20余年来，美光深耕中国市场，与本土客户及合作伙伴携手，推动存储技术持续创新与发展。中国仍是美光全球业务的重要组成部分。美光期待进一步深化与本土客户及合作伙伴的合作，共同把握AI时代存储技术带来的新机遇。",
+    "collected_at": "2026-05-17T03:42:43.612255"
+  },
+  {
     "id": "f04b5b1c9763",
     "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
     "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
@@ -10,6 +58,30 @@
     "published": "2026-05-16T18:54:28",
     "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
     "collected_at": "2026-05-16T19:12:11.023222"
+  },
+  {
+    "id": "5edd3dc9e620",
+    "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
+    "url": "https://36kr.com/p/3812788568907520?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-17T02:50:05",
+    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。 绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。 绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技术合伙人刘煜东为宾夕法尼亚大学博士，长期从事AI医疗方向研究；另一位技术合伙人邓子豪毕业于宾夕法尼亚大学，专注于新一代",
+    "collected_at": "2026-05-17T03:42:43.610782"
+  },
+  {
+    "id": "39288f18c175",
+    "title": "US is starting to see heavy job losses in roles exposed to AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-16T17:59:45",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 146 # Comments: 234",
+    "collected_at": "2026-05-17T03:42:34.693976"
   },
   {
     "id": "a667f385c15c",
@@ -46,6 +118,18 @@
     "published": "2026-05-16T14:58:16",
     "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 133 # Comments: 52",
     "collected_at": "2026-05-16T19:12:15.777446"
+  },
+  {
+    "id": "9d1fbed3acb9",
+    "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+    "url": "https://www.qbitai.com/2026/05/418620.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-16T13:44:16",
+    "summary": "5月19日至20日，带上你的需求。带上你的方案，我们在亦庄，不见不散。",
+    "collected_at": "2026-05-17T03:40:17.142370"
   },
   {
     "id": "9e9dd2ae8494",
@@ -3514,89 +3598,5 @@
     "published": "2026-05-13T04:00:00",
     "summary": "arXiv:2605.10988v1 Announce Type: new Abstract: Log anomaly detection is a critical task for system operations and security assurance. However, in networked systems at scale, log data are generated at massive scale while instance-level annotations are prohibitively expensive, posing great difficulti",
     "collected_at": "2026-05-13T08:50:06.942527"
-  },
-  {
-    "id": "f67b5b05f548",
-    "title": "Constraint-Data-Value-Maximization: Utilizing Data Attribution for Effective Data Pruning in Low-Data Environments",
-    "url": "https://arxiv.org/abs/2605.11312",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11312v1 Announce Type: new Abstract: Attributing model behavior to training data is an evolving research field. A common benchmark is data removal, which involves eliminating data instances with either low or high values, then assessing a model's performance trained on the modified datase",
-    "collected_at": "2026-05-13T08:50:06.532157"
-  },
-  {
-    "id": "4f18504f97de",
-    "title": "SURGE: Surrogate Gradient Adaptation in Binary Neural Networks",
-    "url": "https://arxiv.org/abs/2605.10989",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10989v1 Announce Type: new Abstract: The training of Binary Neural Networks (BNNs) is fundamentally based on gradient approximation for non-differentiable binarization operations (e.g., sign function). However, prevailing methods including the Straight-Through Estimator (STE) and its impr",
-    "collected_at": "2026-05-13T08:50:06.942594"
-  },
-  {
-    "id": "24ba46a7de09",
-    "title": "Rethinking Evaluation for LLM Hallucination Detection: A Desiderata, A New RAG-based Benchmark, New Insights",
-    "url": "https://arxiv.org/abs/2605.11330",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11330v1 Announce Type: new Abstract: Hallucination, broadly referring to unfaithful, fabricated, or inconsistent content generated by LLMs, has wide-ranging implications. Therefore, a large body of effort has been devoted to detecting LLM hallucinations, as well as designing benchmark dat",
-    "collected_at": "2026-05-13T08:50:06.532248"
-  },
-  {
-    "id": "68d19bf511e4",
-    "title": "Test-Time Personalization: A Diagnostic Framework and Probabilistic Fix for Scaling Failures",
-    "url": "https://arxiv.org/abs/2605.10991",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10991v1 Announce Type: new Abstract: Existing approaches to LLM personalization focus on constructing better personalized models or inputs, while treating inference as a single-shot process. In this work, we study Test-Time Personalization (TTP) along an unexplored axis: scaling inference",
-    "collected_at": "2026-05-13T08:50:06.942663"
-  },
-  {
-    "id": "a47d11709319",
-    "title": "CPEMH: An Agentic Framework for Prompt-Driven Behavior Evaluation and Assurance in Foundation-Model Systems for Mental Health Screening",
-    "url": "https://arxiv.org/abs/2605.11341",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11341v1 Announce Type: new Abstract: This paper presents CPEMH, an agentic framework designed to evaluate prompt-driven behavior in foundation-model systems operating on transcript-based datasets for mental-health screening. CPEMH serves as an engineering methodology for behavioral assura",
-    "collected_at": "2026-05-13T08:50:06.532318"
-  },
-  {
-    "id": "d96519c48858",
-    "title": "SkillGen: Verified Inference-Time Agent Skill Synthesis",
-    "url": "https://arxiv.org/abs/2605.10999",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10999v1 Announce Type: new Abstract: Skills are a promising way to improve LLM agent capabilities without retraining, while keeping the added procedure reusable and controllable. However, high-quality skills are still largely written by hand. We introduce SkillGen, a multi-agent framework",
-    "collected_at": "2026-05-13T08:50:06.942731"
-  },
-  {
-    "id": "2cc1dc85577b",
-    "title": "CVEvolve: Autonomous Algorithm Discovery for Unstructured Scientific Data Processing",
-    "url": "https://arxiv.org/abs/2605.11359",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11359v1 Announce Type: new Abstract: Scientific data processing often requires task-specific algorithms or AI models, creating a barrier for domain scientists who need to analyze their data but may not have extensive computing or image-processing expertise. This barrier is especially pron",
-    "collected_at": "2026-05-13T08:50:06.532390"
   }
 ]

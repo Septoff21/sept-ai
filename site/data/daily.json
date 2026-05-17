@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-05-16T19:13:21.021082",
-  "date": "2026-05-16",
+  "updated_at": "2026-05-17T03:43:38.452133",
+  "date": "2026-05-17",
   "spotlight": {
-    "name": "Codex (ChatGPT)",
-    "url": "https://chatgpt.com",
+    "name": "Devin",
+    "url": "https://devin.ai",
     "type": "agent",
-    "description": "OpenAI内置编程智能体，可在沙盒中执行代码",
-    "pricing": "ChatGPT Pro $200/月",
+    "description": "全球首个AI软件工程师，能独立完成编程任务",
+    "pricing": "$500/月",
     "category": "编程 Agent"
   },
   "alternates": [
     {
-      "name": "MemPalace",
-      "url": "https://github.com/MemPalace/mempalace",
+      "name": "OpenMythos",
+      "url": "https://github.com/kyegomez/OpenMythos",
       "type": "agent",
-      "description": "最强开源 AI 记忆系统，号称性能超越 Mem0 等方案，且完全免费开源",
+      "description": "Claude Mythos 架构的开源复现版，基于公开研究论文还原 Anthropic 最新模型设计",
       "pricing": "免费",
-      "category": "平台 Agent"
+      "category": "研究 Agent"
     },
     {
-      "id": "gamma",
-      "name": "Gamma",
-      "url": "https://gamma.app",
+      "id": "notebooklm",
+      "name": "NotebookLM",
+      "url": "https://notebooklm.google.com",
       "type": "tool",
-      "description": "AI 一键生成 PPT/演示文稿",
-      "pricing": "免费 + Plus $10/月",
+      "description": "Google 出品的 AI 笔记/知识管理工具",
+      "pricing": "免费",
       "category": "办公"
     },
     {
-      "name": "OpenCode",
-      "url": "https://github.com/opencode-ai/opencode",
+      "name": "Dify",
+      "url": "https://github.com/langgenius/dify",
       "type": "agent",
-      "description": "终端AI编码助手，支持多模型多Provider",
-      "pricing": "开源免费",
-      "category": "编程 Agent"
+      "description": "开源LLM应用开发平台，可视化构建AI Agent",
+      "pricing": "开源 + Cloud",
+      "category": "平台 Agent"
     }
   ]
 }
