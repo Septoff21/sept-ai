@@ -7856,6 +7856,58 @@
     "collected_at": "2026-05-11T19:54:06.710524"
   },
   {
+    "id": "hf-FINAL-Bench--Darwin-28B-REASON",
+    "name": "FINAL-Bench/Darwin-28B-REASON",
+    "display_name": "Darwin-28B-REASON",
+    "url": "https://huggingface.co/FINAL-Bench/Darwin-28B-REASON",
+    "author": "FINAL-Bench",
+    "pipeline_tag": "text-generation",
+    "likes": 18,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "image-text-to-text",
+      "darwin",
+      "darwin-reason",
+      "reasoning",
+      "advanced-reasoning",
+      "chain-of-thought",
+      "thinking",
+      "reasoning-trace-distillation",
+      "rtd",
+      "darwin-delphi",
+      "test-time-compute",
+      "qwen3.6",
+      "qwen",
+      "gpqa",
+      "benchmark",
+      "open-source",
+      "apache-2.0",
+      "proto-agi",
+      "vidraft",
+      "eval-results",
+      "text-generation",
+      "conversational",
+      "en",
+      "zh",
+      "ko",
+      "ja",
+      "multilingual",
+      "arxiv:2605.14386",
+      "base_model:FINAL-Bench/Darwin-28B-Opus",
+      "base_model:finetune:FINAL-Bench/Darwin-28B-Opus",
+      "license:apache-2.0",
+      "model-index",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-17T08:52:00.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-17T13:28:10.913989"
+  },
+  {
     "id": "hf-ibm-granite--granite-4.1-3b-base",
     "name": "ibm-granite/granite-4.1-3b-base",
     "display_name": "granite-4.1-3b-base",
@@ -9298,6 +9350,23 @@
     "created_at": "2026-05-16T13:23:49.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-16T13:29:52.568702"
+  },
+  {
+    "id": "hf-asigalov61--midichords",
+    "name": "asigalov61/midichords",
+    "display_name": "midichords",
+    "url": "https://huggingface.co/asigalov61/midichords",
+    "author": "asigalov61",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-17T13:25:02.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-17T13:28:10.775916"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23526,38 +23595,5 @@
     "created_at": "2026-04-26T18:59:01.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638197"
-  },
-  {
-    "id": "hf-thinhpt--so101_pi05_200_26042026",
-    "name": "thinhpt/so101_pi05_200_26042026",
-    "display_name": "so101_pi05_200_26042026",
-    "url": "https://huggingface.co/thinhpt/so101_pi05_200_26042026",
-    "author": "thinhpt",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:58:23.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638200"
-  },
-  {
-    "id": "hf-Paopaony555--Pao",
-    "name": "Paopaony555/Pao",
-    "display_name": "Pao",
-    "url": "https://huggingface.co/Paopaony555/Pao",
-    "author": "Paopaony555",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:58:16.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638203"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": "79f4caf2b75d",
+    "title": "Chatbots at the drive-thru are just the beginning",
+    "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-17T12:00:00",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's",
+    "collected_at": "2026-05-17T13:27:47.007234"
+  },
+  {
     "id": "f452a7809d53",
     "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
     "url": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
@@ -12,16 +24,28 @@
     "collected_at": "2026-05-17T03:42:45.369697"
   },
   {
-    "id": "14e4f1b0e8d4",
-    "title": "杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元",
-    "url": "https://36kr.com/newsflashes/3812949703073285?f=rss",
+    "id": "adb608fa70fe",
+    "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+    "url": "https://www.qbitai.com/2026/05/418836.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-17T08:55:21",
+    "summary": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+    "collected_at": "2026-05-17T13:25:33.959470"
+  },
+  {
+    "id": "9989a229e7e1",
+    "title": "中信证券：AI+能化可能是今年更合适的杠铃结构",
+    "url": "https://36kr.com/newsflashes/3813028969406216?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-17T07:12:55",
-    "summary": "5月14日至16日‌，2026第二届杭州国际人形机器人与机器人技术展览会在杭州举行。本次展会聚焦具身智能人形机器人产业链，汇聚国内外473家行业领军企业、顶尖科研机构参展，是国内规模领先的人形机器人全产业链专业展，人形机器人、核心零部件、脑机接口等前沿科技成果集中亮相。 据统计，为期三天的展览累计入场专业观众突破10万人次，其中海外专业观众3178人。现场达成56项重大合作签约，累计达成合作意向237项，意向合作总金额突破213亿元。（中新网）",
-    "collected_at": "2026-05-17T08:26:38.327725"
+    "published": "2026-05-17T08:45:26",
+    "summary": "36氪获悉，中信证券研报表示，AI+能化可能是今年更合适的杠铃结构。今年的AI+能化，或与2023-2024年的AI+红利、2025年的AI+资源类似，有望在全年维度上，成为主要的供需缺口和超额收益来源。配置上，底层逻辑依然是中国优势制造业定价权的重估，最具代表性的行业是新能源、化工、有色、电力设备；继续密切关注国产AI的进展，硬件侧“量”的逻辑爆发仍然是目前AI链条上预期差较大的方向，而国产模型的进步有望推动云服务量价齐升，看好国产算力、云平台。",
+    "collected_at": "2026-05-17T13:28:01.025965"
   },
   {
     "id": "2f840af1c966",
@@ -36,16 +60,16 @@
     "collected_at": "2026-05-17T08:24:04.036699"
   },
   {
-    "id": "d30c96493d9c",
-    "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
-    "url": "https://36kr.com/p/3812925591887368?f=rss",
+    "id": "14e4f1b0e8d4",
+    "title": "杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元",
+    "url": "https://36kr.com/newsflashes/3812949703073285?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-17T06:08:32",
-    "summary": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单——一个月130万美元！ 也就是将近900万人民币/每月。直接把网友们看傻了。 OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。 Peter Steinberger 但截图上的数字，属实不淡定： 30天花费：$1,305,088.81。吞掉6030亿个token。发起760万次请求。 你没看错，是130万美元。也不是哪家大厂的季度AI预算—",
-    "collected_at": "2026-05-17T08:26:38.326242"
+    "published": "2026-05-17T07:12:55",
+    "summary": "5月14日至16日‌，2026第二届杭州国际人形机器人与机器人技术展览会在杭州举行。本次展会聚焦具身智能人形机器人产业链，汇聚国内外473家行业领军企业、顶尖科研机构参展，是国内规模领先的人形机器人全产业链专业展，人形机器人、核心零部件、脑机接口等前沿科技成果集中亮相。 据统计，为期三天的展览累计入场专业观众突破10万人次，其中海外专业观众3178人。现场达成56项重大合作签约，累计达成合作意向237项，意向合作总金额突破213亿元。（中新网）",
+    "collected_at": "2026-05-17T08:26:38.327725"
   },
   {
     "id": "21b72b4f7541",
@@ -60,16 +84,16 @@
     "collected_at": "2026-05-17T08:24:04.036739"
   },
   {
-    "id": "01cc2ecaa4e0",
-    "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-    "url": "https://36kr.com/p/3812800346742274?f=rss",
+    "id": "d30c96493d9c",
+    "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+    "url": "https://36kr.com/p/3812925591887368?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-17T04:59:08",
-    "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。 academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。 academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢… 示意图 4个skill，跑通整套科研流程 AR",
-    "collected_at": "2026-05-17T08:26:38.326594"
+    "published": "2026-05-17T06:08:32",
+    "summary": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单——一个月130万美元！ 也就是将近900万人民币/每月。直接把网友们看傻了。 OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。 Peter Steinberger 但截图上的数字，属实不淡定： 30天花费：$1,305,088.81。吞掉6030亿个token。发起760万次请求。 你没看错，是130万美元。也不是哪家大厂的季度AI预算—",
+    "collected_at": "2026-05-17T08:26:38.326242"
   },
   {
     "id": "d16c1a4759b1",
@@ -84,16 +108,16 @@
     "collected_at": "2026-05-17T08:24:04.036773"
   },
   {
-    "id": "6fcfaaeddfa1",
-    "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-    "url": "https://36kr.com/newsflashes/3812703324249856?f=rss",
+    "id": "01cc2ecaa4e0",
+    "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+    "url": "https://36kr.com/p/3812800346742274?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-17T03:42:18",
-    "summary": "美国人工智能（AI）公司OpenAI周六表示，已与马耳他政府签署协议，所有居民在完成使用AI培训课程后，均可免费使用其ChatGPT Plus服务一年。该项目将于5月启动，随着更多马耳他居民完成这门免费课程，服务规模预计将逐步扩大。该计划也将向旅居海外的马耳他公民开放。（新浪财经）",
-    "collected_at": "2026-05-17T03:42:43.612122"
+    "published": "2026-05-17T04:59:08",
+    "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。 academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。 academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢… 示意图 4个skill，跑通整套科研流程 AR",
+    "collected_at": "2026-05-17T08:26:38.326594"
   },
   {
     "id": "859b70ce116b",
@@ -108,16 +132,16 @@
     "collected_at": "2026-05-17T03:42:33.365069"
   },
   {
-    "id": "244fd9123555",
-    "title": "美光科技：深耕中国市场，期待进一步深化与本土客户及合作伙伴合作",
-    "url": "https://36kr.com/newsflashes/3812702147600131?f=rss",
+    "id": "6fcfaaeddfa1",
+    "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+    "url": "https://36kr.com/newsflashes/3812703324249856?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-17T02:54:05",
-    "summary": "36氪获悉，5月17日凌晨，美光科技通过其微信公众号发文表示，中国仍是全球最具活力的半导体市场之一。过去20余年来，美光深耕中国市场，与本土客户及合作伙伴携手，推动存储技术持续创新与发展。中国仍是美光全球业务的重要组成部分。美光期待进一步深化与本土客户及合作伙伴的合作，共同把握AI时代存储技术带来的新机遇。",
-    "collected_at": "2026-05-17T03:42:43.612255"
+    "published": "2026-05-17T03:42:18",
+    "summary": "美国人工智能（AI）公司OpenAI周六表示，已与马耳他政府签署协议，所有居民在完成使用AI培训课程后，均可免费使用其ChatGPT Plus服务一年。该项目将于5月启动，随着更多马耳他居民完成这门免费课程，服务规模预计将逐步扩大。该计划也将向旅居海外的马耳他公民开放。（新浪财经）",
+    "collected_at": "2026-05-17T03:42:43.612122"
   },
   {
     "id": "f04b5b1c9763",
@@ -132,16 +156,16 @@
     "collected_at": "2026-05-16T19:12:11.023222"
   },
   {
-    "id": "5edd3dc9e620",
-    "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
-    "url": "https://36kr.com/p/3812788568907520?f=rss",
+    "id": "244fd9123555",
+    "title": "美光科技：深耕中国市场，期待进一步深化与本土客户及合作伙伴合作",
+    "url": "https://36kr.com/newsflashes/3812702147600131?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-17T02:50:05",
-    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。 绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。 绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技术合伙人刘煜东为宾夕法尼亚大学博士，长期从事AI医疗方向研究；另一位技术合伙人邓子豪毕业于宾夕法尼亚大学，专注于新一代",
-    "collected_at": "2026-05-17T03:42:43.610782"
+    "published": "2026-05-17T02:54:05",
+    "summary": "36氪获悉，5月17日凌晨，美光科技通过其微信公众号发文表示，中国仍是全球最具活力的半导体市场之一。过去20余年来，美光深耕中国市场，与本土客户及合作伙伴携手，推动存储技术持续创新与发展。中国仍是美光全球业务的重要组成部分。美光期待进一步深化与本土客户及合作伙伴的合作，共同把握AI时代存储技术带来的新机遇。",
+    "collected_at": "2026-05-17T03:42:43.612255"
   },
   {
     "id": "39288f18c175",
@@ -154,6 +178,18 @@
     "published": "2026-05-16T17:59:45",
     "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 146 # Comments: 234",
     "collected_at": "2026-05-17T03:42:34.693976"
+  },
+  {
+    "id": "5edd3dc9e620",
+    "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
+    "url": "https://36kr.com/p/3812788568907520?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-17T02:50:05",
+    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。 绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。 绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技术合伙人刘煜东为宾夕法尼亚大学博士，长期从事AI医疗方向研究；另一位技术合伙人邓子豪毕业于宾夕法尼亚大学，专注于新一代",
+    "collected_at": "2026-05-17T03:42:43.610782"
   },
   {
     "id": "a667f385c15c",
@@ -3562,41 +3598,5 @@
     "published": "2026-05-13T04:00:00",
     "summary": "arXiv:2605.11232v1 Announce Type: new Abstract: Fraud detection and anti-money-laundering (AML) compliance are high-value domains for large language models (LLMs), but their serving requirements differ sharply from generic chat workloads. Compliance prompts are often prefix-heavy, schema-constrained",
     "collected_at": "2026-05-13T08:50:06.531747"
-  },
-  {
-    "id": "649b2eb009dc",
-    "title": "$\\xi$-DPO: Direct Preference Optimization via Ratio Reward Margin",
-    "url": "https://arxiv.org/abs/2605.10981",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10981v1 Announce Type: new Abstract: Reference-free preference optimization has emerged as an efficient alternative to reinforcement learning from human feedback, with Simple Preference Optimization(SimPO) demonstrating strong performance by eliminating the explicit reference model throug",
-    "collected_at": "2026-05-13T08:50:06.942157"
-  },
-  {
-    "id": "19663ba170ef",
-    "title": "The Semantic Training Gap: Ontology-Grounded Tool Architectures for Industrial AI Agent Systems",
-    "url": "https://arxiv.org/abs/2605.11234",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11234v1 Announce Type: new Abstract: Large language model (LLM)-based AI agents are increasingly deployed in manufacturing environments for analytics, quality management, and decision support. These agents demonstrate statistical fluency with domain terminology but lack grounded understan",
-    "collected_at": "2026-05-13T08:50:06.531833"
-  },
-  {
-    "id": "b5eb62e9a42e",
-    "title": "TMPO: Trajectory Matching Policy Optimization for Diverse and Efficient Diffusion Alignment",
-    "url": "https://arxiv.org/abs/2605.10983",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10983v1 Announce Type: new Abstract: Reinforcement learning (RL) has shown extraordinary potential in aligning diffusion models to downstream tasks, yet most of them still suffer from significant reward hacking, which degrades generative diversity and quality by inducing visual mode colla",
-    "collected_at": "2026-05-13T08:50:06.942258"
   }
 ]

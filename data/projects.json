@@ -6076,6 +6076,26 @@
     "collected_at": "2026-05-17T03:42:50.554506"
   },
   {
+    "id": "github-1223234467",
+    "name": "dapooleygmailcom/gaiia-mcp-server",
+    "display_name": "gaiia-mcp-server",
+    "url": "https://github.com/dapooleygmailcom/gaiia-mcp-server",
+    "description": "API Interrogator to produce MCP, A2A and OpenAPI specifications, and audit/review codebases with Expert Proxies",
+    "stars": 6,
+    "forks": 0,
+    "language": "TypeScript",
+    "topics": [
+      "a2a-protocol",
+      "artificial-intelligence",
+      "mcp-server"
+    ],
+    "created_at": "2026-04-28T06:09:19Z",
+    "updated_at": "2026-05-13T04:55:20Z",
+    "license": "",
+    "source": "github-search",
+    "collected_at": "2026-05-17T13:28:07.102406"
+  },
+  {
     "id": "github-copilot",
     "name": "features/copilot",
     "display_name": "GitHub Copilot",
