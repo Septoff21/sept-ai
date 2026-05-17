@@ -4546,6 +4546,38 @@
     "collected_at": "2026-05-03T13:19:03.429923"
   },
   {
+    "id": "hf-HauhauCS--Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+    "name": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+    "display_name": "Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+    "url": "https://huggingface.co/HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+    "author": "HauhauCS",
+    "pipeline_tag": "image-text-to-text",
+    "likes": 50,
+    "downloads": 33588,
+    "tags": [
+      "gguf",
+      "uncensored",
+      "gemma4",
+      "moe",
+      "vision",
+      "multimodal",
+      "agentic",
+      "coding",
+      "image-text-to-text",
+      "en",
+      "base_model:google/gemma-4-26B-A4B-it",
+      "base_model:quantized:google/gemma-4-26B-A4B-it",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "imatrix",
+      "conversational"
+    ],
+    "created_at": "2026-05-14T16:24:48.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-17T19:15:36.346668"
+  },
+  {
     "id": "hf-kai-os--Carnice-V2-27b-GGUF",
     "name": "kai-os/Carnice-V2-27b-GGUF",
     "display_name": "Carnice-V2-27b-GGUF",
@@ -23579,21 +23611,5 @@
     "created_at": "2026-04-26T18:59:21.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638194"
-  },
-  {
-    "id": "hf-geocketa--ZXTOPOWER",
-    "name": "geocketa/ZXTOPOWER",
-    "display_name": "ZXTOPOWER",
-    "url": "https://huggingface.co/geocketa/ZXTOPOWER",
-    "author": "geocketa",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:59:01.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638197"
   }
 ]

@@ -1,5 +1,89 @@
 [
   {
+    "id": "5c90a84245fe",
+    "title": "Revamped Siri will reportedly offer auto-deleting chats",
+    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-17T18:40:28",
+    "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat",
+    "collected_at": "2026-05-17T19:15:04.177700"
+  },
+  {
+    "id": "f4e20e1053ea",
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-17T16:32:04",
+    "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+    "collected_at": "2026-05-17T19:15:04.106787"
+  },
+  {
+    "id": "73aa8f92605e",
+    "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-17T17:22:23",
+    "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p",
+    "collected_at": "2026-05-17T19:15:04.177792"
+  },
+  {
+    "id": "481cbcf6e999",
+    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+    "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-17T16:05:00",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "collected_at": "2026-05-17T19:15:04.106840"
+  },
+  {
+    "id": "f8ca7943477e",
+    "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
+    "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-17T15:59:41",
+    "summary": "GDS weighs in on the NHS&#x27;s decision to retreat from Open Source Terence Eden continues his coverage of the NHS' poorly considered decision to close down access to their open source repositories in response to vulnerabilities reported to them as part of Project Glasswing. Now the Government Digi",
+    "collected_at": "2026-05-17T19:15:22.743337"
+  },
+  {
+    "id": "ac0e5e086bd5",
+    "title": "一只机器狗，把英伟达的算力王座拱翻了",
+    "url": "https://www.qbitai.com/2026/05/418969.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-17T15:10:59",
+    "summary": "人造劳动力，离普通家庭还有多远？",
+    "collected_at": "2026-05-17T19:12:47.242700"
+  },
+  {
+    "id": "d7845d6d9bb6",
+    "title": "AI is a technology not a product",
+    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-17T13:11:20",
+    "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 206 # Comments: 74",
+    "collected_at": "2026-05-17T19:15:14.634807"
+  },
+  {
     "id": "79f4caf2b75d",
     "title": "Chatbots at the drive-thru are just the beginning",
     "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
@@ -12,6 +96,18 @@
     "collected_at": "2026-05-17T13:27:47.007234"
   },
   {
+    "id": "86722d9ad618",
+    "title": "I don't think AI will make your processes go faster",
+    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-17T12:13:45",
+    "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 375 # Comments: 280",
+    "collected_at": "2026-05-17T19:15:14.634852"
+  },
+  {
     "id": "f452a7809d53",
     "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
     "url": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
@@ -22,6 +118,18 @@
     "published": "2026-05-17T10:00:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-17T03:42:45.369697"
+  },
+  {
+    "id": "25dc97f9c05f",
+    "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+    "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-17T11:49:31",
+    "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 313 # Comments: 311",
+    "collected_at": "2026-05-17T19:15:14.634888"
   },
   {
     "id": "adb608fa70fe",
@@ -3490,113 +3598,5 @@
     "published": "2026-05-13T04:00:00",
     "summary": "arXiv:2605.10971v1 Announce Type: new Abstract: Discrete diffusion language models (DLMs) generate text by iteratively denoising all positions in parallel, offering an alternative to autoregressive models. Controlled generation methods for DLMs, imported from autoregressive models, apply uniform int",
     "collected_at": "2026-05-13T08:50:06.941754"
-  },
-  {
-    "id": "42460cdc17fb",
-    "title": "The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes",
-    "url": "https://arxiv.org/abs/2605.11182",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11182v1 Announce Type: new Abstract: On-policy distillation (OPD) and on-policy self-distillation (OPSD) have emerged as promising post-training methods for large language models, offering dense token-level supervision on trajectories sampled from the model's own policy. However, existing",
-    "collected_at": "2026-05-13T08:50:06.531435"
-  },
-  {
-    "id": "c38f4f198d39",
-    "title": "Rotation-Preserving Supervised Fine-Tuning",
-    "url": "https://arxiv.org/abs/2605.10973",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10973v1 Announce Type: new Abstract: Supervised fine-tuning (SFT) improves in-domain performance but can degrade out-of-domain (OOD) generalization. Prior work suggests that this degradation is related to changes in dominant singular subspaces of pretrained weight matrices. However, direc",
-    "collected_at": "2026-05-13T08:50:06.941815"
-  },
-  {
-    "id": "21b8904de534",
-    "title": "Don't Look at the Numbers: Visual Anchoring Bias and Layer-wise Representation in VLMs",
-    "url": "https://arxiv.org/abs/2605.11218",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11218v1 Announce Type: new Abstract: Embedded numeric anchors on images systematically bias Vision-Language Model quality judgments across six VLMs from five architectural families (ANOVA eta^2 = 0.18-0.77, all p < 0.001). Anchor effects are 2.5x larger than severe image quality degradati",
-    "collected_at": "2026-05-13T08:50:06.531520"
-  },
-  {
-    "id": "cd4e2ab90d5e",
-    "title": "Vertex-Softmax: Tight Transformer Verification via Exact Softmax Optimization",
-    "url": "https://arxiv.org/abs/2605.10974",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10974v1 Announce Type: new Abstract: Certified verification of transformer attention requires bounding the softmax function over interval constraints on the pre-softmax scores. Existing verifiers relax softmax ndependently of the downstream objective, leaving avoidable slack. We prove tha",
-    "collected_at": "2026-05-13T08:50:06.941883"
-  },
-  {
-    "id": "756fc63b6161",
-    "title": "Do Vision-Language-Models show human-like logical problem-solving capability in point and click puzzle games?",
-    "url": "https://arxiv.org/abs/2605.11223",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11223v1 Announce Type: new Abstract: Vision-Language(-Action) Models (VLMs) are increasingly applied to interactive environments, yet existing benchmarks often overlook the complex physical reasoning required for point-and-click puzzle games. This paper introduces Vision-Language Against",
-    "collected_at": "2026-05-13T08:50:06.531584"
-  },
-  {
-    "id": "782874237fa5",
-    "title": "Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation",
-    "url": "https://arxiv.org/abs/2605.10975",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10975v1 Announce Type: new Abstract: Graphs with heterophily, where adjacent nodes carry different labels, are prevalent in real-world applications, from social networks to molecular interactions. However, existing spectral Graph Neural Network (GNN) approaches tailored for heterophilous",
-    "collected_at": "2026-05-13T08:50:06.941955"
-  },
-  {
-    "id": "e0d57c1af1b2",
-    "title": "PIVOT: Bridging Planning and Execution in LLM Agents via Trajectory Refinement",
-    "url": "https://arxiv.org/abs/2605.11225",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11225v1 Announce Type: new Abstract: Large language model (LLM)-based agents frequently generate seemingly coherent plans that fail upon execution due to infeasible actions, constraint violations, and compounding errors over extended horizons. PIVOT (Plan-Inspect-eVOlve Trajectories) addr",
-    "collected_at": "2026-05-13T08:50:06.531661"
-  },
-  {
-    "id": "ba1d17f1559e",
-    "title": "LEAP: Unlocking dLLM Parallelism via Lookahead Early-Convergence Token Detection",
-    "url": "https://arxiv.org/abs/2605.10980",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10980v1 Announce Type: new Abstract: Diffusion Language Models (dLLMs) have garnered significant attention for their potential in highly parallel processing. The parallel capabilities of existing dLLMs stem from the assumption of conditional independence at high confidence levels, which e",
-    "collected_at": "2026-05-13T08:50:06.942031"
-  },
-  {
-    "id": "6d40aa2fe76d",
-    "title": "Rethinking LLMOps for Fraud and AML: Building a Compliance-Grade LLM Serving Stack",
-    "url": "https://arxiv.org/abs/2605.11232",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11232v1 Announce Type: new Abstract: Fraud detection and anti-money-laundering (AML) compliance are high-value domains for large language models (LLMs), but their serving requirements differ sharply from generic chat workloads. Compliance prompts are often prefix-heavy, schema-constrained",
-    "collected_at": "2026-05-13T08:50:06.531747"
   }
 ]
