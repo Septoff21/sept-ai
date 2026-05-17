@@ -12,6 +12,78 @@
     "collected_at": "2026-05-17T03:42:45.369697"
   },
   {
+    "id": "14e4f1b0e8d4",
+    "title": "杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元",
+    "url": "https://36kr.com/newsflashes/3812949703073285?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-17T07:12:55",
+    "summary": "5月14日至16日‌，2026第二届杭州国际人形机器人与机器人技术展览会在杭州举行。本次展会聚焦具身智能人形机器人产业链，汇聚国内外473家行业领军企业、顶尖科研机构参展，是国内规模领先的人形机器人全产业链专业展，人形机器人、核心零部件、脑机接口等前沿科技成果集中亮相。 据统计，为期三天的展览累计入场专业观众突破10万人次，其中海外专业观众3178人。现场达成56项重大合作签约，累计达成合作意向237项，意向合作总金额突破213亿元。（中新网）",
+    "collected_at": "2026-05-17T08:26:38.327725"
+  },
+  {
+    "id": "2f840af1c966",
+    "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
+    "url": "https://www.qbitai.com/2026/05/418822.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-17T04:48:24",
+    "summary": "“但复杂需求还得Claude”",
+    "collected_at": "2026-05-17T08:24:04.036699"
+  },
+  {
+    "id": "d30c96493d9c",
+    "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+    "url": "https://36kr.com/p/3812925591887368?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-17T06:08:32",
+    "summary": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单——一个月130万美元！ 也就是将近900万人民币/每月。直接把网友们看傻了。 OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。 Peter Steinberger 但截图上的数字，属实不淡定： 30天花费：$1,305,088.81。吞掉6030亿个token。发起760万次请求。 你没看错，是130万美元。也不是哪家大厂的季度AI预算—",
+    "collected_at": "2026-05-17T08:26:38.326242"
+  },
+  {
+    "id": "21b72b4f7541",
+    "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+    "url": "https://www.qbitai.com/2026/05/418814.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-17T03:42:11",
+    "summary": "先把SFT挖的坑填了！",
+    "collected_at": "2026-05-17T08:24:04.036739"
+  },
+  {
+    "id": "01cc2ecaa4e0",
+    "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+    "url": "https://36kr.com/p/3812800346742274?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-17T04:59:08",
+    "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。 academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。 academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢… 示意图 4个skill，跑通整套科研流程 AR",
+    "collected_at": "2026-05-17T08:26:38.326594"
+  },
+  {
+    "id": "d16c1a4759b1",
+    "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+    "url": "https://www.qbitai.com/2026/05/418737.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-17T03:37:07",
+    "summary": "费用参考也很透明",
+    "collected_at": "2026-05-17T08:24:04.036773"
+  },
+  {
     "id": "6fcfaaeddfa1",
     "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
     "url": "https://36kr.com/newsflashes/3812703324249856?f=rss",
@@ -3526,77 +3598,5 @@
     "published": "2026-05-13T04:00:00",
     "summary": "arXiv:2605.10983v1 Announce Type: new Abstract: Reinforcement learning (RL) has shown extraordinary potential in aligning diffusion models to downstream tasks, yet most of them still suffer from significant reward hacking, which degrades generative diversity and quality by inducing visual mode colla",
     "collected_at": "2026-05-13T08:50:06.942258"
-  },
-  {
-    "id": "c278241b977e",
-    "title": "Unlocking LLM Creativity in Science through Analogical Reasoning",
-    "url": "https://arxiv.org/abs/2605.11258",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11258v1 Announce Type: new Abstract: Autonomous science promises to augment scientific discovery, particularly in complex fields like biomedicine. However, this requires AI systems that can consistently generate novel and diverse solutions to open-ended problems. We evaluate LLMs on the t",
-    "collected_at": "2026-05-13T08:50:06.531911"
-  },
-  {
-    "id": "d6f606b19cee",
-    "title": "Structural Interpretations of Protein Language Model Representations via Differentiable Graph Partitioning",
-    "url": "https://arxiv.org/abs/2605.10985",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10985v1 Announce Type: new Abstract: Protein language models such as ESM-2 learn rich residue representations that achieve strong performance on protein function prediction, but their features remain difficult to interpret as structural $\\&$ evolutionary signals are encoded in dense laten",
-    "collected_at": "2026-05-13T08:50:06.942343"
-  },
-  {
-    "id": "dc64bdfc4b5e",
-    "title": "Template-as-Ontology: Configurable Synthetic Data Infrastructure for Cross-Domain Manufacturing AI Validation",
-    "url": "https://arxiv.org/abs/2605.11259",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11259v1 Announce Type: new Abstract: LLarge language model (LLM)-based AI agents deployed in manufacturing environments require populated, schema-correct data for validation, yet production MES data is proprietary, privacy-encumbered, and vendor-specific. This paper introduces the Templat",
-    "collected_at": "2026-05-13T08:50:06.531994"
-  },
-  {
-    "id": "971a88ec8db8",
-    "title": "AESOP: Adversarial Execution-path Selection to Overload Deep Learning Pipelines",
-    "url": "https://arxiv.org/abs/2605.10987",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10987v1 Announce Type: new Abstract: Modern machine learning deployments increasingly compose specialized models into dynamic inference pipelines, where upstream components produce intermediate predictions that determine the workload and inputs of downstream components. The cost of proces",
-    "collected_at": "2026-05-13T08:50:06.942434"
-  },
-  {
-    "id": "dc7e73cfaf93",
-    "title": "LatentRouter: Can We Choose the Right Multimodal Model Before Seeing Its Answer?",
-    "url": "https://arxiv.org/abs/2605.11301",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11301v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) have heterogeneous strengths across OCR, chart understanding, spatial reasoning, visual question answering, cost, and latency. Effective MLLM routing therefore requires more than estimating query difficulty: a r",
-    "collected_at": "2026-05-13T08:50:06.532095"
-  },
-  {
-    "id": "50538ed35417",
-    "title": "Seeing the Needle in the Haystack: Towards Weakly-Supervised Log Instance Anomaly Localization via Counterfactual Perturbation",
-    "url": "https://arxiv.org/abs/2605.10988",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10988v1 Announce Type: new Abstract: Log anomaly detection is a critical task for system operations and security assurance. However, in networked systems at scale, log data are generated at massive scale while instance-level annotations are prohibitively expensive, posing great difficulti",
-    "collected_at": "2026-05-13T08:50:06.942527"
   }
 ]
