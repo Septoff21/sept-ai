@@ -1,5 +1,65 @@
 [
   {
+    "id": "0add0cf70295",
+    "title": "Java新闻汇总：GraalVM、Spring AI、JobRunr、GlassFish、Grails、Groovy和Quarkus Agent MCP",
+    "url": "https://www.infoq.cn/article/lMqQqYKIxvjYR1EvE80d?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-18T11:01:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-18T03:57:38.391734"
+  },
+  {
+    "id": "e725584c994c",
+    "title": "上海市市长龚正：更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展",
+    "url": "https://36kr.com/newsflashes/3814225804451334?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-18T03:11:07",
+    "summary": "在“开局起步‘十五五’”上海专场新闻发布会上，上海市市长龚正提出，面向“十五五”，要深入推动科技创新、政府职能转变等改革有机衔接，持续推进资金跨境、国际人才引进等要素市场化配置关键环节攻坚突破，加快探索大宗商品贸易、高端航运服务等创新制度安排，更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展。特别是要用好浦东新区法规立法授权，以法治更好助力浦东大胆试、大胆闯、自主改。（财联社）",
+    "collected_at": "2026-05-18T03:57:37.056790"
+  },
+  {
+    "id": "3651d1340c7e",
+    "title": "从 Vibe Coding 到需求托管交付 Agent，菜鸟 AI 研发效能实践｜AICon上海",
+    "url": "https://www.infoq.cn/article/PrTG5MYs9cj38FclfCPl?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-18T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-18T03:57:38.391816"
+  },
+  {
+    "id": "6bc4cac2dae6",
+    "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
+    "url": "https://sspai.com/post/109870",
+    "source": "少数派",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-17T22:56:55",
+    "summary": "提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年OpenAI 与苹果关系紧张，或考虑诉讼索尼回应 AI 相机助手越改越差，称只是修图建议Anthropic 警告私下交易的股权可能无效 运营商回应「零月租」传言微软重新允许自定义任务栏与开始菜单看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+    "collected_at": "2026-05-18T03:57:42.046415"
+  },
+  {
+    "id": "0687ec213c6d",
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-17T19:46:34",
+    "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+    "collected_at": "2026-05-18T03:57:17.552802"
+  },
+  {
     "id": "5c90a84245fe",
     "title": "Revamped Siri will reportedly offer auto-deleting chats",
     "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
@@ -3538,65 +3598,5 @@
     "published": "2026-05-13T04:00:00",
     "summary": "arXiv:2605.11136v1 Announce Type: new Abstract: We argue that multi-agent test-time evolution is not single-agent evolution replicated N times. A single-agent learner can only evolve its own context and memory. A multi-agent system additionally evolves who collaborates, how they collaborate, and how",
     "collected_at": "2026-05-13T08:50:06.531177"
-  },
-  {
-    "id": "42e9d7ae43e3",
-    "title": "Interpretable EEG Microstate Discovery via Variational Deep Embedding: A Systematic Architecture Search with Multi-Quadrant Evaluation",
-    "url": "https://arxiv.org/abs/2605.10947",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10947v1 Announce Type: new Abstract: EEG microstate analysis segments continuous brain electrical activity into brief, quasi-stable topographic configurations that reflect discrete functional brain states. Conventional approaches such as Modified K-Means operate directly in electrode spac",
-    "collected_at": "2026-05-13T08:50:06.941565"
-  },
-  {
-    "id": "43c1eab5660e",
-    "title": "RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking",
-    "url": "https://arxiv.org/abs/2605.11151",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11151v1 Announce Type: new Abstract: Offline-to-online reinforcement learning (RL) improves sample efficiency by leveraging pre-collected datasets prior to online interaction. A key challenge, however, is learning an accurate critic in large state--action spaces with limited dataset cover",
-    "collected_at": "2026-05-13T08:50:06.531270"
-  },
-  {
-    "id": "a0a27acc7220",
-    "title": "QuIDE: Mastering the Quantized Intelligence Trade-off via Active Optimization",
-    "url": "https://arxiv.org/abs/2605.10959",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10959v1 Announce Type: new Abstract: There is currently no unified metric for evaluating the efficiency of quantized neural networks. We propose QuIDE, built around the Intelligence Index I = (C x P)/log_2(T+1), which collapses the compression-accuracy-latency trade-off into a single scor",
-    "collected_at": "2026-05-13T08:50:06.941652"
-  },
-  {
-    "id": "3ab74c5d6fda",
-    "title": "OLIVIA: Online Learning via Inference-time Action Adaptation for Decision Making in LLM ReAct Agents",
-    "url": "https://arxiv.org/abs/2605.11169",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.11169v1 Announce Type: new Abstract: Large language model agents interleave reasoning, action selection, and observation to solve sequential decision-making tasks. In deployed settings where agents repeatedly handle related multi-step tasks, small action-selection errors can accumulate in",
-    "collected_at": "2026-05-13T08:50:06.531360"
-  },
-  {
-    "id": "0ab72a47f6e6",
-    "title": "Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models",
-    "url": "https://arxiv.org/abs/2605.10971",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-13T04:00:00",
-    "summary": "arXiv:2605.10971v1 Announce Type: new Abstract: Discrete diffusion language models (DLMs) generate text by iteratively denoising all positions in parallel, offering an alternative to autoregressive models. Controlled generation methods for DLMs, imported from autoregressive models, apply uniform int",
-    "collected_at": "2026-05-13T08:50:06.941754"
   }
 ]
