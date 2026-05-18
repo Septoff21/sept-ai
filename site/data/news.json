@@ -12,16 +12,40 @@
     "collected_at": "2026-05-18T10:11:57.731778"
   },
   {
-    "id": "830c4d51101c",
-    "title": "金发科技：公司AI产业相关特种工程塑料在特种工程塑料的销量占比近3成",
-    "url": "https://36kr.com/newsflashes/3814626663112455?f=rss",
-    "source": "36氪",
+    "id": "210dad3ca6f9",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T15:12:46",
+    "summary": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "collected_at": "2026-05-18T15:40:14.900229"
+  },
+  {
+    "id": "9b3c1a541349",
+    "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
+    "url": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-18T10:08:53",
-    "summary": "36氪获悉，金发科技在业绩说明会上表示，公司积极抢抓AI算力、具身机器人等新兴产业发展机遇，针对性研发适配的新材料整体解决方案，积极布局前沿领域，培育全新增长曲线。目前，在AI算力领域，公司推出超薄无卤阻燃PPA及高流动、低翘曲LCP等材料，满足AI服务器高速连接器对介电性能与传输效率的严苛要求；高强度、低噪声无卤阻燃PPA、LCP、PES、PEI广泛用于超高转速散热风扇，为AI服务器稳定运行提供关键材料保障。目前，公司AI产业相关特种工程塑料在特种工程塑料的销量占比近3成；具身智能相关材料在公司整体产品销量中的占比极低，对当期业绩直接贡献相对有限。",
-    "collected_at": "2026-05-18T10:11:56.435085"
+    "priority": 3,
+    "published": "2026-05-18T16:39:32",
+    "summary": "提交你的问题，我们替你去问！点击查看原文>",
+    "collected_at": "2026-05-18T15:40:19.927432"
+  },
+  {
+    "id": "3a9b0386203c",
+    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T14:56:47",
+    "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+    "collected_at": "2026-05-18T15:39:58.649754"
   },
   {
     "id": "13886a738598",
@@ -36,16 +60,16 @@
     "collected_at": "2026-05-18T10:11:57.731822"
   },
   {
-    "id": "749c2f055210",
-    "title": "智元WITA成为全国首例完成大模型备案的具身智能交互模型",
-    "url": "https://36kr.com/newsflashes/3814631177575939?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-18T10:03:29",
-    "summary": "36氪获悉，根据上海市网信办最新公告的上海市生成式人工智能服务备案情况，智元WITA成为全国第一款实现合规备案的具身智能交互大模型，标志着中国具身智能产业从“技术验证”进入“合规商用”的新阶段。依托智元“三智一体”全栈技术体系，智元WITA核心应用于人形机器人交互场景。",
-    "collected_at": "2026-05-18T10:11:56.435136"
+    "id": "184fb5875c90",
+    "title": "The Open Agent Leaderboard",
+    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T14:12:58",
+    "summary": "The Open Agent Leaderboard",
+    "collected_at": "2026-05-18T15:40:14.900263"
   },
   {
     "id": "2776e1e96186",
@@ -60,16 +84,16 @@
     "collected_at": "2026-05-18T10:11:57.731858"
   },
   {
-    "id": "9bdac9a841ca",
-    "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
-    "url": "https://36kr.com/p/3810598875307780?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-18T09:46:47",
-    "summary": "作者｜兰杰 编辑｜乔芊 36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。 之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值，是一个亟待解决的难题。 一方面，以文字形式为载体的IP内容，缺乏统一的视觉形象，使得平台上的IP难以有联名、衍生品等更丰富的变现形式。另一方面，AI漫剧这一新事物迅速发展壮大，其中不乏改编自番茄小说IP的粗制滥造之作。这些内容不但没能延长好IP的生命力，反而形成了一种消耗。此时，通过可登陆院线的影视内容来探索平台IP的更多可能性，不失为一种好的尝试。 另据上述知情人士表示，字",
-    "collected_at": "2026-05-18T10:11:56.433576"
+    "id": "867783266d4b",
+    "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+    "url": "https://www.latent.space/p/the-fourth-law",
+    "source": "Latent Space",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T13:45:32",
+    "summary": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.",
+    "collected_at": "2026-05-18T15:40:15.668091"
   },
   {
     "id": "f96194922ec5",
@@ -84,16 +108,76 @@
     "collected_at": "2026-05-18T10:11:57.731933"
   },
   {
-    "id": "212c46413c7e",
-    "title": "特朗普：本应要求获得更多英特尔公司的股份",
-    "url": "https://36kr.com/newsflashes/3814603923332611?f=rss",
+    "id": "75f5a4c5aec4",
+    "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
+    "url": "https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+    "source": "Import AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T13:31:17",
+    "summary": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Stuxnet before Stuxnet:…Fast16 bugs software likely used in weapons programs…Here’s a fascinating investigation of a ~",
+    "collected_at": "2026-05-18T15:40:15.920074"
+  },
+  {
+    "id": "dbfe3cfc9f22",
+    "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+    "url": "https://www.qbitai.com/2026/05/419585.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-18T13:16:45",
+    "summary": "芯片与系统级双重创新",
+    "collected_at": "2026-05-18T15:37:42.642053"
+  },
+  {
+    "id": "8b6352c28fd9",
+    "title": "AI eats the world (Spring 26) [pdf]",
+    "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T12:49:28",
+    "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 119 # Comments: 67",
+    "collected_at": "2026-05-18T15:40:06.692397"
+  },
+  {
+    "id": "635f4603e550",
+    "title": "网易有道旗下多项产品服务接入DeepSeek-V4",
+    "url": "https://36kr.com/newsflashes/3814758816587523?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-18T09:35:46",
-    "summary": "美国总统唐纳德・特朗普在周一出版的杂志采访中表示，他本应代表美国政府要求获得更多英特尔股份。特朗普政府去年持有英特尔10%的股份，并宣布向这家芯片制造商投资约100亿美元，用于在美国境内新建或扩建工厂。交易完成八个月后，美国政府持有的英特尔股份市值已超过500亿美元。（新浪财经）",
-    "collected_at": "2026-05-18T10:11:56.435365"
+    "published": "2026-05-18T12:29:17",
+    "summary": "36氪获悉，网易有道宣布旗下核心产品矩阵全面接入DeepSeek-V4，覆盖有道词典、有道翻译、有道AI答疑笔、虚拟人口语教练应用Hi Echo、企业级大模型聚合平台ThinkFlow等系列产品和服务，全面升级个性化语言学习、理科答疑、AI 工具辅助等核心场景，为用户带来更智能、更便捷的使用体验。",
+    "collected_at": "2026-05-18T15:40:18.676572"
+  },
+  {
+    "id": "1772d95289d2",
+    "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
+    "url": "https://www.qbitai.com/2026/05/419528.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-18T12:18:30",
+    "summary": "生成论文远比消化容易",
+    "collected_at": "2026-05-18T15:37:42.642091"
+  },
+  {
+    "id": "a6efc7256520",
+    "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
+    "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Alt",
+    "collected_at": "2026-05-18T15:39:58.950425"
   },
   {
     "id": "0add0cf70295",
@@ -108,16 +192,40 @@
     "collected_at": "2026-05-18T03:57:38.391734"
   },
   {
-    "id": "c698c8469fcd",
-    "title": "华为“养”出半个具身智能创业圈",
-    "url": "https://www.qbitai.com/2026/05/419414.html",
-    "source": "量子位",
+    "id": "ed128b31ae1c",
+    "title": "South Korea’s LetinAR is building optics behind AI glasses",
+    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T11:00:00",
+    "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+    "collected_at": "2026-05-18T15:39:58.649802"
+  },
+  {
+    "id": "c193ce0850d3",
+    "title": "Eric Schmidt speech about AI booed during graduation",
+    "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T10:50:25",
+    "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com/item?id=48177785 Points: 305 # Comments: 314",
+    "collected_at": "2026-05-18T15:40:06.692436"
+  },
+  {
+    "id": "830c4d51101c",
+    "title": "金发科技：公司AI产业相关特种工程塑料在特种工程塑料的销量占比近3成",
+    "url": "https://36kr.com/newsflashes/3814626663112455?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-18T08:54:30",
-    "summary": "正在经历一次罕见的人才外溢。",
-    "collected_at": "2026-05-18T10:09:26.927547"
+    "priority": 4,
+    "published": "2026-05-18T10:08:53",
+    "summary": "36氪获悉，金发科技在业绩说明会上表示，公司积极抢抓AI算力、具身机器人等新兴产业发展机遇，针对性研发适配的新材料整体解决方案，积极布局前沿领域，培育全新增长曲线。目前，在AI算力领域，公司推出超薄无卤阻燃PPA及高流动、低翘曲LCP等材料，满足AI服务器高速连接器对介电性能与传输效率的严苛要求；高强度、低噪声无卤阻燃PPA、LCP、PES、PEI广泛用于超高转速散热风扇，为AI服务器稳定运行提供关键材料保障。目前，公司AI产业相关特种工程塑料在特种工程塑料的销量占比近3成；具身智能相关材料在公司整体产品销量中的占比极低，对当期业绩直接贡献相对有限。",
+    "collected_at": "2026-05-18T10:11:56.435085"
   },
   {
     "id": "3651d1340c7e",
@@ -132,16 +240,64 @@
     "collected_at": "2026-05-18T03:57:38.391816"
   },
   {
-    "id": "ff4aa7b50bb8",
-    "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-    "url": "https://36kr.com/p/3814408307711492?f=rss",
+    "id": "749c2f055210",
+    "title": "智元WITA成为全国首例完成大模型备案的具身智能交互模型",
+    "url": "https://36kr.com/newsflashes/3814631177575939?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-18T07:03:20",
-    "summary": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问： 朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？ AI创业、AI融资如火如荼，属于我的机会又在哪里？ 别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？ …… 到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？ 如果你对这些问题还很模糊，不妨来第四届中国AIGC产业峰会走一趟——一天时间，把这一年AI产业最值得关注的人、事、判断，一次性讲清楚。 先提前剧透一波。 18位重磅嘉宾，1场Agent主题圆桌，1份年度榜单，1张全景图谱——所有内容都已敲定。 阵容上，既有",
-    "collected_at": "2026-05-18T10:11:56.434002"
+    "published": "2026-05-18T10:03:29",
+    "summary": "36氪获悉，根据上海市网信办最新公告的上海市生成式人工智能服务备案情况，智元WITA成为全国第一款实现合规备案的具身智能交互大模型，标志着中国具身智能产业从“技术验证”进入“合规商用”的新阶段。依托智元“三智一体”全栈技术体系，智元WITA核心应用于人形机器人交互场景。",
+    "collected_at": "2026-05-18T10:11:56.435136"
+  },
+  {
+    "id": "9319c358b047",
+    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+    "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T09:12:10",
+    "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 136 # Comments: 135",
+    "collected_at": "2026-05-18T15:40:06.692470"
+  },
+  {
+    "id": "9bdac9a841ca",
+    "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+    "url": "https://36kr.com/p/3810598875307780?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-18T09:46:47",
+    "summary": "作者｜兰杰 编辑｜乔芊 36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。 之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值，是一个亟待解决的难题。 一方面，以文字形式为载体的IP内容，缺乏统一的视觉形象，使得平台上的IP难以有联名、衍生品等更丰富的变现形式。另一方面，AI漫剧这一新事物迅速发展壮大，其中不乏改编自番茄小说IP的粗制滥造之作。这些内容不但没能延长好IP的生命力，反而形成了一种消耗。此时，通过可登陆院线的影视内容来探索平台IP的更多可能性，不失为一种好的尝试。 另据上述知情人士表示，字",
+    "collected_at": "2026-05-18T10:11:56.433576"
+  },
+  {
+    "id": "c698c8469fcd",
+    "title": "华为“养”出半个具身智能创业圈",
+    "url": "https://www.qbitai.com/2026/05/419414.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-18T08:54:30",
+    "summary": "正在经历一次罕见的人才外溢。",
+    "collected_at": "2026-05-18T10:09:26.927547"
+  },
+  {
+    "id": "212c46413c7e",
+    "title": "特朗普：本应要求获得更多英特尔公司的股份",
+    "url": "https://36kr.com/newsflashes/3814603923332611?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-18T09:35:46",
+    "summary": "美国总统唐纳德・特朗普在周一出版的杂志采访中表示，他本应代表美国政府要求获得更多英特尔股份。特朗普政府去年持有英特尔10%的股份，并宣布向这家芯片制造商投资约100亿美元，用于在美国境内新建或扩建工厂。交易完成八个月后，美国政府持有的英特尔股份市值已超过500亿美元。（新浪财经）",
+    "collected_at": "2026-05-18T10:11:56.435365"
   },
   {
     "id": "75ff84b11b75",
@@ -156,16 +312,16 @@
     "collected_at": "2026-05-18T10:09:26.927632"
   },
   {
-    "id": "4599d96ab597",
-    "title": "DeepSlide: From Artifacts to Presentation Delivery",
-    "url": "https://arxiv.org/abs/2605.15202",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15202v1 Announce Type: new Abstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narrative, and presentation preparation). We present Dee",
-    "collected_at": "2026-05-18T10:11:51.471099"
+    "id": "ff4aa7b50bb8",
+    "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+    "url": "https://36kr.com/p/3814408307711492?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-18T07:03:20",
+    "summary": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问： 朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？ AI创业、AI融资如火如荼，属于我的机会又在哪里？ 别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？ …… 到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？ 如果你对这些问题还很模糊，不妨来第四届中国AIGC产业峰会走一趟——一天时间，把这一年AI产业最值得关注的人、事、判断，一次性讲清楚。 先提前剧透一波。 18位重磅嘉宾，1场Agent主题圆桌，1份年度榜单，1张全景图谱——所有内容都已敲定。 阵容上，既有",
+    "collected_at": "2026-05-18T10:11:56.434002"
   },
   {
     "id": "88c22085cb93",
@@ -180,16 +336,16 @@
     "collected_at": "2026-05-18T10:09:26.927667"
   },
   {
-    "id": "cb3e80117bcb",
-    "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-    "url": "https://arxiv.org/abs/2605.15204",
+    "id": "4599d96ab597",
+    "title": "DeepSlide: From Artifacts to Presentation Delivery",
+    "url": "https://arxiv.org/abs/2605.15202",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15204v1 Announce Type: new Abstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do not enforce the stage constraints that govern real business processes. We present SDOF, a framework that treats multi-agent e",
-    "collected_at": "2026-05-18T10:11:51.471195"
+    "summary": "arXiv:2605.15202v1 Announce Type: new Abstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narrative, and presentation preparation). We present Dee",
+    "collected_at": "2026-05-18T10:11:51.471099"
   },
   {
     "id": "55f1507da8bc",
@@ -204,16 +360,16 @@
     "collected_at": "2026-05-18T10:09:26.927737"
   },
   {
-    "id": "b576102a639d",
-    "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
-    "url": "https://arxiv.org/abs/2605.15205",
+    "id": "cb3e80117bcb",
+    "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
+    "url": "https://arxiv.org/abs/2605.15204",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15205v1 Announce Type: new Abstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and humans. However, the existing benchmarks often measure ToM capability improvement through story-readi",
-    "collected_at": "2026-05-18T10:11:51.471297"
+    "summary": "arXiv:2605.15204v1 Announce Type: new Abstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do not enforce the stage constraints that govern real business processes. We present SDOF, a framework that treats multi-agent e",
+    "collected_at": "2026-05-18T10:11:51.471195"
   },
   {
     "id": "68ab03b837ab",
@@ -228,16 +384,16 @@
     "collected_at": "2026-05-18T10:09:26.927765"
   },
   {
-    "id": "e6c29f8453e1",
-    "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
-    "url": "https://arxiv.org/abs/2605.15215",
+    "id": "b576102a639d",
+    "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
+    "url": "https://arxiv.org/abs/2605.15205",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15215v1 Announce Type: new Abstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop as contextual guidance once matched to a runtime tas",
-    "collected_at": "2026-05-18T10:11:51.471379"
+    "summary": "arXiv:2605.15205v1 Announce Type: new Abstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and humans. However, the existing benchmarks often measure ToM capability improvement through story-readi",
+    "collected_at": "2026-05-18T10:11:51.471297"
   },
   {
     "id": "3422225167cb",
@@ -252,16 +408,16 @@
     "collected_at": "2026-05-18T10:11:51.766547"
   },
   {
-    "id": "8ed8d3098a96",
-    "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
-    "url": "https://arxiv.org/abs/2605.15217",
+    "id": "e6c29f8453e1",
+    "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
+    "url": "https://arxiv.org/abs/2605.15215",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15217v1 Announce Type: new Abstract: Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in their internal representations. However, whether these suppressed representations can affect model outputs - and whether such",
-    "collected_at": "2026-05-18T10:11:51.471452"
+    "summary": "arXiv:2605.15215v1 Announce Type: new Abstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop as contextual guidance once matched to a runtime tas",
+    "collected_at": "2026-05-18T10:11:51.471379"
   },
   {
     "id": "cda15c704b6d",
@@ -276,16 +432,16 @@
     "collected_at": "2026-05-18T10:11:51.766623"
   },
   {
-    "id": "cccc158d9d16",
-    "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
-    "url": "https://arxiv.org/abs/2605.15218",
+    "id": "8ed8d3098a96",
+    "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
+    "url": "https://arxiv.org/abs/2605.15217",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15218v1 Announce Type: new Abstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured execution control, tool encapsulation, and fault recovery, outputs may be inconsistent and task failures are common. The Agent",
-    "collected_at": "2026-05-18T10:11:51.471535"
+    "summary": "arXiv:2605.15217v1 Announce Type: new Abstract: Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in their internal representations. However, whether these suppressed representations can affect model outputs - and whether such",
+    "collected_at": "2026-05-18T10:11:51.471452"
   },
   {
     "id": "b6a9e2252800",
@@ -300,16 +456,16 @@
     "collected_at": "2026-05-18T10:11:51.766706"
   },
   {
-    "id": "341f1e07ea10",
-    "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
-    "url": "https://arxiv.org/abs/2605.15219",
+    "id": "cccc158d9d16",
+    "title": "CAX-Agent: A Lightweight Agent Harness for Reliable APDL Automation",
+    "url": "https://arxiv.org/abs/2605.15218",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15219v1 Announce Type: new Abstract: Can AI systems discover genuinely new knowledge through iterative self improvement, and if so, at what cost? We introduce the NOVA framework, which models the common ``generate, verify, accumulate, retrain'' loop as an adaptive sampling process over a",
-    "collected_at": "2026-05-18T10:11:51.471614"
+    "summary": "arXiv:2605.15218v1 Announce Type: new Abstract: Large language models deployed for MAPDL finite-element simulation face practical reliability challenges: without structured execution control, tool encapsulation, and fault recovery, outputs may be inconsistent and task failures are common. The Agent",
+    "collected_at": "2026-05-18T10:11:51.471535"
   },
   {
     "id": "a99c36731d68",
@@ -324,16 +480,16 @@
     "collected_at": "2026-05-18T10:11:51.766822"
   },
   {
-    "id": "ab43b37612af",
-    "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
-    "url": "https://arxiv.org/abs/2605.15224",
+    "id": "341f1e07ea10",
+    "title": "NOVA: Fundamental Limits of Knowledge Discovery Through AI",
+    "url": "https://arxiv.org/abs/2605.15219",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15224v1 Announce Type: new Abstract: Large language model-based agents make mistakes, yet critique can often guide the same model toward correct behavior. However, when critique is removed, the model may fail again on the same query, indicating that it has not internalized the critique's",
-    "collected_at": "2026-05-18T10:11:51.471699"
+    "summary": "arXiv:2605.15219v1 Announce Type: new Abstract: Can AI systems discover genuinely new knowledge through iterative self improvement, and if so, at what cost? We introduce the NOVA framework, which models the common ``generate, verify, accumulate, retrain'' loop as an adaptive sampling process over a",
+    "collected_at": "2026-05-18T10:11:51.471614"
   },
   {
     "id": "1c5cca7f8548",
@@ -348,16 +504,16 @@
     "collected_at": "2026-05-18T10:11:51.766903"
   },
   {
-    "id": "2818fcf48296",
-    "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
-    "url": "https://arxiv.org/abs/2605.15227",
+    "id": "ab43b37612af",
+    "title": "ICRL: Learning to Internalize Self-Critique with Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2605.15224",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15227v1 Announce Type: new Abstract: Self-driving laboratories (SDLs) have attracted increasing attention as a means of accelerating scientific discovery; however, developing SDL software remains technically demanding. To improve accessibility, orchestration software frameworks have been",
-    "collected_at": "2026-05-18T10:11:51.471766"
+    "summary": "arXiv:2605.15224v1 Announce Type: new Abstract: Large language model-based agents make mistakes, yet critique can often guide the same model toward correct behavior. However, when critique is removed, the model may fail again on the same query, indicating that it has not internalized the critique's",
+    "collected_at": "2026-05-18T10:11:51.471699"
   },
   {
     "id": "e4a39aed0fd9",
@@ -372,16 +528,16 @@
     "collected_at": "2026-05-18T10:11:51.766987"
   },
   {
-    "id": "533843e86279",
-    "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
-    "url": "https://arxiv.org/abs/2605.15228",
+    "id": "2818fcf48296",
+    "title": "NIMO Controller: a self-driving laboratory orchestrator based on the Model Context Protocol",
+    "url": "https://arxiv.org/abs/2605.15227",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15228v1 Announce Type: new Abstract: Modern cloud and enterprise systems rely on identity-centric authorization, assuming that callers possessing valid credentials are safe to execute commands. The emergence of autonomous AI agents invalidates this assumption: agents can generate syntacti",
-    "collected_at": "2026-05-18T10:11:51.471855"
+    "summary": "arXiv:2605.15227v1 Announce Type: new Abstract: Self-driving laboratories (SDLs) have attracted increasing attention as a means of accelerating scientific discovery; however, developing SDL software remains technically demanding. To improve accessibility, orchestration software frameworks have been",
+    "collected_at": "2026-05-18T10:11:51.471766"
   },
   {
     "id": "f2dfa2ed3a60",
@@ -396,16 +552,16 @@
     "collected_at": "2026-05-18T10:11:51.767053"
   },
   {
-    "id": "d1b43dd58184",
-    "title": "Solvita: Enhancing Large Language Models for Competitive Programming via Agentic Evolution",
-    "url": "https://arxiv.org/abs/2605.15301",
+    "id": "533843e86279",
+    "title": "Verifiable Agentic Infrastructure: Proof-Derived Authorization for Sovereign AI Systems",
+    "url": "https://arxiv.org/abs/2605.15228",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15301v1 Announce Type: new Abstract: Large language models (LLMs) still struggle with the rigorous reasoning demands of hard competitive programming. While recent multi-agent frameworks attempt to bridge this reliability gap, they remain fundamentally stateless: they rely on static retrie",
-    "collected_at": "2026-05-18T10:11:51.471930"
+    "summary": "arXiv:2605.15228v1 Announce Type: new Abstract: Modern cloud and enterprise systems rely on identity-centric authorization, assuming that callers possessing valid credentials are safe to execute commands. The emergence of autonomous AI agents invalidates this assumption: agents can generate syntacti",
+    "collected_at": "2026-05-18T10:11:51.471855"
   },
   {
     "id": "07203cf656bf",
@@ -420,16 +576,16 @@
     "collected_at": "2026-05-18T10:11:51.767129"
   },
   {
-    "id": "bba9eeccf765",
-    "title": "SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo Evolution",
-    "url": "https://arxiv.org/abs/2605.15308",
+    "id": "d1b43dd58184",
+    "title": "Solvita: Enhancing Large Language Models for Competitive Programming via Agentic Evolution",
+    "url": "https://arxiv.org/abs/2605.15301",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15308v1 Announce Type: new Abstract: LLM-driven program evolution has emerged as a powerful tool for automated scientific discovery, yet existing frameworks offer no principled guide for designing their individual components and provide no guarantee that the search converges. We introduce",
-    "collected_at": "2026-05-18T10:11:51.471991"
+    "summary": "arXiv:2605.15301v1 Announce Type: new Abstract: Large language models (LLMs) still struggle with the rigorous reasoning demands of hard competitive programming. While recent multi-agent frameworks attempt to bridge this reliability gap, they remain fundamentally stateless: they rely on static retrie",
+    "collected_at": "2026-05-18T10:11:51.471930"
   },
   {
     "id": "6cfb16bd36d6",
@@ -444,16 +600,16 @@
     "collected_at": "2026-05-18T10:11:51.767192"
   },
   {
-    "id": "3c1142da6b67",
-    "title": "Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning",
-    "url": "https://arxiv.org/abs/2605.15315",
+    "id": "bba9eeccf765",
+    "title": "SMCEvolve: Principled Scientific Discovery via Sequential Monte Carlo Evolution",
+    "url": "https://arxiv.org/abs/2605.15308",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15315v1 Announce Type: new Abstract: LLM-powered coding agents spend the majority of their token budget reading repository files, yet much of the retrieved code is irrelevant to the task at hand. Existing learned pruners compress this context with a single-objective sequence labeler, coll",
-    "collected_at": "2026-05-18T10:11:51.472074"
+    "summary": "arXiv:2605.15308v1 Announce Type: new Abstract: LLM-driven program evolution has emerged as a powerful tool for automated scientific discovery, yet existing frameworks offer no principled guide for designing their individual components and provide no guarantee that the search converges. We introduce",
+    "collected_at": "2026-05-18T10:11:51.471991"
   },
   {
     "id": "513f4c82ec83",
@@ -468,16 +624,16 @@
     "collected_at": "2026-05-18T10:11:51.767287"
   },
   {
-    "id": "faa9461a72c9",
-    "title": "Zero-Shot Goal Recognition with Large Language Models",
-    "url": "https://arxiv.org/abs/2605.15333",
+    "id": "3c1142da6b67",
+    "title": "Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning",
+    "url": "https://arxiv.org/abs/2605.15315",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15333v1 Announce Type: new Abstract: Large language models have recently reached near-parity with classical planners on well-known planning domains, yet this competence relies on world-knowledge exploitation rather than genuine symbolic reasoning. Goal recognition is a complementary abduc",
-    "collected_at": "2026-05-18T10:11:51.472136"
+    "summary": "arXiv:2605.15315v1 Announce Type: new Abstract: LLM-powered coding agents spend the majority of their token budget reading repository files, yet much of the retrieved code is irrelevant to the task at hand. Existing learned pruners compress this context with a single-objective sequence labeler, coll",
+    "collected_at": "2026-05-18T10:11:51.472074"
   },
   {
     "id": "f9c431cf7df9",
@@ -492,16 +648,16 @@
     "collected_at": "2026-05-18T10:11:51.767409"
   },
   {
-    "id": "16497424e859",
-    "title": "Belief Engine: Configurable and Inspectable Stance Dynamics in Multi-Agent LLM Deliberation",
-    "url": "https://arxiv.org/abs/2605.15343",
+    "id": "faa9461a72c9",
+    "title": "Zero-Shot Goal Recognition with Large Language Models",
+    "url": "https://arxiv.org/abs/2605.15333",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15343v1 Announce Type: new Abstract: LLM-based agents are increasingly used to simulate deliberative interactions such as negotiation, conflict resolution, and multi-turn opinion exchange. Yet generated transcripts often do not reveal why an agent's stance changes: movement may reflect ev",
-    "collected_at": "2026-05-18T10:11:51.472205"
+    "summary": "arXiv:2605.15333v1 Announce Type: new Abstract: Large language models have recently reached near-parity with classical planners on well-known planning domains, yet this competence relies on world-knowledge exploitation rather than genuine symbolic reasoning. Goal recognition is a complementary abduc",
+    "collected_at": "2026-05-18T10:11:51.472136"
   },
   {
     "id": "868a54496f33",
@@ -516,16 +672,16 @@
     "collected_at": "2026-05-18T10:11:51.767473"
   },
   {
-    "id": "61cb26aa5757",
-    "title": "Ensemble Monitoring for AI Control: Diverse Signals Outweigh More Compute",
-    "url": "https://arxiv.org/abs/2605.15377",
+    "id": "16497424e859",
+    "title": "Belief Engine: Configurable and Inspectable Stance Dynamics in Multi-Agent LLM Deliberation",
+    "url": "https://arxiv.org/abs/2605.15343",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15377v1 Announce Type: new Abstract: As AI systems are increasingly deployed in autonomous agentic settings at scale, it is important to ensure the actions they take are safe and aligned with user intent. Monitoring agent actions is a key safety mechanism, yet reliable monitors remain dif",
-    "collected_at": "2026-05-18T10:11:51.472300"
+    "summary": "arXiv:2605.15343v1 Announce Type: new Abstract: LLM-based agents are increasingly used to simulate deliberative interactions such as negotiation, conflict resolution, and multi-turn opinion exchange. Yet generated transcripts often do not reveal why an agent's stance changes: movement may reflect ev",
+    "collected_at": "2026-05-18T10:11:51.472205"
   },
   {
     "id": "a349574c5f47",
@@ -540,16 +696,16 @@
     "collected_at": "2026-05-18T10:11:51.767553"
   },
   {
-    "id": "04098e4ef644",
-    "title": "Beyond Partner Diversity: An Influence-Based Team Steering Framework for Zero-Shot Human-Machine Teaming",
-    "url": "https://arxiv.org/abs/2605.15400",
+    "id": "61cb26aa5757",
+    "title": "Ensemble Monitoring for AI Control: Diverse Signals Outweigh More Compute",
+    "url": "https://arxiv.org/abs/2605.15377",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15400v1 Announce Type: new Abstract: While AI agents are rapidly advancing from isolated tools to interactive collaborators, data-driven human-machine teaming (HMT) methods remain costly in their reliance on human interaction data across domains, teammates, and team sizes. Zero-shot coord",
-    "collected_at": "2026-05-18T10:11:51.472375"
+    "summary": "arXiv:2605.15377v1 Announce Type: new Abstract: As AI systems are increasingly deployed in autonomous agentic settings at scale, it is important to ensure the actions they take are safe and aligned with user intent. Monitoring agent actions is a key safety mechanism, yet reliable monitors remain dif",
+    "collected_at": "2026-05-18T10:11:51.472300"
   },
   {
     "id": "7d99ec502d8a",
@@ -564,16 +720,16 @@
     "collected_at": "2026-05-18T10:11:51.767620"
   },
   {
-    "id": "5f384521774f",
-    "title": "From LLM-Generated Conjectures to Lean Formalizations: Automated Polynomial Inequality Proving via Sum-of-Squares Certificates",
-    "url": "https://arxiv.org/abs/2605.15445",
+    "id": "04098e4ef644",
+    "title": "Beyond Partner Diversity: An Influence-Based Team Steering Framework for Zero-Shot Human-Machine Teaming",
+    "url": "https://arxiv.org/abs/2605.15400",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15445v1 Announce Type: new Abstract: Automated proving of polynomial inequalities is a fundamental challenge in automated mathematical reasoning, where rich algebraic structure and a rapidly growing certificate search space hinder scalability. Purely symbolic approaches provide strong gua",
-    "collected_at": "2026-05-18T10:11:51.472447"
+    "summary": "arXiv:2605.15400v1 Announce Type: new Abstract: While AI agents are rapidly advancing from isolated tools to interactive collaborators, data-driven human-machine teaming (HMT) methods remain costly in their reliance on human interaction data across domains, teammates, and team sizes. Zero-shot coord",
+    "collected_at": "2026-05-18T10:11:51.472375"
   },
   {
     "id": "363889c014be",
@@ -588,16 +744,16 @@
     "collected_at": "2026-05-18T10:11:51.767693"
   },
   {
-    "id": "941eb99a1e9c",
-    "title": "X-SYNTH: Beyond Retrieval -- Enterprise Context Synthesis from Observed Human Attention",
-    "url": "https://arxiv.org/abs/2605.15505",
+    "id": "5f384521774f",
+    "title": "From LLM-Generated Conjectures to Lean Formalizations: Automated Polynomial Inequality Proving via Sum-of-Squares Certificates",
+    "url": "https://arxiv.org/abs/2605.15445",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15505v1 Announce Type: new Abstract: In enterprise operations, the context required for an AI agent task is scattered across systems of record, static information stores, and communication channels. What is stored is system state, a lossy representation of the work that actually happened",
-    "collected_at": "2026-05-18T10:11:51.472541"
+    "summary": "arXiv:2605.15445v1 Announce Type: new Abstract: Automated proving of polynomial inequalities is a fundamental challenge in automated mathematical reasoning, where rich algebraic structure and a rapidly growing certificate search space hinder scalability. Purely symbolic approaches provide strong gua",
+    "collected_at": "2026-05-18T10:11:51.472447"
   },
   {
     "id": "d89305fa1d67",
@@ -612,16 +768,16 @@
     "collected_at": "2026-05-18T10:11:51.767818"
   },
   {
-    "id": "dd7361c99c4d",
-    "title": "CAPS: Cascaded Adaptive Pairwise Selection for Efficient Parallel Reasoning",
-    "url": "https://arxiv.org/abs/2605.15513",
+    "id": "941eb99a1e9c",
+    "title": "X-SYNTH: Beyond Retrieval -- Enterprise Context Synthesis from Observed Human Attention",
+    "url": "https://arxiv.org/abs/2605.15505",
     "source": "ArXiv CS.AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
     "published": "2026-05-18T04:00:00",
-    "summary": "arXiv:2605.15513v1 Announce Type: new Abstract: Parallel reasoning, where a generator samples many candidate solutions and an aggregator selects the best, is one of the most effective forms of test-time scaling in large language models, and pairwise self-verification has become its strongest aggrega",
-    "collected_at": "2026-05-18T10:11:51.472620"
+    "summary": "arXiv:2605.15505v1 Announce Type: new Abstract: In enterprise operations, the context required for an AI agent task is scattered across systems of record, static information stores, and communication channels. What is stored is system state, a lossy representation of the work that actually happened",
+    "collected_at": "2026-05-18T10:11:51.472541"
   },
   {
     "id": "4d2ec24887ec",
@@ -636,16 +792,16 @@
     "collected_at": "2026-05-18T10:11:51.767883"
   },
   {
-    "id": "e725584c994c",
-    "title": "上海市市长龚正：更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展",
-    "url": "https://36kr.com/newsflashes/3814225804451334?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-18T03:11:07",
-    "summary": "在“开局起步‘十五五’”上海专场新闻发布会上，上海市市长龚正提出，面向“十五五”，要深入推动科技创新、政府职能转变等改革有机衔接，持续推进资金跨境、国际人才引进等要素市场化配置关键环节攻坚突破，加快探索大宗商品贸易、高端航运服务等创新制度安排，更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展。特别是要用好浦东新区法规立法授权，以法治更好助力浦东大胆试、大胆闯、自主改。（财联社）",
-    "collected_at": "2026-05-18T03:57:37.056790"
+    "id": "dd7361c99c4d",
+    "title": "CAPS: Cascaded Adaptive Pairwise Selection for Efficient Parallel Reasoning",
+    "url": "https://arxiv.org/abs/2605.15513",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T04:00:00",
+    "summary": "arXiv:2605.15513v1 Announce Type: new Abstract: Parallel reasoning, where a generator samples many candidate solutions and an aggregator selects the best, is one of the most effective forms of test-time scaling in large language models, and pairwise self-verification has become its strongest aggrega",
+    "collected_at": "2026-05-18T10:11:51.472620"
   },
   {
     "id": "b5a89dd5ba61",
@@ -660,16 +816,16 @@
     "collected_at": "2026-05-18T10:11:51.767953"
   },
   {
-    "id": "6bc4cac2dae6",
-    "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
-    "url": "https://sspai.com/post/109870",
-    "source": "少数派",
+    "id": "e725584c994c",
+    "title": "上海市市长龚正：更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展",
+    "url": "https://36kr.com/newsflashes/3814225804451334?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-17T22:56:55",
-    "summary": "提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年OpenAI 与苹果关系紧张，或考虑诉讼索尼回应 AI 相机助手越改越差，称只是修图建议Anthropic 警告私下交易的股权可能无效 运营商回应「零月租」传言微软重新允许自定义任务栏与开始菜单看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
-    "collected_at": "2026-05-18T03:57:42.046415"
+    "published": "2026-05-18T03:11:07",
+    "summary": "在“开局起步‘十五五’”上海专场新闻发布会上，上海市市长龚正提出，面向“十五五”，要深入推动科技创新、政府职能转变等改革有机衔接，持续推进资金跨境、国际人才引进等要素市场化配置关键环节攻坚突破，加快探索大宗商品贸易、高端航运服务等创新制度安排，更大力度赋能集成电路、生物医药、人工智能等十大千亿级硬核产业集群发展。特别是要用好浦东新区法规立法授权，以法治更好助力浦东大胆试、大胆闯、自主改。（财联社）",
+    "collected_at": "2026-05-18T03:57:37.056790"
   },
   {
     "id": "58c2366f2526",
@@ -684,16 +840,16 @@
     "collected_at": "2026-05-18T10:11:51.768015"
   },
   {
-    "id": "ed22c4ad8964",
-    "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+    "id": "6749c0bca987",
+    "title": "Most Americans don't trust AI – or the people in charge of it (2025)",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
     "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-17T21:56:40",
-    "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 100 # Comments: 49",
-    "collected_at": "2026-05-18T10:11:43.349863"
+    "published": "2026-05-18T01:39:30",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai Comments URL: https://news.ycombinator.com/item?id=48174808 Points: 118 # Comments: 80",
+    "collected_at": "2026-05-18T15:40:06.692522"
   },
   {
     "id": "100540fa25d4",
@@ -706,6 +862,30 @@
     "published": "2026-05-18T04:00:00",
     "summary": "arXiv:2605.15311v1 Announce Type: new Abstract: The identification and modeling of time-varying systems is a fundamental challenge in signal processing and system identification. To address this challenge, we propose a class of time-varying state-space model (SSM) based neural networks in which the",
     "collected_at": "2026-05-18T10:11:51.768099"
+  },
+  {
+    "id": "6bc4cac2dae6",
+    "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
+    "url": "https://sspai.com/post/109870",
+    "source": "少数派",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-17T22:56:55",
+    "summary": "提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年OpenAI 与苹果关系紧张，或考虑诉讼索尼回应 AI 相机助手越改越差，称只是修图建议Anthropic 警告私下交易的股权可能无效 运营商回应「零月租」传言微软重新允许自定义任务栏与开始菜单看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+    "collected_at": "2026-05-18T03:57:42.046415"
+  },
+  {
+    "id": "ed22c4ad8964",
+    "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-17T21:56:40",
+    "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/ Comments URL: https://news.ycombinator.com/item?id=48173547 Points: 100 # Comments: 49",
+    "collected_at": "2026-05-18T10:11:43.349863"
   },
   {
     "id": "0687ec213c6d",
@@ -3418,185 +3598,5 @@
     "published": "2026-05-14T04:00:00",
     "summary": "arXiv:2605.12685v1 Announce Type: new Abstract: Graph Self-Supervised Learning (GSSL) has emerged as a powerful paradigm for generating high-quality representations for graph-structured data. While multi-scale graph contrastive learning has received increasing attention, many existing methods still",
     "collected_at": "2026-05-14T08:43:07.933189"
-  },
-  {
-    "id": "5ae5d6ccd083",
-    "title": "Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents",
-    "url": "https://arxiv.org/abs/2605.12894",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12894v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly deployed in settings where they interact with a wide variety of people, including users who are unclear, impatient, or reluctant to share information. However, collecting real interaction data at scale",
-    "collected_at": "2026-05-14T08:43:07.551111"
-  },
-  {
-    "id": "d6f116f8e121",
-    "title": "IGT-OMD: Implicit Gradient Transport for Decision-Focused Learning under Delayed Feedback",
-    "url": "https://arxiv.org/abs/2605.12693",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12693v1 Announce Type: new Abstract: Decision-focused learning trains predictive models end-to-end against downstream decision loss, but online settings suffer delayed feedback: outcomes may not arrive for many environment interactions. We identify \\emph{staleness amplification}, a failur",
-    "collected_at": "2026-05-14T08:43:07.933264"
-  },
-  {
-    "id": "3259174a5bb6",
-    "title": "When Attention Closes: How LLMs Lose the Thread in Multi-Turn Interaction",
-    "url": "https://arxiv.org/abs/2605.12922",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12922v1 Announce Type: new Abstract: Large language models can follow complex instructions in a single turn, yet over long multi-turn interactions they often lose the thread of instructions, persona, and rules. This degradation has been measured behaviorally but not mechanistically explai",
-    "collected_at": "2026-05-14T08:43:07.551197"
-  },
-  {
-    "id": "285feb24a529",
-    "title": "Modeling Heterophily in Multiplex Graphs: An Adaptive Approach for Node Classification",
-    "url": "https://arxiv.org/abs/2605.12699",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12699v1 Announce Type: new Abstract: Existing multiplex graph models often assume homophily, where connected nodes tend to belong to the same class or share similar attributes. Consequently, these models may struggle with graphs exhibiting heterophily, where connected nodes typically belo",
-    "collected_at": "2026-05-14T08:43:07.933370"
-  },
-  {
-    "id": "f8af32b1c379",
-    "title": "Sustaining AI safety: Control-theoretic external impossibility, intrinsic necessity, and structural requirements",
-    "url": "https://arxiv.org/abs/2605.12963",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12963v1 Announce Type: new Abstract: As AI systems become increasingly capable, safety strategies must be evaluated not only by how much they reduce present risk, but by whether they could sustain safety once external control can no longer reliably constrain system behavior. This paper ad",
-    "collected_at": "2026-05-14T08:43:07.551288"
-  },
-  {
-    "id": "df1aaa141934",
-    "title": "UFO: A Domain-Unification-Free Operator Framework for Generalized Operator Learning",
-    "url": "https://arxiv.org/abs/2605.12700",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12700v1 Announce Type: new Abstract: Neural operators have become an effective framework for learning mappings between function spaces, yet most existing architectures realize operators within a single representational domain, such as physical, spectral, or latent space. In this work, we",
-    "collected_at": "2026-05-14T08:43:07.933429"
-  },
-  {
-    "id": "925e5d25c179",
-    "title": "Position: Agentic AI System Is a Foreseeable Pathway to AGI",
-    "url": "https://arxiv.org/abs/2605.12966",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12966v1 Announce Type: new Abstract: Is monolithic scaling the only path to AGI? This paper challenges the dogma that purely scaling a single model is sufficient to achieve Artificial General Intelligence. Instead, we identify Agentic AI as a necessary paradigm for mastering the complex,",
-    "collected_at": "2026-05-14T08:43:07.551343"
-  },
-  {
-    "id": "530e5200e397",
-    "title": "Do Fair Models Reason Fairly? Counterfactual Explanation Consistency for Procedural Fairness in Credit Decisions",
-    "url": "https://arxiv.org/abs/2605.12701",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12701v1 Announce Type: new Abstract: Machine learning algorithms in socially sensitive domains (e.g., credit decisions) often focus on equalizing predictive outcomes. However, satisfying these metrics does not guarantee that models use the same reasoning for different groups. We show that",
-    "collected_at": "2026-05-14T08:43:07.933494"
-  },
-  {
-    "id": "656ae973b3fe",
-    "title": "Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation",
-    "url": "https://arxiv.org/abs/2605.12975",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12975v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) has become a standard approach for knowledge-intensive question answering, but existing systems remain brittle on multi-hop questions, where solving the task requires chaining multiple retrieval and reasoning steps.",
-    "collected_at": "2026-05-14T08:43:07.551425"
-  },
-  {
-    "id": "5ee9e54d5c54",
-    "title": "Early Data Exposure Improves Robustness to Subsequent Fine-Tuning",
-    "url": "https://arxiv.org/abs/2605.12705",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12705v1 Announce Type: new Abstract: How can we train models whose post-trained capabilities survive subsequent fine-tuning? Rather than focusing on downstream interventions to mitigate forgetting of upstream capabilities, we study how upstream training choices - that is, the manner in wh",
-    "collected_at": "2026-05-14T08:43:07.933576"
-  },
-  {
-    "id": "2745582b6a82",
-    "title": "Useful Memories Become Faulty When Continuously Updated by LLMs",
-    "url": "https://arxiv.org/abs/2605.12978",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12978v1 Announce Type: new Abstract: Learning from past experience benefits from two complementary forms of memory: episodic traces -- raw trajectories of what happened -- and consolidated abstractions distilled across many episodes into reusable, schema-like lessons. Recent agentic-memor",
-    "collected_at": "2026-05-14T08:43:07.551510"
-  },
-  {
-    "id": "f139c2f790bc",
-    "title": "A Resampling-Based Framework for Network Structure Learning in High-Dimensional Data",
-    "url": "https://arxiv.org/abs/2605.12706",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12706v1 Announce Type: new Abstract: RSNet is an open-source R package that provides a resampling-based framework for robust and interpretable network inference, designed to address the limited-sample-size challenges common in high-dimensional data. It supports both the estimation of part",
-    "collected_at": "2026-05-14T08:43:07.933660"
-  },
-  {
-    "id": "2588da01ead7",
-    "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
-    "url": "https://arxiv.org/abs/2605.12988",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12988v1 Announce Type: new Abstract: Students learning algorithms often need support as they interpret traces, debug reasoning errors, and apply procedures across unfamiliar problem instances. In this paper, we present KITE (Knowledge-Informed Tutoring Engine), a Retrieval-Augmented Gener",
-    "collected_at": "2026-05-14T08:43:07.551588"
-  },
-  {
-    "id": "8f5f70ebe9e9",
-    "title": "Spectral Energy Centroid: a Metric for Improving Performance and Analyzing Spectral Bias in Implicit Neural Representations",
-    "url": "https://arxiv.org/abs/2605.12709",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12709v1 Announce Type: new Abstract: Implicit Neural Representations (INRs) model continuous signals using multilayer perceptrons (MLPs), enabling compact, differentiable, and high-fidelity representations of data across diverse domains. However, due to the low-frequency bias of MLPs that",
-    "collected_at": "2026-05-14T08:43:07.933748"
-  },
-  {
-    "id": "45ba57bc81f3",
-    "title": "[AINews] Codex Rises, Claude Meters Programmatic Usage",
-    "url": "https://www.latent.space/p/ainews-codex-rises-claude-meters",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T03:53:26",
-    "summary": "a quiet day lets us report on a long trend of the major coding agents",
-    "collected_at": "2026-05-14T08:43:09.946430"
   }
 ]
