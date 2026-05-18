@@ -1,5 +1,65 @@
 [
   {
+    "id": "d023da2950a3",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T19:27:52",
+    "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
+    "collected_at": "2026-05-18T19:49:36.655396"
+  },
+  {
+    "id": "3be90d994a82",
+    "title": "Musk v. Altman proved that AI is led by the wrong people",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T19:00:00",
+    "summary": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monda",
+    "collected_at": "2026-05-18T19:49:36.854641"
+  },
+  {
+    "id": "824e77ca4c6b",
+    "title": "What to expect from Google this week",
+    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T17:35:43",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G",
+    "collected_at": "2026-05-18T19:49:37.036965"
+  },
+  {
+    "id": "4f2f8f4da2b7",
+    "title": "Elon Musk loses his case against Sam Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T17:39:32",
+    "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, [&",
+    "collected_at": "2026-05-18T19:49:36.854745"
+  },
+  {
+    "id": "f568df07558f",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T17:34:43",
+    "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "collected_at": "2026-05-18T19:49:36.655434"
+  },
+  {
     "id": "7734ecbd9e52",
     "title": "Snowflake Observe：可观测性与 AI 数据云的融合 ｜ 技术趋势",
     "url": "https://www.infoq.cn/article/saKOYsNT3R2lCY7UBSiR?utm_source=rss&utm_medium=article",
@@ -12,16 +72,16 @@
     "collected_at": "2026-05-18T10:11:57.731778"
   },
   {
-    "id": "210dad3ca6f9",
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "source": "HuggingFace Blog",
+    "id": "981e2ce3b8c4",
+    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-18T15:12:46",
-    "summary": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "collected_at": "2026-05-18T15:40:14.900229"
+    "priority": 2,
+    "published": "2026-05-18T16:01:39",
+    "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a c",
+    "collected_at": "2026-05-18T19:49:37.037076"
   },
   {
     "id": "9b3c1a541349",
@@ -36,16 +96,16 @@
     "collected_at": "2026-05-18T15:40:19.927432"
   },
   {
-    "id": "3a9b0386203c",
-    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-    "source": "TechCrunch AI",
+    "id": "5fe33294ceaa",
+    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "source": "HuggingFace Blog",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-18T14:56:47",
-    "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-    "collected_at": "2026-05-18T15:39:58.649754"
+    "published": "2026-05-18T16:00:21",
+    "summary": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "collected_at": "2026-05-18T19:49:48.277891"
   },
   {
     "id": "13886a738598",
@@ -60,16 +120,16 @@
     "collected_at": "2026-05-18T10:11:57.731822"
   },
   {
-    "id": "184fb5875c90",
-    "title": "The Open Agent Leaderboard",
-    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-    "source": "HuggingFace Blog",
+    "id": "bc1f08a7020e",
+    "title": "Amazon Alexa Plus can now create AI-generated podcasts",
+    "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-18T14:12:58",
-    "summary": "The Open Agent Leaderboard",
-    "collected_at": "2026-05-18T15:40:14.900263"
+    "published": "2026-05-18T15:55:25",
+    "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to s",
+    "collected_at": "2026-05-18T19:49:36.854782"
   },
   {
     "id": "2776e1e96186",
@@ -84,16 +144,40 @@
     "collected_at": "2026-05-18T10:11:57.731858"
   },
   {
-    "id": "867783266d4b",
-    "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
-    "url": "https://www.latent.space/p/the-fourth-law",
-    "source": "Latent Space",
+    "id": "e2c8ab9ad08d",
+    "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+    "url": "https://archestra.ai/blog/only-responsible-ai",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T15:24:19",
+    "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 304 # Comments: 143",
+    "collected_at": "2026-05-18T19:49:39.287210"
+  },
+  {
+    "id": "210dad3ca6f9",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "source": "HuggingFace Blog",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-18T13:45:32",
-    "summary": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.",
-    "collected_at": "2026-05-18T15:40:15.668091"
+    "published": "2026-05-18T15:12:46",
+    "summary": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "collected_at": "2026-05-18T15:40:14.900229"
+  },
+  {
+    "id": "3a9b0386203c",
+    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T14:56:47",
+    "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+    "collected_at": "2026-05-18T15:39:58.649754"
   },
   {
     "id": "f96194922ec5",
@@ -106,6 +190,30 @@
     "published": "2026-05-18T14:14:00",
     "summary": "点击查看原文>",
     "collected_at": "2026-05-18T10:11:57.731933"
+  },
+  {
+    "id": "184fb5875c90",
+    "title": "The Open Agent Leaderboard",
+    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "source": "HuggingFace Blog",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T14:12:58",
+    "summary": "The Open Agent Leaderboard",
+    "collected_at": "2026-05-18T15:40:14.900263"
+  },
+  {
+    "id": "867783266d4b",
+    "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+    "url": "https://www.latent.space/p/the-fourth-law",
+    "source": "Latent Space",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T13:45:32",
+    "summary": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.",
+    "collected_at": "2026-05-18T15:40:15.668091"
   },
   {
     "id": "75f5a4c5aec4",
@@ -132,16 +240,16 @@
     "collected_at": "2026-05-18T15:37:42.642053"
   },
   {
-    "id": "8b6352c28fd9",
-    "title": "AI eats the world (Spring 26) [pdf]",
-    "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "id": "961d391e877a",
+    "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+    "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
     "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-18T12:49:28",
-    "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 119 # Comments: 67",
-    "collected_at": "2026-05-18T15:40:06.692397"
+    "published": "2026-05-18T12:49:54",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombinator.com/item?id=48179029 Points: 139 # Comments: 71",
+    "collected_at": "2026-05-18T19:49:39.287248"
   },
   {
     "id": "635f4603e550",
@@ -154,6 +262,18 @@
     "published": "2026-05-18T12:29:17",
     "summary": "36氪获悉，网易有道宣布旗下核心产品矩阵全面接入DeepSeek-V4，覆盖有道词典、有道翻译、有道AI答疑笔、虚拟人口语教练应用Hi Echo、企业级大模型聚合平台ThinkFlow等系列产品和服务，全面升级个性化语言学习、理科答疑、AI 工具辅助等核心场景，为用户带来更智能、更便捷的使用体验。",
     "collected_at": "2026-05-18T15:40:18.676572"
+  },
+  {
+    "id": "8b6352c28fd9",
+    "title": "AI eats the world (Spring 26) [pdf]",
+    "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T12:49:28",
+    "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL: https://news.ycombinator.com/item?id=48179021 Points: 119 # Comments: 67",
+    "collected_at": "2026-05-18T15:40:06.692397"
   },
   {
     "id": "1772d95289d2",
@@ -252,16 +372,16 @@
     "collected_at": "2026-05-18T10:11:56.435136"
   },
   {
-    "id": "9319c358b047",
-    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-    "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
-    "source": "Hacker News AI",
+    "id": "1af67e245b3a",
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "source": "OpenAI Blog",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-18T09:12:10",
-    "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 136 # Comments: 135",
-    "collected_at": "2026-05-18T15:40:06.692470"
+    "priority": 1,
+    "published": "2026-05-18T10:00:00",
+    "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+    "collected_at": "2026-05-18T19:49:44.075640"
   },
   {
     "id": "9bdac9a841ca",
@@ -276,16 +396,16 @@
     "collected_at": "2026-05-18T10:11:56.433576"
   },
   {
-    "id": "c698c8469fcd",
-    "title": "华为“养”出半个具身智能创业圈",
-    "url": "https://www.qbitai.com/2026/05/419414.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-18T08:54:30",
-    "summary": "正在经历一次罕见的人才外溢。",
-    "collected_at": "2026-05-18T10:09:26.927547"
+    "id": "9319c358b047",
+    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+    "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T09:12:10",
+    "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: https://news.ycombinator.com/item?id=48177107 Points: 136 # Comments: 135",
+    "collected_at": "2026-05-18T15:40:06.692470"
   },
   {
     "id": "212c46413c7e",
@@ -300,16 +420,16 @@
     "collected_at": "2026-05-18T10:11:56.435365"
   },
   {
-    "id": "75ff84b11b75",
-    "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
-    "url": "https://www.qbitai.com/2026/05/419386.html",
+    "id": "c698c8469fcd",
+    "title": "华为“养”出半个具身智能创业圈",
+    "url": "https://www.qbitai.com/2026/05/419414.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-18T06:52:11",
-    "summary": "超越GPT-4o",
-    "collected_at": "2026-05-18T10:09:26.927632"
+    "published": "2026-05-18T08:54:30",
+    "summary": "正在经历一次罕见的人才外溢。",
+    "collected_at": "2026-05-18T10:09:26.927547"
   },
   {
     "id": "ff4aa7b50bb8",
@@ -324,16 +444,16 @@
     "collected_at": "2026-05-18T10:11:56.434002"
   },
   {
-    "id": "88c22085cb93",
-    "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
-    "url": "https://www.qbitai.com/2026/05/419373.html",
+    "id": "75ff84b11b75",
+    "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+    "url": "https://www.qbitai.com/2026/05/419386.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-18T06:44:04",
-    "summary": "隐私和性能我全都要",
-    "collected_at": "2026-05-18T10:09:26.927667"
+    "published": "2026-05-18T06:52:11",
+    "summary": "超越GPT-4o",
+    "collected_at": "2026-05-18T10:09:26.927632"
   },
   {
     "id": "4599d96ab597",
@@ -348,16 +468,16 @@
     "collected_at": "2026-05-18T10:11:51.471099"
   },
   {
-    "id": "55f1507da8bc",
-    "title": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
-    "url": "https://www.qbitai.com/2026/05/419272.html",
+    "id": "88c22085cb93",
+    "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
+    "url": "https://www.qbitai.com/2026/05/419373.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-18T05:59:37",
-    "summary": "Lecun这次是真跟Hinton爆了……",
-    "collected_at": "2026-05-18T10:09:26.927737"
+    "published": "2026-05-18T06:44:04",
+    "summary": "隐私和性能我全都要",
+    "collected_at": "2026-05-18T10:09:26.927667"
   },
   {
     "id": "cb3e80117bcb",
@@ -372,16 +492,16 @@
     "collected_at": "2026-05-18T10:11:51.471195"
   },
   {
-    "id": "68ab03b837ab",
-    "title": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
-    "url": "https://www.qbitai.com/2026/05/419256.html",
+    "id": "55f1507da8bc",
+    "title": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
+    "url": "https://www.qbitai.com/2026/05/419272.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-18T05:08:22",
-    "summary": "更有NLPCC2026直通名额",
-    "collected_at": "2026-05-18T10:09:26.927765"
+    "published": "2026-05-18T05:59:37",
+    "summary": "Lecun这次是真跟Hinton爆了……",
+    "collected_at": "2026-05-18T10:09:26.927737"
   },
   {
     "id": "b576102a639d",
@@ -394,6 +514,18 @@
     "published": "2026-05-18T04:00:00",
     "summary": "arXiv:2605.15205v1 Announce Type: new Abstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and humans. However, the existing benchmarks often measure ToM capability improvement through story-readi",
     "collected_at": "2026-05-18T10:11:51.471297"
+  },
+  {
+    "id": "68ab03b837ab",
+    "title": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
+    "url": "https://www.qbitai.com/2026/05/419256.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-18T05:08:22",
+    "summary": "更有NLPCC2026直通名额",
+    "collected_at": "2026-05-18T10:09:26.927765"
   },
   {
     "id": "3422225167cb",
@@ -3466,137 +3598,5 @@
     "published": "2026-05-14T04:00:00",
     "summary": "arXiv:2605.12718v1 Announce Type: new Abstract: Multi-agent debate has emerged as a promising approach for improving LLM reasoning on ground-truth tasks, yet current methodologies face certain structural limitations: debate tends to induce a martingale over belief trajectories, majority voting accou",
     "collected_at": "2026-05-14T08:43:07.550542"
-  },
-  {
-    "id": "57563748c5fe",
-    "title": "Multi-Rollout On-Policy Distillation via Peer Successes and Failures",
-    "url": "https://arxiv.org/abs/2605.12652",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12652v1 Announce Type: new Abstract: Large language models are often post-trained with sparse verifier rewards, which indicate whether a sampled trajectory succeeds but provide limited guidance about where reasoning succeeds or fails. On-policy distillation (OPD) offers denser token-level",
-    "collected_at": "2026-05-14T08:43:07.932752"
-  },
-  {
-    "id": "8338620775e9",
-    "title": "BEHAVE: A Hybrid AI Framework for Real-Time Modeling of Collective Human Dynamics",
-    "url": "https://arxiv.org/abs/2605.12730",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12730v1 Announce Type: new Abstract: Existing AI systems for modeling human behavior operate at the level of individuals or detect events after they occur. As a result, they systematically fail to capture the collective dynamics that determine whether a group remains stable or transitions",
-    "collected_at": "2026-05-14T08:43:07.550632"
-  },
-  {
-    "id": "c8b907214751",
-    "title": "Plan Before You Trade: Inference-Time Optimization for RL Trading Agents",
-    "url": "https://arxiv.org/abs/2605.12653",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12653v1 Announce Type: new Abstract: Reinforcement learning agents for portfolio management are typically trained and deployed as static policies, with no mechanism for using price forecasts at inference time. We propose $\\text{FPILOT}$ (**Fin**ancial **P**lugin **I**nference-time **L**ea",
-    "collected_at": "2026-05-14T08:43:07.932829"
-  },
-  {
-    "id": "332f4106a728",
-    "title": "State-Centric Decision Process",
-    "url": "https://arxiv.org/abs/2605.12755",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12755v1 Announce Type: new Abstract: Language environments such as web browsers, code terminals, and interactive simulations emit raw text rather than states, and provide none of the runtime structure that MDP analysis requires. No explicit state space, no observation-to-state mapping, no",
-    "collected_at": "2026-05-14T08:43:07.550748"
-  },
-  {
-    "id": "083dd613984b",
-    "title": "scShapeBench: Discovering geometry from high dimensional scRNAseq data",
-    "url": "https://arxiv.org/abs/2605.12662",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12662v1 Announce Type: new Abstract: High-dimensional point cloud data arise across many scientific domains, especially single-cell biology. The shapes or topologies of these datasets determine the types of information that can be extracted. For example, clustered data supports cell-type",
-    "collected_at": "2026-05-14T08:43:07.932915"
-  },
-  {
-    "id": "e722a8fa16f3",
-    "title": "PROMETHEUS: Automating Deep Causal Research Integrating Text, Data and Models",
-    "url": "https://arxiv.org/abs/2605.12835",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12835v1 Announce Type: new Abstract: Large language models can extract local causal claims from text, but those claims become more useful when organized as persistent, navigable world models rather than as flat summaries. We introduce PROMETHEUS, a framework that turns retrieved literatur",
-    "collected_at": "2026-05-14T08:43:07.550840"
-  },
-  {
-    "id": "201ddf390215",
-    "title": "ODRPO: Ordinal Decompositions of Discrete Rewards for Robust Policy Optimization",
-    "url": "https://arxiv.org/abs/2605.12667",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12667v1 Announce Type: new Abstract: The alignment of Large Language Models (LLMs) utilizes Reinforcement Learning from AI Feedback (RLAIF) for non-verifiable domains such as long-form question answering and open-ended instruction following. These domains often rely on LLM based auto-rate",
-    "collected_at": "2026-05-14T08:43:07.933000"
-  },
-  {
-    "id": "db21c1ae19c7",
-    "title": "Multimodal Hidden Markov Models for Persistent Emotional State Tracking",
-    "url": "https://arxiv.org/abs/2605.12838",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12838v1 Announce Type: new Abstract: Tracking an interpretable emotional arc of a conversation via the sentiment of individual utterances processed as a whole is central to both understanding and guiding communication in applied, especially clinical, conversational contexts. Existing appr",
-    "collected_at": "2026-05-14T08:43:07.550941"
-  },
-  {
-    "id": "72c0e7e001d1",
-    "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction",
-    "url": "https://arxiv.org/abs/2605.12683",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12683v1 Announce Type: new Abstract: Reconstructing nonlinear dynamical systems (DS) from data (DSR) is a fundamental challenge in science and engineering, but it inherently relies on sequential models. Recent breakthroughs for sequential models have produced algorithms that parallelize c",
-    "collected_at": "2026-05-14T08:43:07.933082"
-  },
-  {
-    "id": "348f8f9f6d10",
-    "title": "Moltbook Moderation: Uncovering Hidden Intent Through Multi-Turn Dialogue",
-    "url": "https://arxiv.org/abs/2605.12856",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12856v1 Announce Type: new Abstract: The emergence of multi-agent systems introduces novel moderation challenges that extend beyond content filtering. Agents with {\\em malicious intent} may contribute harmful content that appears benign to evade content-based moderation, while compromisin",
-    "collected_at": "2026-05-14T08:43:07.551017"
-  },
-  {
-    "id": "499fabde8436",
-    "title": "A Unified Perspective for Learning Graph Representations Across Multi-Level Abstractions",
-    "url": "https://arxiv.org/abs/2605.12685",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12685v1 Announce Type: new Abstract: Graph Self-Supervised Learning (GSSL) has emerged as a powerful paradigm for generating high-quality representations for graph-structured data. While multi-scale graph contrastive learning has received increasing attention, many existing methods still",
-    "collected_at": "2026-05-14T08:43:07.933189"
   }
 ]
