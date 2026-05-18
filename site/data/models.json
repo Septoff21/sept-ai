@@ -4952,6 +4952,26 @@
     "collected_at": "2026-04-30T19:31:30.447498"
   },
   {
+    "id": "hf-facebook--VGGT-Omega",
+    "name": "facebook/VGGT-Omega",
+    "display_name": "VGGT-Omega",
+    "url": "https://huggingface.co/facebook/VGGT-Omega",
+    "author": "facebook",
+    "pipeline_tag": "",
+    "likes": 48,
+    "downloads": 0,
+    "tags": [
+      "facebook",
+      "meta-pytorch",
+      "en",
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ],
+    "created_at": "2026-03-17T20:47:45.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-18T10:12:07.705005"
+  },
+  {
     "id": "hf-ibm-granite--granite-speech-4.1-2b",
     "name": "ibm-granite/granite-speech-4.1-2b",
     "display_name": "granite-speech-4.1-2b",
@@ -9440,6 +9460,56 @@
     "created_at": "2026-05-17T13:25:02.000Z",
     "source": "hf-newest",
     "collected_at": "2026-05-17T13:28:10.775916"
+  },
+  {
+    "id": "hf-calpycbara--sponsorshipsmart-indobert",
+    "name": "calpycbara/sponsorshipsmart-indobert",
+    "display_name": "sponsorshipsmart-indobert",
+    "url": "https://huggingface.co/calpycbara/sponsorshipsmart-indobert",
+    "author": "calpycbara",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-18T10:07:33.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-18T10:12:07.803131"
+  },
+  {
+    "id": "hf-taylorsweeit--fsmn-vad-mlx",
+    "name": "taylorsweeit/fsmn-vad-mlx",
+    "display_name": "fsmn-vad-mlx",
+    "url": "https://huggingface.co/taylorsweeit/fsmn-vad-mlx",
+    "author": "taylorsweeit",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "safetensors",
+      "fsmn",
+      "region:us"
+    ],
+    "created_at": "2026-05-18T10:04:17.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-18T10:12:07.803150"
+  },
+  {
+    "id": "hf-Karan260606--safeguard",
+    "name": "Karan260606/safeguard",
+    "display_name": "safeguard",
+    "url": "https://huggingface.co/Karan260606/safeguard",
+    "author": "Karan260606",
+    "pipeline_tag": "",
+    "likes": 1,
+    "downloads": 0,
+    "tags": [
+      "region:us"
+    ],
+    "created_at": "2026-05-18T09:57:14.000Z",
+    "source": "hf-newest",
+    "collected_at": "2026-05-18T10:12:07.803183"
   },
   {
     "id": "hf-John6666--diving-illustrious-real-asian-v50-sdxl",
@@ -23535,106 +23605,5 @@
     "created_at": "2026-04-26T18:59:45.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638180"
-  },
-  {
-    "id": "hf-piyushptiwari--ebrm-v2-qwen3-4b",
-    "name": "piyushptiwari/ebrm-v2-qwen3-4b",
-    "display_name": "ebrm-v2-qwen3-4b",
-    "url": "https://huggingface.co/piyushptiwari/ebrm-v2-qwen3-4b",
-    "author": "piyushptiwari",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "pytorch",
-      "ebrm",
-      "energy-based",
-      "math-reasoning",
-      "gsm8k",
-      "base_model:Qwen/Qwen3-4B",
-      "base_model:finetune:Qwen/Qwen3-4B",
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:59:43.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638183"
-  },
-  {
-    "id": "hf-anuraagkalvani--tally-qwen-2.5-coder-Q4_K_M-GGUF",
-    "name": "anuraagkalvani/tally-qwen-2.5-coder-Q4_K_M-GGUF",
-    "display_name": "tally-qwen-2.5-coder-Q4_K_M-GGUF",
-    "url": "https://huggingface.co/anuraagkalvani/tally-qwen-2.5-coder-Q4_K_M-GGUF",
-    "author": "anuraagkalvani",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "gguf",
-      "text-generation-inference",
-      "unsloth",
-      "qwen2",
-      "llama-cpp",
-      "gguf-my-repo",
-      "en",
-      "base_model:anuraagkalvani/tally-qwen-2.5-coder",
-      "base_model:quantized:anuraagkalvani/tally-qwen-2.5-coder",
-      "license:apache-2.0",
-      "endpoints_compatible",
-      "region:us",
-      "conversational"
-    ],
-    "created_at": "2026-04-26T18:59:31.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638186"
-  },
-  {
-    "id": "hf-Nodmix--Qwen2.5-Coder-14B-Instruct-GGUF",
-    "name": "Nodmix/Qwen2.5-Coder-14B-Instruct-GGUF",
-    "display_name": "Qwen2.5-Coder-14B-Instruct-GGUF",
-    "url": "https://huggingface.co/Nodmix/Qwen2.5-Coder-14B-Instruct-GGUF",
-    "author": "Nodmix",
-    "pipeline_tag": "text-generation",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "gguf",
-      "code",
-      "codeqwen",
-      "chat",
-      "qwen",
-      "qwen-coder",
-      "text-generation",
-      "en",
-      "arxiv:2409.12186",
-      "arxiv:2407.10671",
-      "base_model:Qwen/Qwen2.5-Coder-14B-Instruct",
-      "base_model:quantized:Qwen/Qwen2.5-Coder-14B-Instruct",
-      "license:apache-2.0",
-      "endpoints_compatible",
-      "region:us",
-      "conversational"
-    ],
-    "created_at": "2026-04-26T18:59:29.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638189"
-  },
-  {
-    "id": "hf-geocketa--Hatolic",
-    "name": "geocketa/Hatolic",
-    "display_name": "Hatolic",
-    "url": "https://huggingface.co/geocketa/Hatolic",
-    "author": "geocketa",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T18:59:26.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638192"
   }
 ]
