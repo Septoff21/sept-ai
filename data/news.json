@@ -1,5 +1,17 @@
 [
   {
+    "id": "8f59029ef9e0",
+    "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+    "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T19:15:31",
+    "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
+    "collected_at": "2026-05-19T19:56:46.157246"
+  },
+  {
     "id": "a4f19af1b993",
     "title": "蜂群Agent来了！openJiuwen社区发布JiuwenSwarm，引领Coordination Engineering新范式",
     "url": "https://www.infoq.cn/article/eyoS3WVdltWbqJXuygQi?utm_source=rss&utm_medium=article",
@@ -12,16 +24,304 @@
     "collected_at": "2026-05-19T15:32:04.974462"
   },
   {
-    "id": "6dfb885ed4e2",
-    "title": "Understanding the modern cybercrime landscape",
-    "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
-    "source": "MIT Tech Review",
+    "id": "ca3eef7aa463",
+    "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
+    "url": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
+    "source": "Ars Technica AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-19T13:00:00",
-    "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typi",
-    "collected_at": "2026-05-19T15:31:49.529411"
+    "published": "2026-05-19T18:27:08",
+    "summary": "SSH keys, plaintext passwords, other sensitive data had been up since November 2025.",
+    "collected_at": "2026-05-19T19:56:46.960026"
+  },
+  {
+    "id": "536bff690f24",
+    "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
+    "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T18:00:00",
+    "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SUV to help explain and interpret its surroundings to vehicle owners. The upgrade is possible thanks t",
+    "collected_at": "2026-05-19T19:56:46.423494"
+  },
+  {
+    "id": "70e8d0fce37f",
+    "title": "Google’s Genie world model can now simulate real streets with Street View",
+    "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:51:39",
+    "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+    "collected_at": "2026-05-19T19:56:46.157315"
+  },
+  {
+    "id": "4aff86b3999c",
+    "title": "The 13 biggest announcements at Google I/O 2026",
+    "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:54:33",
+    "summary": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura smart glasses. If you weren't able to tune into the event's livestream today or follow along with our",
+    "collected_at": "2026-05-19T19:56:46.423532"
+  },
+  {
+    "id": "333d754287f2",
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:51:30",
+    "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+    "collected_at": "2026-05-19T19:56:46.157343"
+  },
+  {
+    "id": "388f97def8c6",
+    "title": "Gemini 3.5 Flash: frontier intelligence with action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-19T17:49:50",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/ Comments URL: https://news.ycombinator.com/item?id=48196656 Points: 173 # Comments: 1",
+    "collected_at": "2026-05-19T19:56:47.804427"
+  },
+  {
+    "id": "be46860691f5",
+    "title": "How to use Google’s new information agents",
+    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:50:00",
+    "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+    "collected_at": "2026-05-19T19:56:46.157376"
+  },
+  {
+    "id": "0b85bf4e9eb4",
+    "title": "Google wants to compete with Anthropic’s Mythos",
+    "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:48:22",
+    "summary": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted last October. The difference is that Google is now making the tool more widely available externally -",
+    "collected_at": "2026-05-19T19:56:46.423578"
+  },
+  {
+    "id": "ae91773f2b55",
+    "title": "Google Search as you know it is over",
+    "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:46:00",
+    "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
+    "collected_at": "2026-05-19T19:56:46.157415"
+  },
+  {
+    "id": "47d85c366b6f",
+    "title": "Google can now vibe-code you an Android app",
+    "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps. With Google AI Studio, you can prompt your idea for an app and preview it with an embedded emulator of Android. When you want to try it out on [&#8230;]",
+    "collected_at": "2026-05-19T19:56:46.423608"
+  },
+  {
+    "id": "6a3556082c31",
+    "title": "Google’s AI now lets you talk to your Gmail inbox",
+    "url": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+    "collected_at": "2026-05-19T19:56:46.157446"
+  },
+  {
+    "id": "91ed7323a1e2",
+    "title": "Would you let robots spend your money? Google is betting on it",
+    "url": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google is going all in on AI-driven shopping even as some competitors back off. At Google I/O, the company unveiled the latest iteration of its AI commerce tools: a \"Universal Cart\" that works across different retailers and Google products like Gemini - and eventually YouTube and Gmail, too. Users c",
+    "collected_at": "2026-05-19T19:56:46.423638"
+  },
+  {
+    "id": "8a8955bb3b4f",
+    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+    "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+    "collected_at": "2026-05-19T19:56:46.157480"
+  },
+  {
+    "id": "39e619a0d38b",
+    "title": "Google Search is getting its biggest changes ever",
+    "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated summaries that appear at the top of search results, and AI Mode, Google's chatbot-like search exper",
+    "collected_at": "2026-05-19T19:56:46.423667"
+  },
+  {
+    "id": "9e74f9cc3573",
+    "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+    "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
+    "collected_at": "2026-05-19T19:56:46.157519"
+  },
+  {
+    "id": "b8b473395d6c",
+    "title": "Gmail is going to start talking to you",
+    "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that's basically the Gemini Live experience but built specifically for your inbox. To use Gmail Live, tap an icon that will appear in your search bar and just start talking. In a press briefing, a Google e",
+    "collected_at": "2026-05-19T19:56:46.423695"
+  },
+  {
+    "id": "fc249c0e6342",
+    "title": "OpenAI is making it easier to check if an image was made by their models",
+    "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+    "collected_at": "2026-05-19T19:56:46.157543"
+  },
+  {
+    "id": "e02f7158768d",
+    "title": "Google is launching its own version of OpenClaw",
+    "url": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google is launching its own take on OpenClaw, the buzzy AI agent platform that caused a stir in the tech industry earlier this year. Announced during Google I/O 2026, Gemini Spark is an always-on AI agent that can write emails for you, create continually updated study guides, monitor credit card sta",
+    "collected_at": "2026-05-19T19:56:46.423724"
+  },
+  {
+    "id": "b409fc297d54",
+    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
+    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside Antigravity 2.0 launch.",
+    "collected_at": "2026-05-19T19:56:46.157566"
+  },
+  {
+    "id": "05ca026179d4",
+    "title": "Google Pics is a new app that tries to fix AI image editing",
+    "url": "https://www.theverge.com/tech/933026/google-pics-app-workspace-ai-images-io-2026",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google is launching a new AI image generation app to Workspace that it's calling Pics, and it has a new feature to try and reduce the hassle of iterating on AI images: Instead of having to write an entire prompt just to change one small aspect of an image, you'll be able to click on [&#8230;]",
+    "collected_at": "2026-05-19T19:56:46.423763"
+  },
+  {
+    "id": "0dfb50207c61",
+    "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+    "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+    "collected_at": "2026-05-19T19:56:46.157597"
+  },
+  {
+    "id": "5f9cbec01a39",
+    "title": "Google is trying to make deepfake detection more accessible for everyone",
+    "url": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google is expanding AI detection capabilities to Chrome and Search, with the aim of making it easier for people to identify deepfakes. The updates, announced at Google I/O today, cover not only SynthID - the invisible watermarking technology developed by Google DeepMind - but also content embedded w",
+    "collected_at": "2026-05-19T19:56:46.423793"
+  },
+  {
+    "id": "6e6d5dc266f7",
+    "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+    "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+    "collected_at": "2026-05-19T19:56:46.157622"
+  },
+  {
+    "id": "e7785d8c77e3",
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "source": "VentureBeat AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-19T17:45:00",
+    "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google ann",
+    "collected_at": "2026-05-19T19:56:47.506262"
+  },
+  {
+    "id": "b89662a78f54",
+    "title": "Google adds voice-based prompting to Docs and Keep",
+    "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
+    "collected_at": "2026-05-19T19:56:46.157643"
   },
   {
     "id": "f628bd432f07",
@@ -36,16 +336,16 @@
     "collected_at": "2026-05-19T15:32:04.974560"
   },
   {
-    "id": "17cca9af0713",
-    "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-    "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-    "source": "MIT Tech Review",
+    "id": "584adb990875",
+    "title": "Google just declared itself a contender in AI design",
+    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-19T12:10:00",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its fo",
-    "collected_at": "2026-05-19T15:31:49.529482"
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+    "collected_at": "2026-05-19T19:56:46.157664"
   },
   {
     "id": "ac729c77232a",
@@ -60,16 +360,16 @@
     "collected_at": "2026-05-19T15:32:04.974593"
   },
   {
-    "id": "84f3f3412343",
-    "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
-    "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
-    "source": "MIT Tech Review",
+    "id": "d2b4dde90605",
+    "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+    "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-19T12:00:00",
-    "summary": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.&#160; Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial",
-    "collected_at": "2026-05-19T15:31:49.529577"
+    "priority": 1,
+    "published": "2026-05-19T17:45:00",
+    "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
+    "collected_at": "2026-05-19T19:56:46.157707"
   },
   {
     "id": "eea702ad60ee",
@@ -84,16 +384,40 @@
     "collected_at": "2026-05-19T15:32:04.974632"
   },
   {
-    "id": "4dd4fb882725",
-    "title": "Gemini is in danger of going full Copilot",
-    "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
-    "source": "The Verge AI",
+    "id": "3d5eb3ad5cd3",
+    "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+    "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-19T10:30:00",
-    "summary": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's [&#8230",
-    "collected_at": "2026-05-19T15:31:49.442574"
+    "published": "2026-05-19T17:45:00",
+    "summary": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
+    "collected_at": "2026-05-19T19:56:46.157755"
+  },
+  {
+    "id": "2387fc59c255",
+    "title": "AI is too expensive",
+    "url": "https://www.wheresyoured.at/ai-is-too-expensive/",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-19T15:59:03",
+    "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 118 # Comments: 127",
+    "collected_at": "2026-05-19T19:56:47.804457"
+  },
+  {
+    "id": "a173121408da",
+    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+    "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T15:43:04",
+    "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
+    "collected_at": "2026-05-19T19:56:46.157795"
   },
   {
     "id": "3de598b9c98c",
@@ -108,16 +432,16 @@
     "collected_at": "2026-05-19T15:32:04.974661"
   },
   {
-    "id": "f111d43562e1",
-    "title": "[AINews] How to land a job at a frontier lab (on Pretraining)",
-    "url": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
-    "source": "Latent Space",
+    "id": "6dfb885ed4e2",
+    "title": "Understanding the modern cybercrime landscape",
+    "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
+    "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-19T07:31:40",
-    "summary": "a quiet day before google i/o lets us amplify a notable blogpost",
-    "collected_at": "2026-05-19T15:31:59.699028"
+    "priority": 2,
+    "published": "2026-05-19T13:00:00",
+    "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typi",
+    "collected_at": "2026-05-19T15:31:49.529411"
   },
   {
     "id": "a9a62b503ca1",
@@ -132,16 +456,52 @@
     "collected_at": "2026-05-19T15:32:04.974708"
   },
   {
-    "id": "ae181e8b7575",
-    "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
-    "url": "https://www.qbitai.com/2026/05/420084.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
+    "id": "17cca9af0713",
+    "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+    "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-19T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its fo",
+    "collected_at": "2026-05-19T15:31:49.529482"
+  },
+  {
+    "id": "e4af29ed3a8d",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "source": "OpenAI Blog",
+    "lang": "en",
+    "channel": "en",
     "priority": 1,
-    "published": "2026-05-19T07:03:20",
-    "summary": "发布MT Lambda",
-    "collected_at": "2026-05-19T15:29:34.672706"
+    "published": "2026-05-19T10:45:00",
+    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "collected_at": "2026-05-19T19:56:50.169699"
+  },
+  {
+    "id": "84f3f3412343",
+    "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+    "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-19T12:00:00",
+    "summary": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.&#160; Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial",
+    "collected_at": "2026-05-19T15:31:49.529577"
+  },
+  {
+    "id": "4dd4fb882725",
+    "title": "Gemini is in danger of going full Copilot",
+    "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T10:30:00",
+    "summary": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's [&#8230",
+    "collected_at": "2026-05-19T15:31:49.442574"
   },
   {
     "id": "17608ae975e6",
@@ -156,16 +516,28 @@
     "collected_at": "2026-05-19T03:50:26.392874"
   },
   {
-    "id": "5615c63b7959",
-    "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
-    "url": "https://www.qbitai.com/2026/05/419990.html",
+    "id": "f111d43562e1",
+    "title": "[AINews] How to land a job at a frontier lab (on Pretraining)",
+    "url": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
+    "source": "Latent Space",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-19T07:31:40",
+    "summary": "a quiet day before google i/o lets us amplify a notable blogpost",
+    "collected_at": "2026-05-19T15:31:59.699028"
+  },
+  {
+    "id": "ae181e8b7575",
+    "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+    "url": "https://www.qbitai.com/2026/05/420084.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-19T06:07:48",
-    "summary": "1/10成本、Opus 4.7级表现",
-    "collected_at": "2026-05-19T15:29:34.672751"
+    "published": "2026-05-19T07:03:20",
+    "summary": "发布MT Lambda",
+    "collected_at": "2026-05-19T15:29:34.672706"
   },
   {
     "id": "7d98d58c716d",
@@ -180,16 +552,16 @@
     "collected_at": "2026-05-19T15:31:57.534970"
   },
   {
-    "id": "eef2c24f2475",
-    "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
-    "url": "https://www.qbitai.com/2026/05/419913.html",
+    "id": "5615c63b7959",
+    "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+    "url": "https://www.qbitai.com/2026/05/419990.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-19T05:11:31",
-    "summary": "赛车有张雪，智驾有文远",
-    "collected_at": "2026-05-19T15:29:34.672787"
+    "published": "2026-05-19T06:07:48",
+    "summary": "1/10成本、Opus 4.7级表现",
+    "collected_at": "2026-05-19T15:29:34.672751"
   },
   {
     "id": "bf2e37a6b3cc",
@@ -204,16 +576,16 @@
     "collected_at": "2026-05-19T15:31:57.535060"
   },
   {
-    "id": "ba67fca9c5f4",
-    "title": "报告：2025年中国AI云市场规模超567亿元，阿里云AI IaaS、MaaS双料冠军",
-    "url": "https://36kr.com/newsflashes/3815679486909954?f=rss",
-    "source": "36氪",
+    "id": "eef2c24f2475",
+    "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
+    "url": "https://www.qbitai.com/2026/05/419913.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-19T03:49:53",
-    "summary": "36氪获悉，5月19日，市场调研机构英富曼（Omdia）发布最新的《中国AI云市场份额2025》报告，2025年中国AI云市场总规模达567亿元人民币，其中，阿里云在AI IaaS和MaaS两大领域均位列第一，总份额从上半年的35.8%上涨至38.1%，整体稳居第一。",
-    "collected_at": "2026-05-19T03:50:24.827236"
+    "priority": 1,
+    "published": "2026-05-19T05:11:31",
+    "summary": "赛车有张雪，智驾有文远",
+    "collected_at": "2026-05-19T15:29:34.672787"
   },
   {
     "id": "4120c01efe2e",
@@ -228,16 +600,16 @@
     "collected_at": "2026-05-19T15:31:57.535126"
   },
   {
-    "id": "009b5791b825",
-    "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
-    "url": "https://www.qbitai.com/2026/05/419901.html",
-    "source": "量子位",
+    "id": "ba67fca9c5f4",
+    "title": "报告：2025年中国AI云市场规模超567亿元，阿里云AI IaaS、MaaS双料冠军",
+    "url": "https://36kr.com/newsflashes/3815679486909954?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-19T03:25:02",
-    "summary": "提前查好路况，定好闹钟，明天线下见！",
-    "collected_at": "2026-05-19T15:29:34.672817"
+    "priority": 4,
+    "published": "2026-05-19T03:49:53",
+    "summary": "36氪获悉，5月19日，市场调研机构英富曼（Omdia）发布最新的《中国AI云市场份额2025》报告，2025年中国AI云市场总规模达567亿元人民币，其中，阿里云在AI IaaS和MaaS两大领域均位列第一，总份额从上半年的35.8%上涨至38.1%，整体稳居第一。",
+    "collected_at": "2026-05-19T03:50:24.827236"
   },
   {
     "id": "e8ad4f411e15",
@@ -252,16 +624,16 @@
     "collected_at": "2026-05-19T15:31:57.535203"
   },
   {
-    "id": "3d13b4f08cfd",
-    "title": "YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？",
-    "url": "https://sspai.com/post/109889",
-    "source": "少数派",
+    "id": "009b5791b825",
+    "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+    "url": "https://www.qbitai.com/2026/05/419901.html",
+    "source": "量子位",
     "lang": "zh",
     "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-19T03:04:28",
-    "summary": "AI虽然现在具备了干活的能力，但对于很多人来说，它依旧只是个Chatbot。因为，大多数AI依然停留在屏幕里（当然，具身智能另说）：你需要打开手机或电脑，进入某个App，手动复制消息、描述背景、然后不 ...查看全文",
-    "collected_at": "2026-05-19T15:32:11.266572"
+    "priority": 1,
+    "published": "2026-05-19T03:25:02",
+    "summary": "提前查好路况，定好闹钟，明天线下见！",
+    "collected_at": "2026-05-19T15:29:34.672817"
   },
   {
     "id": "3c032ffabe9b",
@@ -276,16 +648,16 @@
     "collected_at": "2026-05-19T15:31:57.535268"
   },
   {
-    "id": "0cd08b5c8de6",
-    "title": "矩阵超智发布MATRIX-3全能旗舰级人形机器人",
-    "url": "https://36kr.com/newsflashes/3815634489433865?f=rss",
-    "source": "36氪",
+    "id": "3d13b4f08cfd",
+    "title": "YoooClaw C·ONE 体验：为 AI Agent 而生的硬件，怎样构筑了数字化的「我」？",
+    "url": "https://sspai.com/post/109889",
+    "source": "少数派",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-19T03:04:07",
-    "summary": "36氪获悉，5月18日，矩阵超智正式发布MATRIX-3全能旗舰级人形机器人，MATRIX-3身高170cm、体重65kg，搭载WAVE物理基座模型。同时，矩阵超智宣布MATRIX-3系列正式面向全球发售。",
-    "collected_at": "2026-05-19T03:50:24.827505"
+    "published": "2026-05-19T03:04:28",
+    "summary": "AI虽然现在具备了干活的能力，但对于很多人来说，它依旧只是个Chatbot。因为，大多数AI依然停留在屏幕里（当然，具身智能另说）：你需要打开手机或电脑，进入某个App，手动复制消息、描述背景、然后不 ...查看全文",
+    "collected_at": "2026-05-19T15:32:11.266572"
   },
   {
     "id": "143860670dd5",
@@ -300,16 +672,16 @@
     "collected_at": "2026-05-19T15:31:57.535332"
   },
   {
-    "id": "ac764f460228",
-    "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
-    "url": "https://36kr.com/p/3814860909600261?f=rss",
+    "id": "0cd08b5c8de6",
+    "title": "矩阵超智发布MATRIX-3全能旗舰级人形机器人",
+    "url": "https://36kr.com/newsflashes/3815634489433865?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-19T02:00:00",
-    "summary": "文｜王欣逸 编辑｜邱晓芬 一句话介绍 鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。 融资进展 近日，鲸跃动力已完成由星海图独家领投的数千万元种子轮融资，深渡资本担任独家财务顾问。 本轮融资将用于团队增长、产品的量产交付、专家技能的研发以及数采运营相关工作。 星海图表示：“具身智能的下半场，拼的是‘数据效率×模型泛化×末端执行’的系统能力。鲸跃动力",
-    "collected_at": "2026-05-19T03:50:24.825909"
+    "published": "2026-05-19T03:04:07",
+    "summary": "36氪获悉，5月18日，矩阵超智正式发布MATRIX-3全能旗舰级人形机器人，MATRIX-3身高170cm、体重65kg，搭载WAVE物理基座模型。同时，矩阵超智宣布MATRIX-3系列正式面向全球发售。",
+    "collected_at": "2026-05-19T03:50:24.827505"
   },
   {
     "id": "f594db8aff9e",
@@ -324,16 +696,16 @@
     "collected_at": "2026-05-19T15:31:57.535393"
   },
   {
-    "id": "498c7192c6c5",
-    "title": "The last six months in LLMs in five minutes",
-    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-19T01:09:44",
-    "summary": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning talk at PyCon US 2026, attempting to summarize the last six months of developments in LLMs in five minutes. # Six mont",
-    "collected_at": "2026-05-19T03:50:21.548812"
+    "id": "ac764f460228",
+    "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+    "url": "https://36kr.com/p/3814860909600261?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-19T02:00:00",
+    "summary": "文｜王欣逸 编辑｜邱晓芬 一句话介绍 鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。 融资进展 近日，鲸跃动力已完成由星海图独家领投的数千万元种子轮融资，深渡资本担任独家财务顾问。 本轮融资将用于团队增长、产品的量产交付、专家技能的研发以及数采运营相关工作。 星海图表示：“具身智能的下半场，拼的是‘数据效率×模型泛化×末端执行’的系统能力。鲸跃动力",
+    "collected_at": "2026-05-19T03:50:24.825909"
   },
   {
     "id": "e6daa69fe20d",
@@ -348,16 +720,16 @@
     "collected_at": "2026-05-19T15:31:57.535482"
   },
   {
-    "id": "9b154231c9e4",
-    "title": "Here’s why Elon Musk lost his suit against OpenAI",
-    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "source": "MIT Tech Review",
+    "id": "05d7d19cda9d",
+    "title": "The American Rebellion Against AI Is Gaining Steam",
+    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-19T00:53:10",
-    "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk an",
-    "collected_at": "2026-05-19T03:50:11.826014"
+    "published": "2026-05-19T01:51:48",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529 Comments URL: https://news.ycombinator.com/item?id=48188310 Points: 120 # Comments: 121",
+    "collected_at": "2026-05-19T19:56:47.804484"
   },
   {
     "id": "76d03bf2af3a",
@@ -372,16 +744,16 @@
     "collected_at": "2026-05-19T15:31:57.535605"
   },
   {
-    "id": "d8859cfa6328",
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "source": "TechCrunch AI",
+    "id": "498c7192c6c5",
+    "title": "The last six months in LLMs in five minutes",
+    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+    "source": "Simon Willison",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-18T21:29:31",
-    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-    "collected_at": "2026-05-19T03:50:11.585648"
+    "priority": 2,
+    "published": "2026-05-19T01:09:44",
+    "summary": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning talk at PyCon US 2026, attempting to summarize the last six months of developments in LLMs in five minutes. # Six mont",
+    "collected_at": "2026-05-19T03:50:21.548812"
   },
   {
     "id": "230a5bbb6695",
@@ -396,16 +768,16 @@
     "collected_at": "2026-05-19T15:31:57.535726"
   },
   {
-    "id": "d023da2950a3",
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "source": "TechCrunch AI",
+    "id": "9b154231c9e4",
+    "title": "Here’s why Elon Musk lost his suit against OpenAI",
+    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "source": "MIT Tech Review",
     "lang": "en",
     "channel": "en",
-    "priority": 1,
-    "published": "2026-05-18T19:27:52",
-    "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
-    "collected_at": "2026-05-18T19:49:36.655396"
+    "priority": 2,
+    "published": "2026-05-19T00:53:10",
+    "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk an",
+    "collected_at": "2026-05-19T03:50:11.826014"
   },
   {
     "id": "63d3da72be98",
@@ -420,16 +792,16 @@
     "collected_at": "2026-05-19T15:31:57.535811"
   },
   {
-    "id": "3be90d994a82",
-    "title": "Musk v. Altman proved that AI is led by the wrong people",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-    "source": "The Verge AI",
+    "id": "d8859cfa6328",
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-18T19:00:00",
-    "summary": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monda",
-    "collected_at": "2026-05-18T19:49:36.854641"
+    "published": "2026-05-18T21:29:31",
+    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+    "collected_at": "2026-05-19T03:50:11.585648"
   },
   {
     "id": "c063a2f704fa",
@@ -444,16 +816,16 @@
     "collected_at": "2026-05-19T15:31:57.535902"
   },
   {
-    "id": "4f2f8f4da2b7",
-    "title": "Elon Musk loses his case against Sam Altman",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
-    "source": "The Verge AI",
+    "id": "d023da2950a3",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-18T17:39:32",
-    "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, [&",
-    "collected_at": "2026-05-18T19:49:36.854745"
+    "published": "2026-05-18T19:27:52",
+    "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
+    "collected_at": "2026-05-18T19:49:36.655396"
   },
   {
     "id": "d208eb90aafa",
@@ -468,16 +840,16 @@
     "collected_at": "2026-05-19T15:31:57.535999"
   },
   {
-    "id": "824e77ca4c6b",
-    "title": "What to expect from Google this week",
-    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-    "source": "MIT Tech Review",
+    "id": "3be90d994a82",
+    "title": "Musk v. Altman proved that AI is led by the wrong people",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+    "source": "The Verge AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-18T17:35:43",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G",
-    "collected_at": "2026-05-18T19:49:37.036965"
+    "priority": 1,
+    "published": "2026-05-18T19:00:00",
+    "summary": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monda",
+    "collected_at": "2026-05-18T19:49:36.854641"
   },
   {
     "id": "b93dc7339dc7",
@@ -492,16 +864,16 @@
     "collected_at": "2026-05-19T15:31:57.536083"
   },
   {
-    "id": "f568df07558f",
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "source": "TechCrunch AI",
+    "id": "0c2850c01e44",
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "source": "Google DeepMind",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-18T17:34:43",
-    "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-    "collected_at": "2026-05-18T19:49:36.655434"
+    "published": "2026-05-18T18:21:39",
+    "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "collected_at": "2026-05-19T19:56:50.694598"
   },
   {
     "id": "572b2229f500",
@@ -516,16 +888,16 @@
     "collected_at": "2026-05-19T15:31:57.536170"
   },
   {
-    "id": "7734ecbd9e52",
-    "title": "Snowflake Observe：可观测性与 AI 数据云的融合 ｜ 技术趋势",
-    "url": "https://www.infoq.cn/article/saKOYsNT3R2lCY7UBSiR?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-18T17:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-18T10:11:57.731778"
+    "id": "4f2f8f4da2b7",
+    "title": "Elon Musk loses his case against Sam Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T17:39:32",
+    "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, [&",
+    "collected_at": "2026-05-18T19:49:36.854745"
   },
   {
     "id": "13515f8ae13f",
@@ -540,16 +912,16 @@
     "collected_at": "2026-05-19T15:31:57.536227"
   },
   {
-    "id": "9b3c1a541349",
-    "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
-    "url": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-18T16:39:32",
-    "summary": "提交你的问题，我们替你去问！点击查看原文>",
-    "collected_at": "2026-05-18T15:40:19.927432"
+    "id": "824e77ca4c6b",
+    "title": "What to expect from Google this week",
+    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T17:35:43",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G",
+    "collected_at": "2026-05-18T19:49:37.036965"
   },
   {
     "id": "351e4629b77a",
@@ -564,16 +936,16 @@
     "collected_at": "2026-05-19T15:31:57.536313"
   },
   {
-    "id": "13886a738598",
-    "title": "H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单",
-    "url": "https://www.infoq.cn/article/retNxLIdsyw8Hb0HlEZr?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-18T16:07:09",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-18T10:11:57.731822"
+    "id": "f568df07558f",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-18T17:34:43",
+    "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "collected_at": "2026-05-18T19:49:36.655434"
   },
   {
     "id": "45a7af693740",
@@ -588,16 +960,16 @@
     "collected_at": "2026-05-19T15:31:57.536381"
   },
   {
-    "id": "2776e1e96186",
-    "title": "曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报",
-    "url": "https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&utm_medium=article",
+    "id": "7734ecbd9e52",
+    "title": "Snowflake Observe：可观测性与 AI 数据云的融合 ｜ 技术趋势",
+    "url": "https://www.infoq.cn/article/saKOYsNT3R2lCY7UBSiR?utm_source=rss&utm_medium=article",
     "source": "InfoQ AI",
     "lang": "zh",
     "channel": "cn",
     "priority": 3,
-    "published": "2026-05-18T16:04:36",
+    "published": "2026-05-18T17:00:00",
     "summary": "点击查看原文>",
-    "collected_at": "2026-05-18T10:11:57.731858"
+    "collected_at": "2026-05-18T10:11:57.731778"
   },
   {
     "id": "de3a068c253a",
@@ -612,16 +984,16 @@
     "collected_at": "2026-05-19T15:31:57.536463"
   },
   {
-    "id": "981e2ce3b8c4",
-    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-    "source": "MIT Tech Review",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-18T16:01:39",
-    "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a c",
-    "collected_at": "2026-05-18T19:49:37.037076"
+    "id": "9b3c1a541349",
+    "title": "Golden Question 征集令｜把你的 AI 落地之问带去 Snowflake Summit 26",
+    "url": "https://xie.infoq.cn/article/80a33c078f04f989f38ed1c94?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-18T16:39:32",
+    "summary": "提交你的问题，我们替你去问！点击查看原文>",
+    "collected_at": "2026-05-18T15:40:19.927432"
   },
   {
     "id": "40c65d94e52d",
@@ -634,6 +1006,42 @@
     "published": "2026-05-19T04:00:00",
     "summary": "arXiv:2605.16348v1 Announce Type: new Abstract: Training-free guidance enables pre-trained diffusion and flow models to optimize application-specific objectives using feedback from external black-box reward functions. However, existing methods are feedback-inefficient because reward feedback is used",
     "collected_at": "2026-05-19T15:31:57.536538"
+  },
+  {
+    "id": "13886a738598",
+    "title": "H200还没到中国，Anthropic先急了：千亿美元抢芯片，转头涨价让开发者买单",
+    "url": "https://www.infoq.cn/article/retNxLIdsyw8Hb0HlEZr?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-18T16:07:09",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-18T10:11:57.731822"
+  },
+  {
+    "id": "981e2ce3b8c4",
+    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+    "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T16:01:39",
+    "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a c",
+    "collected_at": "2026-05-18T19:49:37.037076"
+  },
+  {
+    "id": "2776e1e96186",
+    "title": "曝Kimi 后训练团队研究员离职，曾为K2.5贡献者；MiniMax最新招聘，兼职也拿期权；传蜜雪CEO隔空回复黄仁勋，“大佬同款”卖爆｜AI周报",
+    "url": "https://www.infoq.cn/article/dC22NUwr2kfuqEW7bb13?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-18T16:04:36",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-18T10:11:57.731858"
   },
   {
     "id": "5fe33294ceaa",
@@ -1548,6 +1956,42 @@
     "collected_at": "2026-05-18T10:11:43.349863"
   },
   {
+    "id": "50e6453b15f5",
+    "title": "Simulate real-world places with Project Genie and Street View",
+    "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "source": "Google DeepMind",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-17T19:53:18",
+    "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+    "collected_at": "2026-05-19T19:56:50.694643"
+  },
+  {
+    "id": "004656972303",
+    "title": "An AI Hate Wave Is Here",
+    "url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-17T21:23:25",
+    "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment Comments URL: https://news.ycombinator.com/item?id=48173318 Points: 104 # Comments: 127",
+    "collected_at": "2026-05-19T19:56:47.804741"
+  },
+  {
+    "id": "750113e8e058",
+    "title": "Introducing Gemini Omni",
+    "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+    "source": "Google DeepMind",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-17T19:50:57",
+    "summary": "Introducing Gemini Omni",
+    "collected_at": "2026-05-19T19:56:50.694664"
+  },
+  {
     "id": "0687ec213c6d",
     "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
     "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
@@ -1642,6 +2086,18 @@
     "published": "2026-05-17T15:10:59",
     "summary": "人造劳动力，离普通家庭还有多远？",
     "collected_at": "2026-05-17T19:12:47.242700"
+  },
+  {
+    "id": "519b4bba1e12",
+    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+    "source": "Google DeepMind",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-17T13:50:34",
+    "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+    "collected_at": "2026-05-19T19:56:50.694717"
   },
   {
     "id": "d7845d6d9bb6",
@@ -3000,18 +3456,6 @@
     "collected_at": "2026-05-15T08:54:27.892782"
   },
   {
-    "id": "c4c541c45736",
-    "title": "datasette-llm-limits 0.1a0",
-    "url": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-15T00:42:09",
-    "summary": "Release: datasette-llm-limits 0.1a0 This plugin works in conjunction with datasette-llm and datasette-llm-accountant to let you configure a per-user (or global) spending limit for LLM usage inside of Datasette. Configuration looks something like this: plugins: datasette-llm-limits: limits: per-user-",
-    "collected_at": "2026-05-16T03:28:05.390612"
-  },
-  {
     "id": "5a25497341a9",
     "title": "A Unified Geometric Framework for Weighted Contrastive Learning",
     "url": "https://arxiv.org/abs/2605.13943",
@@ -3022,18 +3466,6 @@
     "published": "2026-05-15T04:00:00",
     "summary": "arXiv:2605.13943v1 Announce Type: new Abstract: Contrastive learning (CL) aims to preserve relational structure between samples by learning representations that reflect a similarity graph. Yet, the geometry of the resulting embeddings remains poorly understood. Here we show that weighted InfoNCE obj",
     "collected_at": "2026-05-15T08:54:27.892883"
-  },
-  {
-    "id": "706aac0a148a",
-    "title": "[AINews] Everything is Conductor",
-    "url": "https://www.latent.space/p/ainews-everything-is-conductor",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T00:30:21",
-    "summary": "an ultra quiet day lets us highlight a smaller trend.",
-    "collected_at": "2026-05-15T03:43:30.425938"
   },
   {
     "id": "57f44f4c2d84",
@@ -3048,18 +3480,6 @@
     "collected_at": "2026-05-15T08:54:27.892967"
   },
   {
-    "id": "49a108cb408a",
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "url": "https://openai.com/index/building-codex-windows-sandbox",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T00:00:00",
-    "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-    "collected_at": "2026-05-13T20:01:04.770564"
-  },
-  {
     "id": "caf7d3073745",
     "title": "WarmPrior: Straightening Flow-Matching Policies with Temporal Priors",
     "url": "https://arxiv.org/abs/2605.13959",
@@ -3070,18 +3490,6 @@
     "published": "2026-05-15T04:00:00",
     "summary": "arXiv:2605.13959v1 Announce Type: new Abstract: Generative policies based on diffusion and flow matching have become a dominant paradigm for visuomotor robotic control. We show that replacing the standard Gaussian source distribution with WarmPrior, a simple temporally grounded prior constructed fro",
     "collected_at": "2026-05-15T08:54:27.893025"
-  },
-  {
-    "id": "4ed1b1b76f19",
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T00:00:00",
-    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-    "collected_at": "2026-05-15T19:44:24.027166"
   },
   {
     "id": "69fbb663a323",
@@ -3096,18 +3504,6 @@
     "collected_at": "2026-05-15T08:54:27.893099"
   },
   {
-    "id": "990a39ff7c1a",
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T00:00:00",
-    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-    "collected_at": "2026-05-16T03:28:01.361931"
-  },
-  {
     "id": "6cc494176e01",
     "title": "TabPFN-3: Technical Report",
     "url": "https://arxiv.org/abs/2605.13986",
@@ -3118,18 +3514,6 @@
     "published": "2026-05-15T04:00:00",
     "summary": "arXiv:2605.13986v1 Announce Type: new Abstract: Tabular data underpins most high-value prediction problems in science and industry, and TabPFN has driven the foundation model revolution for this modality. Designed with feedback from our users, TabPFN-3 builds on this foundation to scale state-of-the",
     "collected_at": "2026-05-15T08:54:27.893217"
-  },
-  {
-    "id": "ca8d7bccf4af",
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T00:00:00",
-    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "collected_at": "2026-05-16T08:10:14.365359"
   },
   {
     "id": "2888defc35f9",
@@ -3144,18 +3528,6 @@
     "collected_at": "2026-05-15T08:54:27.893286"
   },
   {
-    "id": "d93b94d20e7f",
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T00:00:00",
-    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-    "collected_at": "2026-05-16T08:10:14.365412"
-  },
-  {
     "id": "e10b57465116",
     "title": "HodgeCover: Higher-Order Topological Coverage Drives Compression of Sparse Mixture-of-Experts",
     "url": "https://arxiv.org/abs/2605.13997",
@@ -3166,18 +3538,6 @@
     "published": "2026-05-15T04:00:00",
     "summary": "arXiv:2605.13997v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) layers route tokens through a handful of experts, and learning-free compression of these layers reduces inference cost without retraining. A subtle obstruction blocks every existing compressor in this family: three exper",
     "collected_at": "2026-05-15T08:54:27.893361"
-  },
-  {
-    "id": "afc8cde3e2c8",
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-15T00:00:00",
-    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "collected_at": "2026-05-16T08:10:14.365456"
   },
   {
     "id": "a7e4f7047a69",
@@ -3192,18 +3552,6 @@
     "collected_at": "2026-05-15T08:54:27.893436"
   },
   {
-    "id": "a9fefbfb76c6",
-    "title": "Not so locked in any more",
-    "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
-    "source": "Simon Willison",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T22:53:49",
-    "summary": "This Mitchell Hashimoto quote about Bun migrating from Zig to Rust reminded me of a similar conversation I had at a conference last week. I was talking to someone who worked for a medium sized technology company with a pair of legacy/legendary iPhone and Android apps. They told me they had just comp",
-    "collected_at": "2026-05-15T03:43:29.871744"
-  },
-  {
     "id": "d92a6e95c367",
     "title": "Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signal",
     "url": "https://arxiv.org/abs/2605.14014",
@@ -3214,18 +3562,6 @@
     "published": "2026-05-15T04:00:00",
     "summary": "arXiv:2605.14014v1 Announce Type: new Abstract: Internet of Things (IoT) systems continuously collect heterogeneous sensing signals from ubiquitous sensors to support intelligent applications such as human activity analysis, emotion monitoring, and environmental perception. These signals are inheren",
     "collected_at": "2026-05-15T08:54:27.893530"
-  },
-  {
-    "id": "fe3a9184c5bb",
-    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T22:37:40",
-    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771 Comments URL: https://news.ycombinator.com/item?id=48142188 Points: 146 # Comments: 66",
-    "collected_at": "2026-05-15T03:43:24.209714"
   },
   {
     "id": "644562cb99ec",
@@ -3240,18 +3576,6 @@
     "collected_at": "2026-05-15T08:54:27.893597"
   },
   {
-    "id": "1d0c2f9f5af6",
-    "title": "Closing time",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T22:21:46",
-    "summary": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He at one point called Greg Brockman - a co-defendant - Greg Altman. He erroneously claimed that Musk",
-    "collected_at": "2026-05-15T03:43:22.768829"
-  },
-  {
     "id": "1ec64437947d",
     "title": "Self-Pruned Key-Value Attention: Learning When to Write by Predicting Future Utility",
     "url": "https://arxiv.org/abs/2605.14037",
@@ -3264,18 +3588,6 @@
     "collected_at": "2026-05-15T08:54:27.893678"
   },
   {
-    "id": "3ac29ae699ea",
-    "title": "AI-Native Healthcare: 100M Doctor Visits, 10–20 Hours Saved, Prior Auth in Minutes — Janie Lee & Chai Asawa, Abridge",
-    "url": "https://www.latent.space/p/abridge",
-    "source": "Latent Space",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T22:05:31",
-    "summary": "How Abridge is quietly turning the patient and clinician conversation into the operating system of healthcare",
-    "collected_at": "2026-05-15T03:43:30.425993"
-  },
-  {
     "id": "eac121f7380b",
     "title": "Reliability-Gated Source Anchoring for Continual Test-Time Adaptation",
     "url": "https://arxiv.org/abs/2605.14063",
@@ -3286,317 +3598,5 @@
     "published": "2026-05-15T04:00:00",
     "summary": "arXiv:2605.14063v1 Announce Type: new Abstract: Continual test-time adaptation (CTTA) updates a pretrained model online on an unlabeled, non-stationary stream while anchoring it to a frozen source checkpoint. This anchor is useful only when the source remains reliable. On CCC-Hard, however, a ResNet",
     "collected_at": "2026-05-15T08:54:27.893750"
-  },
-  {
-    "id": "a798c83d7c0e",
-    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T21:30:44",
-    "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-    "collected_at": "2026-05-15T03:43:22.545769"
-  },
-  {
-    "id": "173612216323",
-    "title": "Behold, the Elon Musk jackass trophy",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T20:59:23",
-    "summary": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers read the inscription aloud for the press: \"Never stop being a jackass.\" It's a commemoration OpenAI emp",
-    "collected_at": "2026-05-15T03:43:22.768873"
-  },
-  {
-    "id": "5cc6e708b103",
-    "title": "OpenAI says Codex is coming to your phone",
-    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T20:58:55",
-    "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
-    "collected_at": "2026-05-15T03:43:22.545803"
-  },
-  {
-    "id": "73eb815ab647",
-    "title": "Sea's View on the Future of Agentic Software Development with Codex",
-    "url": "https://openai.com/index/sea-david-chen",
-    "source": "OpenAI Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T20:30:00",
-    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-    "collected_at": "2026-05-15T03:43:25.400503"
-  },
-  {
-    "id": "aef6c5b4dd7b",
-    "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T20:00:00",
-    "summary": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's Claude Code, OpenAI has been working quickly to try and catch up, including by cutting back on \"side",
-    "collected_at": "2026-05-15T03:43:22.768930"
-  },
-  {
-    "id": "baafa407a6f8",
-    "title": "What happens when AI starts building itself?",
-    "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T19:57:20",
-    "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-    "collected_at": "2026-05-15T03:43:22.545846"
-  },
-  {
-    "id": "64d5564ebfc1",
-    "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
-    "url": "https://www.infoq.cn/article/gEPoH90ZqdWLPimRcQez?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-14T19:45:22",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-14T14:22:58.138158"
-  },
-  {
-    "id": "3a7e43483526",
-    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-    "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T19:12:03",
-    "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
-    "collected_at": "2026-05-14T19:51:24.086106"
-  },
-  {
-    "id": "4a0edb059dd4",
-    "title": "当 Agent 开始接管工作流，企业最在意的三件事：安全运行、稳定交付、持续进化",
-    "url": "https://www.infoq.cn/video/GfiHDW48wHUO5yO61ADB?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-14T19:33:56",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-14T14:22:58.138200"
-  },
-  {
-    "id": "2c05eee6a567",
-    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-    "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T19:05:01",
-    "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
-    "collected_at": "2026-05-14T19:51:24.086148"
-  },
-  {
-    "id": "57237570fc15",
-    "title": "龙虾犯错，员工背锅？Agent 需要安全、稳定与持续进化的底座",
-    "url": "https://www.infoq.cn/video/vXakeUv27yAlLgVdCHND?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-14T19:07:56",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-14T14:22:58.138235"
-  },
-  {
-    "id": "d38fa000ee7a",
-    "title": "Microsoft starts canceling Claude Code licenses",
-    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T19:00:00",
-    "summary": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers, designers, and other employees to experiment with coding for the first time, and sources tell me t",
-    "collected_at": "2026-05-14T19:51:24.322625"
-  },
-  {
-    "id": "3d30727982c4",
-    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "source": "HuggingFace Blog",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T18:55:01",
-    "summary": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best S",
-    "collected_at": "2026-05-14T19:51:37.328064"
-  },
-  {
-    "id": "7c95656350b5",
-    "title": "The AI Zombification of Universities",
-    "url": "https://www.thenewcritic.com/p/the-great-zombification",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T18:37:08",
-    "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 175 # Comments: 179",
-    "collected_at": "2026-05-15T03:43:24.209750"
-  },
-  {
-    "id": "f001ba2a9a15",
-    "title": "从服务器 OS 到 Agent 沙箱：腾讯云如何打通 AI Infra 的生态底座",
-    "url": "https://www.infoq.cn/article/40UQ0beY3L25lo1rWVzb?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-14T17:50:56",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-14T14:22:58.138393"
-  },
-  {
-    "id": "1b5bd7d8e9ff",
-    "title": "AI is making me dumb",
-    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T18:19:28",
-    "summary": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/ Comments URL: https://news.ycombinator.com/item?id=48139148 Points: 203 # Comments: 133",
-    "collected_at": "2026-05-14T19:51:25.698075"
-  },
-  {
-    "id": "826e85f4eccd",
-    "title": "Use this map to find the data centers in your backyard",
-    "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T17:40:00",
-    "summary": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation about data centers,\" she said. \"Google has denied taking that land.\" Technically, she explains, The",
-    "collected_at": "2026-05-14T19:51:24.322677"
-  },
-  {
-    "id": "73e7f5e11396",
-    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-    "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T16:30:02",
-    "summary": "A year ago, it looked like this day would never happen for Cerebras.",
-    "collected_at": "2026-05-14T19:51:24.086179"
-  },
-  {
-    "id": "74cdffe7e5df",
-    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T15:46:04",
-    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits",
-    "collected_at": "2026-05-15T03:43:22.769060"
-  },
-  {
-    "id": "6cc7aedcf8cc",
-    "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-    "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T15:20:18",
-    "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
-    "collected_at": "2026-05-14T19:51:24.086208"
-  },
-  {
-    "id": "755da9ec95da",
-    "title": "Americans do not want AI data centers in their backyards",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T15:24:53",
-    "summary": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gallup, data centers are so strongly disliked that Americans would prefer to live near a nuclear power",
-    "collected_at": "2026-05-14T19:51:24.322790"
-  },
-  {
-    "id": "735fcfd623cf",
-    "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
-    "url": "https://www.qbitai.com/2026/05/417731.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-14T14:58:53",
-    "summary": "Agent时代的数据库，怎么跑通商业化？",
-    "collected_at": "2026-05-14T19:49:10.035298"
-  },
-  {
-    "id": "1ecdee913666",
-    "title": "AWS WorkSpaces 支持 AI 智能体直接操作遗留桌面应用程序",
-    "url": "https://www.infoq.cn/article/ktRP5kz1fMkW5rmmMFoR?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-14T14:29:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-14T08:43:14.472680"
-  },
-  {
-    "id": "0ebe629cf260",
-    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-    "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T14:01:14",
-    "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-    "collected_at": "2026-05-14T14:22:39.547840"
-  },
-  {
-    "id": "9e1fa7b76efd",
-    "title": "Gemini 进手机，Android 翻身；Gemini进电脑，全网开喷！",
-    "url": "https://www.infoq.cn/article/rLHmQFIEosQUtUHq7bjc?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-14T14:04:30",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-14T08:43:14.472742"
-  },
-  {
-    "id": "b11eb5e475b0",
-    "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
-    "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-    "source": "TechCrunch AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-14T14:00:00",
-    "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
-    "collected_at": "2026-05-14T14:22:39.547906"
   }
 ]

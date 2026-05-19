@@ -68,17 +68,17 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Gemini 3.5 Flash",
       "Gemini 3.1 Flash Lite",
-      "Gemma 4 26B A4B (free)",
-      "Gemma 4 26B A4B"
+      "Gemma 4 26B A4B (free)"
     ],
-    "model_count": 27,
-    "last_updated": "2026-05-07",
+    "model_count": 28,
+    "last_updated": "2026-05-19",
     "modalities": [
       "视频",
       "音频"
     ],
-    "live_summary": "OpenRouter 已收录 27 个该作者/厂商相关模型，最近更新为 Gemini 3.1 Flash Lite",
+    "live_summary": "OpenRouter 已收录 28 个该作者/厂商相关模型，最近更新为 Gemini 3.5 Flash",
     "provider_kind": "model_author"
   },
   {
