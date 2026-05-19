@@ -6143,6 +6143,30 @@
     "collected_at": "2026-05-15T08:54:55.000458"
   },
   {
+    "id": "hf-HiDream-ai--HiDream-O1-Image-Dev-2604",
+    "name": "HiDream-ai/HiDream-O1-Image-Dev-2604",
+    "display_name": "HiDream-O1-Image-Dev-2604",
+    "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev-2604",
+    "author": "HiDream-ai",
+    "pipeline_tag": "image-text-to-image",
+    "likes": 41,
+    "downloads": 495,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_vl",
+      "image-text-to-text",
+      "image-text-to-image",
+      "arxiv:2605.11061",
+      "license:mit",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-13T15:12:13.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-19T03:50:38.600714"
+  },
+  {
     "id": "hf-sensenova--SenseNova-U1-8B-MoT-SFT",
     "name": "sensenova/SenseNova-U1-8B-MoT-SFT",
     "display_name": "SenseNova-U1-8B-MoT-SFT",
@@ -6661,6 +6685,36 @@
     "created_at": "2026-05-02T11:04:26.000Z",
     "source": "hf-trending",
     "collected_at": "2026-05-08T07:48:11.763275"
+  },
+  {
+    "id": "hf-sapientinc--HRM-Text-1B",
+    "name": "sapientinc/HRM-Text-1B",
+    "display_name": "HRM-Text-1B",
+    "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
+    "author": "sapientinc",
+    "pipeline_tag": "text-generation",
+    "likes": 34,
+    "downloads": 57,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "hrm_text",
+      "text-generation",
+      "hrm",
+      "hierarchical-reasoning",
+      "prefix-lm",
+      "pre-alignment",
+      "non-chat",
+      "non-instruction-tuned",
+      "custom_code",
+      "en",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-17T15:13:02.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-19T03:50:38.733143"
   },
   {
     "id": "hf-google--gemma-4-E2B-it-assistant",
@@ -8217,6 +8271,48 @@
     "created_at": "2026-05-15T07:55:26.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-17T03:42:53.737463"
+  },
+  {
+    "id": "hf-Jackrong--Qwopus3.5-9B-Coder-MTP-GGUF",
+    "name": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+    "display_name": "Qwopus3.5-9B-Coder-MTP-GGUF",
+    "url": "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+    "author": "Jackrong",
+    "pipeline_tag": "text-generation",
+    "likes": 16,
+    "downloads": 0,
+    "tags": [
+      "transformers",
+      "gguf",
+      "text-generation-inference",
+      "unsloth",
+      "qwen3_5",
+      "reasoning",
+      "chain-of-thought",
+      "mtp",
+      "multi-token-prediction",
+      "speculative-decoding",
+      "lora",
+      "sft",
+      "agent",
+      "coder",
+      "text-generation",
+      "en",
+      "zh",
+      "ko",
+      "ru",
+      "ja",
+      "es",
+      "base_model:Jackrong/Qwopus3.5-9B-v3.5",
+      "base_model:adapter:Jackrong/Qwopus3.5-9B-v3.5",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "region:us",
+      "conversational"
+    ],
+    "created_at": "2026-05-18T05:48:32.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-19T03:50:38.733161"
   },
   {
     "id": "hf-Qwen--WebWorld-32B",
@@ -23582,58 +23678,5 @@
     "created_at": "2026-04-26T19:02:13.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638156"
-  },
-  {
-    "id": "hf-geocketa--Toshiyaki",
-    "name": "geocketa/Toshiyaki",
-    "display_name": "Toshiyaki",
-    "url": "https://huggingface.co/geocketa/Toshiyaki",
-    "author": "geocketa",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T19:02:01.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638159"
-  },
-  {
-    "id": "hf-faranbutt789--guardpeft-qwen3-r16",
-    "name": "faranbutt789/guardpeft-qwen3-r16",
-    "display_name": "guardpeft-qwen3-r16",
-    "url": "https://huggingface.co/faranbutt789/guardpeft-qwen3-r16",
-    "author": "faranbutt789",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "unsloth",
-      "arxiv:1910.09700",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T19:01:46.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638162"
-  },
-  {
-    "id": "hf-gaurv007--clauseguard-onnx-int8",
-    "name": "gaurv007/clauseguard-onnx-int8",
-    "display_name": "clauseguard-onnx-int8",
-    "url": "https://huggingface.co/gaurv007/clauseguard-onnx-int8",
-    "author": "gaurv007",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T19:01:28.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638166"
   }
 ]

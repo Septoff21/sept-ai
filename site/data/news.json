@@ -1,15 +1,87 @@
 [
   {
-    "id": "d023da2950a3",
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "id": "17608ae975e6",
+    "title": "小红书 vibe coding 平台（Muse）之高可用人机共创 Agentic 系统架构实践｜AICon上海",
+    "url": "https://www.infoq.cn/article/0cMu1bsEszkZDf09OP2M?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-19T10:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-19T03:50:26.392874"
+  },
+  {
+    "id": "ba67fca9c5f4",
+    "title": "报告：2025年中国AI云市场规模超567亿元，阿里云AI IaaS、MaaS双料冠军",
+    "url": "https://36kr.com/newsflashes/3815679486909954?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-19T03:49:53",
+    "summary": "36氪获悉，5月19日，市场调研机构英富曼（Omdia）发布最新的《中国AI云市场份额2025》报告，2025年中国AI云市场总规模达567亿元人民币，其中，阿里云在AI IaaS和MaaS两大领域均位列第一，总份额从上半年的35.8%上涨至38.1%，整体稳居第一。",
+    "collected_at": "2026-05-19T03:50:24.827236"
+  },
+  {
+    "id": "498c7192c6c5",
+    "title": "The last six months in LLMs in five minutes",
+    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+    "source": "Simon Willison",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-19T01:09:44",
+    "summary": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning talk at PyCon US 2026, attempting to summarize the last six months of developments in LLMs in five minutes. # Six mont",
+    "collected_at": "2026-05-19T03:50:21.548812"
+  },
+  {
+    "id": "0cd08b5c8de6",
+    "title": "矩阵超智发布MATRIX-3全能旗舰级人形机器人",
+    "url": "https://36kr.com/newsflashes/3815634489433865?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-19T03:04:07",
+    "summary": "36氪获悉，5月18日，矩阵超智正式发布MATRIX-3全能旗舰级人形机器人，MATRIX-3身高170cm、体重65kg，搭载WAVE物理基座模型。同时，矩阵超智宣布MATRIX-3系列正式面向全球发售。",
+    "collected_at": "2026-05-19T03:50:24.827505"
+  },
+  {
+    "id": "9b154231c9e4",
+    "title": "Here’s why Elon Musk lost his suit against OpenAI",
+    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-19T00:53:10",
+    "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk an",
+    "collected_at": "2026-05-19T03:50:11.826014"
+  },
+  {
+    "id": "ac764f460228",
+    "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+    "url": "https://36kr.com/p/3814860909600261?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-19T02:00:00",
+    "summary": "文｜王欣逸 编辑｜邱晓芬 一句话介绍 鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类从事高危、繁重、脏乱、重复（Deadly/Difficult/Dirty/Duplicate）的物理作业。 融资进展 近日，鲸跃动力已完成由星海图独家领投的数千万元种子轮融资，深渡资本担任独家财务顾问。 本轮融资将用于团队增长、产品的量产交付、专家技能的研发以及数采运营相关工作。 星海图表示：“具身智能的下半场，拼的是‘数据效率×模型泛化×末端执行’的系统能力。鲸跃动力",
+    "collected_at": "2026-05-19T03:50:24.825909"
+  },
+  {
+    "id": "d8859cfa6328",
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
     "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
     "priority": 1,
-    "published": "2026-05-18T19:27:52",
-    "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
-    "collected_at": "2026-05-18T19:49:36.655396"
+    "published": "2026-05-18T21:29:31",
+    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+    "collected_at": "2026-05-19T03:50:11.585648"
   },
   {
     "id": "3be90d994a82",
@@ -24,16 +96,16 @@
     "collected_at": "2026-05-18T19:49:36.854641"
   },
   {
-    "id": "824e77ca4c6b",
-    "title": "What to expect from Google this week",
-    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-    "source": "MIT Tech Review",
+    "id": "d023da2950a3",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "source": "TechCrunch AI",
     "lang": "en",
     "channel": "en",
-    "priority": 2,
-    "published": "2026-05-18T17:35:43",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G",
-    "collected_at": "2026-05-18T19:49:37.036965"
+    "priority": 1,
+    "published": "2026-05-18T19:27:52",
+    "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
+    "collected_at": "2026-05-18T19:49:36.655396"
   },
   {
     "id": "4f2f8f4da2b7",
@@ -46,6 +118,18 @@
     "published": "2026-05-18T17:39:32",
     "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, [&",
     "collected_at": "2026-05-18T19:49:36.854745"
+  },
+  {
+    "id": "824e77ca4c6b",
+    "title": "What to expect from Google this week",
+    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T17:35:43",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at G",
+    "collected_at": "2026-05-18T19:49:37.036965"
   },
   {
     "id": "f568df07558f",
@@ -298,6 +382,18 @@
     "published": "2026-05-18T12:10:00",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Alt",
     "collected_at": "2026-05-18T15:39:58.950425"
+  },
+  {
+    "id": "4c7cc299e16c",
+    "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+    "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-18T11:51:05",
+    "summary": "Article URL: https://spectrum.ieee.org/voice-ai-audio-attacks Comments URL: https://news.ycombinator.com/item?id=48178378 Points: 112 # Comments: 29",
+    "collected_at": "2026-05-19T03:50:12.839257"
   },
   {
     "id": "0add0cf70295",
@@ -3502,101 +3598,5 @@
     "published": "2026-05-14T04:00:00",
     "summary": "arXiv:2605.12674v1 Announce Type: new Abstract: Vision-Language Models (VLMs) are increasingly used in safety-critical applications because of their broad reasoning capabilities and ability to generalize with minimal task-specific engineering. Despite these advantages, they can exhibit catastrophic",
     "collected_at": "2026-05-14T08:43:07.550187"
-  },
-  {
-    "id": "496faf87d29c",
-    "title": "OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting",
-    "url": "https://arxiv.org/abs/2605.12639",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12639v1 Announce Type: new Abstract: Extreme ocean phenomena are challenging not only to predict but to diagnose, as accurate forecasts alone do not reveal the underlying physical drivers. While recent machine learning approaches achieve strong predictive skill, they remain largely opaque",
-    "collected_at": "2026-05-14T08:43:07.932385"
-  },
-  {
-    "id": "0b1f373efa41",
-    "title": "Learning Transferable Latent User Preferences for Human-Aligned Decision Making",
-    "url": "https://arxiv.org/abs/2605.12682",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as reasoning modules in many applications. While they are efficient in certain tasks, LLMs often struggle to produce human-aligned solutions. Human-aligned decision making requires accounting for both",
-    "collected_at": "2026-05-14T08:43:07.550259"
-  },
-  {
-    "id": "3db4d818fd79",
-    "title": "Learning to Decide with AI Assistance under Human-Alignment",
-    "url": "https://arxiv.org/abs/2605.12646",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12646v1 Announce Type: new Abstract: It is widely agreed that when AI models assist decision-makers in high-stakes domains by predicting an outcome of interest, they should communicate the confidence of their predictions. However, empirical evidence suggests that decision-makers often str",
-    "collected_at": "2026-05-14T08:43:07.932474"
-  },
-  {
-    "id": "4c648816d8d0",
-    "title": "On the Size Complexity and Decidability of First-Order Progression",
-    "url": "https://arxiv.org/abs/2605.12691",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12691v1 Announce Type: new Abstract: Progression, the task of updating a knowledge base to reflect action effects, generally requires second-order logic. Identifying first-order special cases, by restricting either the knowledge base or action effects, has long been a central topic in rea",
-    "collected_at": "2026-05-14T08:43:07.550348"
-  },
-  {
-    "id": "5cca77579a13",
-    "title": "Population Risk Bounds for Kolmogorov-Arnold Networks Trained by DP-SGD with Correlated Noise",
-    "url": "https://arxiv.org/abs/2605.12648",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12648v1 Announce Type: new Abstract: We establish the first population risk bounds for Kolmogorov-Arnold Networks (KANs) trained by mini-batch SGD with gradient clipping, covering non-private SGD as well as differentially private SGD (DP-SGD) with Gaussian perturbations that interpolate b",
-    "collected_at": "2026-05-14T08:43:07.932554"
-  },
-  {
-    "id": "876448c1c2a5",
-    "title": "DisaBench: A Participatory Evaluation Framework for Disability Harms in Language Models",
-    "url": "https://arxiv.org/abs/2605.12702",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12702v1 Announce Type: new Abstract: General-purpose safety benchmarks for large language models do not adequately evaluate disability-related harms. We introduce DisaBench: a taxonomy of twelve disability harm categories co-created with people with disabilities and red teaming experts, a",
-    "collected_at": "2026-05-14T08:43:07.550449"
-  },
-  {
-    "id": "33f129834d47",
-    "title": "Runtime Monitoring of Perception-Based Autonomous Systems via Embedding Temporal Logic",
-    "url": "https://arxiv.org/abs/2605.12651",
-    "source": "ArXiv CS.LG",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12651v1 Announce Type: new Abstract: Runtime monitoring of autonomous systems traditionally relies on mapping continuous sensor observations to discrete logical propositions defined over low-dimensional state variables. This abstraction breaks down in perception-driven settings, where suc",
-    "collected_at": "2026-05-14T08:43:07.932654"
-  },
-  {
-    "id": "e4136b098c39",
-    "title": "CHAL: Council of Hierarchical Agentic Language",
-    "url": "https://arxiv.org/abs/2605.12718",
-    "source": "ArXiv CS.AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-14T04:00:00",
-    "summary": "arXiv:2605.12718v1 Announce Type: new Abstract: Multi-agent debate has emerged as a promising approach for improving LLM reasoning on ground-truth tasks, yet current methodologies face certain structural limitations: debate tends to induce a martingale over belief trajectories, majority voting accou",
-    "collected_at": "2026-05-14T08:43:07.550542"
   }
 ]
