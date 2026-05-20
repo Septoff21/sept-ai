@@ -1,5 +1,53 @@
 [
   {
+    "id": "47194171b2ca",
+    "title": "10 天 3000 元，一人造出全球 AI 爆款！好莱坞导演抢人、游戏版引爆期待，合作细节首次披露",
+    "url": "https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-20T18:17:59",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-20T15:29:43.625774"
+  },
+  {
+    "id": "a8b9af8f050e",
+    "title": "AI search startups are blowing up",
+    "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-20T15:04:45",
+    "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
+    "collected_at": "2026-05-20T15:29:12.669160"
+  },
+  {
+    "id": "ec707aed0cda",
+    "title": "Anthropic 推出 Routines for Claude Code",
+    "url": "https://www.infoq.cn/article/pqiTGU8VMOZ1fOZh8H98?utm_source=rss&utm_medium=article",
+    "source": "InfoQ AI",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 3,
+    "published": "2026-05-20T18:00:00",
+    "summary": "点击查看原文>",
+    "collected_at": "2026-05-20T15:29:43.625813"
+  },
+  {
+    "id": "17cdb3afa6c1",
+    "title": "Stability AI releases a new audio model that can create six-minute songs",
+    "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-20T15:00:00",
+    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+    "collected_at": "2026-05-20T15:29:12.669200"
+  },
+  {
     "id": "110677b9333b",
     "title": "Snowflake Intelligence 合作伙伴生态：把 AI 能力带入千行百业 ｜技术趋势",
     "url": "https://www.infoq.cn/article/PYoRlEUWJZJvkCCXTF1D?utm_source=rss&utm_medium=article",
@@ -12,16 +60,16 @@
     "collected_at": "2026-05-20T09:41:46.949978"
   },
   {
-    "id": "d00514f287ea",
-    "title": "OpenAI开创“算力换股权”玩法：奥尔特曼向数百家YC创企发出邀约",
-    "url": "https://36kr.com/newsflashes/3817399524197511?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-20T08:59:36",
-    "summary": "OpenAI首席执行官奥尔特曼周二宣布，向所有YC加速营创业公司提供价值200万美元的算力额度，用来锁定未来股权。奥尔特曼表示，期待看到“疯狂烧代币”（tokenmaxxing）的创业公司会发生什么，无论是它们的内部运作方式，以及具体能构建什么产品。（财联社）",
-    "collected_at": "2026-05-20T09:41:45.485322"
+    "id": "0c6e87a7593a",
+    "title": "It&#8217;s make or break time for AI labeling systems",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-20T14:12:54",
+    "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting thei",
+    "collected_at": "2026-05-20T15:29:12.801162"
   },
   {
     "id": "7af4017ef715",
@@ -36,16 +84,88 @@
     "collected_at": "2026-05-20T09:41:46.950062"
   },
   {
-    "id": "a22d6858aa8c",
-    "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
-    "url": "https://36kr.com/p/3817353357968516?f=rss",
+    "id": "3b2c075a417e",
+    "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
+    "url": "https://www.qbitai.com/2026/05/420753.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-20T14:09:25",
+    "summary": "向世界模型进发。",
+    "collected_at": "2026-05-20T15:26:57.514167"
+  },
+  {
+    "id": "2cbd3e3624d2",
+    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+    "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-20T14:00:00",
+    "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+    "collected_at": "2026-05-20T15:29:12.669235"
+  },
+  {
+    "id": "e5dc1c5b7201",
+    "title": "If Google can’t make AI agents useful, maybe no one can",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+    "source": "The Verge AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-20T13:24:22",
+    "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chas",
+    "collected_at": "2026-05-20T15:29:12.801234"
+  },
+  {
+    "id": "187d77420b7c",
+    "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
+    "url": "https://www.qbitai.com/2026/05/420743.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-20T13:08:51",
+    "summary": "AI产业正在进入新一轮高强度算力周期",
+    "collected_at": "2026-05-20T15:26:57.514208"
+  },
+  {
+    "id": "7fa0875ec0c9",
+    "title": "Figma adds an AI assistant to its collaborative canvas",
+    "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+    "source": "TechCrunch AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 1,
+    "published": "2026-05-20T13:00:00",
+    "summary": "Figma's new AI assistant will be first available on Figma Design",
+    "collected_at": "2026-05-20T15:29:12.669329"
+  },
+  {
+    "id": "a835a1c19b54",
+    "title": "Boston Metal gets a $75 million lifeline to produce critical metals",
+    "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-20T13:00:00",
+    "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts to clean up steel production, an industry that&#8217;s responsible for about 8% of global greenhous",
+    "collected_at": "2026-05-20T15:29:12.993040"
+  },
+  {
+    "id": "a65ea7052e68",
+    "title": "OpenAI和Google加大在新加坡的人工智能投资力度",
+    "url": "https://36kr.com/newsflashes/3817628052505733?f=rss",
     "source": "36氪",
     "lang": "zh",
     "channel": "cn",
     "priority": 4,
-    "published": "2026-05-20T08:22:01",
-    "summary": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。 2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？ 正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。 嘉宾阵容堪称豪华： 既有昆仑万维、商汤、百度、",
-    "collected_at": "2026-05-20T09:41:45.483006"
+    "published": "2026-05-20T12:52:04",
+    "summary": "据报道，OpenAI和Google加大在新加坡的人工智能投资力度。（财联社）",
+    "collected_at": "2026-05-20T15:29:41.799283"
   },
   {
     "id": "53a00917d3bc",
@@ -60,16 +180,16 @@
     "collected_at": "2026-05-20T09:41:46.950092"
   },
   {
-    "id": "b5f81fbe7abe",
-    "title": "AIDC建设正从“通用标准”走向“适用高效”",
-    "url": "https://www.qbitai.com/2026/05/420698.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-20T07:35:59",
-    "summary": "商汤大装置林海谈AIDC",
-    "collected_at": "2026-05-20T09:39:09.789472"
+    "id": "5f48f1a129a3",
+    "title": "The Download: fully artificial chicken eggs and why Musk lost",
+    "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+    "source": "MIT Tech Review",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-20T12:10:00",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But",
+    "collected_at": "2026-05-20T15:29:12.993115"
   },
   {
     "id": "c58b1dd75ff8",
@@ -84,16 +204,28 @@
     "collected_at": "2026-05-20T09:41:46.950120"
   },
   {
-    "id": "e0003b9ee06a",
-    "title": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测",
-    "url": "https://www.qbitai.com/2026/05/420681.html",
-    "source": "量子位",
+    "id": "a9e0fa91aa2f",
+    "title": "4连板达实智能：不涉及液冷及机器人相关元器件的生产、制造等",
+    "url": "https://36kr.com/newsflashes/3817581986579587?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-20T07:27:57",
-    "summary": "智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。",
-    "collected_at": "2026-05-20T09:39:09.789518"
+    "priority": 4,
+    "published": "2026-05-20T12:05:13",
+    "summary": "36氪获悉，达实智能公告，经核查，公司近期生产经营情况正常，内外部经营环境未发生且未预计将要发生重大变化。目前市场热议的AIoT、液冷、智能机器人等概念中，公司与之相关的营业收入占公司2025年度的营收比例低，且2025年AIoT平台及AI应用签约金额为7847.14万元，尚不足以对公司2026年度收入和利润造成重大影响。此外，公司不涉及液冷及机器人相关元器件的生产、制造等。敬请广大投资者理性判断、谨慎投资，注意投资风险。",
+    "collected_at": "2026-05-20T15:29:41.799458"
+  },
+  {
+    "id": "f8ad9d0aec0c",
+    "title": "College students drown out AI-praising commencement speeches with boos",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+    "source": "Hacker News AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-20T11:51:32",
+    "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role Comments URL: https://news.ycombinator.com/item?id=48206241 Poin",
+    "collected_at": "2026-05-20T15:29:24.334062"
   },
   {
     "id": "04c50f0deaf8",
@@ -108,16 +240,16 @@
     "collected_at": "2026-05-20T03:50:21.583149"
   },
   {
-    "id": "302b383c17bb",
-    "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
-    "url": "https://www.qbitai.com/2026/05/420656.html",
-    "source": "量子位",
+    "id": "9ca4badc5a01",
+    "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
+    "url": "https://36kr.com/p/3816942423000196?f=rss",
+    "source": "36氪",
     "lang": "zh",
     "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-20T05:59:45",
-    "summary": "看谁真正会游泳",
-    "collected_at": "2026-05-20T09:39:09.789549"
+    "priority": 4,
+    "published": "2026-05-20T11:40:36",
+    "summary": "大公司： 新加坡加码人工智能布局，英伟达将落地本地研发中心 全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经） 2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选 36氪获悉，《2026福布斯中国人工智能科技企业TOP 50》正式揭晓，中关村科金成功入选，是榜单中唯一的“企业级AI平台及应用公司”。据IDC最新报告，中关村科金位列中国大模型平台私有化市场份额第四；在2026年一季度应用类大模型项目公开中标数排名前五。公司服",
+    "collected_at": "2026-05-20T15:29:41.797548"
   },
   {
     "id": "4c0a79b4b5e4",
@@ -132,16 +264,16 @@
     "collected_at": "2026-05-20T03:50:21.583192"
   },
   {
-    "id": "edb38386220e",
-    "title": "趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施",
-    "url": "https://www.qbitai.com/2026/05/420651.html",
+    "id": "c6dc90772b71",
+    "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+    "url": "https://www.qbitai.com/2026/05/420703.html",
     "source": "量子位",
     "lang": "zh",
     "channel": "cn",
     "priority": 1,
-    "published": "2026-05-20T05:29:57",
-    "summary": "ATaaS 日均调用量近万亿",
-    "collected_at": "2026-05-20T09:39:09.789594"
+    "published": "2026-05-20T10:15:21",
+    "summary": "让你的经验24小时自动接单",
+    "collected_at": "2026-05-20T15:26:57.514238"
   },
   {
     "id": "5510fb9f8e00",
@@ -156,16 +288,16 @@
     "collected_at": "2026-05-20T03:50:21.583261"
   },
   {
-    "id": "4e96c9e7f7a4",
-    "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-    "url": "https://arxiv.org/abs/2605.18801",
-    "source": "ArXiv CS.AI",
+    "id": "b35c18d48fd9",
+    "title": "Learnings from 100K lines of Rust with AI (2025)",
+    "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+    "source": "Hacker News AI",
     "lang": "en",
     "channel": "en",
     "priority": 2,
-    "published": "2026-05-20T04:00:00",
-    "summary": "arXiv:2605.18801v1 Announce Type: new Abstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question.",
-    "collected_at": "2026-05-20T09:41:39.748195"
+    "published": "2026-05-20T10:04:28",
+    "summary": "Article URL: https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html Comments URL: https://news.ycombinator.com/item?id=48205415 Points: 102 # Comments: 104",
+    "collected_at": "2026-05-20T15:29:24.334104"
   },
   {
     "id": "f81fa3d3564a",
@@ -180,6 +312,90 @@
     "collected_at": "2026-05-20T03:50:21.583332"
   },
   {
+    "id": "028f882daeb0",
+    "title": "当 AI 成为角色：漫谈我的 SillyTavern 使用经验",
+    "url": "https://sspai.com/post/109869",
+    "source": "少数派",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-20T09:04:05",
+    "summary": "ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。查看全文",
+    "collected_at": "2026-05-20T15:29:53.067666"
+  },
+  {
+    "id": "d00514f287ea",
+    "title": "OpenAI开创“算力换股权”玩法：奥尔特曼向数百家YC创企发出邀约",
+    "url": "https://36kr.com/newsflashes/3817399524197511?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-20T08:59:36",
+    "summary": "OpenAI首席执行官奥尔特曼周二宣布，向所有YC加速营创业公司提供价值200万美元的算力额度，用来锁定未来股权。奥尔特曼表示，期待看到“疯狂烧代币”（tokenmaxxing）的创业公司会发生什么，无论是它们的内部运作方式，以及具体能构建什么产品。（财联社）",
+    "collected_at": "2026-05-20T09:41:45.485322"
+  },
+  {
+    "id": "b5f81fbe7abe",
+    "title": "AIDC建设正从“通用标准”走向“适用高效”",
+    "url": "https://www.qbitai.com/2026/05/420698.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-20T07:35:59",
+    "summary": "商汤大装置林海谈AIDC",
+    "collected_at": "2026-05-20T09:39:09.789472"
+  },
+  {
+    "id": "a22d6858aa8c",
+    "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
+    "url": "https://36kr.com/p/3817353357968516?f=rss",
+    "source": "36氪",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 4,
+    "published": "2026-05-20T08:22:01",
+    "summary": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。 2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？ 正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。 嘉宾阵容堪称豪华： 既有昆仑万维、商汤、百度、",
+    "collected_at": "2026-05-20T09:41:45.483006"
+  },
+  {
+    "id": "e0003b9ee06a",
+    "title": "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测",
+    "url": "https://www.qbitai.com/2026/05/420681.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-20T07:27:57",
+    "summary": "智会心研 PLUS 开启公测，免费开放高阶研发 AI 能力，完善资料、邀友可领会员，助力大众低成本搞技术创新。",
+    "collected_at": "2026-05-20T09:39:09.789518"
+  },
+  {
+    "id": "4e96c9e7f7a4",
+    "title": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
+    "url": "https://arxiv.org/abs/2605.18801",
+    "source": "ArXiv CS.AI",
+    "lang": "en",
+    "channel": "en",
+    "priority": 2,
+    "published": "2026-05-20T04:00:00",
+    "summary": "arXiv:2605.18801v1 Announce Type: new Abstract: Data is fundamental to large language models (LLMs). However, understanding of what makes certain data useful for different stages of an LLM workflow, including training, tuning, alignment, in-context learning, etc., and why, remains an open question.",
+    "collected_at": "2026-05-20T09:41:39.748195"
+  },
+  {
+    "id": "302b383c17bb",
+    "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
+    "url": "https://www.qbitai.com/2026/05/420656.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-20T05:59:45",
+    "summary": "看谁真正会游泳",
+    "collected_at": "2026-05-20T09:39:09.789549"
+  },
+  {
     "id": "652f356fe144",
     "title": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
     "url": "https://arxiv.org/abs/2605.18818",
@@ -190,6 +406,18 @@
     "published": "2026-05-20T04:00:00",
     "summary": "arXiv:2605.18818v1 Announce Type: new Abstract: Academic research tends to focus on new models for document understanding creating a wide gap in the literature between model definition and running models at production scale. To close that gap, we present a microservice architecture that encapsulates",
     "collected_at": "2026-05-20T09:41:39.748278"
+  },
+  {
+    "id": "edb38386220e",
+    "title": "趋境科技完成数亿元Pre-A轮融资，高品质AI Token生产基础设施",
+    "url": "https://www.qbitai.com/2026/05/420651.html",
+    "source": "量子位",
+    "lang": "zh",
+    "channel": "cn",
+    "priority": 1,
+    "published": "2026-05-20T05:29:57",
+    "summary": "ATaaS 日均调用量近万亿",
+    "collected_at": "2026-05-20T09:39:09.789594"
   },
   {
     "id": "2c1732ec8517",
@@ -3370,233 +3598,5 @@
     "published": "2026-05-17T15:52:21",
     "summary": "Article URL: https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/ Comments URL: https://news.ycombinator.com/item?id=48170007 Points: 128 # Comments: 29",
     "collected_at": "2026-05-20T09:41:30.675123"
-  },
-  {
-    "id": "ac0e5e086bd5",
-    "title": "一只机器狗，把英伟达的算力王座拱翻了",
-    "url": "https://www.qbitai.com/2026/05/418969.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-17T15:10:59",
-    "summary": "人造劳动力，离普通家庭还有多远？",
-    "collected_at": "2026-05-17T19:12:47.242700"
-  },
-  {
-    "id": "519b4bba1e12",
-    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-    "source": "Google DeepMind",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-17T13:50:34",
-    "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
-    "collected_at": "2026-05-19T19:56:50.694717"
-  },
-  {
-    "id": "d7845d6d9bb6",
-    "title": "AI is a technology not a product",
-    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-17T13:11:20",
-    "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 206 # Comments: 74",
-    "collected_at": "2026-05-17T19:15:14.634807"
-  },
-  {
-    "id": "79f4caf2b75d",
-    "title": "Chatbots at the drive-thru are just the beginning",
-    "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-    "source": "The Verge AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 1,
-    "published": "2026-05-17T12:00:00",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's",
-    "collected_at": "2026-05-17T13:27:47.007234"
-  },
-  {
-    "id": "86722d9ad618",
-    "title": "I don't think AI will make your processes go faster",
-    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-17T12:13:45",
-    "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinator.com/item?id=48168221 Points: 375 # Comments: 280",
-    "collected_at": "2026-05-17T19:15:14.634852"
-  },
-  {
-    "id": "f452a7809d53",
-    "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
-    "url": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
-    "source": "InfoQ AI",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 3,
-    "published": "2026-05-17T10:00:00",
-    "summary": "点击查看原文>",
-    "collected_at": "2026-05-17T03:42:45.369697"
-  },
-  {
-    "id": "25dc97f9c05f",
-    "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-    "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-17T11:49:31",
-    "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 313 # Comments: 311",
-    "collected_at": "2026-05-17T19:15:14.634888"
-  },
-  {
-    "id": "adb608fa70fe",
-    "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-    "url": "https://www.qbitai.com/2026/05/418836.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-17T08:55:21",
-    "summary": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-    "collected_at": "2026-05-17T13:25:33.959470"
-  },
-  {
-    "id": "9989a229e7e1",
-    "title": "中信证券：AI+能化可能是今年更合适的杠铃结构",
-    "url": "https://36kr.com/newsflashes/3813028969406216?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-17T08:45:26",
-    "summary": "36氪获悉，中信证券研报表示，AI+能化可能是今年更合适的杠铃结构。今年的AI+能化，或与2023-2024年的AI+红利、2025年的AI+资源类似，有望在全年维度上，成为主要的供需缺口和超额收益来源。配置上，底层逻辑依然是中国优势制造业定价权的重估，最具代表性的行业是新能源、化工、有色、电力设备；继续密切关注国产AI的进展，硬件侧“量”的逻辑爆发仍然是目前AI链条上预期差较大的方向，而国产模型的进步有望推动云服务量价齐升，看好国产算力、云平台。",
-    "collected_at": "2026-05-17T13:28:01.025965"
-  },
-  {
-    "id": "2f840af1c966",
-    "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
-    "url": "https://www.qbitai.com/2026/05/418822.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-17T04:48:24",
-    "summary": "“但复杂需求还得Claude”",
-    "collected_at": "2026-05-17T08:24:04.036699"
-  },
-  {
-    "id": "14e4f1b0e8d4",
-    "title": "杭州机器人展吸引全球客商“淘”宝，意向合作总金额突破213亿元",
-    "url": "https://36kr.com/newsflashes/3812949703073285?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-17T07:12:55",
-    "summary": "5月14日至16日‌，2026第二届杭州国际人形机器人与机器人技术展览会在杭州举行。本次展会聚焦具身智能人形机器人产业链，汇聚国内外473家行业领军企业、顶尖科研机构参展，是国内规模领先的人形机器人全产业链专业展，人形机器人、核心零部件、脑机接口等前沿科技成果集中亮相。 据统计，为期三天的展览累计入场专业观众突破10万人次，其中海外专业观众3178人。现场达成56项重大合作签约，累计达成合作意向237项，意向合作总金额突破213亿元。（中新网）",
-    "collected_at": "2026-05-17T08:26:38.327725"
-  },
-  {
-    "id": "21b72b4f7541",
-    "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
-    "url": "https://www.qbitai.com/2026/05/418814.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-17T03:42:11",
-    "summary": "先把SFT挖的坑填了！",
-    "collected_at": "2026-05-17T08:24:04.036739"
-  },
-  {
-    "id": "d30c96493d9c",
-    "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
-    "url": "https://36kr.com/p/3812925591887368?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-17T06:08:32",
-    "summary": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单——一个月130万美元！ 也就是将近900万人民币/每月。直接把网友们看傻了。 OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。 Peter Steinberger 但截图上的数字，属实不淡定： 30天花费：$1,305,088.81。吞掉6030亿个token。发起760万次请求。 你没看错，是130万美元。也不是哪家大厂的季度AI预算—",
-    "collected_at": "2026-05-17T08:26:38.326242"
-  },
-  {
-    "id": "d16c1a4759b1",
-    "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-    "url": "https://www.qbitai.com/2026/05/418737.html",
-    "source": "量子位",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 1,
-    "published": "2026-05-17T03:37:07",
-    "summary": "费用参考也很透明",
-    "collected_at": "2026-05-17T08:24:04.036773"
-  },
-  {
-    "id": "01cc2ecaa4e0",
-    "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
-    "url": "https://36kr.com/p/3812800346742274?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-17T04:59:08",
-    "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。 academic-research-skills 项目名叫academic-research-skills（以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的研究、写作、审稿、定稿。 只需两行命令安装，直接一条龙串起整套学术研究流水线。 academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢… 示意图 4个skill，跑通整套科研流程 AR",
-    "collected_at": "2026-05-17T08:26:38.326594"
-  },
-  {
-    "id": "602a222f0e67",
-    "title": "Self-Distillation Enables Continual Learning [pdf]",
-    "url": "https://arxiv.org/abs/2601.19897",
-    "source": "Hacker News AI",
-    "lang": "en",
-    "channel": "en",
-    "priority": 2,
-    "published": "2026-05-17T01:19:14",
-    "summary": "Article URL: https://arxiv.org/abs/2601.19897 Comments URL: https://news.ycombinator.com/item?id=48165265 Points: 101 # Comments: 24",
-    "collected_at": "2026-05-18T10:11:43.350055"
-  },
-  {
-    "id": "6fcfaaeddfa1",
-    "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-    "url": "https://36kr.com/newsflashes/3812703324249856?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-17T03:42:18",
-    "summary": "美国人工智能（AI）公司OpenAI周六表示，已与马耳他政府签署协议，所有居民在完成使用AI培训课程后，均可免费使用其ChatGPT Plus服务一年。该项目将于5月启动，随着更多马耳他居民完成这门免费课程，服务规模预计将逐步扩大。该计划也将向旅居海外的马耳他公民开放。（新浪财经）",
-    "collected_at": "2026-05-17T03:42:43.612122"
-  },
-  {
-    "id": "244fd9123555",
-    "title": "美光科技：深耕中国市场，期待进一步深化与本土客户及合作伙伴合作",
-    "url": "https://36kr.com/newsflashes/3812702147600131?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-17T02:54:05",
-    "summary": "36氪获悉，5月17日凌晨，美光科技通过其微信公众号发文表示，中国仍是全球最具活力的半导体市场之一。过去20余年来，美光深耕中国市场，与本土客户及合作伙伴携手，推动存储技术持续创新与发展。中国仍是美光全球业务的重要组成部分。美光期待进一步深化与本土客户及合作伙伴的合作，共同把握AI时代存储技术带来的新机遇。",
-    "collected_at": "2026-05-17T03:42:43.612255"
-  },
-  {
-    "id": "5edd3dc9e620",
-    "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
-    "url": "https://36kr.com/p/3812788568907520?f=rss",
-    "source": "36氪",
-    "lang": "zh",
-    "channel": "cn",
-    "priority": 4,
-    "published": "2026-05-17T02:50:05",
-    "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。 绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。 绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技术合伙人刘煜东为宾夕法尼亚大学博士，长期从事AI医疗方向研究；另一位技术合伙人邓子豪毕业于宾夕法尼亚大学，专注于新一代",
-    "collected_at": "2026-05-17T03:42:43.610782"
   }
 ]
