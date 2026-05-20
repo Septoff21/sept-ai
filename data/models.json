@@ -6167,6 +6167,31 @@
     "collected_at": "2026-05-19T03:50:38.600714"
   },
   {
+    "id": "hf-Efficient-Large-Model--SANA-WM_bidirectional",
+    "name": "Efficient-Large-Model/SANA-WM_bidirectional",
+    "display_name": "SANA-WM_bidirectional",
+    "url": "https://huggingface.co/Efficient-Large-Model/SANA-WM_bidirectional",
+    "author": "Efficient-Large-Model",
+    "pipeline_tag": "image-to-video",
+    "likes": 41,
+    "downloads": 0,
+    "tags": [
+      "diffusers",
+      "safetensors",
+      "text-to-video",
+      "image-to-video",
+      "camera-control",
+      "world-model",
+      "diffusion",
+      "arxiv:2605.15178",
+      "license:apache-2.0",
+      "region:us"
+    ],
+    "created_at": "2026-05-18T11:14:09.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-20T09:42:01.575127"
+  },
+  {
     "id": "hf-sensenova--SenseNova-U1-8B-MoT-SFT",
     "name": "sensenova/SenseNova-U1-8B-MoT-SFT",
     "display_name": "SenseNova-U1-8B-MoT-SFT",
@@ -8374,6 +8399,33 @@
     "created_at": "2026-05-18T05:48:32.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-19T03:50:38.733161"
+  },
+  {
+    "id": "hf-HuggingFaceBio--Carbon-3B",
+    "name": "HuggingFaceBio/Carbon-3B",
+    "display_name": "Carbon-3B",
+    "url": "https://huggingface.co/HuggingFaceBio/Carbon-3B",
+    "author": "HuggingFaceBio",
+    "pipeline_tag": "text-generation",
+    "likes": 16,
+    "downloads": 2184,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "llama",
+      "text-generation",
+      "dna",
+      "genomic",
+      "conversational",
+      "dataset:HuggingFaceBio/carbon-pretraining-corpus",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "created_at": "2026-05-12T11:05:49.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-20T09:42:01.778827"
   },
   {
     "id": "hf-Qwen--WebWorld-32B",
@@ -23670,37 +23722,5 @@
     "created_at": "2026-04-26T19:03:11.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638145"
-  },
-  {
-    "id": "hf-ryaluous--ZXTOPOWER",
-    "name": "ryaluous/ZXTOPOWER",
-    "display_name": "ZXTOPOWER",
-    "url": "https://huggingface.co/ryaluous/ZXTOPOWER",
-    "author": "ryaluous",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T19:02:43.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638148"
-  },
-  {
-    "id": "hf-ryaluous--Kokoboy",
-    "name": "ryaluous/Kokoboy",
-    "display_name": "Kokoboy",
-    "url": "https://huggingface.co/ryaluous/Kokoboy",
-    "author": "ryaluous",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T19:02:37.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638151"
   }
 ]
