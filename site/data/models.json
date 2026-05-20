@@ -6246,6 +6246,41 @@
     "collected_at": "2026-05-04T14:09:52.288566"
   },
   {
+    "id": "hf-NemoStation--Marlin-2B",
+    "name": "NemoStation/Marlin-2B",
+    "display_name": "Marlin-2B",
+    "url": "https://huggingface.co/NemoStation/Marlin-2B",
+    "author": "NemoStation",
+    "pipeline_tag": "video-text-to-text",
+    "likes": 40,
+    "downloads": 46,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3_5",
+      "text-generation",
+      "video",
+      "multimodal",
+      "video-captioning",
+      "temporal-grounding",
+      "qwen",
+      "VLM",
+      "video-text-to-text",
+      "custom_code",
+      "en",
+      "arxiv:2501.00513",
+      "arxiv:2407.00634",
+      "arxiv:2512.14698",
+      "base_model:Qwen/Qwen3.5-2B",
+      "base_model:finetune:Qwen/Qwen3.5-2B",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-05-13T16:23:12.000Z",
+    "source": "hf-trending",
+    "collected_at": "2026-05-20T03:50:30.647039"
+  },
+  {
     "id": "hf-nvidia--Nemotron-3-Nano-Omni-30B-A3B-Reasoning-FP8",
     "name": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-FP8",
     "display_name": "Nemotron-3-Nano-Omni-30B-A3B-Reasoning-FP8",
@@ -8080,6 +8115,32 @@
     "created_at": "2026-05-17T08:52:00.000Z",
     "source": "hf-text-gen",
     "collected_at": "2026-05-17T13:28:10.913989"
+  },
+  {
+    "id": "hf-nvidia--Nemotron-Labs-Diffusion-14B",
+    "name": "nvidia/Nemotron-Labs-Diffusion-14B",
+    "display_name": "Nemotron-Labs-Diffusion-14B",
+    "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-14B",
+    "author": "nvidia",
+    "pipeline_tag": "text-generation",
+    "likes": 18,
+    "downloads": 11,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "nemotron_labs_diffusion",
+      "feature-extraction",
+      "nvidia",
+      "pytorch",
+      "text-generation",
+      "conversational",
+      "custom_code",
+      "license:other",
+      "region:us"
+    ],
+    "created_at": "2026-04-22T23:06:08.000Z",
+    "source": "hf-text-gen",
+    "collected_at": "2026-05-20T03:50:30.785087"
   },
   {
     "id": "hf-ibm-granite--granite-4.1-3b-base",
@@ -23641,42 +23702,5 @@
     "created_at": "2026-04-26T19:02:37.000Z",
     "source": "hf-newest",
     "collected_at": "2026-04-26T19:04:05.638151"
-  },
-  {
-    "id": "hf-faranbutt789--guardpeft-qwen3-r32",
-    "name": "faranbutt789/guardpeft-qwen3-r32",
-    "display_name": "guardpeft-qwen3-r32",
-    "url": "https://huggingface.co/faranbutt789/guardpeft-qwen3-r32",
-    "author": "faranbutt789",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "transformers",
-      "safetensors",
-      "unsloth",
-      "arxiv:1910.09700",
-      "endpoints_compatible",
-      "region:us"
-    ],
-    "created_at": "2026-04-26T19:02:28.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638154"
-  },
-  {
-    "id": "hf-geocketa--kh2oh",
-    "name": "geocketa/kh2oh",
-    "display_name": "kh2oh",
-    "url": "https://huggingface.co/geocketa/kh2oh",
-    "author": "geocketa",
-    "pipeline_tag": "",
-    "likes": 0,
-    "downloads": 0,
-    "tags": [
-      "region:us"
-    ],
-    "created_at": "2026-04-26T19:02:13.000Z",
-    "source": "hf-newest",
-    "collected_at": "2026-04-26T19:04:05.638156"
   }
 ]
