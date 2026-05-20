@@ -4979,6 +4979,28 @@
     "collected_at": "2026-04-20T18:54:53.609663"
   },
   {
+    "id": "github-1244051960",
+    "name": "lucidrains/worldparticle",
+    "display_name": "worldparticle",
+    "url": "https://github.com/lucidrains/worldparticle",
+    "description": "Implementation of WorldParticle, Unified World Simulation of Lagrangian Particle Dynamics via Transformer",
+    "stars": 11,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "artificial-intelligence",
+      "attention-mechanisms",
+      "deep-learning",
+      "particles",
+      "transformers"
+    ],
+    "created_at": "2026-05-19T23:25:38Z",
+    "updated_at": "2026-05-20T18:36:49Z",
+    "license": "MIT",
+    "source": "github-search",
+    "collected_at": "2026-05-20T20:23:40.180195"
+  },
+  {
     "id": "github-1201371509",
     "name": "Zeyad-Azima/AgentsBear",
     "display_name": "AgentsBear",
@@ -5840,6 +5862,30 @@
     "license": "MIT",
     "source": "github-search",
     "collected_at": "2026-05-17T03:42:50.554306"
+  },
+  {
+    "id": "github-1243406677",
+    "name": "2aronS/agi-socialbot",
+    "display_name": "agi-socialbot",
+    "url": "https://github.com/2aronS/agi-socialbot",
+    "description": "AGI-powered social network bot for automated interactions",
+    "stars": 8,
+    "forks": 0,
+    "language": "Python",
+    "topics": [
+      "agi",
+      "artificial-intelligence",
+      "automation",
+      "chatbot",
+      "python",
+      "social-bot",
+      "social-media"
+    ],
+    "created_at": "2026-05-19T10:06:22Z",
+    "updated_at": "2026-05-20T20:11:55Z",
+    "license": "NOASSERTION",
+    "source": "github-search",
+    "collected_at": "2026-05-20T20:23:40.180219"
   },
   {
     "id": "github-1201368235",

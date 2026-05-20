@@ -357,16 +357,16 @@
     "api": true,
     "source": "openrouter",
     "latest_models": [
+      "Grok Build 0.1",
       "Grok 4.3",
-      "Grok 4.20 Multi-Agent",
-      "Grok 4.20"
+      "Grok 4.20 Multi-Agent"
     ],
-    "model_count": 3,
-    "last_updated": "2026-04-30",
+    "model_count": 4,
+    "last_updated": "2026-05-20",
     "modalities": [
       "多模态"
     ],
-    "live_summary": "OpenRouter 已收录 3 个该作者/厂商相关模型，最近更新为 Grok 4.3",
+    "live_summary": "OpenRouter 已收录 4 个该作者/厂商相关模型，最近更新为 Grok Build 0.1",
     "provider_kind": "model_author"
   },
   {
