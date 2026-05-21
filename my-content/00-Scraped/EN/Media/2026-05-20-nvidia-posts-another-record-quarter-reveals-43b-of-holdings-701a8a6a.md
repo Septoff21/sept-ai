@@ -1,0 +1,17 @@
+---
+title: "Nvidia posts another record quarter, reveals $43B of holdings in startups"
+date: "2026-05-20T22:03:51"
+source: "TechCrunch AI"
+source_url: "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/"
+channel: "en"
+lang: "en"
+summary: "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter."
+tags: ["news", "en"]
+priority: 1
+---
+
+> Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.
+
+**Read more →** <https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/>
+
+*Collected by Sept-AI on 2026-05-21T04:00:03.213850*

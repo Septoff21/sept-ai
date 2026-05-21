@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-05-20T20:24:29.899384",
-  "date": "2026-05-20",
+  "updated_at": "2026-05-21T04:01:23.173063",
+  "date": "2026-05-21",
   "spotlight": {
-    "name": "STORM",
-    "url": "https://github.com/stanford-oval/storm",
+    "name": "SmolAgents",
+    "url": "https://github.com/huggingface/smolagents",
     "type": "agent",
-    "description": "斯坦福出品的AI知识文章生成器",
+    "description": "HuggingFace轻量级AI Agent框架，代码优先",
     "pricing": "开源免费",
     "category": "研究 Agent"
   },
   "alternates": [
     {
-      "name": "Autoresearch",
-      "url": "https://github.com/karpathy/autoresearch",
+      "name": "Crucix",
+      "url": "https://github.com/calesthio/Crucix",
       "type": "agent",
-      "description": "Karpathy 出品的自动研究 Agent，在单 GPU 上自动进行 nanochat 训练研究，自动化 AI 实验流程",
+      "description": "个人情报 Agent，持续监控多数据源并在发生变化时主动通知你，自动化信息追踪",
       "pricing": "免费开源",
-      "category": "研究 Agent"
+      "category": "自动化 Agent"
     },
     {
-      "id": "langchain",
-      "name": "LangChain",
-      "url": "https://langchain.com",
+      "id": "autogen",
+      "name": "AutoGen",
+      "url": "https://github.com/microsoft/autogen",
       "type": "tool",
-      "description": "最流行的 LLM 应用开发框架",
+      "description": "微软出品的多 Agent 协作框架",
       "pricing": "开源免费",
       "category": "Agent"
     },
     {
-      "name": "Manus",
-      "url": "https://manus.im",
+      "name": "Genspark",
+      "url": "https://www.genspark.ai",
       "type": "agent",
-      "description": "通用AI Agent，能自主完成复杂任务链",
-      "pricing": "免费试用",
-      "category": "通用 Agent"
+      "description": "AI搜索引擎+Agent，自动搜索分析执行任务",
+      "pricing": "免费",
+      "category": "研究 Agent"
     }
   ]
 }
